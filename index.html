@@ -2,136 +2,85 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>今日新闻摘要 - 陈浩南</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>今日新闻 - 陈浩南</title>
 <style>
+:root{--bg:#f0f4f8;--card:#fff;--text:#1a1a2e;--sub:#8e8e93;--border:#e8ecf1;--green:#34c759;--shadow:0 2px 8px rgba(0,0,0,0.04)}
+body.dark{--bg:#0f1117;--card:#161a24;--text:#e0e0e0;--sub:#888;--border:#1e2230;--shadow:0 2px 8px rgba(0,0,0,0.3)}
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;background:#f0f4f8;color:#1a1a2e;max-width:600px;margin:0 auto;min-height:100vh}
-.header{background:#fff;padding:24px 20px 16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.06);position:sticky;top:0;z-index:10}
-.header h1{font-size:22px;font-weight:800;margin-bottom:4px}
-.header .sub{font-size:12px;color:#8e8e93;margin-top:4px}
-.tabs{display:flex;gap:8px;padding:12px 16px;background:#fff;border-top:1px solid #f0f0f0;overflow-x:auto;position:sticky;top:74px;z-index:9}
-.tab{flex-shrink:0;padding:8px 18px;border-radius:20px;font-size:14px;cursor:pointer;color:#555;background:#f5f7fa;transition:all 0.2s;font-weight:500;border:none;font-family:inherit}
-.tab.active{background:#1a1a2e;color:#fff}
-.tab:hover:not(.active){background:#e8ecf1}
-.news-list{padding:12px 16px 40px}
-.news-card{display:flex;gap:12px;background:#fff;border-radius:14px;padding:16px;margin-bottom:10px;text-decoration:none;color:inherit;box-shadow:0 2px 8px rgba(0,0,0,0.04);transition:all 0.2s;align-items:flex-start}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--text);max-width:600px;margin:0 auto;min-height:100vh;transition:background 0.3s,color 0.3s}
+.header{background:var(--card);padding:20px 16px 14px;box-shadow:var(--shadow);position:sticky;top:0;z-index:10}
+.header-row{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.header h1{font-size:20px;font-weight:800}
+.header-actions{display:flex;gap:6px}
+.icon-btn{width:34px;height:34px;border-radius:50%;border:none;background:var(--bg);font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--text)}
+.icon-btn:hover{background:var(--border)}
+.header .info{font-size:11px;color:var(--sub)}
+.search-box{width:100%;padding:10px 14px;border:2px solid var(--border);border-radius:20px;font-size:13px;outline:none;background:var(--bg);color:var(--text);margin-top:8px;display:none;font-family:inherit}
+.search-box.show{display:block}
+.search-box:focus{border-color:var(--green)}
+.tabs{display:flex;gap:6px;padding:10px 16px;background:var(--card);border-top:1px solid var(--border);overflow-x:auto;position:sticky;top:100px;z-index:9}
+.tab{flex-shrink:0;padding:7px 16px;border-radius:18px;font-size:13px;cursor:pointer;color:var(--sub);background:var(--bg);transition:all 0.2s;font-weight:500;border:none;font-family:inherit}
+.tab.active{background:var(--text);color:var(--card)}
+.news-list{padding:10px 14px 40px}
+.news-card{display:flex;gap:12px;background:var(--card);border-radius:14px;padding:15px;margin-bottom:8px;text-decoration:none;color:inherit;box-shadow:var(--shadow);transition:all 0.2s;align-items:flex-start}
 .news-card:hover{box-shadow:0 4px 16px rgba(0,0,0,0.1);transform:translateY(-1px)}
-.news-num{min-width:28px;height:28px;border-radius:8px;background:#f0f4f8;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;color:#8e8e93;flex-shrink:0;margin-top:2px}
-.news-card:nth-child(1) .news-num{background:#ff2d55;color:#fff}
-.news-card:nth-child(2) .news-num{background:#ff9500;color:#fff}
-.news-card:nth-child(3) .news-num{background:#ffcc00;color:#fff}
+.news-card:active{transform:scale(0.98)}
+.news-img{width:80px;height:60px;border-radius:10px;object-fit:cover;flex-shrink:0;background:var(--border)}
 .news-body{flex:1;min-width:0}
-.news-title{font-size:15px;font-weight:600;line-height:1.5;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.news-intro{font-size:13px;color:#8e8e93;line-height:1.5;margin-bottom:8px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.news-meta{font-size:11px;color:#b0b0b0;display:flex;align-items:center;gap:4px}
-.footer{text-align:center;padding:20px;color:#b0b0b0;font-size:11px;line-height:1.8}
-.loading{text-align:center;padding:60px 20px;color:#8e8e93;font-size:15px}
-.loading .spinner{display:inline-block;width:32px;height:32px;border:3px solid #e0e0e0;border-top-color:#1a1a2e;border-radius:50%;animation:spin 0.8s linear infinite;margin-bottom:12px}
+.news-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.news-intro{font-size:12px;color:var(--sub);line-height:1.5;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.news-meta{font-size:10px;color:var(--sub);display:flex;align-items:center;gap:6px}
+.news-meta .dot{width:4px;height:4px;border-radius:50%;background:var(--green)}
+.footer{text-align:center;padding:20px;color:var(--sub);font-size:10px;line-height:1.8}
+.loading{text-align:center;padding:60px 20px;color:var(--sub)}
+.spinner{display:inline-block;width:26px;height:26px;border:3px solid var(--border);border-top-color:var(--text);border-radius:50%;animation:spin 0.8s linear infinite;margin-bottom:10px}
 @keyframes spin{to{transform:rotate(360deg)}}
-.error{text-align:center;padding:40px 20px;color:#ff3b30;font-size:14px}
-.error button{margin-top:12px;padding:10px 24px;border-radius:20px;background:#1a1a2e;color:#fff;border:none;font-size:14px;cursor:pointer;font-family:inherit}
-@media(max-width:400px){.header h1{font-size:18px}.news-title{font-size:14px}.tabs{top:68px}}
+.no-result{text-align:center;padding:40px 20px;color:var(--sub);font-size:14px}
+@media(max-width:400px){.header h1{font-size:17px}.news-title{font-size:13px}}
 </style>
 </head>
 <body>
 <div class="header">
-  <h1>📰 今日新闻摘要</h1>
-  <div class="sub" id="header-info">加载中...</div>
+  <div class="header-row">
+    <h1>📰 今日新闻</h1>
+    <div class="header-actions">
+      <button class="icon-btn" id="search-toggle" onclick="toggleSearch()" title="搜索">🔍</button>
+      <button class="icon-btn" id="theme-btn" onclick="toggleTheme()" title="暗色模式">🌙</button>
+    </div>
+  </div>
+  <div class="info" id="header-info">加载中...</div>
+  <input class="search-box" id="search-box" type="text" placeholder="搜索新闻标题..." oninput="doSearch()">
 </div>
-<div class="tabs" id="tabs">
-  <button class="tab active" data-cat="hot">🔥 热点</button>
-  <button class="tab" data-cat="china">🇨🇳 国内</button>
-  <button class="tab" data-cat="finance">💰 财经</button>
-</div>
-<div class="news-list" id="news-list">
-  <div class="loading"><div class="spinner"></div><br>正在加载新闻...</div>
-</div>
-<div class="footer">
-  数据来源：新浪新闻 & 36氪 | 每小时自动更新<br>
-  陈浩南 © 2026
-</div>
+<div class="tabs" id="tabs"><button class="tab active" data-cat="hot">🔥 热点</button><button class="tab" data-cat="china">🇨🇳 国内</button><button class="tab" data-cat="finance">💰 财经</button></div>
+<div class="news-list" id="news-list"><div class="loading"><div class="spinner"></div><br>正在加载新闻...</div></div>
+<div class="footer">数据来源：新浪新闻 & 36氪 | 每小时自动更新<br>陈浩南 © 2026</div>
 
 <script>
-var newsData = {};
-var currentCat = 'hot';
+var newsData={},currentCat='hot',searchTerm='';
+function toggleTheme(){var b=document.body,t=document.getElementById('theme-btn');if(b.classList.contains('dark')){b.classList.remove('dark');t.textContent='🌙';localStorage.setItem('news-theme','light')}else{b.classList.add('dark');t.textContent='☀️';localStorage.setItem('news-theme','dark')}}
+function toggleSearch(){var s=document.getElementById('search-box');s.classList.toggle('show');if(s.classList.contains('show')){s.focus()}else{s.value='';searchTerm='';renderNews(currentCat)}}
+function doSearch(){searchTerm=document.getElementById('search-box').value.trim().toLowerCase();renderNews(currentCat)}
 
-// 加载新闻数据
-async function loadNews() {
-  var list = document.getElementById('news-list');
-  try {
-    var resp = await fetch('news.json');
-    if (!resp.ok) throw new Error('加载失败');
-    var data = await resp.json();
-    newsData = data.news || {};
-    // 更新头部
-    var d = new Date(data.updated);
-    document.getElementById('header-info').textContent =
-      d.getFullYear() + '年' + (d.getMonth()+1) + '月' + d.getDate() + '日 ' +
-      '星期' + ['日','一','二','三','四','五','六'][d.getDay()] +
-      ' · 陈浩南制作 · 每小时更新';
-    renderNews(currentCat);
-  } catch(e) {
-    list.innerHTML = '<div class="error">⚠️ 新闻加载失败<br><button onclick="loadNews()">点击重试</button></div>';
-  }
+async function loadNews(){
+  try{var r=await fetch('news.json');if(!r.ok)throw new Error();var d=await r.json();newsData=d.news||{};var dt=new Date(d.updated);document.getElementById('header-info').textContent=dt.getFullYear()+'年'+(dt.getMonth()+1)+'月'+dt.getDate()+'日 星期'+['日','一','二','三','四','五','六'][dt.getDay()]+' · 陈浩南制作';renderNews(currentCat)}catch(e){document.getElementById('news-list').innerHTML='<div class="loading">⚠️ 加载失败<br><button onclick="loadNews()" style="margin-top:8px;padding:8px 16px;border-radius:14px;border:none;background:var(--text);color:var(--card);cursor:pointer;font-size:12px">重试</button></div>'}
 }
 
-// 渲染新闻列表
-function renderNews(cat) {
-  currentCat = cat;
-  var list = document.getElementById('news-list');
-  var news = newsData[cat] || [];
-
-  // 更新标签高亮
-  document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('active')});
-  var activeTab = document.querySelector('[data-cat="'+cat+'"]');
-  if(activeTab) activeTab.classList.add('active');
-
-  if(news.length === 0) {
-    list.innerHTML = '<div class="loading">暂无新闻，稍后刷新试试</div>';
-    return;
-  }
-
-  var html = '';
-  news.forEach(function(item, i){
-    html += '<a class="news-card" href="'+escHtml(item.url)+'" target="_blank">';
-    html += '<span class="news-num">'+(i+1)+'</span>';
-    html += '<div class="news-body">';
-    html += '<div class="news-title">'+escHtml(item.title)+'</div>';
-    if(item.intro) html += '<div class="news-intro">'+escHtml(item.intro)+'</div>';
-    html += '<div class="news-meta">';
-    html += '<span>'+escHtml(item.source)+'</span>';
-    if(item.time) html += '<span>· '+formatTime(item.time)+'</span>';
-    html += '</div></div></a>';
-  });
-  list.innerHTML = html;
+function renderNews(cat){
+  currentCat=cat;document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('active')});var at=document.querySelector('[data-cat="'+cat+'"]');if(at)at.classList.add('active');
+  var list=document.getElementById('news-list'),news=(newsData[cat]||[]).slice();
+  if(searchTerm)news=news.filter(function(n){return n.title.toLowerCase().indexOf(searchTerm)!==-1||(n.intro||'').toLowerCase().indexOf(searchTerm)!==-1});
+  if(news.length===0){list.innerHTML='<div class="no-result">'+(searchTerm?'没找到相关新闻':'暂无新闻')+'</div>';return}
+  var h='';news.forEach(function(n,i){h+='<a class="news-card" href="'+esc(n.url)+'" target="_blank"><div class="news-body"><div class="news-title">'+esc(n.title)+'</div>'+(n.intro?'<div class="news-intro">'+esc(n.intro)+'</div>':'')+'<div class="news-meta"><span>'+esc(n.source)+'</span><span class="dot"></span><span>'+fmtTime(n.time)+'</span></div></div></a>'});list.innerHTML=h
 }
 
-// 时间格式化
-function formatTime(ts){
-  if(!ts) return '';
-  try{
-    var d = /^\d+$/.test(String(ts)) ? new Date(parseInt(ts)*1000) : new Date(ts);
-    if(isNaN(d.getTime())) return '';
-    var now = new Date();
-    var diff = Math.floor((now-d)/60000);
-    if(diff<60) return diff<=0?'刚刚':diff+'分钟前';
-    var hr = Math.floor(diff/60);
-    if(hr<24) return hr+'小时前';
-    return (d.getMonth()+1)+'/'+d.getDate();
-  }catch(e){return '';}
-}
+function fmtTime(ts){if(!ts)return'';try{var d=/^\d+$/.test(String(ts))?new Date(parseInt(ts)*1000):new Date(ts);if(isNaN(d.getTime()))return'';var n=new Date(),diff=Math.floor((n-d)/60000);if(diff<60)return diff<=0?'刚刚':diff+'分钟前';var hr=Math.floor(diff/60);if(hr<24)return hr+'小时前';return(d.getMonth()+1)+'/'+d.getDate()}catch(e){return''}}
+function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
 
-function escHtml(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
+document.getElementById('tabs').addEventListener('click',function(e){if(e.target.classList.contains('tab'))renderNews(e.target.getAttribute('data-cat'))});
 
-// 标签点击切换
-document.getElementById('tabs').addEventListener('click', function(e){
-  if(e.target.classList.contains('tab')){
-    renderNews(e.target.getAttribute('data-cat'));
-  }
-});
-
-// 开始加载
+// 主题
+(function(){if(localStorage.getItem('news-theme')==='dark'){document.body.classList.add('dark');document.getElementById('theme-btn').textContent='☀️'}})();
 loadNews();
 </script>
 </body>
