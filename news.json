@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T09:33:01.695Z",
+  "updated": "2026-05-13T17:37:48.114Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -20,6 +20,20 @@
   "news": {
     "hot": [
       {
+        "title": "2026 AI最佳场景渗透案例重磅揭晓",
+        "intro": "&nbsp;\n  &nbsp;\n  如果用一个词来描述当下的AI产业，“落地”已有些过时，“渗透”则更为准确。\n  “渗透”意味着AI不再是发布会上的炫技Demo，也不再是PPT里的概念模型，而",
+        "url": "<![CDATA[https://36kr.com/p/3807623172235011?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
+      {
+        "title": "氪星晚报｜腾讯刘炽平：腾讯没有大裁员计划；中美在韩国举行经贸磋商；马斯克称星舰第12次试飞将于下周进行",
+        "intro": "大公司：\n  腾讯：Hy3 preview调用量持续居OpenRouter榜首，Agent密集发布\n  36氪获悉，腾讯发布2026年第一季度财报，AI全线提速。其中，混元不到三个月完成重建，Hy3",
+        "url": "<![CDATA[https://36kr.com/p/3807540422942214?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
+      {
         "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
         "intro": "文｜周鑫雨 邓咏仪\n  编辑｜杨轩\n  林俊旸以创业者的身份，重新加入AI模型的战场。\n  《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。",
         "url": "<![CDATA[https://36kr.com/p/3807382930251523?f=rss]]>",
@@ -37,20 +51,6 @@
         "title": "36氪专访 | 安克创新eufyMake负责人：众筹超4000万美金后，还在红海寻找缝隙",
         "intro": "作者&nbsp;|&nbsp;张子怡\n  编辑&nbsp;|&nbsp;袁斯来\n  那是一个价值5000万美元成功故事诞生的夜晚。\n  eufyMake的产研负责人Cheney Xie仍然记得狂喜带来",
         "url": "<![CDATA[https://36kr.com/p/3806507139390984?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构",
-        "intro": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，近日，光子芯力（北京）科技有限公司（以下简称“光子芯力”）宣布完成数千万元天使轮融资，由苏州芯阳基金、驰星",
-        "url": "<![CDATA[https://36kr.com/p/3807043342475009?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
-        "intro": "36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人」）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化",
-        "url": "<![CDATA[https://36kr.com/p/3807039782116865?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "中天策略:5月13日市场分析",
-        "intro": "",
-        "url": "https://finance.sina.cn/futuremarket/qsyw/2026-05-13/detail-inhxtzpe0683865.d.html",
-        "time": "1778664755",
+        "title": "Arm、软银据悉在AI算力公司Cerebras上市前最后关头曾试图收购该公司",
+        "intro": " 据知情人士透露，在人工智能算力公司Cerebras Systems Inc．预计的首次公开募股前数周，Arm Holdings Plc及其控股股东软银集团曾与其接洽，试图收购这家公司。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxuskw0476816.d.html",
+        "time": "1778692323",
         "source": "新浪新闻"
       },
       {
-        "title": "春光科技业绩变脸又迟发预告 官方解释与财报数据“打架” 股价逆势上涨呈现“妖股”特征",
-        "intro": "出品：新浪财经上市公司研究院 作者：光心 首次年度亏损却延迟预告，A股清洁电器第一股春光科技遭上交所通报批评。 根据监管要求，沪主板上市公司在净利润为负值时...",
-        "url": "https://finance.sina.cn/2026-05-13/detail-inhxtzph9262434.d.html",
-        "time": "1778664752",
+        "title": "美联储调查显示高物价困扰多数美国人 就业焦虑上升",
+        "intro": "美联储的一项年度调查显示，绝大多数美国人在2025年对高物价感到担忧，并且越来越多人也开始对就业市场感到焦虑。 在去年就业增长接近停滞的背景下...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusky9097019.d.html",
+        "time": "1778692210",
         "source": "新浪新闻"
       },
       {
-        "title": "邦达亚洲:美联储加息预期重燃 黄金承压收跌",
-        "intro": "5月13日，日本央行4月会议纪要显示，多位政策委员在会议上主张尽早加息，其中一名委员直言6月存在加息可能。这凸显出，随着伊朗战事引发的原油冲击加大近期紧缩压力...",
-        "url": "https://finance.sina.cn/forex/hsxw/2026-05-13/detail-inhxtzpf7459459.d.html",
-        "time": "1778664542",
+        "title": "欧洲债市：英国国债反弹 政治危机发酵",
+        "intro": "随着市场猜测卫生大臣韦斯·斯特里廷正准备挑战首相基尔·斯塔默的工党领导人地位，英国国债上涨。市场认为，斯特里廷将延续现任政府制定的财政纪律规则...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxuskw0474607.d.html",
+        "time": "1778691896",
         "source": "新浪新闻"
       },
       {
-        "title": "港股异动|迅策（03317.HK）盘中涨超26%，Token 付费模式跑出增长新曲线",
-        "intro": "5月13日下午，“Token 第一股”迅策 （03317.HK）盘中股价涨超26%，最高至289港元。 消息面上，摩根士丹利报告明确，中国 AI 发展重心已从技术训练转向场景推理...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-05-13/detail-inhxtzpf7458343.d.html",
-        "time": "1778664390",
+        "title": "贝莱德称波动市况下票息收入优于追逐利差 2至5年期最具吸引力",
+        "intro": "贝莱德认为，继续投资于信用市场以获取票息收入，是应对当前市场波动的最佳方式。 贝莱德分析师在周三发布的季度固定收益展望报告中称...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusmc4339162.d.html",
+        "time": "1778691843",
         "source": "新浪新闻"
       },
       {
-        "title": "欧洲央行敦促欧元区银行业加强防范人工智能网络攻击",
-        "intro": "5月13日，欧洲中央银行执行委员会委员、银行监管委员会副主席弗兰克·埃尔德森（Frank Elderson）发出警告，敦促欧元区银行业迅速采取准备措施...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxtzpe0680627.d.html",
-        "time": "1778664332",
+        "title": "欧洲股市反弹 默克和阿斯麦股价上涨带动",
+        "intro": "欧洲股市反弹，投资者研读企业财报并关注科技股的整体上涨行情。 斯托克欧洲600指数收盘上涨0.8%。默克股价大涨6.8%，因其财报显示生命科学业务势头强劲。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusmc4338311.d.html",
+        "time": "1778691713",
         "source": "新浪新闻"
       },
       {
-        "title": "长城智悦均衡：锚定成长中坚，从容应对市场轮动",
-        "intro": "随着A股上市公司一季报披露收官，市场投资逻辑迎来重要切换，前期依靠估值扩张驱动的行情逐步落幕，盈利兑现能力成为资产定价的核心锚点...",
-        "url": "https://finance.sina.cn/fund/etf/2026-05-13/detail-inhxtzpf7457841.d.html",
-        "time": "1778664331",
+        "title": "瞄准未获Mythos使用权限的银行 法国AI公司Mistral研发对标产品",
+        "intro": "法国AI初创公司Mistral AI正与欧洲多家银行洽谈，计划部署其对标Anthropic PBC旗下Mythos的产品。Mythos这款访问受限的AI模型能够以前所未有的速度和规模发现网络安全漏洞.",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusmc4337161.d.html",
+        "time": "1778691499",
         "source": "新浪新闻"
       },
       {
-        "title": "报告：特朗普的“金色穹顶”防御系统将耗费1.2万亿美元",
-        "intro": " 美国政府周二发布一份报告显示，美国总统特朗普提议打造的“金色穹顶”国家导弹防御系统，未来20年或将耗费纳税人1.2万亿美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxtzph9257624.d.html",
-        "time": "1778664297",
+        "title": "黄金走势图蓄势反弹 低成本布局策略解析",
+        "intro": "如果你一直在关注SPDR 黄金份额 ETF（GLD），会发现金价近期处于盘整震荡走势，且正从150 日均线支撑位企稳反弹。若参考 200 日均线，关键支撑位略低于 400 美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxuskx7249305.d.html",
+        "time": "1778691333",
         "source": "新浪新闻"
       },
       {
-        "title": "光大期货0513热点追踪：橡胶开割季价格不跌反涨，还能看高一线吗？",
-        "intro": "0513热点追踪：橡胶开割季价格不跌反涨，还能看高一线吗？",
-        "url": "https://finance.sina.cn/futuremarket/qsyw/2026-05-13/detail-inhxtzpf7456991.d.html",
-        "time": "1778664235",
+        "title": "美国原油库存连续第三周环比下降",
+        "intro": "截至 5 月 8 日当周，美国原油库存减少 430 万桶；分析师此前预期降幅为 230 万桶。美国能源信息署估算，美国原油日产量达 1370 万桶，较前一周日均增加 13.7 万桶。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusmc4335362.d.html",
+        "time": "1778691091",
         "source": "新浪新闻"
       },
       {
-        "title": "斯特兰蒂斯与零跑汽车合作，预示汽车行业一场范围更广、风险更高的博弈",
-        "intro": "核心要点斯特兰蒂斯与零跑汽车近期达成合作，被视为欧洲汽车工业未来发展的分水岭时刻。斯特兰蒂斯宣布将深化与零跑汽车的战略合作...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxtzpf7456840.d.html",
-        "time": "1778664213",
+        "title": "美国如何成为全球头号能源出口国",
+        "intro": "页岩油气开采热潮，叠加乌克兰、伊朗局势动荡，让美国一跃成为全球能源超级大国美国月度出口额单位：十亿美元 作者：瑞安・德森布尔、马克斯・拉斯特...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxuskw0470230.d.html",
+        "time": "1778690923",
         "source": "新浪新闻"
       },
       {
-        "title": "阿联酋银行联合会主席：国家金融体系稳健，资本外流风险可控",
-        "intro": "5月13日，阿联酋银行联合会主席阿卜杜勒·阿齐兹·阿尔古赖尔（Abdul Aziz Al-Ghurair）在新闻发布会上表示，阿联酋目前并无资本外流增加或美元短缺的风险...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxtzpe0677493.d.html",
-        "time": "1778663947",
+        "title": "美联储报告：美国黑人群体与年轻人财务健康状况明显下滑",
+        "intro": " 美联储周三发布最新报告显示，尽管大多数美国人表示去年财务状况尚可、生活无忧，但美国黑人成年人、年轻人以及低收入群体的经济福祉出现明显恶化。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusky9087763.d.html",
+        "time": "1778690457",
         "source": "新浪新闻"
       },
       {
-        "title": "图讯丨中美在韩国举行经贸磋商",
-        "intro": " 当地时间5月13日，中美两国经贸团队在韩国举行中美经贸磋商。这是5月13日磋商前，中共中央政治局委员、国务院副总理何立峰与美国财政部长贝森特握手。",
-        "url": "https://finance.sina.cn/2026-05-13/detail-inhxtzpm4499665.d.html",
-        "time": "1778663820",
+        "title": "数据中心需求火爆，Nebius营收暴增684%，股价大涨18.14%",
+        "intro": "上涨动因：这家人工智能云计算公司公布一季度营收达3.99 亿美元，同比暴涨 684%，环比增幅也达到 75%。 Nebius 首席执行官阿尔卡季・沃洛日在财报电话会议上表示：...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusky9086632.d.html",
+        "time": "1778690289",
         "source": "新浪新闻"
       },
       {
-        "title": "Anthropic警示：多家平台无权交易其股票",
-        "intro": " 眼下各类投资者都争相抢购各行各业人工智能企业的股份，Anthropic本周在官网发布警示：一大批私募及二级市场投资平台号称可交易该公司股份，但实际上均未获得官方授权。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxtzpm4496559.d.html",
-        "time": "1778663769",
+        "title": "美光给芯片多头上演了一场千亿美元级压力测试",
+        "intro": "美光股价在周二低点时，市值一度蒸发约 1000 亿美元，但芯片多头依然选择逢低买入。 该股一度创下一年多来最差单日表现，随后抄底资金入场，把近乎崩盘的走势...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusky9085359.d.html",
+        "time": "1778690112",
         "source": "新浪新闻"
       },
       {
-        "title": "新日股份销量被雅迪、爱玛及台铃等品牌吊打 一季度业绩双降、近期因针对非法改装等问题被约谈",
-        "intro": "2025年，国内电动两轮车市场在以旧换新政策与新国标切换的双重驱动下，整体呈现增长态势，奥维云网数据显示，全年市场生产规模达6316万台，同比增长14.8%。",
-        "url": "https://finance.sina.cn/2026-05-13/detail-inhxtzph9252103.d.html",
-        "time": "1778663737",
+        "title": "欧洲央行管委Kocher：6月会议要么加息要么维持利率不变",
+        "intro": " 欧洲央行管理委员会成员Martin Kocher对Econostream Media表示，欧洲央行必须在6月制定货币政策时决定是加息还是维持利率不变。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusmc4323656.d.html",
+        "time": "1778689092",
         "source": "新浪新闻"
       },
       {
-        "title": "美国军工企业安杜里尔融资50亿美元，估值翻倍至610亿美元",
-        "intro": "防务科技初创企业安杜里尔工业（Anduril Industries） 周三宣布，已完成50 亿美元融资，公司估值翻倍至 610 亿美元。 这家总部位于加州的初创企业最新一轮融资由繁荣资本（...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxtzph9251020.d.html",
-        "time": "1778663609",
+        "title": "报道：五角大楼达成低成本集装箱化导弹采购协议",
+        "intro": " 路透援引五角大楼声明报道，美国国防部已与 Anduril、CoAspire、Leidos和Zone 5达成协议，计划自2027年起三年内潜在采购逾1万枚低成本、集装箱化导弹。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxuskw0460510.d.html",
+        "time": "1778689059",
         "source": "新浪新闻"
       },
       {
-        "title": "阿里千问前负责人林俊旸被曝创业，以136亿元估值开启融资",
-        "intro": "离开阿里两个月后，千问前负责人林俊旸被曝出已开启创业。 5月13日，据36氪旗下《智能涌现》报道，林俊旸近期开启创业，方向包括世界模型和具身大脑。",
-        "url": "https://finance.sina.cn/2026-05-13/detail-inhxtzph9252153.d.html",
-        "time": "1778663600",
+        "title": "美国通胀飙升，全球股市小幅上涨，美元与债券收益率同步走高",
+        "intro": "周三，摩根士丹利资本国际（MSCI）全球股票指数随美元小幅上扬，美国国债收益率则连续第三日走高。投资者一方面消化了超出预期的通胀数据...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusky9078728.d.html",
+        "time": "1778688942",
         "source": "新浪新闻"
       },
       {
-        "title": "优速通该取消吗？ 游客排队3小时怒怼迪士尼：质疑“插队特权”，近六成网友认为“明码标价没毛病”",
-        "intro": "文|《BUG》栏目 闫妍 今日，上海“迪士尼优速通”相关话题冲上热搜，真实又刺眼的游玩落差，引爆全网大范围热议，再度将景区“付费插队”“公平性”等争议推至舆论风口。",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-05-13/detail-inhxtzpf7450891.d.html",
-        "time": "1778663556",
+        "title": "渣打：日本或需更多干预以抑制日元空头情绪",
+        "intro": " 渣打策略师Steve Englander和Nicholas Chia周三在客户报告中写道，美元兑日元重返接近158水平，表明如果东京方面希望遏制市场对日元的做空情绪，可能需要进一步进行干预。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxuskx7236293.d.html",
+        "time": "1778688799",
         "source": "新浪新闻"
       },
       {
-        "title": "中再集团旗下四家子公司10位高管变动：涉及纪委书记、副总经理、总精算师、财务负责人等",
-        "intro": "来源：险企高参 &lt;文|空流霜 编|顾柠&gt; 今年以来，中再寿险、大地财险、中再产险、中再资产等公司出现高级管理人员调整。 今年以来...",
-        "url": "https://finance.sina.cn/insurance/gsdt/2026-05-13/detail-inhxtzpf7455359.d.html",
-        "time": "1778663541",
+        "title": "美联储柯林斯：或需加息以遏制通胀",
+        "intro": "波士顿联邦储备银行行长苏珊・柯林斯周三表示，若通胀压力未能消退，美国央行可能需要加息。 柯林斯在波士顿经济俱乐部演讲稿中称： “虽然这并非我最基准的预期情景...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxuskw0458891.d.html",
+        "time": "1778688766",
         "source": "新浪新闻"
       },
       {
-        "title": "英国第一太平戴维斯：伊朗战事拖累市场，楼市成交放缓",
-        "intro": "英国房产服务商第一太平戴维斯（Savills） 于周三预警，受伊朗战事引发全球利率前景不确定性升温影响，其英国及中东市场住宅房产交易将出现放缓...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxtzph9249857.d.html",
-        "time": "1778663481",
+        "title": "午盘：道指跌逾200点 纳指上涨0.8%",
+        "intro": "北京时间5月14日凌晨，美股周三午盘走势分化，道指下跌逾200点。芯片股上涨带动纳指走高。美国4月PPI同比飙升6%，创2022年以来最大涨幅，显示美国通胀压力升温。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusmc4321884.d.html",
+        "time": "1778688764",
         "source": "新浪新闻"
       },
       {
-        "title": "“插座一哥”公牛怎么了？ 罕见营收净利双下滑，董事长涨年薪，弟弟减持套现14亿 | BUG",
-        "intro": "文 | 《BUG》栏目 刘丽丽 近日，公牛集团迎来了上市以来首次营收利润双降的“财务成绩单”。 根据财报，2025年公司实现营收160.26亿元，同比-4.78%；归母净利润40.71亿元...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-05-13/detail-inhxtvfp4623406.d.html",
-        "time": "1778663331",
+        "title": "波士顿联储行长倾向于在“一段时间内”维持利率不变",
+        "intro": "波士顿联储行长苏珊·柯林斯表示，利率应在“一段时间内”维持不变，并指出她对通胀高企尤为关切。 “逾五年高于目标的通胀降低了我对‘忽略’另一次供应冲击的耐心...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxusky9077065.d.html",
+        "time": "1778688669",
         "source": "新浪新闻"
       },
       {
-        "title": "智谱暴涨，新旧AI的估值断层！腾讯今年跌24%、阿里今年跌7%——两家公司不差钱，市场为何偏偏不买账？",
-        "intro": "本文由凌通社原创 数据来源：Bloomberg、高盛、花旗、腾讯财经、新浪财经等 智谱暴涨，新旧AI的估值断层！腾讯今年跌24%、阿里今年跌7%——两家公司不差钱...",
-        "url": "https://finance.sina.cn/hkstock/gggd/2026-05-13/detail-inhxtzph9253591.d.html",
-        "time": "1778663270",
+        "title": "黄金走低：美国通胀再度抬头，美联储加息概率上升",
+        "intro": "美国最新经济数据显示通胀再度升温，市场进一步押注美联储将长期维持高利率，金价随之走低。 周三黄金现货最大跌幅达 1%。美国 4 月生产者物价（批发通胀） 加速上行...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-14/detail-inhxuskx7235422.d.html",
+        "time": "1778688658",
         "source": "新浪新闻"
       },
       {
-        "title": "邦达亚洲:通胀数据表现良好 美元指数刷新4日高位",
-        "intro": "5月13日，据美国劳工统计局（BLS）周二公布的数据，4月消费者价格指数（CPI）同比上涨3.8%，高于市场预期的3.7%，创2023年5月以来最高纪录。",
-        "url": "https://finance.sina.cn/forex/hsxw/2026-05-13/detail-inhxtvfk9378474.d.html",
-        "time": "1778663264",
+        "title": "日产完成重组整顿，目标重回盈利轨道",
+        "intro": "日产公布截至 3 月的季度净亏损达 2829 亿日元。 内容概要 日产汽车在连续七个季度录得净亏损后，预计本财年将重新实现净利润转正。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxuncf4447252.d.html",
+        "time": "1778687991",
         "source": "新浪新闻"
       },
       {
-        "title": "能源成本攀升，日本投资者4月抛售海外股票",
-        "intro": " 日本财务省周三公布数据显示，受伊朗战事推高能源成本、全面通胀风险升温影响，市场对海外股市趋于谨慎，日本投资者 4 月时隔四个月再度转为海外股票净卖方。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxtvfh0798273.d.html",
-        "time": "1778663105",
+        "title": "Principal首席全球策略师称在脆弱市场中 大型科技股是避风港",
+        "intro": " Principal Asset Management的Seema Shah表示，对于在伊朗战争造成的“脆弱”市场中寻求避风港的股票投资者来说，大型科技股经证明是一个安全的选择。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxunaz7359817.d.html",
+        "time": "1778687321",
         "source": "新浪新闻"
       },
       {
-        "title": "中行境外机构人事调整 涉及中东、西欧多家分行",
-        "intro": "近日，中国银行发布2026年一季度报，报告期内实现营业收入1788.46亿元，同比上升8.44%；归母净利润566.31亿元，同比上升4.17%。截至一季度末，中行资产总额39.59万亿元...",
-        "url": "https://finance.sina.cn/2026-05-13/detail-inhxtzph9252793.d.html",
-        "time": "1778663077",
+        "title": "北约拟邀海湾国家参加峰会 伊朗战争将成议题",
+        "intro": " 知情人士称，北大西洋公约组织（NATO）计划邀请四个海湾国家的代表出席在安卡拉举行的峰会，伊朗战争和跨大西洋关系裂痕可能将成为此次会谈的焦点。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxunay0581970.d.html",
+        "time": "1778687204",
         "source": "新浪新闻"
       },
       {
-        "title": "特斯拉前高管创办热泵初创公司 已有数名特斯拉前员工加入",
-        "intro": "据悉，特斯拉前高管德鲁・巴利诺（Drew Baglino）已低调创办一家热泵初创公司。 这是巴利诺自2024年离开特斯拉后，两年内创立的第二家企业。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxtvfh0796662.d.html",
-        "time": "1778662987",
+        "title": "赤道黄金与奥拉矿业达成合并协议，组建市值185亿美元黄金巨头",
+        "intro": "两家企业表示，此次合并核心在于提速，几乎一夜之间将合并后的矿业公司拉升至更高产能梯队 内容概要 赤道黄金（EQX）与奥拉矿业（OLA）同意合并...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-13/detail-inhxunay0580097.d.html",
+        "time": "1778686886",
         "source": "新浪新闻"
       },
       {
-        "title": "ETF规模消失万亿之后，国泰基金和海富通脱颖而出（附最新排行）",
-        "intro": "来源：简盈财观 作者/齐思 编辑/FENGLING 最近两三年，ETF规模一路火花带闪电迅速飙升。 终于，2026年放慢了脚步。今年以来，全市场ETF规模缩水超万亿元。",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-05-13/detail-inhxtzpe0672836.d.html",
-        "time": "1778662865",
+        "title": "2700亿存储龙头大普微—UW，20CM拉升！“散户大本营”霸榜",
+        "intro": "5月13日，大普微—UW大涨19.96%，收盘报631元/股，总市值达2753亿元。 这只上市不到一个月的“AI SSD第一股”，在短短17个交易日内，股价较发行价已飙涨近13倍...",
+        "url": "https://finance.sina.cn/stock/ggyj/2026-05-13/detail-inhxunay0579820.d.html",
+        "time": "1778686284",
         "source": "新浪新闻"
       }
     ]
