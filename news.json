@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T10:36:35.120Z",
+  "updated": "2026-05-20T19:35:38.845Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -19,6 +19,13 @@
   },
   "news": {
     "hot": [
+      {
+        "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
+        "intro": "大公司：\n  新加坡加码人工智能布局，英伟达将落地本地研发中心\n  全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设",
+        "url": "<![CDATA[https://36kr.com/p/3816942423000196?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
       {
         "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
         "intro": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。\n  2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业",
@@ -44,13 +51,6 @@
         "title": "做出百万台割草机器人后，未岚大陆CEO决定让自己变得“不重要”｜硬氪专访",
         "intro": "作者｜黄楠\n  编辑｜袁斯来\n  未岚大陆CEO任冠佼等了7年，等到了行业的爆发。\n  他还记得，2019年刚进入无边界智能割草机器人赛道，自己“只是觉得这个方向一定能火”。到2021年第一代产品推出",
         "url": "<![CDATA[https://36kr.com/p/3814411349581316?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
-        "intro": "文｜王欣逸\n  编辑｜邓咏仪\n  36氪获悉，未来式智能（AutoAgents.ai）近日完成Pre-A轮融资，新进投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投，本轮融资主要",
-        "url": "<![CDATA[https://36kr.com/p/3816909945029760?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "五粮液年报“暴雷”后市值缩水已超13%：审计机构天职国际收取199万元审计费 近年来多次被罚",
-        "intro": "出品：新浪财经上市公司研究院 作者：郝显 2026年4月30日，五粮液压轴发布了2025年年报。宣布全年营收下滑54.55%，净利润下滑71.89%。",
-        "url": "https://finance.sina.cn/tech/2026-05-20/detail-inhypxki6902915.d.html",
-        "time": "1779273220",
+        "title": "高盛：目前美国国债收益率难以下降",
+        "intro": "高盛表示，尽管美国30年期国债收益率升破5%，但长期美债的价格还没有低到足以支撑债市持续上涨的地步。 策略师William Marshall在报告中写道...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqupy9322171.d.html",
+        "time": "1779305697",
         "source": "新浪新闻"
       },
       {
-        "title": "不抱团，12年年化收益超15%，国泰基金程洲不从众的背后",
-        "intro": "来源：六里投资报 不抱团，不扎堆跟风当下最热门个股，但却一样能把长期年化收益做到15%； 这样的基金经理很少，国泰基金旗下程洲，正是少数人中的一员。",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxkk9642125.d.html",
-        "time": "1779273135",
+        "title": "白宫向AI公司通报模型发布前审查计划",
+        "intro": "据知情人士透露，白宫国家网络总监办公室于周二向OpenAI、Anthropic与ReflectionAI等公司通报了一项拟议的人工智能行政令。该命令将授权情报机构及其他政府部门...",
+        "url": "https://finance.sina.cn/7x24/2026-05-21/detail-inhyquqc8459155.d.html",
+        "time": "1779304536",
         "source": "新浪新闻"
       },
       {
-        "title": "各界敦促美国监管机构调查罗布乐思平台 涉儿童安全与营销乱象",
-        "intro": " 两大儿童权益保护组织于周三致信美国联邦贸易委员会，申请对游戏平台罗布乐思（Roblox）展开调查，称该平台产品设计及营销手段存在不公与欺诈性质。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-20/detail-inhypxkf1657460.d.html",
-        "time": "1779273107",
+        "title": "Beyond Oil Q1营收增长24%至125.5万美元，净亏损大幅收窄",
+        "intro": " 食品科技公司Beyond Oil Ltd．公布了截至2026年3月31日的第一季度财报。受益于美国市场商业扩张加速，公司营收实现双位数增长，毛利率持续改善，净亏损同比大幅收窄。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqupy9316413.d.html",
+        "time": "1779304295",
         "source": "新浪新闻"
       },
       {
-        "title": "三星史上最大规模罢工进入倒计时 三星半导体回应：公司积极与工会直接对话，为解决问题努力到最后",
-        "intro": "记者|王晶 编辑|张益铭 5月20日，三星电子与工会的劳资谈判再度宣告破裂。三星电子工会已正式宣布，将按原计划于明日（5月21日）启动总罢工。",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxkk9641074.d.html",
-        "time": "1779273065",
+        "title": "摩森康胜启动美元优先票据公开发行，拟偿还20亿美元到期债务",
+        "intro": "摩森康胜饮料公司于5月20日宣布，已启动美元计价优先票据的承销公开发行。该发行预计将于2026年5月27日左右完成，募资将用于一般公司用途...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyquqa6093433.d.html",
+        "time": "1779304239",
         "source": "新浪新闻"
       },
       {
-        "title": "汉邦高科算力租赁局背后:\"三角贸易\"浮出水面 神秘方资不抵债如何撬动近70亿交易",
-        "intro": "出品：上市公司研究院 文/夏虫工作室 核心观点：在汉邦高科重大合同中，牵头方“启明星汉”成立不足一年、无实缴资本、零社保、营收微薄，疑似空壳，且已资不抵债...",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxkk9639873.d.html",
-        "time": "1779273049",
+        "title": "Research Alliance Corp III完成7500万美元IPO，纳斯达克挂牌交易",
+        "intro": "由知名医疗投资机构RA Capital Management发起的特殊目的收购公司Research Alliance Corporation III于5月20日宣布完成7500万美元首次公开募股的定价",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqupx6592700.d.html",
+        "time": "1779304160",
         "source": "新浪新闻"
       },
       {
-        "title": "戚风蛋糕发霉，东方甄选回应：死磕品质",
-        "intro": "记者丨刘雪莹 编辑丨江佩霞 近日，“东方甄选所售蛋糕发霉商家仅退款”引发关注。 据报道，近日，江西吉安的王女士反映，5月8日，她在东方甄选APP上花费30多元购买了一箱肉松...",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxki6900554.d.html",
-        "time": "1779272760",
+        "title": "Arthur J. Gallagher旗下RPS收购McKee Risk Management，强化项目险专业能力",
+        "intro": "Arthur J． Gallagher &amp; Co．周三宣布，其美国批发经纪、授权与项目部门Risk Placement Services已收购位于宾夕法尼亚州普鲁士王的McKee Risk M",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyquqa6092711.d.html",
+        "time": "1779304110",
         "source": "新浪新闻"
       },
       {
-        "title": "监管首提民企金融服务应“指定部门、纳入考核”，银行业内：预计落地形式将多样化",
-        "intro": " 财联社5月20日讯（记者 梁柯志）国家金融监督管理总局近日发布《关于做好2026年小微企业金融服务工作的通知》（以下简称《通知》），对小微企业金融服务作出阶段性调整。",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxkk9638395.d.html",
-        "time": "1779272700",
+        "title": "SmartStop Q1净利扭亏为盈达960万美元，同店业绩超指引",
+        "intro": "SmartStop Self Storage REIT， Inc．于5月20日公布了2026年第一季度财务数据。公司本季度净利实现扭亏为盈，核心运营指标同店净营业收入录得2.0%的增长...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqupy9315281.d.html",
+        "time": "1779304074",
         "source": "新浪新闻"
       },
       {
-        "title": "520礼物更讲“实用+情感”：分期乐商城护肤品、洗地机等品类成交激增",
-        "intro": "王羽刚在分期乐商城下单了一台洗地机，那是他从老婆的心愿单中抽中的商品，妻子要照顾两位老人和年幼的孩子，王羽深知其中的不易，也希望用科技减轻家务负担。",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxki6897670.d.html",
-        "time": "1779272688",
+        "title": "RoboStrategy联合创始人Andrew Kang出任CEO，掌舵20亿美元机器人基金",
+        "intro": "专注机器人与实体AI领域的封闭式投资公司RoboStrategy 5月20日宣布，任命联合创始人Andrew Kang为首席执行官。Kang将主导公司战略方向及投资组合管理。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyquqa6092075.d.html",
+        "time": "1779303998",
         "source": "新浪新闻"
       },
       {
-        "title": "外卖吃出异物或拉肚子 该找谁投诉管用",
-        "intro": "点外卖吃到头发、虫子，或者吃完后上吐下泻——这种事几乎每个人都遇到过，或者至少担心过。最近杭州一家寿司郎门店被罚没6万多的新闻又把餐饮卫生问题推到了风口浪尖：执法...",
-        "url": "https://finance.sina.cn/consume/shxf/2026-05-20/detail-inhypxki6896714.d.html",
-        "time": "1779272593",
+        "title": "Lunai Bioworks宣布1比8反向拆股，5月22日生效以维持纳斯达克上市地位",
+        "intro": "AI驱动的生命科学公司Lunai Bioworks周三宣布，将对其普通股实施1比8的反向股票分割。该拆股将于美国东部时间2026年5月22日凌晨12：01正式生效...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyquqa6091712.d.html",
+        "time": "1779303931",
         "source": "新浪新闻"
       },
       {
-        "title": "无糖可乐与零度可乐爱好者之间的激烈派系之争",
-        "intro": "曾经大众只分可口可乐党与百事可乐党，如今这场饮品阵营大战早已变天 作者：亚当・钱德勒 数十年来，健怡可乐早已成为流行文化经典符号，既是职场精英气场的代名词...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-20/detail-inhypxkf1652194.d.html",
-        "time": "1779272560",
+        "title": "Wallbridge Mining获Agnico Eagle与Waratah注资5600万加元，推进Fenelon金矿预可研",
+        "intro": "加拿大初级矿业公司Wallbridge Mining Company周三宣布，已与黄金生产商Agnico Eagle Mines及Waratah Capital Advisors签署最终协议，两家机构",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyquqc8456040.d.html",
+        "time": "1779303860",
         "source": "新浪新闻"
       },
       {
-        "title": "SpaceX IPO规模或将碾压所有重磅上市企业",
-        "intro": "SpaceX早已突破航天领域的行业极限，如今它即将改写资本市场的需求格局。 这家火箭企业计划通过首次公开募股募资8000 亿美元及以上...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-20/detail-inhypxkn6410554.d.html",
-        "time": "1779272202",
+        "title": "Intuit拟裁员约3000人，深化与OpenAI及Anthropic的AI合作",
+        "intro": "财务软件巨头Intuit Inc．周三宣布，将裁减全球约17%的员工，涉及约3000个岗位，以简化运营并加速人工智能整合。这一消息发布于公司第三财季财报公布前数小时...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyquqc8455863.d.html",
+        "time": "1779303808",
         "source": "新浪新闻"
       },
       {
-        "title": "刚刚，直线跳水！伊朗发出警告！",
-        "intro": "国际原油期货持续下跌。 布伦特原油期货跌幅扩大至2.7%，报109.07美元/桶。 WTI原油期货跌幅扩大至2.13%，报102.16美元/桶。 伊朗伊斯兰革命卫队今天（5月20日）发布声明警...",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxkf1646841.d.html",
-        "time": "1779271860",
+        "title": "Nakamoto宣布1比40反向拆股，5月22日生效以维持纳斯达克上市资格",
+        "intro": "比特币持仓公司Nakamoto Inc．周三宣布，经董事会批准，将对其普通股进行1比40的反向股票分割，旨在将股价推回纳斯达克要求的1美元最低买入价以上，以维持上市资格。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyquqa6090670.d.html",
+        "time": "1779303715",
         "source": "新浪新闻"
       },
       {
-        "title": "广东：有序推进跨国公司本外币一体化资金池试点，支持服务类企业作为成员企业加入跨国公司资金池业务试点",
-        "intro": "5月20日金融一线消息，广东省人民政府办公厅印发《广东省服务贸易高质量发展三年行动计划（2026—2028年）》，其中提出，提升跨境金融服务水平。",
-        "url": "https://finance.sina.cn/bank/yhgd/2026-05-20/detail-inhypxkf1638752.d.html",
-        "time": "1779271459",
+        "title": "Capstone Q1营收大增60%超预期，全年指引不变，Q2料调整后EBITDA转正",
+        "intro": "建材分销平台Capstone Holding Corp．周三发布2026年第一季度财报。尽管GAAP每股收益略低于预期，但营收与毛利率均录得强劲增长，且公司重申全年指引...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqupx6590397.d.html",
+        "time": "1779303657",
         "source": "新浪新闻"
       },
       {
-        "title": "消费维权去哪里投诉 这些渠道你该知道",
-        "intro": "日常生活中，每个人都会遇到各种各样的消费问题：外卖吃出异物、网购商品货不对板、预付卡商家跑路、装修质量不达标……出了问题之后，很多人第一反应是“我该去哪投诉？",
-        "url": "https://finance.sina.cn/consume/shxf/2026-05-20/detail-inhypxkk9626402.d.html",
-        "time": "1779271436",
+        "title": "Alpha Bank Q1净利润超预期达2.21亿欧元，CEO预计全年盈利增长11%",
+        "intro": "希腊系统性银行Alpha Bank周三公布2026年第一季度财报，正常化税后利润达2.21亿欧元，超出市场预期的1.84亿欧元。尽管净利润较去年同期的2.34亿欧元下降5.7%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyquqa6090197.d.html",
+        "time": "1779303612",
         "source": "新浪新闻"
       },
       {
-        "title": "伊朗威胁：若美以再次动武，冲突将“扩大至地区以外”",
-        "intro": "要点速览伊朗伊斯兰革命卫队警告：若美国和以色列再次对德黑兰发动袭击，中东冲突将 “扩大至地区以外”。此前特朗普政府就 “能否达成停战协议” 释放出矛盾信号。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-20/detail-inhypxkf1637851.d.html",
-        "time": "1779271402",
+        "title": "特朗普：协议达成前不会考虑放松对伊朗制裁",
+        "intro": "美国总统特朗普表示，在协议签署之前，美国不会考虑给予伊朗任何制裁豁免。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqupx6589808.d.html",
+        "time": "1779303476",
         "source": "新浪新闻"
       },
       {
-        "title": "近40万亿险资一季度加仓A股 二级权益资产持仓创近年高位",
-        "intro": "21世纪经济报道记者 林汉垚 国家金融监管总局最新数据显示，截至一季度末，保险公司合计资金运用余额达39.4万亿元，同比增长12.9%，较2025年末增加约9582亿元。",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxki6897811.d.html",
-        "time": "1779271200",
+        "title": "尾盘：道指上涨600点，油价与美债收益率双双回落",
+        "intro": "北京时间5月21日凌晨，美股周三尾盘走高，道指上涨600点。对中东冲突可能很快得到解决的乐观情绪升温，油价和美国国债收益率双双下滑，美股随之上涨。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqupy9312316.d.html",
+        "time": "1779303471",
         "source": "新浪新闻"
       },
       {
-        "title": "股票交易异常波动 巨力索具说明情况",
-        "intro": "来源：证券市场周刊市场号 巨力索具于2026年5月20日发布《关于股票交易异常波动的公告》。公司股票连续三个交易日内（2026年5月15日、2026年5月18日...",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxki6882900.d.html",
-        "time": "1779271140",
+        "title": "几位美联储决策者提及对冲基金大规模参与国债市场的风险",
+        "intro": " 几位美联储决策者强调了对冲基金“大规模参与”美国国债市场的相关风险，指出其杠杆头寸平仓可能引发更广泛的金融市场扰动。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqupx6589666.d.html",
+        "time": "1779303441",
         "source": "新浪新闻"
       },
       {
-        "title": "英国4月通胀率降至2.8%略超预期 英镑对美元汇率微跌",
-        "intro": "英国国家统计局20日公布的数据显示，英国4月份消费价格指数（CPI）同比涨幅降至2.8%，降幅超出市场预期。受通胀数据放缓及美元走强双重因素影响...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-20/detail-inhypxkk9622993.d.html",
-        "time": "1779270969",
+        "title": "伊朗总统称对所有途径持开放态度",
+        "intro": " 伊朗总统马苏德·佩泽希齐扬在社交媒体平台发文称，伊朗“始终恪守自身承诺，并探索一切途径避免战争”，并补充说，“我们仍对所有途径持开放态度”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqupx6589579.d.html",
+        "time": "1779303411",
         "source": "新浪新闻"
       },
       {
-        "title": "巨亏千亿 销量暴跌87%！百年豪车换标找华为续命：国内尊界、海外玛莎",
-        "intro": "快科技5月20日消息，据多方消息，华为鸿蒙智行、江淮汽车、Stellantis集团及旗下玛莎拉蒂品牌，正就共同打造玛莎拉蒂品牌新能源汽车展开洽谈。",
-        "url": "https://finance.sina.cn/tech/2026-05-20/detail-inhypxki6880274.d.html",
-        "time": "1779270913",
+        "title": "美联储会议纪要：多名决策者支持去除宽松暗示并提醒加息可能性",
+        "intro": "多数美联储官员警告称，如果通胀持续高于2%的目标水平，央行可能需要考虑加息。 根据周三在华盛顿公布的4月28日至29日联邦公开市场委员会（FOMC）会议纪要...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqupx6589475.d.html",
+        "time": "1779303379",
         "source": "新浪新闻"
       },
       {
-        "title": "中国银行：已全额赎回规模500亿元减记型无固定期限资本债券",
-        "intro": "5月20日，中国银行（601988/03988）发布公告，截至本公告日，本行已行使赎回权，全额赎回于2021年5月发行的规模为500亿元的减记型无固定期限资本债券。",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxki6877051.d.html",
-        "time": "1779270700",
+        "title": "买手机配件被坑过吗 消费前不妨先查一查",
+        "intro": "最近“iPhone绝版配件回归”登上热搜，不少果粉兴奋不已。苹果宣布重新供应部分已停产的维修配件，这对老款iPhone用户来说确实是个好消息。",
+        "url": "https://finance.sina.cn/consume/shxf/2026-05-21/detail-inhypxkf1639423.d.html",
+        "time": "1779300313",
         "source": "新浪新闻"
       },
       {
-        "title": "杨德龙：我独创的中国特色价值投资理念 更适合中国资本市场的实际",
-        "intro": "今年在国际局势动荡、外部环境复杂多变的情况下，A股市场走出了慢牛长牛的走势。3月份虽然因中东战争市场一度出现较大幅度调整，大盘逼近3800点...",
-        "url": "https://finance.sina.cn/fund/jjsy/2026-05-20/detail-inhypxkn6395965.d.html",
-        "time": "1779270611",
+        "title": "美国要求欧盟在贸易立法中解决非关税壁垒问题",
+        "intro": "美国贸易代表办公室表示，美国欢迎欧盟取得的进展，并将继续审查该集团贸易立法中包含的“某些限制性修正条款”。 美国贸易代表办公室表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqqfz6707903.d.html",
+        "time": "1779299882",
         "source": "新浪新闻"
       },
       {
-        "title": "亮点前瞻来了，英伟达财报倒计时",
-        "intro": "美国时间5月20日周三盘后，英伟达将公布2027财年第一季度财报。作为市值超5.3万亿美元的人工智能芯片龙头，其经营业绩及业绩预期指引，将主导股市行情走向...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-05-20/detail-inhypxki6873712.d.html",
-        "time": "1779270491",
+        "title": "伊朗：美国的威胁和最后通牒不会影响德黑兰的决定",
+        "intro": "据伊朗国家电视台IRIB报道，外交部发言人巴加埃表示，巴基斯坦内政部长正在伊朗访问“以促进美伊之间的信息交流”。 巴加埃表示：“伊朗和美国双方正根据伊朗提出的14点建议继...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqqhe6202647.d.html",
+        "time": "1779299637",
         "source": "新浪新闻"
       },
       {
-        "title": "元宇宙启动全球8000人裁员 借力AI提升运营效率",
-        "intro": " 元宇宙平台公司正式通知数千名员工即将被裁员，此举属于此前公布的架构重组计划一部分，旨在严控成本，同时集中重金押注人工智能领域。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-20/detail-inhypxki6873256.d.html",
-        "time": "1779270484",
+        "title": "伊朗正筹备外长前往纽约参加联合国会议的行程",
+        "intro": "伊朗国家电视台援引对外交部发言人Esmail Baghaei的采访报道，外长阿巴斯·阿拉格齐前往纽约参加联合国会议的准备工作正在进行中，但他的出席将取决于签证发放情况和外交优...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqqhe6202505.d.html",
+        "time": "1779299605",
         "source": "新浪新闻"
       },
       {
-        "title": "三一重工重拾增长",
-        "intro": "（来源：财经思享汇）工程机械属于“三分设备、七分服务”的重服务行业，这是外资品牌最大的短板，更是三一重工出海不可复制的核心壁垒。",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxki6876705.d.html",
-        "time": "1779270480",
+        "title": "欧洲债市：德国和英国国债上涨 市场对美伊和平协议抱乐观预期",
+        "intro": " 德国国债和英国国债创出自4月8日美国和伊朗宣布停火以来最大涨幅，因为人们越来越乐观地认为，双方可能会达成协议结束冲突，缓解霍尔木兹海峡能源运输的供应瓶颈。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqqfz6706589.d.html",
+        "time": "1779299505",
         "source": "新浪新闻"
       },
       {
-        "title": "代客理财+承诺收益，国元证券某营业部员工韦文晶收警示函",
-        "intro": "5月20日，根据安徽证监局发布的公告，韦文晶因在国元证券徽州大道营业部从业期间，私下接受客户委托买卖证券并违规承诺收益，违反了相关监管规定，被出具警示函。",
-        "url": "https://finance.sina.cn/2026-05-20/detail-inhypxki6876403.d.html",
-        "time": "1779270439",
+        "title": "伍德麦肯兹：若伊朗冲突持续 油价恐将升至200美元",
+        "intro": "伍德麦肯兹（Wood Mackenzie）表示，在霍尔木兹海峡长期停摆的最坏情景下，布伦特原油面临飙升至每桶200美元的风险。该机构指出，目前波斯湾地区已有超过1100万桶/日的原油...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyqqhf8567373.d.html",
+        "time": "1779298390",
         "source": "新浪新闻"
       }
     ]
