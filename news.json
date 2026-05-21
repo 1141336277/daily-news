@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T12:27:25.045Z",
+  "updated": "2026-05-21T19:30:13.144Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -20,7 +20,14 @@
   "news": {
     "hot": [
       {
-        "title": "新石器New Claw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
+        "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
+        "intro": "大公司：\n  SpaceX据悉计划五年内实现每年1万次发射\n  据美国联邦航空管理局（FAA）局长周三透露，SpaceX正抛出一个宏大的计划，即在五年内实现每年10000次发射。但该机构对此表示，在批",
+        "url": "<![CDATA[https://36kr.com/p/3816942732133510?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
+      {
+        "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
         "intro": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。\n  \n  新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，",
         "url": "<![CDATA[https://36kr.com/p/3818927367046018?f=rss]]>",
         "time": "",
@@ -44,13 +51,6 @@
         "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
         "intro": "当Robotaxi还在为L4苦苦挣扎时，酷哇的环卫机器人、无人小巴、机器狗已经在50多个城市“上岗”赚钱了。\n  \n  具身智能最大的瓶颈不是算法，而是数据——没有量产就没有数据，没有数据就无",
         "url": "<![CDATA[https://36kr.com/p/3818889074557829?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
-        "intro": "5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。随着AI逐渐成为新的信息入口和消费决策入口，品牌在AI回答",
-        "url": "<![CDATA[https://36kr.com/p/3818877539091333?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "布依格CEO警告：欧洲过度依赖美国卫星与AI基础设施“非常危险”",
-        "intro": "当地时间5月21日，法国最大的工程集团之一——布依格集团(Bouygues)首席执行官奥利维尔·鲁萨在接受CNBC采访时警告称，欧洲尚未意识到过度依赖美国基础设施的极端危险性...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrk5799366.d.html",
-        "time": "1779366411",
+        "title": "OpenAI第一季度营收57亿，利润-122%：上市前夕，OpenAI的“致命”短板藏不住了",
+        "intro": "OpenAI第一季度营收约57亿美元，比主要竞争对手Anthropic同期营收高出近10亿美元。据两位知情人士透露，编码智能体Codex、企业销售增长以及ChatGPT广告测试推动了第一季度...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxpa5567440.d.html",
+        "time": "1779391739",
         "source": "新浪新闻"
       },
       {
-        "title": "美银警告：欧洲股市濒临“价格崩盘”区间，原因何在？",
-        "intro": " 当地时间5月20日，美国银行发布最新研究报告，警告称欧洲股市可能正接近“价格崩盘”区间，预计斯托克600指数有约15%的下行空间。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrk5794424.d.html",
-        "time": "1779365915",
+        "title": "富达战术高收益ETF宣布每月派息0.0073加元",
+        "intro": " 富达战术高收益ETF（ETF系列）于5月21日宣布进行每月股息分配，每股派息金额为0.0073加元，交易代码为FTHI.CA。本次股息将于6月2日支付，除息日及股权登记日均为5月29日。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxpc7985846.d.html",
+        "time": "1779390896",
         "source": "新浪新闻"
       },
       {
-        "title": "IEA：随着夏季旅行季前库存减少，石油市场可能在7月进入“红色区域”",
-        "intro": "国际能源署(IEA)负责人周四警告称，随着全球库存消耗以及夏季出行旺季需求回升，石油市场可能很快进入“红色区域”。 国际能源署执行干事法提赫·比罗尔表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrf6336841.d.html",
-        "time": "1779365824",
+        "title": "StepStone：UFEC达400亿美元 董事会加派0.55美元特别股息",
+        "intro": "全球私募市场投资公司StepStone Group于5月21日发布2026财年第四季度财报，宣布董事会批准派发每股0.28美元的季度现金股息及每股0.55美元的特别现金股息...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxpc7985708.d.html",
+        "time": "1779390856",
         "source": "新浪新闻"
       },
       {
-        "title": "SpaceX正式提交IPO文件，Rocket Lab等航天股应声下跌",
-        "intro": "当地时间5月20日，太空探索公司SpaceX正式向美国证券交易委员会提交S-1上市申请文件，计划在纳斯达克上市，股票代码为SPCX。受此消息影响...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrk5792589.d.html",
-        "time": "1779365681",
+        "title": "星舰V3首飞在即：SpaceX面临IPO前的关键大考",
+        "intro": "SpaceX原定于美东时间5月21日下午6时30分，从得克萨斯州星际基地发射其全新升级的星舰V3火箭，进行第12次综合飞行测试。这不仅是星舰V3版本的首次亮相...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxnx6120819.d.html",
+        "time": "1779390799",
         "source": "新浪新闻"
       },
       {
-        "title": "沃尔玛全年指引不及预期，股价盘前下跌2%",
-        "intro": "当地时间5月20日，沃尔玛公布2026年第一季度业绩，营收超预期但全年盈利指引令投资者失望，股价周四盘前下跌约2.7%。 财报显示，沃尔玛第一季度营收达1777.5亿美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrk5792110.d.html",
-        "time": "1779365626",
+        "title": "伊朗国家电视台：伊朗总统称不会在谈判中退让",
+        "intro": "“我们可以有尊严地进行对话，我们永远不会退让，”伊朗总统在国家电视台播出的一次活动中表示。 他重申，他们“有能力凭借实力和人民的支持来捍卫国家权利”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxpa5564660.d.html",
+        "time": "1779390765",
         "source": "新浪新闻"
       },
       {
-        "title": "美国拟拨款20亿美元入股量子计算公司，概念股集体暴涨",
-        "intro": " 当地时间5月20日，据报道，特朗普政府计划向九家量子计算公司授予总计20亿美元的拨款，作为交易的一部分，美国政府将获得这些公司的股权。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrk5791480.d.html",
-        "time": "1779365554",
+        "title": "Polymarket交易员押注SpaceX上市首日市值突破2万亿美元",
+        "intro": "预测市场平台Polymarket的数据显示，交易员们正在押注SpaceX于6月12日上市后市值将突破2万亿美元。截至5月21日，市场认为SpaceX上市首日市值超过2万亿美元的概率高达73%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8787312.d.html",
+        "time": "1779390738",
         "source": "新浪新闻"
       },
       {
-        "title": "国际能源署署长：七八月份石油市场或将进入风险红色区间",
-        "intro": " 国际能源署署长周四表示，夏季燃油需求进入旺季，叠加中东石油新增出口中断、库存持续消耗，今年七八月份石油市场或将迈入红色警戒区间，其并未进一步详述具体缘由。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrm8196997.d.html",
-        "time": "1779365359",
+        "title": "Clearsign：墨西哥湾项目10月启动，加州订单推进50万美元新阶段",
+        "intro": "清洁燃烧技术公司ClearSign Technologies于5月21日发布2026年第一季度运营更新，披露了两大核心项目的关键进展。公司确认，其位于墨西哥湾沿岸石化厂的26燃烧器项目已进入...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxpa5564237.d.html",
+        "time": "1779390662",
         "source": "新浪新闻"
       },
       {
-        "title": "金价狂泻近20%！挂钩黄金的结构性存款还“香”吗？",
-        "intro": "财联社5月21日讯（编辑 王蔚）当前，地缘政治冲突持续加剧，黄金价格剧烈震荡。面对金价后续走势的扑朔迷离，许多投资者既希望捕捉波动中的收益机会...",
-        "url": "https://finance.sina.cn/2026-05-21/detail-inhyshrm8199257.d.html",
-        "time": "1779365280",
+        "title": "SA分析师评级调整：谷歌获上调，塔吉特遭降级，以星与Nebius迎来新评级",
+        "intro": " Seeking Alpha平台上的独立分析师于5月21日发布了一系列评级调整，覆盖Alphabet、塔吉特、以星综合航运及Nebius Group等四只重点股票。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxnx6119500.d.html",
+        "time": "1779390469",
         "source": "新浪新闻"
       },
       {
-        "title": "惠民保站在新的十字路口，承接商保目录如何化解“水土不服”",
-        "intro": "惠民保再次站在了发展的十字路口上。 时值年中，多地2026年版惠民保产品投保时间也已接近尾声，新一轮“国谈”商保创新药目录（下称“商保目录”）协商启动在即。",
-        "url": "https://finance.sina.cn/2026-05-21/detail-inhyshrh9012311.d.html",
-        "time": "1779365117",
+        "title": "Cosmos Health第一季度营收增长31%至1793万美元 净亏损有所扩大",
+        "intro": " Cosmos Health于5月21日发布2026年第一季度财报。数据显示，公司当季营收为1793万美元，同比增长30.7%，创下季度营收纪录。调整后营收达1840万美元，同比增长34.2%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8785747.d.html",
+        "time": "1779390345",
         "source": "新浪新闻"
       },
       {
-        "title": "医保目录申报将启动，医保局明确支持这些“真创新”",
-        "intro": "今年这场“开门会”释放了非常清晰的信号：“新”不是进入医保的唯一通行证。 2026年国家医保目录调整工作方案（征求意见稿）已结束征求意见。",
-        "url": "https://finance.sina.cn/2026-05-21/detail-inhyshrh9012875.d.html",
-        "time": "1779365112",
+        "title": "财报利润逊预期加全年指引保守 Lightspeed股价应声下跌",
+        "intro": "加拿大零售科技公司Lightspeed Commerce于5月21日发布2026财年第四季度财报，尽管营收超出市场预期，但调整后每股收益不及分析师预测，叠加2027财年业绩指引趋于保守...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8785371.d.html",
+        "time": "1779390265",
         "source": "新浪新闻"
       },
       {
-        "title": "网飞加码直播内容，拿下《早餐俱乐部》同步直播权",
-        "intro": "内容速览 知名晨间电台节目《早餐俱乐部》自 6 月 1 日起登陆网飞工作日实时直播，这也是该流媒体平台首档每日常态化直播节目。 由查拉曼涅・塔・戈德联合主持...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrm8191568.d.html",
-        "time": "1779364882",
+        "title": "Euroholdings宣布第五次季度派息0.14美元",
+        "intro": " 希腊航运公司Euroholdings于5月21日宣布，将派发每股0.14美元的季度现金股息，交易代码为EHLD。本次股息将于2026年6月16日支付，股权登记日为6月9日，除息日为同日。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxnx6118388.d.html",
+        "time": "1779390201",
         "source": "新浪新闻"
       },
       {
-        "title": "伊朗称美国最新方案“缩小了分歧” 最高领袖据报下令浓缩铀不得外运",
-        "intro": "伊朗表示，美国提出的最新方案已在一定程度上缩小交战方之间的分歧。双方正试图把脆弱的停火转化为和平协议。 伊朗半官方媒体伊朗学生通讯社周四报道称...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrf6325733.d.html",
-        "time": "1779364795",
+        "title": "Pro房地产投资信托宣布每月派息0.0375加元",
+        "intro": " Pro房地产投资信托于5月21日宣布进行月度现金分配，每信托单位派息金额为0.0375加元，交易代码为PRVFF。本次股息将于6月15日支付，股权登记日为5月29日。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8784818.d.html",
+        "time": "1779390147",
         "source": "新浪新闻"
       },
       {
-        "title": "沃尔玛电商业务发力，整体营收稳步上涨",
-        "intro": "零售商称，最新季度消费者带动食品百货、日用商品及线上销售额同步走高 内容速览 消费者追求高性价比消费、线上购物需求攀升，推动沃尔玛最新季度销售额实现增长。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrm8189636.d.html",
-        "time": "1779364688",
+        "title": "YieldMax做空特斯拉期权收入策略ETF宣布每周派息0.2123美元",
+        "intro": "YieldMax做空特斯拉期权收入策略ETF于5月21日宣布进行每周股息分配，每股派息金额为0.2123美元，交易代码为CRSH。此次派息较前一周的0.2019美元高出5.15%，年化分配率为50..",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8784560.d.html",
+        "time": "1779390073",
         "source": "新浪新闻"
       },
       {
-        "title": "美国将向9家量子计算公司提供20亿美元",
-        "intro": "据媒体报道，美国商务部表示，特朗普政府将向九家量子计算公司提供20亿美元的拨款，交易包括美国政府获得股权。 报道称，商务部已同意向IBM提供10亿美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrm8187824.d.html",
-        "time": "1779364522",
+        "title": "SRH总回报基金宣布季度派息0.20美元",
+        "intro": " SRH总回报基金于5月21日宣布进行季度股息分配，每股派息金额为0.20美元，交易代码为STEW。该派息将于7月31日支付，除息日及股权登记日均为7月24日。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8784287.d.html",
+        "time": "1779390001",
         "source": "新浪新闻"
       },
       {
-        "title": "16倍大牛股大普微，明起复牌！",
-        "intro": "大普微停牌核查完成，股票明起复牌。 5月21日，大普微（301666.SZ）公告称，公司股票交易停牌核查已完成，将于2026年5月22日开市起复牌。",
-        "url": "https://finance.sina.cn/2026-05-21/detail-inhyshrf6320902.d.html",
-        "time": "1779363960",
+        "title": "Barnwell第二季度净亏损收窄至每股0.09美元 成本削减初见成效",
+        "intro": "Barnwell Industries于5月21日公布了截至2026年3月31日的第二财季业绩。财报显示，公司当季营收为253.5万美元，归属于Barnwell股东的净亏损为115万美元，合每股亏损0",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxpa5561322.d.html",
+        "time": "1779389954",
         "source": "新浪新闻"
       },
       {
-        "title": "补涨开启？创新药逆市独秀！华宝基金港股通创新药ETF（520880）放量涨1.58%，巨量资金提前“高切低”",
-        "intro": "5月21日，AH市场午后大幅跳水，创新药逆市表现彰显抗跌力。重仓A股创新药的药ETF华宝（562050）、100%创新药研发标的——港股通创新药ETF华宝（520880）携手收红...",
-        "url": "https://finance.sina.cn/fund/etf/2026-05-21/detail-inhyshrm8178956.d.html",
-        "time": "1779363854",
+        "title": "YieldMax CVNA期权收入策略ETF宣布每周派息0.3130美元",
+        "intro": "YieldMax Carvana期权收入策略ETF于5月21日宣布进行每周股息分配，每股派息金额为0.3130美元，交易代码为CVNY。 该基金于2025年1月29日在NYSE Arca交易所上市..",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8783772.d.html",
+        "time": "1779389884",
         "source": "新浪新闻"
       },
       {
-        "title": "比亚迪辟谣考虑收购玛莎拉蒂",
-        "intro": "记者|林健民 编辑|李燕娜 近日，《21辟谣》注意到，有消息称比亚迪有意收购Stellantis在欧洲的闲置产能工厂，并在评估收购或投资玛莎拉蒂等欧洲高端品牌的可能性。",
-        "url": "https://finance.sina.cn/stock/ssgs/2026-05-21/detail-inhyshrf6319514.d.html",
-        "time": "1779363603",
+        "title": "富兰克林新兴市场收益基金月度派息升至0.054美元",
+        "intro": "富兰克林邓普顿于5月21日宣布，旗下Templeton Emerging Markets Income Fund将月度股息上调13.7%，从原先的每股0.0475美元提高至0.054美元，交易代码为T",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8783552.d.html",
+        "time": "1779389822",
         "source": "新浪新闻"
       },
       {
-        "title": "刚刚，集体跳水！美伊，重大变数！伊朗突然下令！",
-        "intro": "美伊谈判，又生变数！ 5月21日晚间，据央视新闻援引外媒报道，有消息人士表示，伊朗最高领袖已经下令，接近武器级的铀必须留在伊朗国内。",
-        "url": "https://finance.sina.cn/2026-05-21/detail-inhyshrf6315949.d.html",
-        "time": "1779363541",
+        "title": "Treasure Global第三季度营收同比增长125%，净亏损大幅收窄",
+        "intro": "马来西亚科技公司Treasure Global于5月21日发布2026财年第三季度财报。数据显示，公司截至2026年3月31日的季度营收同比增长125%至约150万美元，净亏损大幅收窄至每股2...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxpa5560605.d.html",
+        "time": "1779389765",
         "source": "新浪新闻"
       },
       {
-        "title": "多名美联储官员呼吁央行在4月释放暂停降息信号",
-        "intro": "多名美联储高官呼吁央行在4月会议上，删除暗示下一步将降息的表述，凸显市场对伊朗战争的担忧正持续加剧。 周三公布的4月底会议纪要显示：“许多与会官员表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrh8997073.d.html",
-        "time": "1779363504",
+        "title": "拉夫劳伦预计2027财年营收增长4%-5%，营业利润率有望再扩40-60个基点",
+        "intro": "拉夫劳伦于5月21日发布2026财年第四季度及全年财报，业绩全面超出市场预期。公司同时给出了对2027财年的初步展望，预计按固定汇率计算的营收将实现中个位数增长...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8783203.d.html",
+        "time": "1779389711",
         "source": "新浪新闻"
       },
       {
-        "title": "A股全天高开低走，“对子顶”引发量化砸盘？",
-        "intro": "某量化私募合伙人表示，程序化交易在市场波动加大时，确实可能因为风控参数、趋势信号、成交量变化、技术位等因素，出现阶段性的交易趋同和放大效应。",
-        "url": "https://finance.sina.cn/2026-05-21/detail-inhyshrm8176109.d.html",
-        "time": "1779363458",
+        "title": "Information：OpenAI第一季度营收约为57亿美元",
+        "intro": "The Information援引两位未具名知情人士报道，OpenAI第一季度营收约为57亿美元。 报道称，OpenAI的编码助手Codex，以及企业销售增长和ChatGPT广告测试...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8783087.d.html",
+        "time": "1779389677",
         "source": "新浪新闻"
       },
       {
-        "title": "英国政府拟加速推进油气企业税制改革以打击跨国避税",
-        "intro": "当地时间21日，英国财政大臣蕾切尔·里夫斯宣布，英国政府将加速推进针对石油和天然气企业海外分支机构利润的税制改革。 该项改革旨在修补现有税收漏洞...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrh8995973.d.html",
-        "time": "1779363382",
+        "title": "Pimco首席投资官：若通胀预期继续上升 美联储将不得不采取行动",
+        "intro": "品浩（Pimco）的首席投资官Daniel Ivascyn表示，在全球债券收益率飙升可能引发更广泛的金融市场动荡之际，如果通胀预期进一步上升...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxpa5560226.d.html",
+        "time": "1779389643",
         "source": "新浪新闻"
       },
       {
-        "title": "保险代理人，六年流失700万",
-        "intro": "来源：国际金融报 记者：王莹 个险营销员数量首度在各家保险公司偿付能力报告中集中披露。 据《国际金融报》记者统计，截至2026年一季度末...",
-        "url": "https://finance.sina.cn/insurance/hydt/2026-05-21/detail-inhyshrh9000305.d.html",
-        "time": "1779363282",
+        "title": "YieldMax谷歌期权收入策略ETF宣布每周派息0.1818美元",
+        "intro": " YieldMax谷歌期权收入策略ETF于5月21日宣布进行每周股息分配，每股派息金额为0.1818美元，交易代码为GOOY。除息日及登记日均为5月21日，支付日为5月22日。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxnx6116679.d.html",
+        "time": "1779389636",
         "source": "新浪新闻"
       },
       {
-        "title": "Energy Aspects：石油市场距离短缺还有大约一个半月的时间",
-        "intro": " Energy Aspects联合创始人兼研究主管Amrita Sen在接受媒体电视采访时表示，石油市场目前正处于严重供应不足之中，但尚未面临重大短缺。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrh8994343.d.html",
-        "time": "1779363180",
+        "title": "诺信订单积压同比增长18%，上调全年调整后每股收益指引至11.30-11.80美元",
+        "intro": "精密点胶设备制造商诺信公司于5月21日发布2026财年第二季度财报，并上调全年业绩指引。公司目前预计全年调整后每股收益将在11.30至11.80美元区间，此前指引为11.00至11...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxpc7981158.d.html",
+        "time": "1779389551",
         "source": "新浪新闻"
       },
       {
-        "title": "郑氏家族落幕，预计年底国资入主！杉杉股份创始人遗孀将卸任董事长，曾与继子争夺实控人地位",
-        "intro": " 红星资本局5月21日消息，昨日，杉杉股份（600884.SH）召开2025年年度股东会，董事长周婷出席会议，若无意外，这将是周婷最后一次以董事长身份出席公司的年度股东会。",
-        "url": "https://finance.sina.cn/2026-05-21/detail-inhyshrm8170874.d.html",
-        "time": "1779363120",
+        "title": "沙特、阿联酋等五国要求商船勿用伊朗指定的霍尔木兹海峡航线",
+        "intro": "五个中东国家正式拒绝伊朗设立波斯湾海峡管理局（PGSA）以控制霍尔木兹海峡通行。 巴林、科威特、卡塔尔、沙特阿拉伯和阿联酋在一封致全球航运监管机构的信函中表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8782576.d.html",
+        "time": "1779389514",
         "source": "新浪新闻"
       },
       {
-        "title": "美多名参议员致函联邦通信委员会 呼吁审查派拉蒙华纳合并案外资背景",
-        "intro": "多名美国民主党参议员20日联合致函美国联邦通信委员会（FCC），对派拉蒙与华纳兄弟探索公司（Warner Bros Discovery）拟议中高达1110亿美元合并案的外国资本介入表达严重关...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-05-21/detail-inhyshrk5770993.d.html",
-        "time": "1779363114",
+        "title": "Computer Modelling Group第四季度业绩：盈利增长17%，总收入持平",
+        "intro": "Computer Modelling Group于5月21日公布了截至2026年3月31日的第四财季及全年财报。数据显示，公司第四季度总收入为3370万加元，与上年同期基本持平；每股收益为0.07加元",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-05-22/detail-inhysxny8782356.d.html",
+        "time": "1779389452",
         "source": "新浪新闻"
       }
     ]
