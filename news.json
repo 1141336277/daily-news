@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T19:48:48.010Z",
+  "updated": "2026-06-04T23:56:48.076Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -19,6 +19,13 @@
   },
   "news": {
     "hot": [
+      {
+        "title": "8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉",
+        "intro": "今日热点导览\n  \n   微信正与手机厂商合作推出Agent-to-Agent助手能力\n   擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万\n   腾讯客服回应与华为、小米等合作",
+        "url": "<![CDATA[https://36kr.com/p/3839505332161026?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
       {
         "title": "00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期",
         "intro": "“妨碍真理发现过程的，不是谎言，而是极其精辟的错误见解。”德国物理学家兼讽刺作家利希滕贝格在面对启蒙运动中的种种愚昧时，戏谑式地写下了这一句名言。\n  许多误判之所以危险，恰恰因为它们看上去过于",
@@ -44,13 +51,6 @@
         "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
         "intro": "文｜周鑫雨\n  编辑｜张雨忻 杨轩\n  《智能涌现》从多个信源处独家获悉，2026 年，字节 AI 有四个重要的命题：\n  加大对世界模型训练的投入，年底前，模型性能达到现阶段世界模型全球 &nbsp",
         "url": "<![CDATA[https://36kr.com/p/3838454229027072?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "李宁需要库里，但库里更需要李宁",
-        "intro": "作者 |&nbsp;谢芸子\n  编辑 |&nbsp;张帆&nbsp;\n  一条消息让体育圈炸了锅。\n  6月2日，NBA球星斯蒂芬·库里与中国运动品牌李宁，签下了一为期十年的代言。双方均未披露具体金额",
-        "url": "<![CDATA[https://36kr.com/p/3838185031305474?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "美国最高法院支持仿制药瘦标签，Amarin专利诉讼遭重挫",
-        "intro": "美国最高法院周四以9票对0票的一致裁决结果，支持仿制药制造商Hikma Pharmaceuticals在瘦标签专利纠纷案中的立场，驳回爱尔兰制药商Amarin提起的专利侵权诉讼。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfh8927784.d.html",
-        "time": "1780602494",
+        "title": "标普重申现有规则 SpaceX暂无法提前纳入美国基准股指",
+        "intro": "标普全球表示，不会改变其主要指数的纳入标准，这给马斯克 旗下的SpaceX公司带来了一记重击，因为这实际上排除了这起有史以来规模最大的IPO能迅速进入基准标普500指数的可...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniaicva8716490.d.html",
+        "time": "1780617376",
         "source": "新浪新闻"
       },
       {
-        "title": "Robinhood推出世界杯预测市场，股价上涨5%",
-        "intro": "Robinhood股价周四尾盘上涨逾5%，此前该平台宣布推出2026年FIFA世界杯预测市场服务，允许用户对赛事结果进行交易。 Robinhood本周四宣布...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtff2151638.d.html",
-        "time": "1780602435",
+        "title": "三花智控获小摩增持约112.2万股 每股作价约31.84港元",
+        "intro": "香港联交所最新数据显示，5月29日，小摩增持三花智控（02050）112.1967万股，每股作价31.8436港元，总金额约为3572.75万港元。增持后最新持股数目约为2391.5万股...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-05/detail-iniaicva8715667.d.html",
+        "time": "1780617286",
         "source": "新浪新闻"
       },
       {
-        "title": "施乐获STARTEEPO持股增至6%以上， 股价应声上涨",
-        "intro": "施乐公司股价周四上涨逾3%，此前另类投资机构STARTEEPO Invest披露已将在该公司的持股比例提升至6%以上。据STARTEEPO向美国证券交易委员会提交的修订版文件显示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfc9995400.d.html",
-        "time": "1780602325",
+        "title": "申万宏源遭易方达基金减持270.08万股 每股作价约2.61港元",
+        "intro": "香港联交所最新数据显示，5月29日，易方达基金减持申万宏源（06806）270.08万股，每股作价2.605港元，总金额约为703.56万港元。减持后最新持股数目约为2亿股，持股比例为7...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-05/detail-iniaicuz1939338.d.html",
+        "time": "1780617172",
         "source": "新浪新闻"
       },
       {
-        "title": "Fastenal五月日均销售增长近15% 制造业需求强劲推动",
-        "intro": " 工业及建筑用品分销商Fastenal周四公布的五月销售业绩显示，当月净销售额同比增长9.3%至7.515亿美元，日均销售额同比增长14.8%至3758万美元，延续了公司强劲的增长势头。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfa3217915.d.html",
-        "time": "1780602210",
+        "title": "紫金矿业获贝莱德增持218.6万股 每股作价约33.09港元",
+        "intro": " 香港联交所最新资料显示，5月29日，贝莱德增持紫金矿业218.6万股，每股作价33.0863港元，总金额约为7232.67万港元。增持后最新持股数目约为4.79亿股，最新持股比例为8%。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-05/detail-iniaicux9800587.d.html",
+        "time": "1780617053",
         "source": "新浪新闻"
       },
       {
-        "title": "美债市场“野兽”咆哮回归 凸性对冲恐加剧波动",
-        "intro": "上个月美国债市抛售最严重的时期，Vishal Khanduja察觉到了一个不同寻常的情况。 当时，最长期美债收益率飙升至19年高点，期货抛售巨浪席卷市场...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfh8927148.d.html",
-        "time": "1780602196",
+        "title": "中远海能获贝莱德增持约5138.34万股 每股作价约15.99港元",
+        "intro": "香港联交所最新数据显示，5月29日，贝莱德增持中远海能（01138）5138.3362万股，每股作价15.9932港元，总金额约为8.22亿港元。增持后最新持股数目约为1.33亿股...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-05/detail-iniaicva8714726.d.html",
+        "time": "1780616984",
         "source": "新浪新闻"
       },
       {
-        "title": "401(k)困难取款较2020年增长两倍，凸显美国家庭财务压力",
-        "intro": " 最新数据显示，越来越多的美国在职员工正动用退休储蓄以应对紧急财务需求，这一趋势反映出疫情后美国家庭资产负债表承受的压力正在加大。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfh8926931.d.html",
-        "time": "1780602095",
+        "title": "AEON CREDIT遭FMR LLC减持139.8万股 每股作价约8.52港元",
+        "intro": "香港联交所最新数据显示，5月29日，FMR LLC减持AEON CREDIT（00900）139.8万股，每股作价8.5202港元，总金额约为1191.12万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-05/detail-iniaicva8714516.d.html",
+        "time": "1780616923",
         "source": "新浪新闻"
       },
       {
-        "title": "美股小盘股成市场关注焦点 兼具成长与估值优势",
-        "intro": "在大型科技股估值高企、板块轮动加速的背景下，一批兼具强劲增长与合理估值的小盘股公司正成为投资者关注的焦点。分析显示，在医疗保健、银行、金融科技及能源等领域...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtff2150618.d.html",
-        "time": "1780601947",
+        "title": "美图公司获摩根大通增持2774.7万股 每股作价约4.41港元",
+        "intro": "香港联交所最新数据显示，5月29日，摩根大通增持美图公司（01357）2774.7万股，每股作价4.4112港元，总金额约为1.22亿港元。增持后最新持股数目约为2.9亿股，持股比例为6...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-05/detail-iniaicva8714241.d.html",
+        "time": "1780616858",
         "source": "新浪新闻"
       },
       {
-        "title": "私募信贷市场短暂平静期被打破 多米诺骨牌或已开始松动",
-        "intro": "私募信贷行业厄运连连的一个月始于3月2日。当时，黑石集团旗下BCRED披露接到史上最大规模的投资者赎回申请。4月2日，这一轮风波达到阶段性高潮：Blue Owl...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfh8926460.d.html",
-        "time": "1780601874",
+        "title": "在中东局势存在不确定性之际，日经指数或将下跌",
+        "intro": "随着中东冲突的不确定性持续存在，日本股市或将下跌。新加坡交易所的日经指数期货下跌0.4%，至67395点。隔夜科技股的下跌也可能拖累市场。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniaicuw3022076.d.html",
+        "time": "1780616791",
         "source": "新浪新闻"
       },
       {
-        "title": "Jane Street计划新建数据中心 以满足AI算力需求",
-        "intro": "Jane Street Group计划建设并出资兴建自己的数据中心。这家交易巨头正在扩大业务，以跟上对计算能力的需求。 知情人士透露，这家做市商一直在与科技...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtff2149065.d.html",
-        "time": "1780601303",
+        "title": "金蝶国际获贝莱德增持2128.8万股 每股作价约7.28港元",
+        "intro": "香港联交所最新数据显示，5月29日，贝莱德增持金蝶国际（00268）2128.8万股，每股作价7.2751港元，总金额约为1.55亿港元。增持后最新持股数目约为2.55亿股，持股比例为7...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-05/detail-iniaicux9799077.d.html",
+        "time": "1780616748",
         "source": "新浪新闻"
       },
       {
-        "title": "真主党拒绝美方斡旋达成的停火协议，以色列继续推进攻势",
-        "intro": " 黎巴嫩真主党领导人拒绝以色列与黎巴嫩政府在美国斡旋下达成的最新停火协议，与此同时，以色列仍在黎巴嫩南部与东部持续针对这支武装组织展开军事攻势。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtff2148267.d.html",
-        "time": "1780600839",
+        "title": "算力能源装备，订单突破！产能严重不足，价格看涨（附股）",
+        "intro": "算力产业“军备竞赛”，燃气轮机订单大爆发。 周四（6月4日），燃气轮机概念股突然爆发，博盈特焊、中国动力、联德股份、杰瑞股份等涨停，万泽股份、应流股份等跟涨。",
+        "url": "https://finance.sina.cn/2026-06-05/detail-iniaicuw3021997.d.html",
+        "time": "1780616400",
         "source": "新浪新闻"
       },
       {
-        "title": "Toro上调2026财年展望：AMP计划驱动利润率，预计销售增长4%-6.5%",
-        "intro": "草坪及高尔夫设备制造商Toro公司周四发布第二财季业绩报告，并上调全年业绩指引。公司现预计2026财年调整后每股收益为4.50至4.62美元，净销售增长率为4%至6.5%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtff2148249.d.html",
-        "time": "1780600826",
+        "title": "最新！士兵被打死，以色列继续空袭！黎真主党拒绝停火！俄乌，突传重磅！油价大跌",
+        "intro": "来源：期货日报 早上好，先来关注下最新消息。 以色列继续空袭黎巴嫩 央视新闻援引黎巴嫩方面消息，当地时间6月4日，以色列军队当天继续对黎南部和东部贝卡谷地发动一系列...",
+        "url": "https://finance.sina.cn/futuremarket/qsyw/2026-06-05/detail-iniaicux9798089.d.html",
+        "time": "1780616365",
         "source": "新浪新闻"
       },
       {
-        "title": "旧金山联储行长戴利：AI生产率提升\"无处不在，唯独不在数据中\"",
-        "intro": "旧金山联储行长玛丽·戴利周四在彭博科技大会上发表讲话时，对人工智能的经济影响提出了一个耐人寻味的观察：尽管AI技术正在各行各业迅速普及...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtff2148183.d.html",
-        "time": "1780600782",
+        "title": "操盘必读：影响股市利好或利空消息_2026年6月5日_财经新闻",
+        "intro": "宏观新闻 1、外交部发言人毛宁昨日主持例行记者会。有记者提问称，日前欧委会全体会议讨论对华关系，有观点认为中欧贸易和投资状况“不可持续”，欧盟应对华“去风险”。",
+        "url": "https://finance.sina.cn/2026-06-05/detail-iniaicuz1936518.d.html",
+        "time": "1780616197",
         "source": "新浪新闻"
       },
       {
-        "title": "亚马逊Prime正式登陆南非，电商版图继续扩张",
-        "intro": "亚马逊近日宣布在南非正式推出Prime会员服务，南非由此成为全球第27个享有该完整会员权益的国家。这一举措标志着这家电商巨头在进军南非市场两年后...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfc9991271.d.html",
-        "time": "1780600737",
+        "title": "在中东事态发展喜忧参半之际，油价小幅走低",
+        "intro": "在中东事态发展喜忧参半之际，油价在早盘交易中小幅走低。澳新银行研究部分析师在一份研究报告中称，一方面，“以色列和黎巴嫩宣布停火，这让人们燃起希望...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniaicux9795682.d.html",
+        "time": "1780616179",
         "source": "新浪新闻"
       },
       {
-        "title": "梅西百货成最后赢家：交出多年来最佳季报，竞争对手黯然失色",
-        "intro": "在传统百货行业持续洗牌的背景下，梅西百货凭借一份多年未见的亮眼财报证明了自己的韧性。公司一季度业绩全面超预期，并随即上调了全年指引，股价应声大涨...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtff2148005.d.html",
-        "time": "1780600680",
+        "title": "黄金交易提醒：中东停火惊现转机！金价反弹近1%，伊朗和平曙光能否点燃新一轮牛市？",
+        "intro": "汇通财经APP讯——全球黄金市场在周四（6月4日）迎来显著反弹，现货黄金盘中一度触及4515美元/盎司高位，最终收报4475美元/盎司，涨幅接近1%。",
+        "url": "https://finance.sina.cn/forex/whzx/2026-06-05/detail-iniaicuw3019461.d.html",
+        "time": "1780616160",
         "source": "新浪新闻"
       },
       {
-        "title": "高盛上调Plains All American评级，看好温和改善的增长前景",
-        "intro": "高盛周四将Plains All American Pipeline的股票评级从“卖出”上调至“中性”，并将目标价从18美元大幅上调至24美元，理由是该公司的增长前景正在温和改善...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtff2147935.d.html",
-        "time": "1780600635",
+        "title": "日本实际工资连续第四个月上涨 为日央行加息提供支撑",
+        "intro": "日本劳动者实际工资连续第四个月走高，创下四年以来最长连涨周期，利好日本央行本月加息。日本厚生劳动省周五公布数据：剔除通胀后的实际工资同比上涨1.9%，较上月修正值1...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniaicva8711160.d.html",
+        "time": "1780616149",
         "source": "新浪新闻"
       },
       {
-        "title": "Alvotech再次向FDA提交强生Simponi和再生元Eylea生物类似药上市申请",
-        "intro": "冰岛生物制药公司Alvotech周四宣布，已再次向美国食品药品监督管理局(FDA)提交两款生物类似药的生物制剂许可申请，分别针对强生的Simponi和再生元的Eylea。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfh8923892.d.html",
-        "time": "1780600585",
+        "title": "股海导航_2026年6月5日_沪深股市公告与交易提示",
+        "intro": "【停牌】 无  【复牌】 300685 艾德生物 002969 嘉美包装 【品大事】 东材科技：公司主导产品的原材料采购价格与国际原油价格密切相关...",
+        "url": "https://finance.sina.cn/stock/ssgs/2026-06-05/detail-iniaicva8711265.d.html",
+        "time": "1780615971",
         "source": "新浪新闻"
       },
       {
-        "title": "美国国家安全局正在借助Anthropic旗下Mythos大模型实施网络攻防作业",
-        "intro": " 尽管正与美国国防部陷入司法纠纷，人工智能企业Anthropic仍协助美国国家安全局部署其高性能Mythos大模型用于进攻性网络作战，并向国安局派驻技术工程师驻场落地技术。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfh8923870.d.html",
-        "time": "1780600575",
+        "title": "xAI要求Grok深度伪造色情图像案原告以真实姓名起诉",
+        "intro": " 法庭文件显示，马斯克旗下人工智能公司xAI已向法院提交申请，要求四名原告在一项涉及Grok深度伪造色情图像的拟议集体诉讼中，以真实姓名提起诉讼。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniaicva8710355.d.html",
+        "time": "1780615950",
         "source": "新浪新闻"
       },
       {
-        "title": "ISS逆转立场支持迁册开曼，高盛上调Expro评级至买入",
-        "intro": "能源服务公司Expro Group Holdings周四股价上涨逾7%，此前该公司接连迎来两项利好：代理投票顾问机构ISS逆转此前立场，支持公司将注册地从荷兰迁至开曼群岛的提案；高盛将...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfc9990703.d.html",
-        "time": "1780600446",
+        "title": "四大证券报头版头条内容精华摘要_2026年6月5日_财经新闻",
+        "intro": "6月5日（星期五），今日报刊头条主要内容精华如下： 中国证券报 多只热门牛股 密集提示风险 6月4日晚间，华特气体、江海股份、鼎通科技等多只热门股密集发布股票交易异常波...",
+        "url": "https://finance.sina.cn/stock/ywgg/2026-06-05/detail-iniaicux9794236.d.html",
+        "time": "1780615842",
         "source": "新浪新闻"
       },
       {
-        "title": "“AI例外主义”蔓延至美国以外，全球AI投资热潮升温",
-        "intro": "近年来，由人工智能驱动的美股牛市引发了市场对“AI例外主义”的讨论，即认为AI技术及其投资机会主要集中在美国科技巨头身上。然而，最新数据和市场动态显示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfc9990534.d.html",
-        "time": "1780600389",
+        "title": "国融基金：获股东增资3000万元，管理规模缩水至不足15亿元",
+        "intro": "来源：面包财经 6月3日，国融基金披露注册资本变更公告，股东国融证券、上海谷若投资中心（有限合伙）合计向公司增资3000万元，增资完成后，国融基金注册资本将由2...",
+        "url": "https://finance.sina.cn/2026-06-05/detail-iniaicux9799927.d.html",
+        "time": "1780615800",
         "source": "新浪新闻"
       },
       {
-        "title": "高盛预测：到2030 年SpaceX的人工智能业务营收将增至当前的 100 倍",
-        "intro": " 据牵头投行高盛给出的预测数据，SpaceX想要在首次公开募股（IPO）时达成1.78万亿美元估值，核心依托在于旗下人工智能板块营收至2030年暴涨约100倍。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfc9990431.d.html",
-        "time": "1780600341",
+        "title": "美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
+        "intro": " NOTUS援引三位知情人士报道，美国高级官员已与多家大型人工智能公司进行初步讨论，探讨联邦政府收购这些公司部分股份的可能性。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniaicux9792786.d.html",
+        "time": "1780615683",
         "source": "新浪新闻"
       },
       {
-        "title": "PVH发布全年业绩指引：预计每股收益11.80至12.10美元，营收持平",
-        "intro": "拥有Calvin Klein和Tommy Hilfiger两大品牌的服装巨头PVH集团近日公布了2026财年第一季度业绩并更新了全年展望。公司预计全年营收同比基本持平，非GAAP每股收益维持在11..",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfa3213183.d.html",
-        "time": "1780600326",
+        "title": "中信建投：港股本轮主升浪正在确立",
+        "intro": "中信建投证券研究文|黄文涛 何盛 自3月底我们提出港股阶段性配置机会以来，港股已逐步完成阶段性探底，并在4月TACO交易后构筑中期底部。",
+        "url": "https://finance.sina.cn/2026-06-05/detail-iniaicuw3018384.d.html",
+        "time": "1780615560",
         "source": "新浪新闻"
       },
       {
-        "title": "数据中心业务潜力受关注，Hyliion股价创52周新高",
-        "intro": " Hyliion Holdings股价周四跳涨逾15%，盘中触及7.48美元的52周新高。投资者对该公司KARNO发电模块在数据中心领域的应用前景表现出浓厚兴趣，推动该股延续近期强劲涨势。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfh8923331.d.html",
-        "time": "1780600272",
+        "title": "谷歌正在其云部门悄悄进行裁员",
+        "intro": "两名知情人士对媒体表示，过去两周在Google Cloud任职的员工已遭裁员。 知情人士称，谷歌旗下顶级安全部门之一、定期发布黑客研究报告的威胁情报小组（Threat...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniaicuz1932578.d.html",
+        "time": "1780615505",
         "source": "新浪新闻"
       },
       {
-        "title": "黑石限制旗舰基金赎回，私人资产担忧重现",
-        "intro": "周四，黑石集团宣布，在投资者赎回申请激增后，将限制其旗舰基金的赎回额度。此前一天，瑞士合众集团表示正在限制旗下某欧洲私募股权工具的赎回请求...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtff2146901.d.html",
-        "time": "1780600065",
+        "title": "6月5日财经早餐：黎以达成停火协议，金价4470附近静待非农，油价回落超3%",
+        "intro": "汇通财经APP讯——周五（北京时间6月5日）亚市早盘，现货黄金交投于4469美元/盎司附近，金价周四上涨，主要受以色列与黎巴嫩达成停火协议推动...",
+        "url": "https://finance.sina.cn/forex/whzx/2026-06-05/detail-iniaicva8709324.d.html",
+        "time": "1780615500",
         "source": "新浪新闻"
       },
       {
-        "title": "美国WTI原油下跌3%，报道称特朗普不愿重启与伊朗的战争",
-        "intro": "据一则报道称，由于美国总统唐纳德·特朗普不愿在近期冲突后与伊朗重启全面战争，油价周四下跌约3%。 西得克萨斯中质原油期货下跌3.1%，收于每桶93.04美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtff2146778.d.html",
-        "time": "1780600008",
+        "title": "凌晨，飙涨超970点！“老登股”，大反攻！特朗普，重大利好！",
+        "intro": "美股“老登股”全线反攻。 昨夜今晨，美股三大指数集体拉升，道指一度飙涨超970点，创出历史新高，医疗、金融、房地产等传统板块全线收涨；纳指小幅收跌0.09%...",
+        "url": "https://finance.sina.cn/2026-06-05/detail-iniaicuw3015624.d.html",
+        "time": "1780615500",
         "source": "新浪新闻"
       },
       {
-        "title": "摩根士丹利上调目标价 休曼纳股价逆势涨超6%",
-        "intro": " 健康保险公司休曼纳股价周四上涨超过6%。尽管摩根士丹利维持对该股的“低配”评级，但该行将目标价从每股217美元上调至249美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-05/detail-iniahtfa3211928.d.html",
-        "time": "1780599822",
+        "title": "ADP火热、小企业招聘意愿遇冷！美国就业数据“打架” 市场紧盯5月非农报告",
+        "intro": "根据美国全国独立企业联合会（NFIB）公布的数据，5月份，美国小企业中计划招聘新员工或表示难以填补职位空缺的企业占比降至六年来最低水平。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-05/detail-iniaicuw3017412.d.html",
+        "time": "1780615409",
         "source": "新浪新闻"
       }
     ]
