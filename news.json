@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T18:12:39.989Z",
+  "updated": "2026-06-06T20:14:58.144Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,27 @@
     ],
     "finance": [
       {
+        "title": "美国国家劳资关系委员会多项裁定认定星巴克违反劳工法",
+        "intro": " 美国国家劳资关系委员会上周五作出两项裁定：其一，星巴克单方面调整着装规定的执行标准，未留出协商空间，违反联邦劳工法；其二，该咖啡品牌违规盘问员工是否参与罢工。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-07/detail-iniapfmc0226407.d.html",
+        "time": "1780774930",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国廉价航空公司Breeze Airways计划于2027年上市",
+        "intro": " 美国国内低成本航空公司Breeze Airways首席执行官大卫·尼尔曼周六表示，该公司计划于2027年进行首次公开募股（IPO），但他指出该计划取决于市场状况。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-07/detail-iniapfme7001487.d.html",
+        "time": "1780774452",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "双线资本、橡树资本为人工智能行业潜在风险布局信贷资产",
+        "intro": "当下人工智能热潮若演变为信贷危机，双线资本、橡树资本等知名信贷机构正着手配置具备抗风险能力的债券资产。 投资人工智能相关债券存在不小难度...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-07/detail-iniapfme6998266.d.html",
+        "time": "1780772792",
+        "source": "新浪新闻"
+      },
+      {
         "title": "五角大楼：以色列带来的间谍威胁持续加剧",
         "intro": " 美国近期多份情报报告指出，以色列情报机构持续监听负责斡旋美伊和平协议的美方谈判人员，以色列带来的整体反间谍风险也随之攀升，引发美方担忧。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-07/detail-inianzca1544046.d.html",
@@ -559,27 +580,6 @@
         "title": "1,3-二氯丙烯商品报价动态（2026-06-06）",
         "intro": "生意社06月06日讯交易商品牌/产地交货地最新报价1，3-二氯丙烯 国标武汉市恒久化工有限公司国产湖北省9800.0元/吨 （文章来源：生意社）",
         "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-06-06/detail-iniankfq7431120.d.html",
-        "time": "1780740720",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "异丙基羟胺商品报价动态（2026-06-06）",
-        "intro": "生意社06月06日讯交易商品牌/产地交货地最新报价异丙基羟胺 含量≥15%，200kg/塑料桶武汉市恒久化工有限公司峰泉山水湖北省16000.0元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-06-06/detail-iniankfk1851490.d.html",
-        "time": "1780740720",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "2甲4氯异辛酯商品报价动态（2026-06-06）",
-        "intro": "生意社06月06日讯交易商品牌/产地交货地最新报价2甲4氯异辛酯 国标武汉市恒久化工有限公司国产湖北省22700.0元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-06-06/detail-iniankfk1852215.d.html",
-        "time": "1780740720",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "氯甲酸二甘醇酯商品报价动态（2026-06-06）",
-        "intro": "生意社06月06日讯交易商品牌/产地交货地最新报价氯甲酸二甘醇酯 国标武汉市恒久化工有限公司国产湖北省88200.0元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-06-06/detail-iniankfk1852253.d.html",
         "time": "1780740720",
         "source": "新浪新闻"
       }
