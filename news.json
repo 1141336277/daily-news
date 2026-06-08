@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T21:56:07.933Z",
+  "updated": "2026-06-08T23:18:11.281Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,90 @@
     ],
     "finance": [
       {
+        "title": "标普下调捷蓝航空评级至“CCC+”，因燃油价格上涨阻碍其复苏",
+        "intro": " 全球评级机构标普周一表示，已将捷蓝航空的评级从“B-”下调至“CCC+”，进一步跌入垃圾级区间，因为高昂的航空燃油成本阻碍了其复苏。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniauefa3386115.d.html",
+        "time": "1780960459",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "四大证券报头版头条内容精华摘要_2026年6月9日_财经新闻",
+        "intro": "6月9日（星期二），今日报刊头条主要内容精华如下： 中国证券报 电子布“年内已实现5轮涨价”刷屏 上市公司独家回应 6月8日，电子布“年内已实现5轮涨价”刷屏财经圈。",
+        "url": "https://finance.sina.cn/stock/ywgg/2026-06-09/detail-iniaueff2058388.d.html",
+        "time": "1780960206",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "多家公募解析市场调整：短期休整不改科技牛中期主线，资金转向红利与高股息避险",
+        "intro": "6月8日，A股遭遇明显调整，上证指数失守4000点，收跌1.70%，创业板指大跌3.69%。盘面上，AI硬件、半导体、CPO等前期强势的科技板块全线回调，银行...",
+        "url": "https://finance.sina.cn/fund/jjyc/2026-06-09/detail-iniauefa3383281.d.html",
+        "time": "1780960174",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "韩国一季度GDP环比增长1.8%，创五年多来最快增速",
+        "intro": "韩国央行周四公布的数据显示，受强劲出口和稳健内需的支撑，韩国今年第一季度增速创五年多来最快。 韩国央行初步数据显示，1月至3月实际国内生产总值（GDP）环比增长1.8%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniaueff2056941.d.html",
+        "time": "1780960162",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗和以色列同意暂停交火 特朗普寻求避免局势升级",
+        "intro": " 伊朗和以色列同意暂缓对彼此的打击，此前双方暴力冲突升级，对和平谈判构成威胁，并促使美国总统唐纳德·特朗普呼吁局势降温。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniauefa3376471.d.html",
+        "time": "1780959092",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月9日隔夜要闻：特朗普将宣布对伊取得全面胜利 苹果发布新一代AI平台 英特尔获谷歌300万颗TPU大单",
+        "intro": "市场 6月9日收盘：道指连续第二日收跌 芯片股推动纳指与标普指数反弹 6月9日美股成交额前20：英特尔获谷歌300万颗TPU大单 6月9日热门中概股涨跌不一 日月光半导体涨4.29%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniatxxe3489781.d.html",
+        "time": "1780957855",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "消费前先查一查，别被食品标签的宣传忽悠了",
+        "intro": "最近，一条关于盒马麻薯的热搜让不少消费者心头一紧——有消费者在盒马APP上购买了一款双拼麻薯，商品详情页醒目标注着“58%纯脂黑巧克力”，但孩子吃下后仔细查看配料表...",
+        "url": "https://finance.sina.cn/consume/shxf/2026-06-09/detail-iniaswmk8669793.d.html",
+        "time": "1780957800",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普：将在未来两周内宣布对伊战争取得全面胜利",
+        "intro": "美国总统特朗普表示，美国将在未来两周内宣布对伊朗战争取得“全面胜利”。 特朗普称，胜利将“很快”到来，届时油价将下跌。 特朗普表示，伊朗愿意同意不拥有核武器...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniatxxa6709595.d.html",
+        "time": "1780956322",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "通用汽车车轴供应商的罢工仍在继续",
+        "intro": "据当地工会官员透露，通用汽车卡车的一家主要供应商周一进入罢工第二周，美国汽车工人联盟与道奇公司仍未能达成协议。 “很遗憾，我们刚刚离开了谈判桌。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniatxxi2163133.d.html",
+        "time": "1780956140",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Meta推出“劳工学院”，培训数据中心建设工人",
+        "intro": "Meta Platforms表示，在熟练技术工人成为紧俏资源之际，该公司正在创办一个“劳工学院”，培训美国人建设其数据中心。该公司表示，这项为期五周的培训计划是与世邦魏理仕（CB...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniatxxf5385938.d.html",
+        "time": "1780955933",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "沃尔玛又一位高管离职",
+        "intro": "随著新领导层对公司进行改革，沃尔玛更多高管相继离职。 沃尔玛计划在周一下午宣布戴安娜·马歇尔（Diana Marshall）的离职，马歇尔是沃尔玛旗下仓储式会员店山姆会员商店的...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniatxxf5385474.d.html",
+        "time": "1780955843",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "FDA准辉瑞公司一款用于治疗儿童出血性疾病的药物",
+        "intro": " 辉瑞公司周一表示，美国食品药品监督管理局（FDA）已批准其药物Hympavzi用于预防或减少儿童及部分血友病患者的出血发作频率。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniatxxi2161145.d.html",
+        "time": "1780955769",
+        "source": "新浪新闻"
+      },
+      {
         "title": "纽约汇市：美元指数涨势逆转 中东紧张局势降温",
         "intro": " 美元指数周一下跌，此前一度触及两个月高点。伊朗和以色列同意暂停交火，缓解了市场对和平谈判受挫的担忧，油价和债券收益率均从盘中高点回落。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniatxxa6704768.d.html",
@@ -497,90 +581,6 @@
         "intro": "根据提交给美国参议院的提名通知，白宫表示，总统特朗普已提名Todd Blanche出任司法部长。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniatxxi2131437.d.html",
         "time": "1780949769",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "黄仁勋拒绝赴参院作证 沃伦要求其公开回应质询",
-        "intro": "美国参议员伊丽莎白·沃伦在声明中表示：“我感谢黄先生的回应，但美国民众理应在公开场合得到答案。” 此前，英伟达首席执行官黄仁勋拒绝了沃伦邀请他在本周晚些时候于参议院...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniatxxi2131371.d.html",
-        "time": "1780949743",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "6月9日收盘：道指连续第二日收跌 芯片股推动纳指与标普指数反弹",
-        "intro": "北京时间6月9日凌晨，美股周一收盘涨跌不一，道指收跌，纳指与标普500指数反弹。芯片股在上周遭遇猛烈抛售后企稳。市场继续关注持续发酵的中东紧张局势...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniatxxf5353012.d.html",
-        "time": "1780949183",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "苹果发布新一代AI平台及升级版Siri 投资者反应平平",
-        "intro": "为了追赶硅谷同行，苹果公司周一发布新一代AI平台，包括升级版数字助手Siri，但投资者对此反应平淡。 苹果软件业务负责人Craig Federighi在全球开发者大会主题演讲中介绍了...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniattre6795985.d.html",
-        "time": "1780948691",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "周一美股半导体股收复部分失地",
-        "intro": "半导体股在周一抹去了此前一个交易日的部分跌幅。iShares半导体ETF（SOXX）在午盘交易中跃升近7%，有望创下一年多来的最佳单日表现。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniattri5481507.d.html",
-        "time": "1780948686",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "一文看懂苹果WWDC26：库克谢幕，系统提速，Siri终于聪明了？",
-        "intro": " 北京时间6月9日凌晨，苹果一年一度的WWDC开发者大会如约而至。今年的WWDC26堪称“最不按常理出牌”的一届，同时这也是现任CEO库克的“谢幕演出”。",
-        "url": "https://finance.sina.cn/tech/2026-06-09/detail-iniattrh3573081.d.html",
-        "time": "1780948667",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Needham上调渤健评级，看好产品线前景改善",
-        "intro": "Needham &amp; Company已改变对渤健（Biogen）的观望态度，将该生物科技公司的股票评级从“持有”上调至“买入”，并于周一生效。该机构给出的新目标价为255美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniattrh3572819.d.html",
-        "time": "1780948609",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "新研究：社区健康指导加持“食养”方案，显著提升2型糖尿病患者身心健康水平",
-        "intro": "新奥尔良——在2026年美国糖尿病协会第86届科学会议上公布的一项最新研究显示，参与雅培“食物即药物”（Food is Medicine）项目的成年2型糖尿病患者...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniattrm2256932.d.html",
-        "time": "1780948530",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "渤健阿尔茨海默症新药二期试验未达主要终点，多家律所启动证券欺诈调查",
-        "intro": "生物技术巨头渤健公司（Biogen Inc．，纳斯达克代码：BIIB）正面临多家股东权益律师事务所的证券欺诈调查。继2026年5月14日披露其tau靶向反义寡核苷酸疗法diranersen的二期...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniattrm2255126.d.html",
-        "time": "1780948150",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Oculis三期临床试验失败致股价暴跌，多家律所启动证券欺诈调查",
-        "intro": "生物制药公司Oculis Holding AG（纳斯达克代码：OCS）正面临多家股东权益律师事务所的证券欺诈调查。继2026年5月29日披露其核心候选药物OCS-01的两项三期临床试验失败后...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniattri5478581.d.html",
-        "time": "1780948024",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "科睿唯安任命Simon Webster为知识产权部门总裁",
-        "intro": "科睿唯安（Clarivate Plc，纽约证券交易所代码：CLVT）近日宣布，Simon Webster将于2026年6月10日出任公司知识产权（IP）部门总裁...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniattre6792378.d.html",
-        "time": "1780947963",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "标普全球携手Cohere，为金融机构打造可信AI智能体工作流",
-        "intro": "标普全球公司（S&amp;P Global，纽约证券交易所代码：SPGI）近日宣布与加拿大AI公司Cohere达成战略合作，将其金融数据整合至Cohere的企业级AI平台North中...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniattrm2254106.d.html",
-        "time": "1780947908",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "半导体泰斗Nicholas Donofrio加入Corvex董事会，助力AI业务发展",
-        "intro": "Corvex， Inc．（纳斯达克代码：MOVE）近日宣布，半导体与计算行业资深专家Nicholas M． Donofrio将在公司即将召开的年度股东大会上当选后加入董事会。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniattre6790422.d.html",
-        "time": "1780947649",
         "source": "新浪新闻"
       }
     ]
