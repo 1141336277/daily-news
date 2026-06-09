@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T12:10:11.803Z",
+  "updated": "2026-06-09T16:08:35.694Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -20,6 +20,20 @@
   "news": {
     "hot": [
       {
+        "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
+        "intro": "“破坏公平，就该受到惩罚”，这几乎是所有人心中的共识。\n  但在聚集了数千万乃至上亿参与者的游戏竞技场里，作弊行为的边界却显得模糊。\n  在网络游戏领域，作弊有一个更广为人知的称呼：“开外挂”。它包含",
+        "url": "<![CDATA[https://36kr.com/p/3846046471277059?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
+      {
+        "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
+        "intro": "大公司：\n  猫眼娱乐：作为首批内测开发者接入微信AI生态布局\n  36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为",
+        "url": "<![CDATA[https://36kr.com/p/3845899768760580?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
+      {
         "title": "累计在轨23万小时零失效，星载光电赛道跑出一匹黑马｜36氪首发",
         "intro": "文&nbsp;|&nbsp;阿至\n  封面来源｜Pexels\n  星载组合光纤放大器，一个藏在卫星激光通信终端里的“隐形赛道”，随着国内低轨星座进入规模化部署倒计时，正在悄然升温。\n  36氪获悉，星",
         "url": "<![CDATA[https://36kr.com/p/3845819328023043?f=rss]]>",
@@ -37,20 +51,6 @@
         "title": "康养地产的“闭环”，北京山谷找到了",
         "intro": "当一个行业的概念产出远超实际交付时，外界的审视就变得格外重要。\n  环京康养地产就是典型。过去几年，打着康养旗号的项目遍地开花。但绝大多数最终倒在同一个地方——交付。配套缩水、运营停滞、社区空置，成了",
         "url": "<![CDATA[https://36kr.com/p/3845553021880840?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
-        "intro": "作者&nbsp;|&nbsp;邱晓芬\n  编辑&nbsp;|&nbsp;袁斯来\n  6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC 20",
-        "url": "<![CDATA[https://36kr.com/p/3845356968839680?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
-        "intro": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，苏州墨锋新材料科技有限公司（下称“墨锋科技”）近日完成新一轮千万元融资，由险峰基金、成都科创投集团投资，资",
-        "url": "<![CDATA[https://36kr.com/p/3845295918909954?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "SailPoint发布疲弱全年指引 股价重挫逾12%",
-        "intro": " 身份安全软件公司SailPoint周二盘前股价大跌超过12%，尽管公司公布的第一季度财报超出市场预期，但其对全年的业绩指引未能令投资者满意。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavmyp4938538.d.html",
-        "time": "1781006915",
+        "title": "午盘：美股回吐涨幅，芯片股再度下挫",
+        "intro": " 北京时间6月10日凌晨，美股周二午盘走低。芯片股在经历一日反弹后失去了上涨势头。油价下跌推动原材料和非必需消费品板块逆势上扬。市场继续关注中东局势的最新发展。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniavshm4926944.d.html",
+        "time": "1781021233",
         "source": "新浪新闻"
       },
       {
-        "title": "高盛：世界杯将给美国6月新增4万就业 零售额外增长0.3个百分点",
-        "intro": "来源：财联社 随着四年一度的世界杯临近，高盛估计，2026年世界杯将为美国就业市场在6月新增约4万个就业岗位，但随着世界杯结束，临时岗位被逐步取消...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavmyp4937967.d.html",
-        "time": "1781006828",
+        "title": "SpaceX发布首颗轨道数据中心卫星，马斯克称其“比星链卫星简易得多”",
+        "intro": "SpaceX于周一晚间在 X 平台发布视频，正式公布第一代轨道数据中心卫星，命名为 AI1。此次发布是该公司推进核心重大项目的第一步，而本周五 SpaceX...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniavshh6296880.d.html",
+        "time": "1781021033",
         "source": "新浪新闻"
       },
       {
-        "title": "CNBC调查：51%美国成年人认为当下大多数人难以实现美国梦",
-        "intro": " 消费者新闻与商业频道（CNBC）联合在线调研平台 SurveyMonkey 开展全新《美国梦实时追踪调查》，结果显示，略超半数美国人认为，当下大多数人都触不可及美国梦。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavmyr1713476.d.html",
-        "time": "1781006807",
+        "title": "摩根大通警示民众抵御物价上涨的缓冲空间正在收窄",
+        "intro": "美国消费需求依旧坚挺，但摩根大通高管玛丽安・莱克表示，支撑美国家庭财务状况的各类缓冲因素正逐步消退。 莱克执掌摩根大通规模庞大的消费者与社区银行业务...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshp1698841.d.html",
+        "time": "1781020737",
         "source": "新浪新闻"
       },
       {
-        "title": "高盛上调减肥药市场预测：口服GLP-1进入大众市场，2030年规模将达1140亿美元",
-        "intro": "来源：财联社  随着口服GLP-1类减肥药快速打开市场，高盛进一步提高了对全球肥胖症药物行业的增长预期。 高盛最新发布的研究报告显示，预计到2030年...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavmyp4937396.d.html",
-        "time": "1781006759",
+        "title": "SpaceX受热捧 IPO吸引到的机构投资者需求是供发售股份的数倍",
+        "intro": " 据知情人士透露，SpaceX首次公开募股吸引到的机构投资者需求是供发售股份的数倍。这家由马斯克领导的火箭、卫星和人工智能公司上市日期日益临近。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshk3071750.d.html",
+        "time": "1781020539",
         "source": "新浪新闻"
       },
       {
-        "title": "斯马克财报超预期，股价大涨3.5%",
-        "intro": "美国食品巨头斯马克公司周二公布2026财年第四季度财报，各项指标均超出市场预期，股价应声上涨3.5%。 财报显示，在截至4月30日的季度中，斯马克调整后每股收益为2.77美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavmyr1712666.d.html",
-        "time": "1781006729",
+        "title": "欧盟监管机构勒令元宇宙向竞品AI聊天机器人免费开放WhatsApp接口",
+        "intro": "欧盟反垄断监管机构周二向元平台（Meta）下达指令，要求其向竞品 AI 聊天机器人免费开放 WhatsApp 相关接口。目前监管部门仍在调查该企业是否通过屏蔽竞争对手接入这款通讯...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshh6294481.d.html",
+        "time": "1781020529",
         "source": "新浪新闻"
       },
       {
-        "title": "华安基金：创业板50指数聚焦四大新质生产力赛道",
-        "intro": "行情回顾及主要观点： 上周A股市场整体呈现下跌趋势：沪深300跌1.54%，中证500跌1.30%，中证1000跌0.81%，创业板50跌2.06%，科创50跌4.74%。",
-        "url": "https://finance.sina.cn/fund/jjsy/2026-06-09/detail-iniavmyr1712217.d.html",
-        "time": "1781006680",
+        "title": "油价大跌4%创七周新低，伊朗与以色列暂停互相袭击",
+        "intro": "在美国总统唐纳德・特朗普斡旋呼吁停火后，伊朗与以色列宣布停止互相打击，受此消息影响，国际油价周二大跌约 4%。 美东时间上午 10 点 28 分（格林尼治标准时间...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshh6293790.d.html",
+        "time": "1781020385",
         "source": "新浪新闻"
       },
       {
-        "title": "中东冲突导致霍尔木兹海峡流量骤降 全球油市现“秘密流动”维持相对平稳",
-        "intro": "尽管中东冲突导致全球最关键的能源通道霍尔木兹海峡遭遇历史性供应冲击，但国际石油期货市场近期并未出现此前预测的剧烈飙升，整体表现相对平稳。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavmyk6309271.d.html",
-        "time": "1781006541",
+        "title": "Apple Hospitality REIT公布2026年第二季度财报发布及电话会议日期",
+        "intro": "Apple Hospitality REIT， Inc．（纽约证券交易所代码：APLE）周二宣布，计划于美国东部时间2026年8月5日（星期三）收盘后发布2026年第二季度财务业绩...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshp1695559.d.html",
+        "time": "1781020170",
         "source": "新浪新闻"
       },
       {
-        "title": "葛兰素史克百亿收购Nuvalent，肺癌靶向药管线再落重子",
-        "intro": " 英国制药巨头葛兰素史克周二宣布，已达成协议以106亿美元收购美国生物技术公司Nuvalent。受此消息刺激，Nuvalent股价盘前大涨近39%，逼近每股124美元的收购报价。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavmyp4934270.d.html",
-        "time": "1781006459",
+        "title": "Werner荣获FreightWaves 2026年度“反欺诈斗士奖”",
+        "intro": "美国知名运输与物流服务商Werner Enterprises近日被授予FreightWaves 2026年度“反欺诈斗士奖”，以表彰其在供应链安全领域的创新成果。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshp1694972.d.html",
+        "time": "1781020065",
         "source": "新浪新闻"
       },
       {
-        "title": "比特币惨烈大跌引发相关股票交易热潮，一笔大额看涨押注格外瞩目",
-        "intro": "上周五比特币自 2024 年 10 月以来首次跌破 60000 美元关键关口，目前价格重新回升至该点位上方。 这款全球规模最大的加密货币 2026 年以来累计跌幅约 27%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavfsn6438522.d.html",
-        "time": "1781006287",
+        "title": "Tetra Tech被选为水电站大坝现代化改造项目首席设计师",
+        "intro": "Tetra Tech公司周二宣布，作为Kuney Construction与J.F． Brennan联合团队的一部分，该公司已被奇兰县公用事业区选中，担任水电大坝泄洪道现代化改造项目的首席设计工程师.",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshh6291565.d.html",
+        "time": "1781019938",
         "source": "新浪新闻"
       },
       {
-        "title": "高盛、摩根大通探索算力期货交易，用作AI融资风险对冲工具",
-        "intro": "据知情人士透露，高盛集团与摩根大通正研究针对算力成本开展交易的方案，其中包括交易绑定图形处理器（GPU）租赁价格的期货合约。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavfsr5063691.d.html",
-        "time": "1781006276",
+        "title": "Navan推出“Anywhere”跨平台差旅功能，首站集成Gemini Enterprise",
+        "intro": "全球AI驱动的商务差旅与费用管理平台Navan周二宣布推出“Navan Anywhere”计划，旨在将Navan直接嵌入员工日常使用的工具中，让用户能够在任何平台...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshp1693538.d.html",
+        "time": "1781019851",
         "source": "新浪新闻"
       },
       {
-        "title": "股市从抛售行情中企稳回升，但即便是多头也警示前路波动难平",
-        "intro": "核心要点上周五全球股市遭遇科技股大幅抛售，本周各大股指初步显现复苏迹象。尽管市场有所回暖，但投资者提醒，大盘仍极易出现剧烈震荡。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavfsr5062054.d.html",
-        "time": "1781006078",
+        "title": "美国北方信托公司任命Rebekah Rice为坦帕湾市场负责人",
+        "intro": "美国北方信托财富管理公司周二宣布，任命Rebekah Rice为坦帕湾市场高级董事总经理，负责领导该地区的战略增长、客户体验及整体市场表现。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshp1692263.d.html",
+        "time": "1781019699",
         "source": "新浪新闻"
       },
       {
-        "title": "德国工业产值自伊朗战争爆发以来首次实现增长",
-        "intro": "自伊朗战争爆发以来，德国工业产出首次实现增长，这增强了市场对于欧洲最大经济体能够承受能源成本上涨冲击的希望。 德国联邦统计局周二表示，受建筑业带动...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavfsq3213816.d.html",
-        "time": "1781006023",
+        "title": "UHG证券欺诈诉讼首席原告申请周二夜间截止",
+        "intro": "投资者权益律师事务所Faruqi &amp; Faruqi， LLP近日提醒投资者，针对United Homes Group， Inc．（纳斯达克代码：UHG）的证券集体诉讼首席原告申请截止日期为20",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshk3065432.d.html",
+        "time": "1781019580",
         "source": "新浪新闻"
       },
       {
-        "title": "广东：鼓励银行机构针对二手车出口企业开发金融产品",
-        "intro": "人民财讯6月9日电，广东省商务厅等11部门印发《广东省加强二手车出口管理若干措施》，其中提出，加大金融支持力度。鼓励银行机构针对二手车出口企业开发金融产品...",
-        "url": "https://finance.sina.cn/2026-06-09/detail-iniavfst1833946.d.html",
-        "time": "1781005500",
+        "title": "Ensign集团遭做空报告重创，多家律所启动证券欺诈调查",
+        "intro": "专业养老护理机构运营商Ensign集团近日遭遇重大危机。做空机构Hunterbrook Media于6月8日发布报告，指控该公司的商业模式依赖于对患者的不充分护理...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshk3064536.d.html",
+        "time": "1781019511",
         "source": "新浪新闻"
       },
       {
-        "title": "大摩闭门会最新分享：A股有非常大概率跑赢全球市场，5月外资北水净流出港股",
-        "intro": "来源：六里投资报 6月8日，摩根士丹利中国首席经济学家邢自强在周一闭门会中，围绕近期市场的剧烈震荡，分享了最新的研判。 他指出近期全球市场剧烈调整...",
-        "url": "https://finance.sina.cn/2026-06-09/detail-iniavfst1831842.d.html",
-        "time": "1781005153",
+        "title": "ZipRecruiter推出Claude集成功能，拓展AI求职服务",
+        "intro": "在线招聘平台ZipRecruiter（纽约证券交易所代码：ZIP）近日宣布推出ZipRecruiter for Claude连接器，将其数百万个职位机会引入Anthropic旗下AI助手Claude.",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshh6286609.d.html",
+        "time": "1781019436",
         "source": "新浪新闻"
       },
       {
-        "title": "丰巢取件先得看广告，客服回应：暂无法关闭",
-        "intro": "界面新闻记者 | 宋佳楠 近日，有多地市民反映，使用丰巢智能柜取件时扫码并不直接跳转取件页面，反而会弹出各类诱导广告，关闭按钮不仅位置隐蔽且常常小于5mm。",
-        "url": "https://finance.sina.cn/2026-06-09/detail-iniavfst1826877.d.html",
-        "time": "1781004900",
+        "title": "Rubrik通过收购Strata与创新“身份前滚”技术推进身份韧性建设",
+        "intro": "数据安全与AI运营公司Rubrik近日在其Rubrik FORWARD大会上宣布，通过收购身份编排公司Strata.io以及推出自主研发的“身份前滚”技术，扩展其身份韧性产品组合...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshk3063551.d.html",
+        "time": "1781019396",
         "source": "新浪新闻"
       },
       {
-        "title": "±6%！港交所，重大调整！",
-        "intro": "港交宣布将指定股票指数期货收市后交易（T+1）时段涨跌幅限制扩大至±6%。 6月9日，港交所通告，将进一步优化指定股票指数期货合约于收市后交易（T+1）时段的价格限制...",
-        "url": "https://finance.sina.cn/2026-06-09/detail-iniavfsr5050160.d.html",
-        "time": "1781004775",
+        "title": "Ensis Partners选择Intapp DealCloud与Celeste构建一流交易与关系管理基础设施",
+        "intro": " 纽约精品投资银行Ensis Partners周二宣布，已选择Intapp DealCloud与Celeste平台，为其快速发展的投资银行业务构建关系与交易管理的基础架构。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshm4912737.d.html",
+        "time": "1781019329",
         "source": "新浪新闻"
       },
       {
-        "title": "ETF日报：通信板块具有扎实的业绩支撑，全球算力基础设施建设如火如荼，关注通信ETF",
-        "intro": "今日A股全面反攻，沪指重返4000点，上涨1.28%，深证成指大涨3.02%，创业板指大涨3.93%。沪深两市成交额约2.64万亿元，较上日有所缩量。",
-        "url": "https://finance.sina.cn/fund/etf/2026-06-09/detail-iniavfst1823140.d.html",
-        "time": "1781004690",
+        "title": "地中海快餐连锁品牌CAVA 2026年计划招聘超2500名员工",
+        "intro": " 地中海快餐连锁品牌CAVA周二公布了2026年大规模扩张计划，宣布将在全美招聘超过2500名新团队成员，同时开设超过75家新餐厅，为社区带来更多就业机会。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshm4912310.d.html",
+        "time": "1781019267",
         "source": "新浪新闻"
       },
       {
-        "title": "支付机构洗牌进行时：开年至今已有4家退出市场，同步多家启动增资",
-        "intro": "界面新闻记者|林倩冰 一面是机构密集增资，一面是加速出清。近年来，支付行业洗牌加剧。 近日，联通支付有限公司（下称“联通支付”）获准增加注册资本至3亿元。",
-        "url": "https://finance.sina.cn/2026-06-09/detail-iniavfsr5047942.d.html",
-        "time": "1781004540",
+        "title": "艾睿电子推出全球体验中心，加速AI与云技术应用落地",
+        "intro": "全球技术解决方案提供商艾睿电子(Arrow Electronics)近日宣布启用全球互联的体验中心网络，旨在帮助渠道伙伴把握高增长技术应用机遇...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshp1687800.d.html",
+        "time": "1781019199",
         "source": "新浪新闻"
       },
       {
-        "title": "台积电砸钱、谷歌抢芯、光纤暴涨！AI高景气持续验证，创业板人工智能ETF华宝（159363）反弹4.72%",
-        "intro": "周二（6月9日），AI算力大反攻，光模块CPO重回强势，光模块CPO含量超50%的创业板人工智能领涨全市场AI指数。成份股大面积飘红，太辰光领涨18%，联特科技...",
-        "url": "https://finance.sina.cn/fund/etf/2026-06-09/detail-iniavfsr5045177.d.html",
-        "time": "1781004497",
+        "title": "Halper Sadeh律师事务所调查Nuvalent收购案是否损害股东利益",
+        "intro": "制药巨头葛兰素史克于6月9日宣布，将以每股124美元现金收购生物技术公司Nuvalent，交易总股本价值约106亿美元，扣除现金后总投资约为94亿美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshh6284115.d.html",
+        "time": "1781019123",
         "source": "新浪新闻"
       },
       {
-        "title": "6000亿贵州银行与7000亿贵阳银行，同期换帅",
-        "intro": "文/瑞财经 许淑敏 继贵阳银行官宣董事长张正海离职后，贵州银行也宣布董事长杨明尚离开了。 贵州省内两家头部银行，同期换帅了。",
-        "url": "https://finance.sina.cn/2026-06-09/detail-iniavfst1824770.d.html",
-        "time": "1781004476",
+        "title": "美国健康沙拉连锁企业Sweetgreen推出夏季限定菜单，首推番茄帕萨内拉沙拉",
+        "intro": "美国健康沙拉连锁企业Sweetgreen周二宣布推出全新夏季限定菜单，灵感源自人们一整年对夏天的期盼——更长的白昼、金色的阳光，以及当季巅峰风味的番茄。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshk3060462.d.html",
+        "time": "1781019015",
         "source": "新浪新闻"
       },
       {
-        "title": "收复4000点！芯片半导体强势回血，华宝基金科创芯片ETF（589190）涨超5%！港股硬科技走强，159131放量猛攻",
-        "intro": " A股三大指数今日（6月9日）集体上攻，上证指数收复4000点关口。截至收盘，上证指数指涨1.28%，深证成指涨3.02%，创业板指涨3.93%。沪深京三市成交额超2.66万亿元。",
-        "url": "https://finance.sina.cn/fund/etf/2026-06-09/detail-iniavfsq3196030.d.html",
-        "time": "1781004457",
+        "title": "金霸王在全美推出梅西限量版电池，首度将球星纹身印于电池机身",
+        "intro": "金霸王电池（Duracell ）公司近日宣布，其备受期待的梅西限量版联名电池产品已正式在全美零售渠道上架销售。此次合作是金霸王与足球巨星利昂内尔·梅西达成的标志性营销活动...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshk3059785.d.html",
+        "time": "1781018894",
         "source": "新浪新闻"
       },
       {
-        "title": "特朗普贸易团队欲重建关税壁垒，专家：警惕301关税调查",
-        "intro": "“中方一贯反对各种形式的单边关税措施。” 伴随美国法院系统的一系列判决，特朗普政府贸易团队正加紧重建关税壁垒的步伐。 近期美国贸易代表办公室（USTR）宣布了3项同301条...",
-        "url": "https://finance.sina.cn/2026-06-09/detail-iniavfsr5045337.d.html",
-        "time": "1781004325",
+        "title": "摩根资管：美股将挺过任何短暂且剧烈的回调",
+        "intro": " 摩根资产管理的Jack Caffrey表示，尽管一些信号显示美股可能涨幅过大，但企业盈利增长支撑了市场情绪，美股仍有进一步上涨空间。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshk3059442.d.html",
+        "time": "1781018836",
         "source": "新浪新闻"
       },
       {
-        "title": "硬件为王，全球共振！硬件含量80%的港股通信息技术ETF华宝（159131）放量大涨5.77%，持续跑赢恒生科技",
-        "intro": "6月9日，芯片半导体、PCB、AI PC等AI硬件板块王者归来，港股通信息C指数收涨逾3%，持续碾压恒生科技（0.55%）。同类规模最大、流动性最强*的港股通信息技术ETF华宝（159131...",
-        "url": "https://finance.sina.cn/fund/etf/2026-06-09/detail-iniavfsr5041676.d.html",
-        "time": "1781004142",
+        "title": "Rubrik推出云应用自主业务恢复解决方案",
+        "intro": "数据安全与人工智能运营公司Rubrik近日在其Rubrik FORWARD大会上宣布，推出面向云应用的自主业务恢复解决方案。该方案是一款智能网络韧性工具，旨在全面恢复云应用...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshk3058606.d.html",
+        "time": "1781018697",
         "source": "新浪新闻"
       },
       {
-        "title": "*ST闻泰：高度重视转债到期兑付工作",
-        "intro": "人民财讯6月9日电，6月9日，*ST闻泰召开2025年度暨2026年第一季度业绩说明会。公司高管介绍，关于公司被实施退市风险警示叠加其他风险警示事项，公司已制定整改方案...",
-        "url": "https://finance.sina.cn/2026-06-09/detail-iniavfsr5042621.d.html",
-        "time": "1781004120",
+        "title": "玛莎·斯图尔特与Trex达成户外生活终极合作",
+        "intro": "复合地板领域全球第一品牌Trex近日宣布与标志性的家居生活方式大师玛莎·斯图尔特达成品牌合作。此次合作源于斯图尔特本人在其纽约贝德福德庄园的户外空间改造中...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-09/detail-iniavshh6281039.d.html",
+        "time": "1781018635",
         "source": "新浪新闻"
       },
       {
-        "title": "一文看懂电子板块涨价逻辑！硅片、PCB、MLCC…赛道多点开花，华宝基金电子ETF（515260）强势拉升5.32%",
-        "intro": " 今日（6月9日）A股主要指数悉数上涨，电子板块涨幅居前，全天获主力资金净流入超441亿元，板块吸金额高居31个申万一级行业首位。",
-        "url": "https://finance.sina.cn/fund/etf/2026-06-09/detail-iniavfst1817086.d.html",
-        "time": "1781004076",
+        "title": "5月外贸增速超预期，集成电路、汽车等出口延续两位数高增长  有企业忙到连轴转",
+        "intro": "每经记者｜张怀水    每经编辑｜杜宇     6月9日，海关总署公布今年前5个月外贸数据。据海关统计，2026年前5个月，我国货物贸易进出口总值20.68万亿元人民币...",
+        "url": "https://finance.sina.cn/2026-06-09/detail-iniavshm4908558.d.html",
+        "time": "1781018623",
         "source": "新浪新闻"
       }
     ]
