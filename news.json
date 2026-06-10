@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T12:29:29.170Z",
+  "updated": "2026-06-10T16:39:41.158Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -19,6 +19,13 @@
   },
   "news": {
     "hot": [
+      {
+        "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
+        "intro": "2026年6月，上海敬华艺术空间被布置成一间“奇想实验室”。瑞士高级制表品牌Ulysse Nardin雅典表在此举办“奇想无界，创造无境”2026新品品鉴会，将全新[Super] Freak奇想超级腕",
+        "url": "<![CDATA[https://36kr.com/p/3847339087140104?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
       {
         "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
         "intro": "大公司：\n  瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长\n  36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新",
@@ -44,13 +51,6 @@
         "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
         "intro": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。\n  微面科技聚焦自研",
         "url": "<![CDATA[https://36kr.com/p/3846789531404549?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "医药圈最强“奥斯卡”也没救回股价，创新药被彻底抛弃了么",
-        "intro": "文｜胡香赟\n  编辑｜海若镜\n  基本面向上、股价向下，是近期创新药板块的真实写照。\n  6月以来，股市创新药板块延续跌势。上周，在全球肿瘤临床权威“风向标”的美国临床肿瘤学会（ASCO）上，多家中国",
-        "url": "<![CDATA[https://36kr.com/p/3845683804555529?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "中国太保：选举葛明为公司第十届董事会独立董事",
-        "intro": "6月10日金融一线消息，中国太保今日发布2025年度股东会决议公告，会议审议通过了《关于选举葛明先生为中国太平洋保险（集团）股份有限公司第十届董事会独立董事的议案》。...",
-        "url": "https://finance.sina.cn/insurance/gsdt/2026-06-10/detail-iniaxqxk5913065.d.html",
-        "time": "1781094417",
+        "title": "特朗普称将与人工智能公司高管讨论回馈公众",
+        "intro": "美国总统唐纳德·特朗普在白宫向记者表示，他在与人工智能企业高管讨论“向公众回馈一些东西”。 特朗普称，他将“很快”与12至15位AI领域主要高管会面。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpm1128110.d.html",
+        "time": "1781109528",
         "source": "新浪新闻"
       },
       {
-        "title": "特朗普称伊朗谈判\"耗时过长\"仍未同意达成协议，必须付出代价",
-        "intro": "美国总统唐纳德·特朗普周三表示，伊朗在谈判和平协议方面耗时过长，现在必须“付出代价”。 “伊朗的军事力量完全是彻底的烂摊子，”特朗普周三早间在Truth Social上发帖称。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxr1251578.d.html",
-        "time": "1781094177",
+        "title": "特朗普称无意续签美墨加协定",
+        "intro": "美国总统特朗普表示，他不打算续签美墨加贸易协定（USMCA）。 “我不知道是否会续签它，因为老实说，美国的情况要好得多，”特朗普在白宫对记者表示。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpm1127855.d.html",
+        "time": "1781109499",
         "source": "新浪新闻"
       },
       {
-        "title": "盘前：科技股承压，纳指期货跌1.69%",
-        "intro": " 周三，在投资者对美国5月CPI通胀数据高度关注之际，科技股承压，美股预计连续第二日走低，欧洲股市也小幅承压，黄金暴跌近100美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxp4477541.d.html",
-        "time": "1781094023",
+        "title": "欧洲股市持稳 市场静候欧洲央行利率决议",
+        "intro": "欧洲股市表现平淡，美国一项关键通胀报告令投资者稍感宽慰，市场注意力转向欧洲央行的利率决议。 斯托克欧洲600指数收盘基本持平，抹去盘中一度高达1%的跌幅。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpi4351502.d.html",
+        "time": "1781109457",
         "source": "新浪新闻"
       },
       {
-        "title": "日本央行行长植田和男入院接受治疗",
-        "intro": "日本央行行长植田和男因肝囊肿感染入院治疗，而下周该行即将召开备受市场关注的货币政策会议。 日本央行于周三发布声明称，植田和男需接受治疗...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxn2685976.d.html",
-        "time": "1781094008",
+        "title": "法官敦促特朗普政府撤回上诉 政府称上诉涉及114亿美元IEEPA关税退款",
+        "intro": " 一名法官敦促特朗普政府撤回对其命令的上诉。该命令要求全额退还1660亿美元被美国最高法院推翻的关税。法官称，上诉没有必要，只会让进口商拿回退款的时间进一步推迟。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpi4351121.d.html",
+        "time": "1781109412",
         "source": "新浪新闻"
       },
       {
-        "title": "虚增利润超150%！昔日流感龙头“戴帽”变ST南新",
-        "intro": "来源：国际金融报 曾经的科创板明星药企南新制药，因三年前的财务造假行为付出了代价。 6月10日，科创板上市公司南新制药（688189）公告披露...",
-        "url": "https://finance.sina.cn/stock/ssgs/2026-06-10/detail-iniaxqxp4467915.d.html",
-        "time": "1781093400",
+        "title": "摩根资管Kelly认为通胀或已见顶 美联储下周料按兵不动",
+        "intro": "摩根资产管理的David Kelly预计，最新的通胀数据不足以促使美联储决策者在下周采取维持利率不变以外的行动。 受伊朗战争推高能源价格影响...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzph2567648.d.html",
+        "time": "1781109335",
         "source": "新浪新闻"
       },
       {
-        "title": "黄金、白银和比特币下跌 交易员加大对美联储加息的押注",
-        "intro": "周三，贵金属等资产大幅走低，因市场对通胀和美联储利率路径的担忧打压了投资者情绪。 美国东部时间上午7：05，现货黄金下跌2.4%，交易价格约为每盎司4，161.63美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxr1239341.d.html",
-        "time": "1781093374",
+        "title": "阿波罗资产管理高管：太多人工智能支出被耗费于低智商任务",
+        "intro": "阿波罗全球管理的John Zito表示，太多公司将AI工具用于相对平常的任务，这并不足以证明高昂成本和算力投入的合理性。 “我们的智商太低了...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpi4350183.d.html",
+        "time": "1781109285",
         "source": "新浪新闻"
       },
       {
-        "title": "特朗普政府下属监管机构拟针对预测市场的交易品类出台新规",
-        "intro": "据知情人士透露，特朗普政府麾下监管机构正推出一套覆盖面广泛的新规，用以规范快速发展的预测市场。新规划定了监管标准，在继续允许绝大多数体育相关投注的同时...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxr1237379.d.html",
-        "time": "1781093278",
+        "title": "Palantir CEO卡尔普称企业客户对前沿AI实验室普遍不满",
+        "intro": "核心要点Palantir首席执行官亚历克斯・卡尔普表示，各大企业客户对前沿 AI 实验室心存不满，认为后者一味追求 “刷令牌用量”。他在 CNBC 节目中向主播萨拉・艾森透露...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpi4343415.d.html",
+        "time": "1781108460",
         "source": "新浪新闻"
       },
       {
-        "title": "一艘与伊朗有关的油轮在阿曼湾起火",
-        "intro": "据海事安全公司和海军组织称，一艘曾运载伊朗石油的油轮在阿曼湾发生火情。 巴基斯坦水文部门称，Settebello号油轮报告起火并处于漂流状态。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxp4461006.d.html",
-        "time": "1781093246",
+        "title": "私募信贷机构：重金押注软件赛道将迎来AI大考，但不会上演“SaaS 末日”",
+        "intro": "核心要点AI 带来行业冲击，倒逼投资者区分两类软件企业：具备韧性、承载核心关键业务的标的，以及商业模式抗风险能力薄弱的标的。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpi4341713.d.html",
+        "time": "1781108254",
         "source": "新浪新闻"
       },
       {
-        "title": "影石首款8K徕卡双摄云台相机 Luna Ultra 3999元起",
-        "intro": "新浪数码讯 6月10日下午消息，智能影像品牌影石Insta360 正式推出行业首款旗舰双摄云台相机 Luna Ultra，以颠覆性的 8K 徕卡影像系统和革命性产品形态...",
-        "url": "https://finance.sina.cn/tech/2026-06-10/detail-iniaxqxr1236269.d.html",
-        "time": "1781093147",
+        "title": "特朗普坚持提名普尔特出任情报高官，同时呼吁短期延期涉外监控法案",
+        "intro": "核心要点唐纳德・特朗普总统在真相社交平台发文，宣布比尔・普尔特将于 6 月 19 日出任代理国家情报总监；同时呼吁短期延期一项本周末即将到期的涉外监控项目。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpi4340038.d.html",
+        "time": "1781108052",
         "source": "新浪新闻"
       },
       {
-        "title": "特朗普称美国对霍尔木兹海峡封锁严密 像一道“钢铁墙”",
-        "intro": "美国总统特朗普在Truth Social上发文写道，美国在霍尔木兹海峡实施的海上封锁，是海军战争史上“最成功”的一次。 他表示，这道封锁是一道“钢铁墙”，除非我们允许...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxr1235720.d.html",
-        "time": "1781093089",
+        "title": "人形机器人企业获英伟达、亚马逊等机构最高140亿美元融资",
+        "intro": "核心要点德国企业纽拉机器人周三宣布，完成一轮规模最高可达 140 亿美元的融资。泰瑟、高通、亚马逊、英伟达等美国科技巨头均参与本轮投资。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpe5776175.d.html",
+        "time": "1781107842",
         "source": "新浪新闻"
       },
       {
-        "title": "原油价格上涨 特朗普称伊朗必须为谈判耗时过长付出代价",
-        "intro": " 原油价格转为上涨。在过去24小时内美国和伊朗互相发动攻击后，美国总统特朗普又表示，伊朗花费太长时间进行和平协议谈判，将不得不付出代价。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxk5898412.d.html",
-        "time": "1781093034",
+        "title": "午盘：美股跌幅扩大 特朗普加大对伊朗威胁力度",
+        "intro": "北京时间6月11日凌晨，美股周三午盘跌幅扩大。芯片股延续近期跌势。美国总统特朗普暗示伊朗谈判耗时“过长”并威胁采取更多行动后，原油价格走高。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpm1112279.d.html",
+        "time": "1781107647",
         "source": "新浪新闻"
       },
       {
-        "title": "中信保诚人寿保费冲高，62岁李存强露面不多",
-        "intro": "文/瑞财经 许淑敏 掌舵中信保诚人寿一年多的时间，李存强参加的公开活动并不多。 更多的活动，还是中信保诚人寿总经理常戈作为代表出席。",
-        "url": "https://finance.sina.cn/insurance/gsdt/2026-06-10/detail-iniaxqxp4473890.d.html",
-        "time": "1781092991",
+        "title": "vivo黄韬：X Fold系列要做AI使用体验最好的移动终端",
+        "intro": " 2026年，AI Agent正在完成从“问答工具”到“任务助手”的重要进化。当技术实现从“能听会给答案”到“会思考能办事”的跃迁，距离用户最近的智能终端，究竟该如何重构体验？",
+        "url": "https://finance.sina.cn/tech/2026-06-11/detail-iniaxzpe5770978.d.html",
+        "time": "1781107393",
         "source": "新浪新闻"
       },
       {
-        "title": "上海银行转让超3万笔个贷不良，薛伟东直面信用卡挑战",
-        "intro": "文/瑞财经 许淑敏 银登网上，上海银行最新挂牌了2026年第2期个人不良贷款 （信用卡透支）转让项目。 这一项目共31937笔资产，借款人31937户，未偿本金总额4.95亿元...",
-        "url": "https://finance.sina.cn/2026-06-10/detail-iniaxqxr1247001.d.html",
-        "time": "1781092991",
+        "title": "杜邦宣布美国医疗保健生产基地全面使用100%可再生电力",
+        "intro": "杜邦公司于6月10日宣布，其在美国境内的12家医疗保健制造基地已通过购买可再生能源证书，实现100%可再生电力供应。这一举措是杜邦推进2035年可持续发展目标及2050年净零碳...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzpe5769710.d.html",
+        "time": "1781107276",
         "source": "新浪新闻"
       },
       {
-        "title": "广东金融监管局扎实推进科技金融试点工作 以金融赋能激活新质生产力发展动能",
-        "intro": "（来源：广州金融）     广东金融监管局坚决贯彻落实党中央、国务院关于科技金融大文章重要战略部署和金融监管总局关于科技金融各项试点工作要求，坚持中央要求...",
-        "url": "https://finance.sina.cn/2026-06-10/detail-iniaxqxr1239473.d.html",
-        "time": "1781092933",
+        "title": "Appian最新调查：美国公共部门AI应用进入深化阶段",
+        "intro": "Appian于6月10日发布的一项最新调查显示，美国公共部门的人工智能应用正从实验性试点转向实际的政府运营部署。这项针对2000名美国公共部门员工的调查发现...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaxzph2546400.d.html",
+        "time": "1781107229",
         "source": "新浪新闻"
       },
       {
-        "title": "世界杯或将成为史上规模最大博彩赛事",
-        "intro": "核心要点2026 年国际足联世界杯将于本周四在墨西哥城揭幕，7 月末于美国新泽西州东卢瑟福的大都会人寿体育场迎来决赛。麦格理集团分析师查德・贝农预测...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxk5897281.d.html",
-        "time": "1781092918",
+        "title": "调查显示：半数美国人向AI寻求医疗建议，多数人信任AI给出的指导",
+        "intro": "eHealth最新发布的调查数据显示，人工智能正日益成为美国人寻求医疗建议的重要渠道。在参与调查的1000多名美国受访者中，有49%的人表示曾使用AI工具获取医疗建议...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzpe5768720.d.html",
+        "time": "1781107177",
         "source": "新浪新闻"
       },
       {
-        "title": "桂林银行：激进扩张遭遇个贷“苦果”，万件诉讼直逼风控",
-        "intro": "来源：投资者网-思维财经 【银行解码 】透视银行业绩、零售对公打法与数字化突围，一眼看懂银行企业胜负手。 ‘两难抉择。’ 近日，桂林银行股份有限公司（下称“桂林银行”）...",
-        "url": "https://finance.sina.cn/2026-06-10/detail-iniaxqxr1235547.d.html",
-        "time": "1781092800",
+        "title": "华纳音乐集团收购AI技术公司Sureel，为创作者护航AI时代权益",
+        "intro": "华纳音乐集团于6月10日宣布，已达成协议收购人工智能技术公司Sureel AI。此举旨在帮助旗下艺人、词曲作者及其他版权持有者在AI生成内容及AI模型训练中...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzpe5768446.d.html",
+        "time": "1781107135",
         "source": "新浪新闻"
       },
       {
-        "title": "暴涨超620%，A股年内第一！芯片关键材料涨价引爆行情",
-        "intro": " 6月10日，中船特气（688146）逆市大涨，午后该股涨幅扩大，盘中一度涨超19%，收盘时涨幅回落至16.42%，最新收盘价创历史新高。",
-        "url": "https://finance.sina.cn/2026-06-10/detail-iniaxqxk5902020.d.html",
-        "time": "1781092684",
+        "title": "abrdn国家市政收益基金股东批准重组为Aberdeen市政收益基金",
+        "intro": " abrdn国家市政收益基金（NYSE American： VFL）今日宣布，在当天举行的股东特别会议上，股东已投票批准将VFL重组为Aberdeen市政收益基金（NYSE： MFM）。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzpi4331355.d.html",
+        "time": "1781107060",
         "source": "新浪新闻"
       },
       {
-        "title": "特朗普将下令打击伊朗，国际油价直线拉升",
-        "intro": " 受中东局势最新消息影响，国际油价直线拉升。截至北京时间19：49，NYMEX WTI原油价格上涨1.75%，ICE布油价格上涨1.53%。",
-        "url": "https://finance.sina.cn/2026-06-10/detail-iniaxqxr1235355.d.html",
-        "time": "1781092622",
+        "title": "EQT房地产收购美国东南部240万平方英尺物流资产组合",
+        "intro": "EQT房地产工业价值基金六期近日宣布，收购了一个总面积达240万平方英尺的物流地产组合，涵盖佐治亚州萨凡纳、佛罗里达州杰克逊维尔及莱克兰三大快速增长市场的三处现代化工...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzpm1106186.d.html",
+        "time": "1781106878",
         "source": "新浪新闻"
       },
       {
-        "title": "综合利率近36%！多位消费者投诉西安银行贷款被收两笔担保费",
-        "intro": "消费日报讯（记者刘锦桃）近日，有多位消费者向本报记者反映，他们通过助贷平台向西安银行申请贷款，借款合同约定年利率4.5%，实际还款中却被收取31.49%的融担费...",
-        "url": "https://finance.sina.cn/2026-06-10/detail-iniaxqxr1235703.d.html",
-        "time": "1781092582",
+        "title": "Zion Oil & Gas宣布启动MJ-02侧钻作业，并命名钻机致敬创始人",
+        "intro": "Zion Oil &amp; Gas， Inc．于6月10日宣布，其在以色列境内的Megiddo-Jezreel #2井的侧钻阶段现场作业已正式开始。公司表示，已成功重新进入该井...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzph2543170.d.html",
+        "time": "1781106794",
         "source": "新浪新闻"
       },
       {
-        "title": "伊朗称美军袭击蓄水储罐致两万人断水",
-        "intro": " 伊朗方面表示，在美伊双方新一轮交火中，两座蓄水储罐遭摧毁，美军空袭致使该国南部霍尔木兹甘省两万居民陷入断水困境。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxr1230082.d.html",
-        "time": "1781092564",
+        "title": "Universal Technical Institute任命John Balderree为盐湖城新校区校长",
+        "intro": "通用技术学院（Universal Technical Institute）于6月10日宣布，任命John Balderree为其新设盐湖城校区的校长。该校区计划于2027年正式开放...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzpi4328443.d.html",
+        "time": "1781106654",
         "source": "新浪新闻"
       },
       {
-        "title": "银保持续“失地”、经代或设上限，中小险企何以求生？",
-        "intro": "来源：中保新知 过去，凭借高费用、高返佣及短期限、高收益产品在银保渠道快速扩张的不少中小保险公司，正在持续“失地”。 中保新知最新获悉，5月银保渠道期交保费261亿元...",
-        "url": "https://finance.sina.cn/insurance/hydt/2026-06-10/detail-iniaxqxk5893243.d.html",
-        "time": "1781092234",
+        "title": "Federated Hermes市政收益基金宣布月度分红，每股派息0.045美元",
+        "intro": "Federated Hermes Premier Municipal Income Fund于6月10日宣布，该基金将于2026年7月1日向股东派发每股0.045美元的月度股息。基金旨在为投资者提供免",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzph2539920.d.html",
+        "time": "1781106406",
         "source": "新浪新闻"
       },
       {
-        "title": "玲珑轮胎新平台落地",
-        "intro": "近日，山东玲珑轮胎股份有限公司在绿色低碳发展领域迎来重要突破，其专属数字化能碳管理平台正式落地投产。该平台依托工业物联网...",
-        "url": "https://finance.sina.cn/2026-06-10/detail-iniaxqxp4456971.d.html",
-        "time": "1781092215",
+        "title": "瑞典养老金基金遴选负责人希望将私募信贷拒之门外",
+        "intro": "负责决定瑞典人如何投资大部分养老金储蓄的最高官员表示，他反对向养老金储户开放私募市场基金投资渠道。 当被问及瑞典的个人账户养老金体系是否可能向包括私募信贷在内的...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzpm1102227.d.html",
+        "time": "1781106333",
         "source": "新浪新闻"
       },
       {
-        "title": "特朗普告诉福克斯新闻 他接近下令对伊朗发动新一轮打击",
-        "intro": "美国总统特朗普在接受福克斯新闻采访时表示，美国未来可能会继续对伊朗政权发动更多打击。 据一名福克斯新闻记者透露，特朗普告诉他称...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxqxn2667212.d.html",
-        "time": "1781092168",
+        "title": "TriNet旗下HR Plus用户突破4万，持续拓展中小企业HR支持能力",
+        "intro": "TriNet近日宣布，其面向中小企业的行政服务组织解决方案HR Plus自去年推出以来，用户数量已突破4万大关，标志着该产品在市场上的快速增长。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzpm1101878.d.html",
+        "time": "1781106284",
         "source": "新浪新闻"
       },
       {
-        "title": "近五年最大降幅！增程车5月销量暴跌近25%，这条技术路线“不香”了？",
-        "intro": "每经记者|孙磊每经编辑|余婷婷 曾几何时，“增程真香”还是国内车市的主流声音，但现在的市场格局正悄然发生变化。 根据乘联分会最新发布的数据，5月...",
-        "url": "https://finance.sina.cn/2026-06-10/detail-iniaxqxk5890049.d.html",
-        "time": "1781092102",
+        "title": "挪威康士伯集团计划大幅提升营收",
+        "intro": "获监管批准后，该企业已完成对美国导弹企业五号区域技术公司的收购康士伯集团主营导弹、防空系统、反无人机装备，同时布局水下作战、太空等新兴国防领域技术。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzpe5761909.d.html",
+        "time": "1781106280",
         "source": "新浪新闻"
       },
       {
-        "title": "锐明技术：高管刘必发减持3.5万股 占总股本的0.02%",
-        "intro": "6月10日，锐明技术（002970）发布公告，高级管理人员刘必发通过集中竞价方式减持3.5万股，占公司总股本的0.02%。2026年一季度，锐明技术实现收入5.58亿元...",
-        "url": "https://finance.sina.cn/2026-06-10/detail-iniaxqxr1235478.d.html",
-        "time": "1781091963",
+        "title": "沙奎尔·奥尼尔携手Zepbound发起全国活动，讲述睡眠呼吸暂停治疗经历",
+        "intro": "篮球传奇巨星沙奎尔·奥尼尔近日与礼来公司旗下药物Zepbound（替西帕肽）联合发起名为“Watch This”的全国性宣传活动。奥尼尔在活动中首次公开了自己多年来与中度阻塞性睡眠...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-10/detail-iniaxzpe5755835.d.html",
+        "time": "1781105610",
         "source": "新浪新闻"
       }
     ]
