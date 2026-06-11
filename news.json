@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T22:10:23.350Z",
+  "updated": "2026-06-11T00:22:16.468Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -19,6 +19,13 @@
   },
   "news": {
     "hot": [
+      {
+        "title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
+        "intro": "今日热点导览\n  \n   花旗警告：金价或跌至3500美元\n   韩国股市再度熔断\n   何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产\n   伊朗宣布对所有船只关闭霍尔木兹海峡\n   Sp",
+        "url": "<![CDATA[https://36kr.com/p/3848000003953926?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
       {
         "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
         "intro": "2026年6月，上海敬华艺术空间被布置成一间“奇想实验室”。瑞士高级制表品牌Ulysse Nardin雅典表在此举办“奇想无界，创造无境”2026新品品鉴会，将全新[Super] Freak奇想超级腕",
@@ -44,13 +51,6 @@
         "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
         "intro": "文｜张子怡\n  编辑｜袁斯来\n  在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Sho",
         "url": "<![CDATA[https://36kr.com/p/3846793046133257?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
-        "intro": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。\n  微面科技聚焦自研",
-        "url": "<![CDATA[https://36kr.com/p/3846789531404549?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "美国军方：已开始对伊朗发动更多袭击",
-        "intro": " 美国中央司令部在X上发帖表示，“美国中央司令部部队于美东时间今天下午5点15分开始对伊朗境内多个目标发动额外的自卫性打击。”",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniayncc4218259.d.html",
-        "time": "1781128011",
+        "title": "日经指数下跌2.7%，受科技和机械股拖累",
+        "intro": "日本股市走低，受对伊朗冲突的再度担忧和能源成本上升拖累。科技股和机械股领跌。软银集团下跌6.7%，石川岛播磨重工业下跌7.4%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaysmc0948246.d.html",
+        "time": "1781137166",
         "source": "新浪新闻"
       },
       {
-        "title": "美国已开始对伊朗发动袭击",
-        "intro": "据Axios记者援引美国官员在X发帖表示，美国对伊朗的袭击已经开始。 此前，美国总统特朗普誓言立即打击伊朗，德黑兰称民用水利设施遭美军袭击。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2444865.d.html",
-        "time": "1781127651",
+        "title": "韩国6月前10天出口额同比飙升86%",
+        "intro": "韩国海关周四公布的数据显示，6月前10天韩国出口额同比增长86%，从去年同期的154亿美元增至286亿美元。 同期，韩国进口额同比增长35.6%，达到234亿美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaysky2409857.d.html",
+        "time": "1781136859",
         "source": "新浪新闻"
       },
       {
-        "title": "甲骨文股价盘后下跌 数据中心成本掩盖AI相关业务增长",
-        "intro": "甲骨文公布的季度资本支出高于预期，引发投资者对该公司人工智能（AI）基础设施业务盈利能力的担忧。 公司截至5月31日的财季资本支出为159亿美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynay5663755.d.html",
-        "time": "1781127236",
+        "title": "轮到建行风光了",
+        "intro": "出品 | 妙投APP 作者 | 刘国辉 编辑 | 丁萍 头图 | 视觉中国 今年终于轮到建行风光了。 截至6月10日，建设银行（以下简称“建行”）总市值达到2.7442万亿元...",
+        "url": "https://finance.sina.cn/2026-06-11/detail-iniaysky2409539.d.html",
+        "time": "1781136687",
         "source": "新浪新闻"
       },
       {
-        "title": "6月11日外盘头条：特朗普宣布立即打击伊朗 美国5月退还220亿美元关税 Anthropic呼吁强制测试AI模型",
-        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普誓言立即打击伊朗 德黑兰称民用水利设施遭美军袭击 2、部分美国大银行因涉嫌非法终止服务面临联邦调查 3...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniayncf0982062.d.html",
-        "time": "1781127035",
+        "title": "油价飙升 美国对伊朗实施新一轮打击威胁脆弱的停火协议",
+        "intro": " 在美国对伊朗发动新一轮袭击后，油价飙升。伊朗随即宣布暂停所有船只通过霍尔木兹海峡，这给本已脆弱的停火协议带来了更大压力。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniayskw5630209.d.html",
+        "time": "1781136612",
         "source": "新浪新闻"
       },
       {
-        "title": "美国股市：主要股指下跌 地缘政治担忧抵消通胀数据带来的乐观情绪",
-        "intro": "美国股市连续第二个交易日下跌，中东紧张局势升级的迹象盖过了围绕通胀报告的乐观情绪。 标普500指数下跌1.6%，抹去盘初小幅涨幅。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynay5652085.d.html",
-        "time": "1781126126",
+        "title": "机器人租赁火了 保险如何兜住商业化风险？",
+        "intro": "本报记者冷翠华 近日，在一场演出中，一台人形机器人腾空空翻落地时意外掉落到舞台之外，引得众人一阵惊呼，所幸落差不大，机身未损毁。",
+        "url": "https://finance.sina.cn/insurance/hydt/2026-06-11/detail-iniaysmc0943491.d.html",
+        "time": "1781136580",
         "source": "新浪新闻"
       },
       {
-        "title": "标准普尔将阿根廷信用评级上调至B- 展望稳定",
-        "intro": "标准普尔将阿根廷的长期外币债务评级从CCC+上调至B-，展望稳定。 标准普尔表示，得益于持续财政盈余和经济失衡改善，阿根廷政府已经获得更多流动性来偿付债务。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2428820.d.html",
-        "time": "1781126089",
+        "title": "曹操出行于6月10日斥资190.3万港元回购6.5万股",
+        "intro": "曹操出行（02643）发布公告，于2026年6月10日斥资190.3万港元回购6.5万股。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniaysmc0941031.d.html",
+        "time": "1781136391",
         "source": "新浪新闻"
       },
       {
-        "title": "6月11日美股成交额前20：超微电脑拟进行70亿美元股权融资，股价重挫约30%",
-        "intro": "周三美股成交额第1名美光科技收跌4.7%，成交492.93亿美元。周三美股芯片股普遍走低。分析指出，美股AI交易已经过于拥挤，多头资金和机构资金仓位都高度集中在少数AI基础设...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynay5640369.d.html",
-        "time": "1781124986",
+        "title": "云迹于6月10日耗资约323.04万港元回购1.085万股",
+        "intro": "云迹（02670）公布，2026年6月10日耗资约323.04万港元回购1.085万股股份。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniayskz4164561.d.html",
+        "time": "1781136356",
         "source": "新浪新闻"
       },
       {
-        "title": "甲骨文数据中心支出高于预期",
-        "intro": "甲骨文公布的季度资本支出高于预期，引发投资者对该公司人工智能（AI）基础设施业务盈利能力的担忧。 在截至5月31日的财季中，公司资本支出为159亿美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniayncc4185753.d.html",
-        "time": "1781124100",
+        "title": "康宁医院将于8月7日派发末期股息每10股3.2元",
+        "intro": "康宁医院（02120）发布公告，将于2026年8月7日派发截至2025年12月31日止年度的末期股息每10股3.2元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniayskz4164100.d.html",
+        "time": "1781136318",
         "source": "新浪新闻"
       },
       {
-        "title": "纽约汇市：美元保持稳定 交易员权衡美国CPI数据及伊朗局势",
-        "intro": " 美元收复了5月份美国核心CPI环比升幅略低于预期后的跌幅。加元涨幅收窄；加拿大央行如预期般维持利率不变，但警告伊朗战争带来的通胀压力风险。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2411314.d.html",
-        "time": "1781124034",
+        "title": "绿色动力环保将于7月8日派发末期股息每股0.22元",
+        "intro": "绿色动力环保（01330）发布公告，该公司将于2026年7月8日派发末期股息每股0.22元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniaysmc0939646.d.html",
+        "time": "1781136276",
         "source": "新浪新闻"
       },
       {
-        "title": "白宫提名Brian Johnson担任美国消费者金融保护局局长",
-        "intro": "根据公告，白宫已将Brian Johnson出任美国消费者金融保护局局长的提名提交给参议院。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniayncc4184258.d.html",
-        "time": "1781123930",
+        "title": "协鑫科技公司董事及核心管理人员拟增持公司股份",
+        "intro": "协鑫科技（03800）发布公告，公司董事会获悉，董事会主席朱共山先生及其他所有执行董事朱钰峰先生、朱战军先生、孙玮女士、兰天石先生及杨文忠先生（统称“相关董事”）...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniaysky2402704.d.html",
+        "time": "1781136233",
         "source": "新浪新闻"
       },
       {
-        "title": "部分美国大银行因涉嫌非法终止服务面临联邦调查",
-        "intro": "据一位知情人士透露，美国联邦检察官正在调查华尔街一些大型银行是否出于政治原因，非法终止了与部分客户的业务往来。 因调查处于保密阶段而要求匿名的这位知情人士表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2410389.d.html",
-        "time": "1781123920",
+        "title": "捷利交易宝：已提交股份由GEM转往联交所主板上市的申请",
+        "intro": " 捷利交易宝（08017）发布公告，公司已于2026年6月10日根据主板上市规则第九B章提交股份由GEM转往联交所主板上市的申请。转板上市将不会涉及公司发行任何新股份。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniayskz4162154.d.html",
+        "time": "1781136193",
         "source": "新浪新闻"
       },
       {
-        "title": "大宗商品综述：油价走高 基本金属普跌 黄金扩大跌幅",
-        "intro": " 油价上涨，因美国总统特朗普警告将再次打击伊朗，并且数据显示美国原油库存再次大幅下降。中东紧张局势升温以及对美联储加息的预期推动基本金属普跌、黄金扩大跌幅。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniayncf0959823.d.html",
-        "time": "1781123849",
+        "title": "通用或停止将磷酸铁锂电池用于电动汽车",
+        "intro": " 通用汽车电池技术负责人表示，该公司可能会放弃使用低成本的铁基电池技术，而许多汽车制造商正在使用这种技术来降低电动汽车的成本。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniayskz4161985.d.html",
+        "time": "1781136180",
         "source": "新浪新闻"
       },
       {
-        "title": "美国债市：美债录得下跌 油价上涨抹去CPI数据驱动的涨势",
-        "intro": " 美国国债周三收跌，因为原油价格上涨，抹去了5月CPI数据以及10年期国债招标获得良好需求的利好。在美国总统特朗普威胁将很快对伊朗发动袭击后，基准原油价格大涨逾3%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniayncf0959383.d.html",
-        "time": "1781123789",
+        "title": "美银：客户上周抛售美国科技股规模创2008年以来最大",
+        "intro": " 美银证券援引截至6月5日当周的客户资金流向数据，称随着标普500指数创下2025年4月以来最大单周跌幅，上周该行客户撤出美国科技股的规模达到纪录最大。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniayskw5622083.d.html",
+        "time": "1781136004",
         "source": "新浪新闻"
       },
       {
-        "title": "SpaceX上市倒计时：聚焦史上最大IPO 华尔街热捧与质疑交织",
-        "intro": "近期备受市场瞩目的SpaceX首次公开募股（IPO）进入倒计时，马斯克旗下这家火箭、卫星和人工智能公司的首发规模有望缔造历史，华尔街严阵以待。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2409317.d.html",
-        "time": "1781123762",
+        "title": "马斯克一句话，一堆百亿公司豪赌“上天”",
+        "intro": "太空光伏是不是那根“救命稻草”？ 文|《中国企业家》记者 苗诗雨 见习编辑|张昊编辑|马吉英 头图来源|视觉中国 给太空卫星无线充电的科幻场景，或许不再是抽象的概念。",
+        "url": "https://finance.sina.cn/2026-06-11/detail-iniaysmc0942331.d.html",
+        "time": "1781136000",
         "source": "新浪新闻"
       },
       {
-        "title": "原油：油价上涨 特朗普警告将再次打击伊朗",
-        "intro": "油价上涨，因为美国总统特朗普誓言立即打击伊朗，同时数据显示美国原油库存再次大幅下降。 WTI上涨2.1%，收于每桶91美元上方，扭转此前跌势。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynay5631777.d.html",
-        "time": "1781123698",
+        "title": "新秀丽于6月10日斥资2033.55万港元回购142.53万股",
+        "intro": "新秀丽（01910）发布公告，于2026年6月10日斥资2033.55万港元回购142.53万股。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniayskw5621958.d.html",
+        "time": "1781135992",
         "source": "新浪新闻"
       },
       {
-        "title": "美国5月退还近220亿美元关税 基本抵消当月关税收入",
-        "intro": " 美国财政部在5月向进口商退还了近220亿美元的关税收入。这是自最高法院推翻特朗普的大部分关税措施以来，美国政府进行的首批此类退款。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2408733.d.html",
-        "time": "1781123651",
+        "title": "英派药业-B因超额配股权获行使而发行629.64万股H股",
+        "intro": "英派药业-B（07630）发布公告，于2026年6月10日因超额配股权获悉数行使而发行及配发629.64万股H股股份。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniayskz4158473.d.html",
+        "time": "1781135928",
         "source": "新浪新闻"
       },
       {
-        "title": "6月11日热门中概股多数下跌 台积电跌4.44%，阿里巴巴跌3.57%",
-        "intro": "6月11日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.28%。 上涨个股（按市值从高到低）：网易涨3.97%，中华电信涨1.24%，携程涨1.98%，贝壳涨0.09%，中通涨2...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2406947.d.html",
-        "time": "1781123366",
+        "title": "海清智元于6月11日至6月16日招股 拟全球发售8516.25万股H股",
+        "intro": "海清智元（01392）于2026年6月11日至6月16日招股，公司拟全球发售8516.25万股H股，其中，香港发售占约10%，国际发售占约90%。发售价将为每股发售股份7.2港元，每手500股...",
+        "url": "https://finance.sina.cn/hkstock/xgdt/2026-06-11/detail-iniaysmc0931625.d.html",
+        "time": "1781135755",
         "source": "新浪新闻"
       },
       {
-        "title": "6月11日收盘：美股收跌道指下挫950点 市场关注通胀数据与中东局势",
-        "intro": "北京时间6月11日凌晨，美股周三收跌，道指下挫约950点。芯片股延续近期跌势。美国总统特朗普暗示伊朗谈判耗时“过长”并威胁采取更多行动后，原油价格走高。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2400342.d.html",
-        "time": "1781122156",
+        "title": "图达通于6月10日斥资约122.01万港元回购28.05万股",
+        "intro": "图达通（02665）发布公告，于2026年6月10日该公司斥资约122.01万港元回购28.05万股，回购价格为每股4.17至4.60港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniaysmc0931578.d.html",
+        "time": "1781135751",
         "source": "新浪新闻"
       },
       {
-        "title": "全球风能理事会报告：到2035年底全球海上风电装机容量预计将翻两番",
-        "intro": "全球风能理事会周二发布的一份报告显示，未来十年，全球海上风电装机容量预计将翻两番，到2035年底达到420吉瓦。 报告要点如下： 截至2025年底...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2395574.d.html",
-        "time": "1781121419",
+        "title": "今年以来百万元以上罚单达24张 银行业数据安全罚单半年激增",
+        "intro": "来源：经济参考报 作者：向家莹 银行移动应用因违规收集个人信息而被监管点名的情况增加了。截至6月10日，今年以来金融监管部门已向银行开出数据安全与个人信息保护相关罚...",
+        "url": "https://finance.sina.cn/2026-06-11/detail-iniayskw5615510.d.html",
+        "time": "1781135594",
         "source": "新浪新闻"
       },
       {
-        "title": "挪威补贴审查投票为浮式风电项目前景蒙上阴影",
-        "intro": " 挪威议会周二要求政府重新评估其为该国首个商业浮式海上风电场计划的补贴方案，这引发了项目可能完全停滞的担忧，并对能源转型项目的更广泛前景造成了影响。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynay5617839.d.html",
-        "time": "1781121318",
+        "title": "狮腾控股与美亚娱乐联手推出AI驱动品牌“MASYN”",
+        "intro": "狮腾控股（02562）发布公告，本公司与美亚娱乐资讯集团有限公司（美亚娱乐，00391）今日宣布达成战略合作，携手推出全新AI驱动品牌MASYN。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniayskz4153840.d.html",
+        "time": "1781135558",
         "source": "新浪新闻"
       },
       {
-        "title": "马来西亚国家石油公司与日本JERA签署20年LNG供应协议",
-        "intro": " 马来西亚国家石油公司与日本JERA公司已签署一项新的长期液化天然气供应协议，将双方的合作伙伴关系延续至本世纪四十年代。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2394535.d.html",
-        "time": "1781121238",
+        "title": "稀美资源遭Jiawei Resources Holding Limited减持3410万股 每股作价16.1港元",
+        "intro": "香港联交所最新数据显示，6月5日，Jiawei Resources Holding Limited减持稀美资源（09936）3410万股，每股作价16.1港元，总金额约为5.49亿港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniaysmc0928817.d.html",
+        "time": "1781135402",
         "source": "新浪新闻"
       },
       {
-        "title": "ADNOC寻求通过XRG在加拿大实现上游及LNG业务增长",
-        "intro": " 阿布扎比国家石油公司一位高级 executives 周二在卡尔加里举行的全球能源展上表示，该公司正通过其国际业务分支XRG，在加拿大的上游和液化天然气领域探索机遇。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynca2394066.d.html",
-        "time": "1781121166",
+        "title": "广深铁路股份获易方达基金增持500.4万股 每股作价约2.34港元",
+        "intro": "香港联交所最新资料显示，6月4日，易方达基金管理有限公司增持广深铁路股份（00525）500.4万股，每股作价2.3431港元，总金额约为1172.49万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniaysky2390756.d.html",
+        "time": "1781135351",
         "source": "新浪新闻"
       },
       {
-        "title": "壳牌在纳米比亚近海油井发现“最具前景地下构造”",
-        "intro": "壳牌公司及其合作伙伴卡塔尔能源与纳米比亚国家石油公司（NAMCOR）报告称，在纳米比亚近海0039号石油勘探许可证区块内的Merlin-1X勘探井取得了令人鼓舞的结果。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynay5616601.d.html",
-        "time": "1781121116",
+        "title": "中国煤层气获王忠胜增持93万股 每股作价约0.38港元",
+        "intro": "香港联交所最新数据显示，6月9日，王忠胜增持中国煤层气（08270）93万股，每股作价0.3827港元，总金额约为35.59万港元。增持后最新持股数目约为2.92亿股，持股比例为74...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniaysky2390454.d.html",
+        "time": "1781135297",
         "source": "新浪新闻"
       },
       {
-        "title": "埃及结清油气行业欠款",
-        "intro": "埃及石油与矿产资源部部长周三表示，全额结清拖欠油气合作伙伴的欠款是该行业的一个转折点。 巴达维补充道，这一成就（将欠款从2024年6月时的约61亿美元降至零）“恢复了投...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniaynay5616316.d.html",
-        "time": "1781121058",
+        "title": "突发，美军发动袭击！美股全线大跌！端午与暑期出行热度攀升，A股旅游板块表现活跃",
+        "intro": "暑期旅游产品预订已进入高峰期，出游人次显著增长，旅游产品供给更为丰富多元。 受美伊地缘冲突升级，市场避险情绪升温。截至收盘，道琼斯指数跌1.87%，报49918...",
+        "url": "https://finance.sina.cn/2026-06-11/detail-iniayskw5613552.d.html",
+        "time": "1781135254",
         "source": "新浪新闻"
       },
       {
-        "title": "EnQuest达成8.33亿美元交易，收购马来西亚海上权益",
-        "intro": " EnQuest公司已同意以最高8.33亿美元的价格收购马来西亚四个海上生产分成合同的权益。这笔交易将显著增加这家独立能源公司的产量、储量和现金流。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-11/detail-iniayfvf4298065.d.html",
-        "time": "1781121019",
+        "title": "中国建筑兴业获FIDELITY CHINA SPECIAL SITUATIONS PLC增持54万股 每股作价约0.8港元",
+        "intro": "香港联交所最新数据显示，6月5日，FIDELITY CHINA SPECIAL SITUATIONS PLC增持中国建筑兴业（00830）54万股，每股作价0.7986港元，总金额约为43.12万港元",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-11/detail-iniaysky2390128.d.html",
+        "time": "1781135240",
         "source": "新浪新闻"
       }
     ]
