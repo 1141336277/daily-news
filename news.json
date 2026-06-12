@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T16:49:17.207Z",
+  "updated": "2026-06-12T19:11:36.365Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,83 @@
     ],
     "finance": [
       {
+        "title": "戴德梁行促成爱立信创纪录百万平方英尺总部交易",
+        "intro": "近日，全球知名房地产服务商戴德梁行（Cushman &amp; Wakefield，NYSE：CWK）成功协助瑞典通信巨头爱立信（Ericsson，NASDAQ：ERIC）完成其新总部选址。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-inicetzk8762087.d.html",
+        "time": "1781291483",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国官员：美方预计与伊朗的技术性谈判持续60天",
+        "intro": "一位特朗普政府高级官员在谈到与伊朗和平协议谈判的时间安排时说：“我们设想的技术性谈判将持续60天。”",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-inicetzk8760042.d.html",
+        "time": "1781291103",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国官员：伊朗签署协议的可能性大约为80%-85%",
+        "intro": "一位美国政府高级官员表示 ，“伊朗签署协议的可能性大概在80%到85% 之间，但还不到100%”。 “他们的系统非常复杂”。 该官员表示，如果伊朗遵守和平协议...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-inicetzi1982617.d.html",
+        "time": "1781291069",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "马斯克成为世界首位万亿富豪，大致相当于瑞士或波兰一年的GDP",
+        "intro": "埃隆·马斯克刚刚成为世界上第一位万亿富豪。 随着SpaceX周五在纳斯达克以每股150美元的价格开盘，他在该公司的持股价值超过7660亿美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-inicetzc3246668.d.html",
+        "time": "1781290984",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普政府：美国与伊朗可能在数日内签署协议，但并非“100%”确定",
+        "intro": " 特朗普政府一位高级官员周五表示，美国和伊朗可能在未来“几天内”签署一项协议，该协议内容包括重新开放霍尔木兹海峡，并采取措施拆除伊朗的核计划。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-inicetzk8757297.d.html",
+        "time": "1781290523",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "尾盘：美股尾盘走高，SpaceX市值超2.2万亿美元",
+        "intro": "北京时间6月13日凌晨，美股周五尾盘走高。传美伊接近达成和平协议。伊朗官方媒体报道称该和平协议将使霍尔木兹海峡重新开放。SpaceX登陆纳斯达克...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-inicetzi1979158.d.html",
+        "time": "1781290336",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX给出28.5万亿美元潜在市场规模，该数据需基于超长期视角考量",
+        "intro": "SpaceX 向投资者表示，公司瞄准规模高达 28.5 万亿美元的整体潜在市场。但问题在于，其中 22.7 万亿美元来自企业级应用赛道，而 SpaceX...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-iniceptf3339824.d.html",
+        "time": "1781283709",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX正股正式上市，各类“替代概念股”集体跳水：交易员逢低布局标的一览",
+        "intro": "正品登场，替代品风光不再。 周五这场里程碑式 IPO 落地前，各类 SpaceX 关联替代概念股的期权交易量一度暴涨，如今前期涨幅尽数回吐。不过不同标的反弹潜力分化明显。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-iniceptm2073541.d.html",
+        "time": "1781283584",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX首席运营官肖特韦尔：与特斯拉合并“或许能让埃隆轻松一点”",
+        "intro": "核心要点SpaceX 首席运营官格温妮・肖特韦尔并未排除与马斯克旗下另一家万亿市值上市公司特斯拉合并的可能性。在这场史上最大规模 IPO、SpaceX 即将登陆纳斯达克之际...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-iniceptm2072525.d.html",
+        "time": "1781283365",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX成华尔街史上规模最大交易行情之一",
+        "intro": " SpaceX A 类股票成交量已突破 2.07 亿股，成交金额接近 330 亿美元；远超同日纳指 100ETF（QQQ）约 220 亿美元、标普 500ETF（SPY）180 亿美元的成交规模。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-iniceptn8848517.d.html",
+        "time": "1781283120",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "顶点资本创始人：SpaceX将成为美国规模最大的超大规模AI算力服务商",
+        "intro": "顶点资本的布拉德・格斯特纳也参与了本次 SpaceX 新股认购，他十分看好公司在人工智能领域的发展潜力。 谈及 SpaceX 自建数据中心的实力...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-iniceptm2070569.d.html",
+        "time": "1781282983",
+        "source": "新浪新闻"
+      },
+      {
         "title": "SpaceX早期投资人谈公司上市后新增资本市场压力",
         "intro": " 当被问及 SpaceX 完成上市后将要承受的各类新压力时，该公司早期投资人加文・贝克在 CNBC 采访中表示，他相信华尔街市场能够理解 SpaceX 的长期发展蓝图。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-iniceptm2069945.d.html",
@@ -504,83 +581,6 @@
         "intro": "埃隆·马斯克旗下SpaceX股票周五上市首日开盘上涨；公司750亿美元的IPO缔造历史，并一举跻身全球最大上市公司之列。 纽约时间上午11：46...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-iniceptm2055738.d.html",
         "time": "1781280263",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX开盘后股价突破160美元，总市值超2万亿美元",
-        "intro": "这场史上规模最大的 IPO 于周五正式开盘，SpaceX 股票交易代码 SPCX，开盘报价 150 美元。 开盘不久，该股股价冲高至 160 美元上方，推动公司总市值突破 2 万亿美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-iniceptn8832784.d.html",
-        "time": "1781280247",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "午盘：美股涨跌不一 SpaceX市值超2万亿美元",
-        "intro": "北京时间6月13日凌晨，美股周五午盘涨跌不一。传美伊接近达成和平协议。伊朗官方媒体报道称该和平协议将使霍尔木兹海峡重新开放。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-13/detail-iniceptm2054501.d.html",
-        "time": "1781280117",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Momentus宣布2500万美元市价定增，股价大幅震荡",
-        "intro": "美国商业航天公司Momentus周五宣布，已与多家新增及现有机构投资者签署证券购买协议，将以每股13.50美元的价格注册直接发行约185万股普通股，预计募资约2500万美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-12/detail-iniceptm2053824.d.html",
-        "time": "1781279999",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX开盘价150美元/股",
-        "intro": "SpaceX 于周五正式挂牌，开盘价每股 150 美元，较 135 美元的发行价上涨约 11%。 该开盘价低于此前盘前意向报价区间。券商交易柜台最初收到的预估开盘价为 175 美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-12/detail-iniceptm2051955.d.html",
-        "time": "1781279428",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX 董事称该公司是“人类历史上影响力最深远的企业之一”",
-        "intro": "SpaceX 董事安东尼奥・格雷西亚斯在 CNBC 采访中表示，他认为 SpaceX 是 “人类历史上影响力最为深远的企业之一”。 格雷西亚斯同时也是 Valor Equity...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-12/detail-iniceptf3318577.d.html",
-        "time": "1781279238",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "纳斯达克总裁解读交易所如何完成SpaceX这类巨型IPO挂牌",
-        "intro": "纳斯达克总裁尼尔森・格里格斯在接受 CNBC 采访时表示，完成这场创纪录规模的新股上市，敲钟只是形式，敲定合理的首笔成交价格才是核心...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-12/detail-inicepti0093989.d.html",
-        "time": "1781279124",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX首笔成交价现竞价为每股150美元",
-        "intro": " 券商交易柜台收到的 SpaceX 盘前意向报价显示，该股首笔成交价格预计在 150 美元 / 股左右。该价格较今日早些时段、以及最初给出的 175 美元预估大幅回落。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-12/detail-iniceptf3317162.d.html",
-        "time": "1781278994",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Sharon AI与英伟达签署六年算力合作协议，股价早盘下挫7.1%",
-        "intro": "澳大利亚AI云服务商Sharon AI Holdings周五宣布，已与英伟达签署一项为期六年的AI基础设施算力合作协议。受此消息提振，该公司股价盘前一度飙升超过20%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-12/detail-iniceptn8826891.d.html",
-        "time": "1781278974",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX上市催生巨额财富，员工可买下圣安东尼奥四成房产",
-        "intro": "随着SpaceX即将以每股135美元的价格完成史上最大规模IPO，公司估值达到1.77万亿美元，一场史无前例的财富分配正在上演。根据房地产 brokerage Redfin发布的最新报告...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-12/detail-iniceptf3316619.d.html",
-        "time": "1781278886",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "新晋SpaceX百万富翁重塑大额财富管理行业格局",
-        "intro": "核心要点SpaceX 本次 IPO 催生数千名新晋百万富翁，部分员工抱团谈判，拿到费率更低的财富管理定制方案。私人银行、大型券商、信托公司及注册投资顾问纷纷组建团队...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-12/detail-inicepti0092479.d.html",
-        "time": "1781278861",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Marvell挖角Adobe CFO，AI增长战略再落重子",
-        "intro": "Marvell Technology公司周四宣布，任命Adobe首席财务官Dan Durn为公司新任CFO，任期自2026年6月15日起生效。Durn此前已在Marvell董事会任职两年，此番转任管理",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-12/detail-iniceptm2047383.d.html",
-        "time": "1781278553",
         "source": "新浪新闻"
       }
     ]
