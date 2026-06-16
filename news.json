@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T17:09:06.033Z",
+  "updated": "2026-06-16T21:11:16.253Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,10 +409,136 @@
     ],
     "finance": [
       {
+        "title": "SpaceX上市后飙升49% 市值超越亚马逊跃居全球第五",
+        "intro": "SpaceX周二连续第三个交易日上涨，超过亚马逊成为全球市值第五大公司。 SpaceX股价收涨4.8%，推动其市值升至2.65万亿美元，较亚马逊高出约80亿美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrytf4067280.d.html",
+        "time": "1781644218",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：油价录得今年最长连跌 美伊协议提振供应预期",
+        "intro": " 油价录得今年以来最长连跌走势，美国与伊朗达成重开霍尔木兹海峡的协议后，市场对供应恢复的预期升温，多家华尔街大行下调油价预测。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicryta5868062.d.html",
+        "time": "1781644155",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月17日热门中概股多数下跌 百度跌超3% 小鹏跌超4%",
+        "intro": "6月17日热门中概股多数下跌，纳斯达克中国金龙指数跌2.50%。 上涨个股（按市值从高到低）：WSP控股涨4.93%，逸仙电商涨超4%，比特数字涨超5%，亿咖通涨近1%，高途涨超4%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicryta5866515.d.html",
+        "time": "1781643992",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月17日美股成交额前20：SpaceX连涨3天 盘中市值一度超越亚马逊和微软",
+        "intro": "周二美股成交额第1名SpaceX收高4.83%，成交664.96亿美元。SpaceX纳斯达克上市后连涨三天，股价较开盘价上涨近50%，今日收盘股价上涨9.3美元，涨幅为4.83%，收于201.8美元.",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrytc7284881.d.html",
+        "time": "1781643084",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月17日收盘：道指四连涨收高320点 纳指标普走低",
+        "intro": "全球股市周二小幅上涨，此前一个交易日因美国与伊朗达成和平协议的消息出现反弹；美国股市在连续三日上涨后暂停涨势，与此同时，SpaceX延续强劲上涨势头...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrytf4053700.d.html",
+        "time": "1781641396",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "苹果将于明年推出带摄像头的AirPods和折叠屏iPhone",
+        "intro": " 苹果公司计划于2027年底推出配备摄像头的耳机AirPods，作为新品发布计划的一部分，这款产品将帮助苹果进军人工智能设备市场。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicruma9182293.d.html",
+        "time": "1781635798",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "德黑兰在美伊协议中寻求关于资金获取的“充分保证”",
+        "intro": " 据半官方的塔斯尼姆通讯社报道，伊朗央行行长Abdolnaser Hemmati称伊方将要求在周五与美国签署和平协议后，获得“关于有效获取资金的充分保证”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrumi4161256.d.html",
+        "time": "1781635613",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国20年期国债续发行中标收益率4.927% 需求超出预期",
+        "intro": "美国财政部续发行130亿美元20年期国债中标收益率4.927%，纽约时间下午1点投标截止时的发行前交易水平为4.937%，表明需求超出预期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrumf7384582.d.html",
+        "time": "1781635506",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "生活成本不断上升 美国人被迫动用退休储蓄应急",
+        "intro": "住房、医疗和教育成本不断上涨，迫使越来越多美国人动用退休账户，尽管这样做会面临高额罚金和税款。 Vanguard Group Inc．周二在其年度《美国如何储蓄》报告中表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrume5957769.d.html",
+        "time": "1781635441",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲债市：长端债券领涨 美伊协议前景令油价进一步下跌",
+        "intro": "欧洲债券上涨，长端表现领先。美国和伊朗临时和平协议定于周五签署，油价进一步下跌。 报道称，该协议将允许伊朗立即出售石油，缓解了市场对供应短缺的担忧...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrumi4159851.d.html",
+        "time": "1781635355",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "报道：币安势将失去向欧盟客户提供服务的许可",
+        "intro": "路透援引两名知情人士报道称，由于牌照申请即将被拒，币安势将在数周内失去向欧盟客户提供服务的许可。 根据欧盟名为MiCA的新规，加密货币公司必须在6月底前取得牌照...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicruma9179065.d.html",
+        "time": "1781635214",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "俄罗斯军舰向英国游艇鸣枪示警 英方将其视为孤立事件",
+        "intro": "英国正在调查一艘俄罗斯军舰在英领海外向一艘英国游艇鸣枪示警的事件。 英方收到一艘在英国注册游艇的报告，称俄罗斯的格里戈罗维奇海军上将级护卫舰在怀特岛以南20海里（...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrumf7381618.d.html",
+        "time": "1781635021",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Wells Fargo上调标普500指数年底目标 因美伊协议签署临近",
+        "intro": " Wells Fargo Securities LLC表示，宏观经济担忧缓解、情绪改善以及加息预期已被市场消化，这些因素将推动美国股市走高。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrumf7380815.d.html",
+        "time": "1781634889",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "报道：按照美伊协议 伊朗将可立即开始出售石油",
+        "intro": " 援引知情人士报道称，美国和伊朗的协议将允许德黑兰立即开始出售石油和燃料，此举将为德黑兰方面提供早期经济激励以推动冲突结束。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicruma9175910.d.html",
+        "time": "1781634703",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲股市上涨 霍尔木兹海峡重开前景提振乐观情绪",
+        "intro": "欧洲股市小幅走高，延续周一收于纪录高位的势头，霍尔木兹海峡有望在本周晚些时候重开的前景提振了投资者的风险偏好。 斯托克欧洲600指数收涨0.2%，银行股和工业股跑赢...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrumi4155054.d.html",
+        "time": "1781634565",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国和伊朗准备签署协议 双方均称取得胜利",
+        "intro": " 美国和伊朗准备周五在瑞士正式签署临时和平协议，双方都宣称取得胜利，但石油贸易商和航运商仍不确定霍尔木兹海峡何时才能重开。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrumi4154659.d.html",
+        "time": "1781634483",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "以色列国防军：已拦截真主党火箭弹并击中火箭发射装置",
+        "intro": "以色列国防军表示，周二以色列空军拦截了数枚真主党向以军在黎巴嫩南部行动区域发射的火箭弹。 以军称，空军对部分火箭弹发射装置实施打击并予以摧毁。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicruma9180791.d.html",
+        "time": "1781631034",
+        "source": "新浪新闻"
+      },
+      {
         "title": "Mobileye计划2027年在美国推出自动驾驶出租车服务",
         "intro": "核心要点自动驾驶技术供应商 Mobileye 全球公司宣布，将在美国推出自研自动驾驶出租车（Robotaxi）服务。公司计划 2027 年在美国一座主要城市首批投放 100...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrumf7345741.d.html",
         "time": "1781629279",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "法国央行新行长称无鹰派或鸽派倾向 决策将以数据为依据",
+        "intro": "法国央行行长Emmanuel Moulin表示，他在欧洲央行的政策选择将以数据为依据，并没有预先倾向加息或降息。 Moulin上周首次出席欧洲央行货币政策会议...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrumf7379351.d.html",
+        "time": "1781629239",
         "source": "新浪新闻"
       },
       {
@@ -455,132 +581,6 @@
         "intro": "布兰迪・梅尔维尔的年轻顾客们怨声载道，却依旧选择进店消费纽约市，顾客走出布兰迪・梅尔维尔门店 内容速览 以 “均码适配大多数人” 服饰出圈的布兰迪・梅尔维尔...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-17/detail-inicrqci7460229.d.html",
         "time": "1781626269",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX IPO散户获配股票寥寥，面临艰难的持股还是卖出抉择",
-        "intro": "核心要点各大线上投资论坛里，不少投资者称自己申报申购大量 SpaceX 股票，最终却只分到 1 股。成功获配股票的投资者操作分化明显：有人在上市首日直接卖出落袋为安...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-16/detail-inicrqci7453341.d.html",
-        "time": "1781624859",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "视频|第五家民营航司冲刺IPO，创始人来自湖北襄阳!年薪超1200万，家族持股估值73亿，负债率近90%",
-        "intro": "",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-06-16/detail-inicrqch6026526.d.html",
-        "time": "1781624853",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "视频|记者暗访揭露近视防控眼镜业内黑幕，有镜片生产商直言:有些厂家做出来的产品就是害人",
-        "intro": "",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-06-16/detail-inicrqch6026327.d.html",
-        "time": "1781624802",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "第十七届夏季达沃斯论坛准备就绪 主题聚焦“规模化创新”",
-        "intro": "6月16日消息，世界经济论坛第十七届新领军者年会（2026大连夏季达沃斯论坛）新闻发布会在北京举办。发布会公布了本届论坛举办安排：2026大连夏季达沃斯论坛将于6月23日至25...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-06-16/detail-inicrqce9247294.d.html",
-        "time": "1781624420",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "人工智能如何扰乱房价走势",
-        "intro": "核心要点知名房地产企业首席执行官瑞安・瑟汉特透露，ChatGPT 险些搅黄一笔价值 5000 万美元的房产交易。对于绝大多数房产从业者而言...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-16/detail-inicrqci7446502.d.html",
-        "time": "1781623497",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Carvana进军新车销售领域，此举或将重塑美国汽车零售市场",
-        "intro": "核心要点凭借二手车销售业务称霸美国市场的Carvana，自去年以来已收购 7 家新车经销授权门店，主要销售斯泰兰蒂斯集团旗下克莱斯勒、道奇、Jeep、公羊四大品牌车型。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-16/detail-inicrqci7445325.d.html",
-        "time": "1781623260",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "算力会成为新型石油吗？探秘将人工智能算力打造成可交易大宗商品的行业尝试",
-        "intro": "GPU 算力会成为新一代石油吗？揭秘 AI 算力期货的角逐赛道 数十年来，各大企业依靠期货市场对冲经营中的不确定性：航空公司对冲燃油成本、农户锁定农产品售价...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-16/detail-inicrqce9240082.d.html",
-        "time": "1781622918",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国联邦调查局：挫败一起针对白宫UFC赛事的袭击图谋",
-        "intro": "核心要点美国联邦调查局局长卡什・帕特尔在社交平台 X 发文披露，有人策划袭击周日于白宫举办的终极格斗冠军赛（UFC）赛事。帕特尔表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-16/detail-inicrqcm4218833.d.html",
-        "time": "1781622608",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "2026陆家嘴论坛明日开幕，最新议程来了",
-        "intro": "为期两天的2026陆家嘴论坛将于6月17日上午开幕，主题为“全球治理倡议下的金融发展与合作：新愿景、新挑战和新机遇”。 6月16日晚间，论坛官方网站披露了最新的议程信息。",
-        "url": "https://finance.sina.cn/2026-06-16/detail-inicrqch6016563.d.html",
-        "time": "1781622600",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "瑞士称美伊临时协议定于周五在布尔根施托克签署",
-        "intro": "瑞士外交部表示，美国与伊朗的临时和平协议定于周五在卢塞恩附近签署。 瑞士外交部发言人表示，这份谅解备忘录势将在俯瞰卢塞恩湖的山地度假胜地布尔根施托克（Bürgenstock...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-16/detail-inicrqci7439741.d.html",
-        "time": "1781622023",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "深夜突发！三大外卖平台被约谈",
-        "intro": "三大外卖平台被约谈。 据深圳市场监管，针对6月15日全市打击“幽灵外卖”统一执法行动发现的网络餐饮食品安全突出问题，深圳市市场监督管理局依法对美团、淘宝闪购...",
-        "url": "https://finance.sina.cn/2026-06-16/detail-inicrqcm4216937.d.html",
-        "time": "1781622000",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "被欧盟列入对俄制裁名单，300910紧急公告！",
-        "intro": "每经编辑|张锦河 6月16日，瑞丰新材（300910.SZ）公告称，公司被欧盟列入对俄制裁名单，欧盟称公司为俄军用机械润滑油供应化学添加剂。",
-        "url": "https://finance.sina.cn/2026-06-16/detail-inicrqci7439149.d.html",
-        "time": "1781621700",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "600228、603721今夜同时公布重磅事项，股价白天均涨停！",
-        "intro": "每经编辑|张锦河 6月16日，返利科技（600228）发布公告称，公司实际控制人及其一致行动人葛永昌、隗元元、上海享锐企业管理咨询事务所（有限合伙）...",
-        "url": "https://finance.sina.cn/2026-06-16/detail-inicrqcm4215263.d.html",
-        "time": "1781621689",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲天然气价格跌幅扩大 花旗称还有下行空间",
-        "intro": " 在美国与伊朗达成重开霍尔木兹海峡的临时协议后，市场对中东供应重返全球市场的乐观情绪升温，欧洲天然气价格延续跌势。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-16/detail-inicrqcm4214520.d.html",
-        "time": "1781621640",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普暗示以色列在处理真主党问题时不如叙利亚",
-        "intro": "美国总统特朗普公开表达了对以色列在黎巴嫩军事行动的不满，甚至暗示叙利亚在打击真主党方面可能做得更好。 正出席七国集团（G7）峰会的特朗普对卡塔尔领导人表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-16/detail-inicrqch6010783.d.html",
-        "time": "1781621516",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX市值超越微软，跻身美国第四大上市公司",
-        "intro": "核心要点周二早盘，投资者持续涌入这一马斯克旗下航天企业，SpaceX 股价大幅冲高。股价暴涨推动 SpaceX 市值超越微软。上市后首个完整交易日，该股单日大涨 20%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-16/detail-inicrqch6007360.d.html",
-        "time": "1781620933",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "深圳市市场监督管理局集中约谈美团、淘宝闪购和京东外卖平台",
-        "intro": "据“深圳市场监管”公众号消息，针对6月15日全市打击“幽灵外卖”统一执法行动发现的网络餐饮食品安全突出问题，深圳市市场监督管理局依法对美团、淘宝闪购...",
-        "url": "https://finance.sina.cn/2026-06-16/detail-inicrqci7434547.d.html",
-        "time": "1781620713",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲议会批准美欧贸易协议 为最终生效扫清障碍",
-        "intro": " 欧盟与美国的贸易协议在获得欧洲议会的最终批准后已接近实施，尽管跨大西洋贸易紧张局势持续存在，欧盟仍在推进该协定。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-16/detail-inicrivp4339800.d.html",
-        "time": "1781620697",
         "source": "新浪新闻"
       }
     ]
