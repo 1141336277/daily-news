@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T20:22:55.401Z",
+  "updated": "2026-06-17T22:48:07.973Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,125 @@
     ],
     "finance": [
       {
+        "title": "一文读懂|美联储主席沃什首秀 抛弃前瞻指引 淡化点阵图 改革美联储成立特别工作组 承诺坚守2%通胀底线",
+        "intro": " 北京时间6月18日凌晨2：00美联储宣布，继续将联邦基金利率目标区间维持在3.5%至3.75%之间不变。这一今年连续第四次维持利率不变的决定符合市场普遍预期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuqfz3344566.d.html",
+        "time": "1781736447",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元创下三个月来最大涨幅 美联储点阵图释放鹰派信号",
+        "intro": " 彭博美元指数创下三个月来最大涨幅，美联储如预期维持利率不变，但点阵图显示，19名官员中有9人预计今年至少加息25个基点。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyi2445834.d.html",
+        "time": "1781734997",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "苹果股价盘后微升 库克宣布计划提高产品价格",
+        "intro": "苹果股价盘后上涨0.5%，此前这家iPhone制造商在接受采访时宣布计划提高产品售价，以抵消内存和存储芯片的成本。 苹果首席执行官库克在采访中表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyi2445483.d.html",
+        "time": "1781734959",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美伊称谅解备忘录已签署 协议正式生效",
+        "intro": "据一名美国官员和伊朗官方媒体，美国和伊朗官员周三晚些时候以电子方式签署了临时和平协议。 这位美国官员表示，该协议现已生效。目前尚不清楚霍尔木兹海峡是否已经重开。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuixz6685752.d.html",
+        "time": "1781734936",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月18日外盘头条：消息人士称美伊提前签署协议 美联储按兵不动但鹰声嘹亮 新主席沃什淡化前瞻指引重要性",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国和伊朗总统已线上签署谅解备忘录 2、美联储发布联邦公开市场委员会（FOMC）声明 维持利率不变 3...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyi2433236.d.html",
+        "time": "1781733739",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国和伊朗总统已线上签署谅解备忘录",
+        "intro": "两名美国官员向Axios透露，美国与伊朗已远程签署了旨在结束战争并开放霍尔木兹海峡的谅解备忘录，该协议现已生效。 一位官员称，特朗普总统亲自签署了协议。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyf5654121.d.html",
+        "time": "1781733541",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "报道：美国和伊朗总统已线上签署谅解备忘录",
+        "intro": "伊朗外交部发言人Esmail Baghaei在国家电视台表示，伊朗总统和美国总统以电子方式签署了美伊谅解备忘录。 Baghaei表示，不会在瑞士举行签字仪式。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuixz6669874.d.html",
+        "time": "1781733057",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Anthropic与谷歌DeepMind首席执行官在G7会议上呼吁建立美国主导的AI联盟",
+        "intro": "在包括美国总统特朗普在内的科技领袖与国家首脑出席的一次会议上，Anthropic首席执行官Dario Amodei 和谷歌DeepMind首席执行官Demis...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyf5648876.d.html",
+        "time": "1781732936",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美伊14点协议细节趋于明晰 华府官员概述谅解备忘录大纲",
+        "intro": " 美国高级官员就美国和伊朗之间的14点协议大纲进行了概述及辩护，该协议旨在启动两国间更广泛的和平谈判。美方此举让这一此前处于保密状态的计划变得更加清晰。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyc3442665.d.html",
+        "time": "1781732578",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "大宗商品综述：原油反弹 黄金下跌 伦铜上涨",
+        "intro": "原油价格连续两天大跌后反弹，但美国与伊朗即将签署临时和平协议的前景给市场造成压力。美联储在凯文·沃什担任主席后的首次政策会议表现的出人意料鹰派...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyi2420473.d.html",
+        "time": "1781732304",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "国家电视台：伊朗议长卡利巴夫称没有禁止美国在伊朗投资",
+        "intro": " 伊朗首席谈判代表卡利巴夫在电视采访中表示，自伊斯兰革命以来，伊朗从未禁止美国公司投资其经济基础设施、石油、天然气或矿业领域。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyi2419561.d.html",
+        "time": "1781732198",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Axios：美伊谅解备忘录已电子签署 现已生效",
+        "intro": "Axios记者援引两位美国官员在X发帖表示，美国和伊朗周三以电子方式签署了结束战争的谅解备忘录，该备忘录现已生效。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuixz6663626.d.html",
+        "time": "1781732169",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：油价小幅上涨 交易员在等待美伊签署协议",
+        "intro": "在经历了连续两天的大跌之后，油价周三小幅回升，但美国和伊朗之间即将签署临时和平协议仍然对油价构成压力。该协议可能会重新开放霍尔木兹海峡...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyi2405904.d.html",
+        "time": "1781730761",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储新主席沃什成立特别工作组 聚焦6.7万亿美元资产负债表",
+        "intro": " 美联储主席凯文·沃什表示将任命一个特别工作组来审查该央行6.7万亿美元的资产负债表，朝着解决他长期以来一直批评的政策问题迈出第一步。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuixz6653098.d.html",
+        "time": "1781730710",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月18日热门中概股多数下跌 阿里巴巴跌超3% 拼多多跌超2%",
+        "intro": "6月18日热门中概股多数下跌，纳斯达克中国金龙指数跌1.14%。 上涨个股（按市值从高到低）：台积电涨1.48%，日月光半导体涨1.63%，联电涨0.65%，携程涨1.07%，富途控股涨0...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyi2402781.d.html",
+        "time": "1781730470",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月18日美股成交额前20：美光科技逆势收涨2.2%，德银大幅上调其目标价",
+        "intro": "周二美股成交额第2名美光科技收涨2.20%，成交475.82亿美元。 德意志银行在最新研报中大幅上调了美光科技的目标价，从1000美元上调至1500美元，并维持“买入”评级。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyf5621143.d.html",
+        "time": "1781729744",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月18日收盘：美股收跌道指下挫500点 沃什首次主持美联储会议引发债券收益率飙升",
+        "intro": "北京时间6月18日凌晨，美股周三收跌，道指下挫约500点。科技权重股领跌，国债收益率飙升。数位美联储官员暗示今年可能加息以遏制通胀...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicuiyf5613938.d.html",
+        "time": "1781728086",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美联储按兵不动但鹰声嘹亮 新主席沃什淡化前瞻指引重要性",
         "intro": " 美联储主席沃什在上任以来的首次政策会议结束后承诺将恢复物价稳定。此前，美联储官员维持利率不变，并释放出支持今年加息的信号。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsc6766637.d.html",
@@ -462,125 +581,6 @@
         "intro": "当被问及美联储维持利率不变的决定时，特朗普在法国对记者表示，“没关系，怎样都行。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsc6757121.d.html",
         "time": "1781725219",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国联邦公开市场委员会6月17日会议声明全文",
-        "intro": "以下是美联储在华盛顿发布的联邦公开市场委员会（FOMC）政策声明全文： 联邦公开市场委员会以12比0的投票结果批准发布以下声明：...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsf3533133.d.html",
-        "time": "1781725197",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普称美伊60天谈判期并非硬性截止日期",
-        "intro": "美国总统特朗普表示，与伊朗协议中提及的60天期限并非硬性截止日期。 特朗普在法国对记者表示：“我不认为这是硬性的”。 他还说：“只要他们表现良好就行”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsf3532840.d.html",
-        "time": "1781725118",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储预测2026年将加息，但主席沃什投了弃权票",
-        "intro": "美联储主席凯文·沃什（Kevin Warsh）于2026年6月17日抵达华盛顿特区参加新闻发布会。 美联储最新的经济预测显示，2026年将有一次加息...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsi5714279.d.html",
-        "time": "1781721739",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根资产管理：美联储利率决策带有鹰派倾向",
-        "intro": " 摩根资产管理的Bob Michele表示，美联储维持利率不变的决定带有鹰派倾向，政策制定者释放的信号表明，他们正让市场为未来借贷成本可能上升做好准备。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsf3516141.d.html",
-        "time": "1781721631",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储预测2026年将加息，主席沃什可能投了弃权票",
-        "intro": " 美联储最新的经济预测显示，2026年将有一次加息，但由于一位决策者显然缺席了预测，这一前景变得复杂——该缺席者可能是美联储主席凯文·沃什。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsf3514418.d.html",
-        "time": "1781721218",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美债收益率跳升 美联储点阵图提振交易员对2026年加息的押注",
-        "intro": "美国国债收益率跳升，因美联储官员暗示他们预计未来数月会加息，提振交易员对2026年加息的押注。 周三决策公布后，对央行近期政策变化尤为敏感的2年期美国国债收益率上涨近...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsf3513364.d.html",
-        "time": "1781720997",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "FOMC对2026年利率预测中值为3.75% 前值为3.375%",
-        "intro": "美国联邦公开市场委员会（FOMC）对每年年末及长期联邦基金利率适当水平的评估中值如下： 2026年：3.750%（区间为3.375%至4.375%）；前值为3.375%； 2027年：3...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsc6735107.d.html",
-        "time": "1781720488",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美元跃升至日内高点 18名FOMC成员中9人预计2026年将加息",
-        "intro": " 彭博美元指数跃升至日内高点，此前美联储维持政策利率不变并删除宽松倾向相关措辞，18名FOMC成员中有9人预计2026年将加息。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsm2485366.d.html",
-        "time": "1781720455",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储利率决议关键要点一览：利率前景存分歧 政策声明措辞调整",
-        "intro": "以下是美联储周三利率决议的要点： 联邦公开市场委员会一致投票决定维持基准利率在3.5%-3.75%的目标区间不变。 反映利率预测的“点阵图”显示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsm2485114.d.html",
-        "time": "1781720397",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "沃什首场会议带来更简短的沟通",
-        "intro": "在作为美联储主席的首次会议上，凯文·沃什迅速开始兑现他重塑美联储沟通方式的承诺。会后，美联储发布了一份大幅缩减的政策声明，没有就美联储的下一步行动可能是什么提供...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsf3509464.d.html",
-        "time": "1781720075",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储主席沃什大幅修改美联储利率声明 与4月声明措辞对比",
-        "intro": "当地时间6月17日，联邦公开市场委员会（FOMC）一致投票决定，将基准隔夜借贷利率维持在3.5%至3.75%的区间不变。自2025年下半年央行降息0.75个百分点以来...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsi5705919.d.html",
-        "time": "1781719975",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储维持利率不变，精简声明以移除降息偏向",
-        "intro": " 凯文·沃什（Kevin Warsh）作为美联储主席主持的首次会议于周三结束。会议决定维持利率不变，删除了暗示未来倾向于降息的关键措辞，并大幅缩减了政策声明的篇幅。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsi5703711.d.html",
-        "time": "1781719607",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储发布联邦公开市场委员会（FOMC）声明 维持利率不变",
-        "intro": "美联储联邦公开市场委员会以12票赞成、0票反对的表决结果，批准发布以下声明： 为支持美联储的双重使命，委员会决定将联邦基金利率的目标区间维持在3.5%至3.75%不变。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inicucsi5702248.d.html",
-        "time": "1781719395",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根资产管理Michele：经济形势不适合降息 沃什注定让特朗普失望",
-        "intro": "摩根资产管理公司的Bob Michele表示，美国经济目前的情况并不适合美联储降息。 Michele说，“现在的经济形势不适合降息”。 他表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inictxki3631964.d.html",
-        "time": "1781718499",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伊朗称谅解备忘录可能由美伊两国总统签署",
-        "intro": "伊朗外交部发言人巴加埃称，伊朗和美国之间的谅解备忘录可能由两国总统签署。 他称在审议的一项提议是由两国总统签署协议，伊朗官员前往瑞士的计划没有变化。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inictxkf6853849.d.html",
-        "time": "1781718163",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普：若伊朗协议未能达成，很喜欢把责任推给万斯的想法",
-        "intro": "美国总统特朗普周三表示，如果旨在结束与伊朗战争的协议未能达成，他很喜欢把责任推给副总统万斯的想法。 特朗普在法国埃维昂莱班举行的七国集团（G7）峰会上对记者表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inictxki3627817.d.html",
-        "time": "1781717797",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普：若对伊朗协议不满意，美国将“立刻恢复投掷炸弹”",
-        "intro": "美国总统特朗普周三在七国集团（G7）峰会上表示，如果他对伊朗协议不满意，美国将“立刻恢复投掷炸弹”。 特朗普称，这项旨在结束中东冲突...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-18/detail-inictxki3625655.d.html",
-        "time": "1781717391",
         "source": "新浪新闻"
       }
     ]
