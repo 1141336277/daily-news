@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T19:56:43.014Z",
+  "updated": "2026-06-19T21:15:57.543Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,13 @@
     ],
     "finance": [
       {
+        "title": "诺贝尔获奖者江珀宣布离开DeepMind加入Anthropic",
+        "intro": "资深研究科学家约翰・江珀（John Jumper）于周五宣布，他将离开谷歌DeepMind，加入人工智能初创企业Anthropic，这是这家科技巨头人工智能研发部门最新一起备受关注的核心人...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-20/detail-inicywef1016754.d.html",
+        "time": "1781901724",
+        "source": "新浪新闻"
+      },
+      {
         "title": "伊朗副外长：美国须约束以色列遵守美伊谅解备忘录",
         "intro": "伊朗副外长赛义德・哈提卜扎德（Saeed Khatibzadeh）表示，美国必须保证以色列遵守美伊谅解备忘录的各项条款。他补充称，只要美方展现同等诚意...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-20/detail-inicyrwk2463122.d.html",
@@ -574,13 +581,6 @@
         "intro": "6月19日，美国费城联储制造业指数在6月明显反弹，令金价延续承压态势。ZFX山海证券表示，数据从上月的负值回升至10.3，高于市场预期，显示制造业活动和订单表现有所改善...",
         "url": "https://finance.sina.cn/futuremarket/qszx/2026-06-19/detail-inicxyys2736562.d.html",
         "time": "1781872596",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Vatee万腾:预测市场应用加快落地",
-        "intro": "6月19日，加拿大金融科技平台Wealthsimple计划推出由Kalshi提供底层支持的预测市场应用，这让事件合约的零售化进程再向前一步。Vatee万腾表示，新应用预计将覆盖金融市场...",
-        "url": "https://finance.sina.cn/futuremarket/qszx/2026-06-19/detail-inicxyys2733882.d.html",
-        "time": "1781872090",
         "source": "新浪新闻"
       }
     ]
