@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T17:43:29.470Z",
+  "updated": "2026-06-22T20:56:19.819Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,146 @@
     ],
     "finance": [
       {
+        "title": "CFTC：资产管理公司美国国债期货净多头增加 对冲基金净空头增加",
+        "intro": "美国商品期货交易委员会（CFTC）数据显示，截至6月16日当周，资产管理公司总体偏看涨美国国债期货，尤其是在长端显著增加净多头头寸。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9815976.d.html",
+        "time": "1782161763",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特斯拉致命车祸引发美国汽车安全监管机构调查",
+        "intro": " 一起涉及特斯拉轿车的致命碰撞事故正接受联邦调查，此前一辆电动汽车在德克萨斯州冲进一栋住宅，导致屋内一名女子身亡。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2101366.d.html",
+        "time": "1782161739",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月23日美股成交额前20：SpaceX重挫16% 连跌3天 市值跌回2万亿美元附近",
+        "intro": "周一美股成交额第1名美光科技，收涨6.82%，成交611.81亿美元。美光公司与Anthropic宣布了一项战略协议，涵盖内存与存储AI架构设计、供需合作...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2101190.d.html",
+        "time": "1782161700",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "芝商所平台“连接中断” 交易受到扰动",
+        "intro": "根据看到的一封电子邮件，全球最大衍生品交易所芝商所周一中午告知客户，由于该平台经历“连接中断”，交易受到扰动。 邮件表示，芝商所称“支持部门正在调查”这起事件。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2227465.d.html",
+        "time": "1782160646",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "大宗商品综述：油价下挫 铜价上涨 金价走高",
+        "intro": " 油价下挫，美国放松对伊朗的石油制裁提振了供应预期。伦铜上涨，中东紧张局势降温有助于改善需求前景。美伊谈判进展缓解能源与通胀忧虑，金价走高。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2227095.d.html",
+        "time": "1782160562",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国国债：美国国债维持跌势 企业债发行安排增多",
+        "intro": "美国国债在美国交易时段下跌，表现落后于欧洲债券。原油价格下跌，因为美国发布为期60天的许可证，允许伊朗在国际市场上销售石油。新发企业债安排超过100亿美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipii9001510.d.html",
+        "time": "1782159940",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：油价下挫 美国放松对伊石油制裁提振供应预期",
+        "intro": " 国际油价下跌，因为有迹象显示美伊和谈取得进展，包括美国发布豁免允许部分伊朗石油销售，提振了市场对波斯湾石油供应持续恢复的希望。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipic9938784.d.html",
+        "time": "1782159902",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月23日收盘：美股三大股指涨跌不一 SpaceX暴跌16%",
+        "intro": " 北京时间23日凌晨，美股周一三大股指涨跌不一，顶尖人才流失引发AI担忧，Alphabet跌超5%，遭遇一年来最差单日表现，拖累纳指。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipii9000709.d.html",
+        "time": "1782159721",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊拉克总理将于7月访问土耳其 讨论石油出口问题",
+        "intro": "据伊拉克总理办公室发表的一份声明，伊拉克总理阿里·扎伊迪收到土耳其总统埃尔多安的邀请，将于7月访问土耳其。 阿里·扎伊迪在与埃尔多安通话时讨论了双方共同关心的议题...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2209604.d.html",
+        "time": "1782156768",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "摩根大通看好英镑 政治不确定性消退",
+        "intro": "英国首相基尔·斯塔默宣布辞职后，英国政治不确定性开始减弱，摩根大通恢复对英镑的看涨观点。 这家美国银行长期以来一直认为，英镑兑其他低息货币的套利交易具有良好价值...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2209454.d.html",
+        "time": "1782156748",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "谁能加入马斯克的万亿富翁俱乐部？预测市场认为扎克伯格最有希望",
+        "intro": " 6月12日，SpaceX成功上市，马斯克凭借所持股份成为世界首位万亿富翁。预测市场的交易员认为，马克·扎克伯格最有希望成为下一位万亿富翁，但这依然是一个小概率事件。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2208842.d.html",
+        "time": "1782156673",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "顶尖人才流失引发AI担忧，Alphabet遭遇一年来最差单日表现",
+        "intro": "随着人工智能领域的担忧不断加剧，以及两名知名研究人员近日跳槽竞争对手，谷歌正面临其一年来股市表现最糟糕的一天。 谷歌母公司Alphabet的股价盘中一度下跌7%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2208229.d.html",
+        "time": "1782156576",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "人工智能初创公司Reflection与SpaceX签署计算能力合作协议",
+        "intro": " Reflection AI周一表示，该公司已与SpaceX签署了一项协议，该协议将使这家初创公司能够使用由埃隆·马斯克领导的公司旗下Colossus 2数据中心的额外计算能力。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2207193.d.html",
+        "time": "1782156332",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普提名疾控中心主任施瓦茨：若获确认，将辞去现任职务并出售所持股份",
+        "intro": "特朗普提名的美国疾病控制与预防中心（CDC）主任人选施瓦茨（EricaSchwartz）在向美国卫生与公众服务部（HHS）伦理顾问提交的财务披露文件中表示，如果获得确认...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipii8984042.d.html",
+        "time": "1782156235",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美元在美伊会谈后走高，斯塔默辞职后英镑走势震荡",
+        "intro": " 美元周一走高，因美伊首轮会谈提振了人们对达成和平协议的乐观预期；与此同时，在英国首相斯塔默宣布将辞职后，英镑在震荡交投中走高。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipic9921836.d.html",
+        "time": "1782156065",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "巴克莱建议投资者为美国国债收益率走高布局",
+        "intro": "在美联储上周转向更为鹰派的立场后，巴克莱利率策略师建议客户为美国国债收益率走高布局。 该巴克莱团队将各期限美债的目标收益率上调了约35个基点...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipii8983101.d.html",
+        "time": "1782156009",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "城堡证券：美联储主席沃什的改革或有助于降低长期美债波动性",
+        "intro": " 城堡证券表示，美联储主席沃什致力于压低通胀的立场有助于增强美联储的信誉，从而支撑长期美国国债收益率，压低期限溢价。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipif6696711.d.html",
+        "time": "1782155751",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Strategy购入520枚比特币 连续三周依靠发行普通股融资",
+        "intro": "Michael Saylor旗下的Strategy公司买入了价值3940万美元的比特币。尽管此前曾承诺要转向通过发行永续优先股为购买比特币提供资金...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2204412.d.html",
+        "time": "1782155695",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "斯塔默辞职凸显英国政坛深层困局",
+        "intro": "新华社记者赵家淞 于艾岑 英国首相斯塔默22日宣布将辞去执政党工党党首职务，并将在继任者产生后卸任首相。 分析人士认为，工党政治人物安迪·伯纳姆近日在议会补选中胜出...",
+        "url": "https://finance.sina.cn/2026-06-23/detail-inieipic9922908.d.html",
+        "time": "1782155379",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "消费维权有哪些便捷渠道？这份实用投诉指南请收好",
+        "intro": "在日常消费中，几乎每个人都遇到过让人头疼的问题：网上买的东西质量差、外卖吃出异物、办了会员被自动续费、装修公司收了钱不干活……遇到这些情况...",
+        "url": "https://finance.sina.cn/consume/shxf/2026-06-23/detail-iniehscq0222886.d.html",
+        "time": "1782150970",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美国放松对伊朗石油制裁 发放60天临时许可",
         "intro": "作为结束对伊战争协议的一部分，美国已授权允许伊朗石油和燃料的销售，这标志着华府实施多年的经济制裁出现全面变化。 美国财政部发布了一项范围广泛的60天期许可...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzh0024025.d.html",
@@ -441,146 +581,6 @@
         "intro": " SpaceX已与AI初创公司Reflection AI签署一项价值数十亿美元的协议，将为后者提供计算资源。这家马斯克旗下的公司正在转型成为AI基础设施提供商。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzh0009544.d.html",
         "time": "1782147027",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲股市上涨 美伊谈判取得进展 爱马仕股价逆市下跌",
-        "intro": " 欧洲股市上涨，交易员关注美国和伊朗谈判取得更多进展的迹象。爱马仕下跌5.4%，此前分析师预计其即将公布的上半年业绩将显示盈利能力承压。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzk2289195.d.html",
-        "time": "1782146967",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：英国国债上涨 伯纳姆有望成为英国下任首相",
-        "intro": " 在曾被视为英国下任首相潜在候选人的韦斯·斯特里廷表态支持安迪·伯纳姆后，英国国债全线上涨。他的这一表态消除了基尔·斯塔默辞职后的一个关键不确定性。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzi6784880.d.html",
-        "time": "1782146852",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根士丹利拟打造13亿美元新办公大楼 拓展达拉斯业务",
-        "intro": "摩根士丹利成为又一家押注德克萨斯州金融中心地位的华尔街巨头，该行正考虑在达拉斯打造一座耗资13亿美元的办公大楼。 根据达拉斯市政府文件...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzm9064414.d.html",
-        "time": "1782146631",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "“失败的奖赏”：塔吉特董事长康奈尔的投资者支持率跌至历史最低",
-        "intro": "核心要点 塔吉特执行董事长、前首席执行官布莱恩・康奈尔在本月公司年度股东大会上顺利连任董事，但投资者投票支持率出现明显下滑。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzi6783379.d.html",
-        "time": "1782146588",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "在美上市新兴市场ETF资金回流",
-        "intro": "上周，投资者回流美国上市、投资新兴市场股票和债券的交易所交易基金（ETF）。其中，韩国资金流入规模最大。 数据显示，截至6月18日当周，在美国上市...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzm9055295.d.html",
-        "time": "1782145263",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX与开源AI初创公司Reflection签署价值63亿美元算力采购协议",
-        "intro": "核心要点 SpaceX 与 Reflection AI 签署大额算力合作协议，后者可使用埃隆・马斯克旗下 ** 巨人 2 号（Colossus 2）** 数据中心的英伟达 GB300 芯片算力资源。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieiatm6904819.d.html",
-        "time": "1782144953",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Meta旗下WhatsApp负责人即将卸任，印度金融科技公司创始人沙阿接任",
-        "intro": "核心要点 Meta 首席执行官马克・扎克伯格宣布，任职七年有余的 WhatsApp 负责人威尔・卡斯卡特即将卸任。 Meta 任命印度金融科技初创公司 Cred 创始人库纳尔・沙阿执掌...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieiatk0126905.d.html",
-        "time": "1782144659",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "斯塔默辞职后 债券交易员最关心谁来掌管英国财政大权",
-        "intro": " 英国债券投资者认为，在首相基尔·斯塔默宣布辞职后，财政大臣蕾切尔·里夫斯的政治前景已岌岌可危，并开始评估其潜在继任者可能对市场带来的影响。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-22/detail-inieiatm6897067.d.html",
-        "time": "1782143732",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美伊继续推进瑞士谈判 万斯称周末磋商进展顺利",
-        "intro": " 美国副总统JD·万斯表示，与伊朗在周末的谈判“非常、非常好”，眼下美伊两国寻求在两个月内达成和平协议并正式结束这场冲击全球经济的战争。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-22/detail-inieiatp9175535.d.html",
-        "time": "1782143478",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SK海力士市值超越三星，登顶韩国市值最高企业",
-        "intro": "这家韩国存储芯片企业总市值达到 1.362 万亿美元受 AI 芯片热潮带动，SK 海力士股价今年涨幅超 3 倍。 内容速览 受人工智能芯片需求爆发提振...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-22/detail-inieiatn2396263.d.html",
-        "time": "1782143081",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Alphabet创2月以来最大跌幅 因两名AI领军人物相继离职",
-        "intro": "Alphabet周一盘中一度下跌5.9%，创下2月上旬以来的盘中最大跌幅，拖累“科技七巨头”中的其他股票下跌。 上周末，该公司流失了第二位知名AI研究人员。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-22/detail-inieiatm6891090.d.html",
-        "time": "1782142550",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "RBC策略师称美股能够承受美联储进行两次左右的加息",
-        "intro": "RBC Capital Markets的Lori Calvasina表示，只要美联储的紧缩周期保持适度，美国股市应该能够承受加息。 “只要未来12个月内进行两次左右幅度分别为25个基点的加息...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-22/detail-inieiatk0112234.d.html",
-        "time": "1782142060",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX将首次发行投资级债券 银行家据悉正进行推介",
-        "intro": " 在完成创纪录的750亿美元IPO后，SpaceX启动对投资级债券的首次发行，预计这将开启一轮大规模举债浪潮，为其在AI领域的布局提供资金。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-22/detail-inieiatm6887518.d.html",
-        "time": "1782141901",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "四家A股公司退市，即将摘牌",
-        "intro": " 6月22日晚，退市国化、退市岩石公告称，公司退市整理期已于6月22日结束，上海证券交易所将于6月29日对公司股票予以摘牌。",
-        "url": "https://finance.sina.cn/2026-06-22/detail-inieiatn2384570.d.html",
-        "time": "1782140613",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "斯塔默让位后 安迪·伯纳姆有望成为英国十年来第七位首相",
-        "intro": " 在基尔·斯塔默公布离任时间表、而潜在竞争对手纷纷支持迅速完成权力交接后，安迪·伯纳姆似乎势将成为英国十年来的第七位首相。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-22/detail-inieiatn2380803.d.html",
-        "time": "1782140381",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX宣布发债计划后股价一度下挫10%",
-        "intro": "SpaceX股价连续第三个交易日下跌，此前这家由埃隆·马斯克领导的公司表示将首次发行投资级债券。外界预计此次发债是该公司为资助其人工智能雄心而进行的大规模举债行动的一...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-22/detail-inieiatn2379390.d.html",
-        "time": "1782140080",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "大V投顾集体“渡劫”：为什么他们会跑输科技牛市？",
-        "intro": "每经记者|李娜每经编辑|肖芮冬 当市场的定价逻辑从确定性溢价转向技术创新驱动，一套曾经在熊市中守护无数投资者的深度价值+分散配置策略...",
-        "url": "https://finance.sina.cn/2026-06-22/detail-inieiatm6878487.d.html",
-        "time": "1782139997",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "敦豪将采用新型风力货运船舶承运货物",
-        "intro": "旗下货运代理部门计划借助特制帆船开展大西洋跨洋货运业务敦豪计划从明年起使用这款风力驱动船舶开展大西洋跨洋货运。 内容速览 敦豪全球货运将与维拉公司合作...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-22/detail-inieiatp9153083.d.html",
-        "time": "1782139552",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "多家外资巨头一致看好A股AI和半导体板块",
-        "intro": "记者丨易妍君 编辑丨张星 近期，摩根士丹利、景顺、富达国际、贝莱德等外资巨头陆续发布2026年中期投资展望。 多家外资机构一致看好中国AI与半导体产业链的中长期价值。",
-        "url": "https://finance.sina.cn/2026-06-22/detail-inieiatm6877417.d.html",
-        "time": "1782139512",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "冰箱彩电大沙发之后，理想靠什么赢下一个十年？",
-        "intro": "2022年L9发布会，理想汽车董事长兼CEO李想站上舞台，把车载冰箱、全景大屏、零重力沙发摆在所有人面前，“冰箱彩电大沙发”一夜成为理想的代名词。",
-        "url": "https://finance.sina.cn/2026-06-22/detail-inieiatk0101467.d.html",
-        "time": "1782139500",
         "source": "新浪新闻"
       }
     ]
