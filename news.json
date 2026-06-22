@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T20:56:19.819Z",
+  "updated": "2026-06-22T22:51:41.103Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,111 @@
     ],
     "finance": [
       {
+        "title": "美联储官员古尔斯比：通胀过高且正朝错误方向发展",
+        "intro": "芝加哥联储行长奥斯坦·古尔斯比表示，他仍然担心通胀问题，并质疑推动价格上涨的因素是否都只是暂时性的。 古尔斯比周一表示：“我们面对的通胀远高于目标水平...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2164413.d.html",
+        "time": "1782168437",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "芝商所CME Direct平台恢复交易 早前出现连接中断情况",
+        "intro": "相关阅读：芝商所平台“连接中断” 交易受到扰动 据交易员表示，芝商所旗下CME Direct平台在周一因技术故障短暂中断后，目前已恢复交易。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitrf8939958.d.html",
+        "time": "1782168256",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月23日隔夜要闻：SpaceX三天蒸发6000亿美元 油价下挫 美国授权伊朗出售石油 美银德银预计美联储9月加息",
+        "intro": "市场 6月23日收盘：美股三大股指涨跌不一 SpaceX暴跌16% 6月23日美股成交额前20：SpaceX重挫16% 连跌3天 市值跌回2万亿美元附近 6月23日热门中概股多数下跌...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9861612.d.html",
+        "time": "1782167458",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "甲骨文上财年裁员约2.1万 人工智能取代部分工作岗位",
+        "intro": "甲骨文上财年裁员约2.1万，减员规模大于此前已知水平，其中包括因使用人工智能（AI）而被取消的岗位。 甲骨文周一在年度财务监管申报文件中称：“我们在各项业务中采用和部...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitrf8922876.d.html",
+        "time": "1782166524",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国财长贝森特与日本财务大臣片山皋月举行线上会议",
+        "intro": "日本财务大臣片山皋月与美国财政部长斯科特·贝森特于日本周一晚间举行了线上会议。 日本最高外汇官员三村淳也参加了会议。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2140384.d.html",
+        "time": "1782166130",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "白宫将召集武器制造商开会 在库存承压之际推动加大弹药生产",
+        "intro": "白宫本周将召集防务承包商开会，推动加大弹药生产；与伊朗近四个月的战争后，库存正承受压力。 美国总统特朗普确认了这次会议。白宫一名官员此前表示，会议将于周三举行。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitrc6625485.d.html",
+        "time": "1782165928",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Apollo再次对私募信贷基金赎回设限 此前赎回申请比例达17%",
+        "intro": " Apollo Global Management Inc．再次限制旗下面向散户投资者的最大非上市私募信贷基金赎回，原因是市场对该资产类别的广泛担忧持续存在。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitrc6622357.d.html",
+        "time": "1782165587",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX股价连续第三个交易日下跌 市值累计蒸发6000亿美元",
+        "intro": "SpaceX股价连续第三个交易日下跌，市值蒸发数千亿美元，此前这家由埃隆·马斯克领导的公司启动对投资级债券的首次发行，市场预计这将开启一轮大规模举债浪潮...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9844951.d.html",
+        "time": "1782165389",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "百度ADR盘后上涨 花旗对其开启30天的看涨催化观察",
+        "intro": "百度在美国上市的ADR盘后交易上涨1.5%，此前花旗对该公司开启30天的看涨催化观察。 分析师Alicia Yap写道，百度“芯片和云业务的内在实力可能成为推动股价上涨的催化因素”...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9841440.d.html",
+        "time": "1782164965",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元走高 斯塔默辞职后英镑小幅上涨",
+        "intro": " 随着投资者衡量美伊和平协议前景，美元指数走高。英国首相基尔·斯塔默宣布辞职后，市场预期政治不确定性将缓解，英镑扭转早前跌势并小幅走高。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2128686.d.html",
+        "time": "1782164930",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月23日外盘头条：美国放松对伊朗石油制裁 SpaceX重挫16% 连跌三天 芝商所平台“连接中断” 谷歌大跌",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国放松对伊朗石油制裁 发放60天临时许可 2、芝商所平台“连接中断” 交易受到扰动 3...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9825766.d.html",
+        "time": "1782163851",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普签署量子研究行政令 以推动技术应用并提振网络防御能力",
+        "intro": "特朗普周一签署旨在加速量子研究的行政命令，为联邦机构采用该技术、加强美国抵御网络攻击的能力奠定基础。 特朗普在白宫表示，这些行政命令将提升美国“在这个非常重要的新...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitrf8892522.d.html",
+        "time": "1782163471",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "高通接近收购人工智能芯片初创公司Modular",
+        "intro": " 知情人士称，高通正就收购人工智能芯片初创公司Modular Inc．进行深入谈判，潜在交易对Modular的估值约为40亿美元。交易最快未来几周宣布。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2114115.d.html",
+        "time": "1782163353",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：科技巨头走弱拖累标普500指数 盖过美伊和谈利好",
+        "intro": "标普500指数周一下跌，大型科技股走弱以及美国国债收益率上升盖过了周末美伊和谈进展带来的利好影响。 标普500指数收跌0.4%，超大盘科技股拖累大盘表现...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9827715.d.html",
+        "time": "1782163324",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月23日热门中概股多数下跌 阿里京东跌近2% 腾讯音乐跌超4%",
+        "intro": "6月23日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.35%。 上涨个股（按市值从高到低）：台积电涨1.2%，网易涨0.2%，联电涨14.2%，携程涨2.93%，贝壳涨0.6%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2106696.d.html",
+        "time": "1782162516",
+        "source": "新浪新闻"
+      },
+      {
         "title": "CFTC：资产管理公司美国国债期货净多头增加 对冲基金净空头增加",
         "intro": "美国商品期货交易委员会（CFTC）数据显示，截至6月16日当周，资产管理公司总体偏看涨美国国债期货，尤其是在长端显著增加净多头头寸。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9815976.d.html",
@@ -458,6 +563,13 @@
         "source": "新浪新闻"
       },
       {
+        "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
+        "intro": "当地时间22日，伊朗谈判代表团团长、伊朗议会议长卡利巴夫表示，霍尔木兹海峡的管理绝不会回到战前状态。在遵守国际法的前提下，霍尔木兹海峡将按照伊朗制定的机制...",
+        "url": "https://finance.sina.cn/2026-06-23/detail-inieipic9943630.d.html",
+        "time": "1782159835",
+        "source": "新浪新闻"
+      },
+      {
         "title": "6月23日收盘：美股三大股指涨跌不一 SpaceX暴跌16%",
         "intro": " 北京时间23日凌晨，美股周一三大股指涨跌不一，顶尖人才流失引发AI担忧，Alphabet跌超5%，遭遇一年来最差单日表现，拖累纳指。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipii9000709.d.html",
@@ -465,122 +577,10 @@
         "source": "新浪新闻"
       },
       {
-        "title": "伊拉克总理将于7月访问土耳其 讨论石油出口问题",
-        "intro": "据伊拉克总理办公室发表的一份声明，伊拉克总理阿里·扎伊迪收到土耳其总统埃尔多安的邀请，将于7月访问土耳其。 阿里·扎伊迪在与埃尔多安通话时讨论了双方共同关心的议题...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2209604.d.html",
-        "time": "1782156768",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根大通看好英镑 政治不确定性消退",
-        "intro": "英国首相基尔·斯塔默宣布辞职后，英国政治不确定性开始减弱，摩根大通恢复对英镑的看涨观点。 这家美国银行长期以来一直认为，英镑兑其他低息货币的套利交易具有良好价值...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2209454.d.html",
-        "time": "1782156748",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "谁能加入马斯克的万亿富翁俱乐部？预测市场认为扎克伯格最有希望",
-        "intro": " 6月12日，SpaceX成功上市，马斯克凭借所持股份成为世界首位万亿富翁。预测市场的交易员认为，马克·扎克伯格最有希望成为下一位万亿富翁，但这依然是一个小概率事件。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2208842.d.html",
-        "time": "1782156673",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "顶尖人才流失引发AI担忧，Alphabet遭遇一年来最差单日表现",
-        "intro": "随着人工智能领域的担忧不断加剧，以及两名知名研究人员近日跳槽竞争对手，谷歌正面临其一年来股市表现最糟糕的一天。 谷歌母公司Alphabet的股价盘中一度下跌7%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2208229.d.html",
-        "time": "1782156576",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "人工智能初创公司Reflection与SpaceX签署计算能力合作协议",
-        "intro": " Reflection AI周一表示，该公司已与SpaceX签署了一项协议，该协议将使这家初创公司能够使用由埃隆·马斯克领导的公司旗下Colossus 2数据中心的额外计算能力。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2207193.d.html",
-        "time": "1782156332",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普提名疾控中心主任施瓦茨：若获确认，将辞去现任职务并出售所持股份",
-        "intro": "特朗普提名的美国疾病控制与预防中心（CDC）主任人选施瓦茨（EricaSchwartz）在向美国卫生与公众服务部（HHS）伦理顾问提交的财务披露文件中表示，如果获得确认...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipii8984042.d.html",
-        "time": "1782156235",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美元在美伊会谈后走高，斯塔默辞职后英镑走势震荡",
-        "intro": " 美元周一走高，因美伊首轮会谈提振了人们对达成和平协议的乐观预期；与此同时，在英国首相斯塔默宣布将辞职后，英镑在震荡交投中走高。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipic9921836.d.html",
-        "time": "1782156065",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "巴克莱建议投资者为美国国债收益率走高布局",
-        "intro": "在美联储上周转向更为鹰派的立场后，巴克莱利率策略师建议客户为美国国债收益率走高布局。 该巴克莱团队将各期限美债的目标收益率上调了约35个基点...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipii8983101.d.html",
-        "time": "1782156009",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "城堡证券：美联储主席沃什的改革或有助于降低长期美债波动性",
-        "intro": " 城堡证券表示，美联储主席沃什致力于压低通胀的立场有助于增强美联储的信誉，从而支撑长期美国国债收益率，压低期限溢价。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipif6696711.d.html",
-        "time": "1782155751",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Strategy购入520枚比特币 连续三周依靠发行普通股融资",
-        "intro": "Michael Saylor旗下的Strategy公司买入了价值3940万美元的比特币。尽管此前曾承诺要转向通过发行永续优先股为购买比特币提供资金...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2204412.d.html",
-        "time": "1782155695",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "斯塔默辞职凸显英国政坛深层困局",
-        "intro": "新华社记者赵家淞 于艾岑 英国首相斯塔默22日宣布将辞去执政党工党党首职务，并将在继任者产生后卸任首相。 分析人士认为，工党政治人物安迪·伯纳姆近日在议会补选中胜出...",
-        "url": "https://finance.sina.cn/2026-06-23/detail-inieipic9922908.d.html",
-        "time": "1782155379",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "消费维权有哪些便捷渠道？这份实用投诉指南请收好",
-        "intro": "在日常消费中，几乎每个人都遇到过让人头疼的问题：网上买的东西质量差、外卖吃出异物、办了会员被自动续费、装修公司收了钱不干活……遇到这些情况...",
-        "url": "https://finance.sina.cn/consume/shxf/2026-06-23/detail-iniehscq0222886.d.html",
-        "time": "1782150970",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国放松对伊朗石油制裁 发放60天临时许可",
-        "intro": "作为结束对伊战争协议的一部分，美国已授权允许伊朗石油和燃料的销售，这标志着华府实施多年的经济制裁出现全面变化。 美国财政部发布了一项范围广泛的60天期许可...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzh0024025.d.html",
-        "time": "1782149863",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普称伊朗将同意接受重大武器核查",
-        "intro": "特朗普在Truth Social上发帖表示，“大家都非常清楚，伊朗将同意接受重大武器核查，以确保未来长期的‘核诚信’。”",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzh0020432.d.html",
-        "time": "1782149186",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英国首相头号热门候选人迪・伯纳姆是谁？，投资者需要了解的另外四件事",
-        "intro": "核心要点 英国首相基尔・斯塔默于周一宣布辞职。 策略师警示：领导层更迭并不意味着英国经济走势会随之扭转。 斯塔默的继任遴选工作已经启动，目前热门人选已然浮出水面...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzi6788319.d.html",
-        "time": "1782147661",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Lucid跌5.13%，计划裁减美国18%员工，首席运营官离职",
-        "intro": "核心要点 电动汽车厂商Lucid将在美国裁员 18%。 公司同时宣布，首席运营官马克・温特霍夫离职，该首席运营官岗位被撤销。 Lucid上月表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzm9067882.d.html",
-        "time": "1782147264",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX与AI初创公司Reflection达成数十亿美元协议 将向后者提供算力",
-        "intro": " SpaceX已与AI初创公司Reflection AI签署一项价值数十亿美元的协议，将为后者提供计算资源。这家马斯克旗下的公司正在转型成为AI基础设施提供商。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieihzh0009544.d.html",
-        "time": "1782147027",
+        "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
+        "intro": " 当地时间22日，伊朗谈判代表团团长、伊朗议会议长卡利巴夫表示，在伊美谅解备忘录中，明确强调结束针对伊朗及其盟友的战争。",
+        "url": "https://finance.sina.cn/2026-06-23/detail-inieipic9945191.d.html",
+        "time": "1782159347",
         "source": "新浪新闻"
       }
     ]
