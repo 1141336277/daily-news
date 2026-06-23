@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T22:51:41.103Z",
+  "updated": "2026-06-23T00:14:42.673Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -19,6 +19,13 @@
   },
   "news": {
     "hot": [
+      {
+        "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+        "intro": "今日热点导览\n  三星电子向韩国所有员工开放ChatGPT和Codex\n  港股智谱暴涨，总市值突破1万亿港元\n  何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事\n  杨子卸任巨力集团职务\n  供应链公司",
+        "url": "<![CDATA[https://36kr.com/p/3865001641006081?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
       {
         "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
         "intro": "当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。",
@@ -44,13 +51,6 @@
         "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
         "intro": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗",
         "url": "<![CDATA[https://36kr.com/p/3864033017549832?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
-        "intro": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗",
-        "url": "<![CDATA[https://36kr.com/p/3864002982286342?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "美联储官员古尔斯比：通胀过高且正朝错误方向发展",
-        "intro": "芝加哥联储行长奥斯坦·古尔斯比表示，他仍然担心通胀问题，并质疑推动价格上涨的因素是否都只是暂时性的。 古尔斯比周一表示：“我们面对的通胀远高于目标水平...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2164413.d.html",
-        "time": "1782168437",
+        "title": "中信建投：半导体设备全球景气周期持续确认 看好半导体产业趋势",
+        "intro": "转自：证券时报 人民财讯6月23日电，中信建投证券研报称，半导体设备全球景气周期持续确认，看好半导体产业趋势，关注零部件涨价情况。",
+        "url": "https://finance.sina.cn/2026-06-23/detail-inieixwz6558247.d.html",
+        "time": "1782173340",
         "source": "新浪新闻"
       },
       {
-        "title": "芝商所CME Direct平台恢复交易 早前出现连接中断情况",
-        "intro": "相关阅读：芝商所平台“连接中断” 交易受到扰动 据交易员表示，芝商所旗下CME Direct平台在周一因技术故障短暂中断后，目前已恢复交易。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitrf8939958.d.html",
-        "time": "1782168256",
+        "title": "日韩股市开盘 韩国股市开盘下跌0.3%",
+        "intro": "日经平均股指高开0.1%，报32404.37点，金属板块个股领涨。 韩国综合股价指数（KOSPI）开盘下跌0.3%，至9083.54点。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieixxa2067270.d.html",
+        "time": "1782172936",
         "source": "新浪新闻"
       },
       {
-        "title": "6月23日隔夜要闻：SpaceX三天蒸发6000亿美元 油价下挫 美国授权伊朗出售石油 美银德银预计美联储9月加息",
-        "intro": "市场 6月23日收盘：美股三大股指涨跌不一 SpaceX暴跌16% 6月23日美股成交额前20：SpaceX重挫16% 连跌3天 市值跌回2万亿美元附近 6月23日热门中概股多数下跌...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9861612.d.html",
-        "time": "1782167458",
+        "title": "操盘必读：影响股市利好或利空消息_2026年6月23日_财经新闻",
+        "intro": "宏观新闻 1、中共中央政治局常委、国务院总理李强6月22日在辽宁省大连市调研。他强调，要深入贯彻落实习近平总书记关于新时代东北全面振兴和建设现代化产业体系的重要指示...",
+        "url": "https://finance.sina.cn/2026-06-23/detail-inieixxa2068330.d.html",
+        "time": "1782172828",
         "source": "新浪新闻"
       },
       {
-        "title": "甲骨文上财年裁员约2.1万 人工智能取代部分工作岗位",
-        "intro": "甲骨文上财年裁员约2.1万，减员规模大于此前已知水平，其中包括因使用人工智能（AI）而被取消的岗位。 甲骨文周一在年度财务监管申报文件中称：“我们在各项业务中采用和部...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitrf8922876.d.html",
-        "time": "1782166524",
+        "title": "BP和沃尔玛等多家加油站运营商被控利用AI抬高加州油价",
+        "intro": " 当地时间周一，包括BP、Circle K、Marathon Petroleum、7-Eleven、沃尔玛和Albertsons在内的多家加油站运营商被加州司机起诉，指控他们利用人工智能技术抬高油价。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieixxc8843400.d.html",
+        "time": "1782172828",
         "source": "新浪新闻"
       },
       {
-        "title": "美国财长贝森特与日本财务大臣片山皋月举行线上会议",
-        "intro": "日本财务大臣片山皋月与美国财政部长斯科特·贝森特于日本周一晚间举行了线上会议。 日本最高外汇官员三村淳也参加了会议。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2140384.d.html",
-        "time": "1782166130",
+        "title": "股海导航_2026年6月23日_沪深股市公告与交易提示",
+        "intro": "【停牌】 002175 *ST东智 688146 中船特气 【复牌】 600717 天津港 300665 飞鹿股份 603159 上海亚虹 688143 长盈通 600777 新潮能源 002217 ",
+        "url": "https://finance.sina.cn/stock/ssgs/2026-06-23/detail-inieixwx9774142.d.html",
+        "time": "1782172649",
         "source": "新浪新闻"
       },
       {
-        "title": "白宫将召集武器制造商开会 在库存承压之际推动加大弹药生产",
-        "intro": "白宫本周将召集防务承包商开会，推动加大弹药生产；与伊朗近四个月的战争后，库存正承受压力。 美国总统特朗普确认了这次会议。白宫一名官员此前表示，会议将于周三举行。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitrc6625485.d.html",
-        "time": "1782165928",
+        "title": "大摩预警！两大因素或引发美股跳水，美联储未必会出手救市",
+        "intro": "流动性收紧叠加企业盈利增速上修见顶。 随着美股企稳反弹，投资者正寻找信号，判断由人工智能驱动的上涨行情是否仍有延续动力。即将公布的美光科技财报...",
+        "url": "https://finance.sina.cn/2026-06-23/detail-inieixxc8843273.d.html",
+        "time": "1782172628",
         "source": "新浪新闻"
       },
       {
-        "title": "Apollo再次对私募信贷基金赎回设限 此前赎回申请比例达17%",
-        "intro": " Apollo Global Management Inc．再次限制旗下面向散户投资者的最大非上市私募信贷基金赎回，原因是市场对该资产类别的广泛担忧持续存在。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitrc6622357.d.html",
-        "time": "1782165587",
+        "title": "不当大厂码农 美国应届计算机毕业生竞逐“创始人”赛道",
+        "intro": "最新研究显示，创办初创公司正成为越来越多计算机科学毕业生的首选。充裕的资金、风投的浓厚兴趣，加上自动化编程技术的进步，共同推动许多毕业生走上了创始人之路。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieixwx9772505.d.html",
+        "time": "1782172593",
         "source": "新浪新闻"
       },
       {
-        "title": "SpaceX股价连续第三个交易日下跌 市值累计蒸发6000亿美元",
-        "intro": "SpaceX股价连续第三个交易日下跌，市值蒸发数千亿美元，此前这家由埃隆·马斯克领导的公司启动对投资级债券的首次发行，市场预计这将开启一轮大规模举债浪潮...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9844951.d.html",
-        "time": "1782165389",
+        "title": "三星电子HBM4芯片推出四个月销售额突破10亿美元",
+        "intro": "据业内人士周二透露，三星电子第六代高带宽存储芯片HBM4的销售额已突破10亿美元。 就在四个月前，这家韩国科技巨头于今年2月成为全球首家开始量产和出货HBM4芯片的公司。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieixwz6547501.d.html",
+        "time": "1782172383",
         "source": "新浪新闻"
       },
       {
-        "title": "百度ADR盘后上涨 花旗对其开启30天的看涨催化观察",
-        "intro": "百度在美国上市的ADR盘后交易上涨1.5%，此前花旗对该公司开启30天的看涨催化观察。 分析师Alicia Yap写道，百度“芯片和云业务的内在实力可能成为推动股价上涨的催化因素”...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9841440.d.html",
-        "time": "1782164965",
+        "title": "安克创新于6月23日至6月26日招股 拟全球发售4663.28万股H股",
+        "intro": "安克创新（00668）于2026年6月23日至6月26日招股，公司拟全球发售4663.28万股H股，其中，香港发售占约10%（可予重新分配），国际发售占约90%（可予重新分配并视乎发售量调...",
+        "url": "https://finance.sina.cn/hkstock/xgdt/2026-06-23/detail-inieixxa2063171.d.html",
+        "time": "1782172365",
         "source": "新浪新闻"
       },
       {
-        "title": "纽约汇市：美元走高 斯塔默辞职后英镑小幅上涨",
-        "intro": " 随着投资者衡量美伊和平协议前景，美元指数走高。英国首相基尔·斯塔默宣布辞职后，市场预期政治不确定性将缓解，英镑扭转早前跌势并小幅走高。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2128686.d.html",
-        "time": "1782164930",
+        "title": "郭明錤：联发科赢得谷歌升级版TPU芯片订单",
+        "intro": "天风国际证券分析师郭明錤在社交媒体平台X上发帖称，最新产业调查显示，联发科已获得谷歌升级版TPU V9芯片的独家订单，预计该芯片的定价将比上一代高出约30%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieixwz6547270.d.html",
+        "time": "1782172347",
         "source": "新浪新闻"
       },
       {
-        "title": "6月23日外盘头条：美国放松对伊朗石油制裁 SpaceX重挫16% 连跌三天 芝商所平台“连接中断” 谷歌大跌",
-        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国放松对伊朗石油制裁 发放60天临时许可 2、芝商所平台“连接中断” 交易受到扰动 3...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9825766.d.html",
-        "time": "1782163851",
+        "title": "日经指数或上涨，受对美伊谈判重燃希望提振",
+        "intro": "在对美伊和平谈判重燃希望之际，日本股市可能上涨。新加坡交易所的日经指数期货上涨0.2%，报73060点。一些科技股可能会受到隔夜纳斯达克指数下跌的拖累。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieixxa2062699.d.html",
+        "time": "1782172295",
         "source": "新浪新闻"
       },
       {
-        "title": "特朗普签署量子研究行政令 以推动技术应用并提振网络防御能力",
-        "intro": "特朗普周一签署旨在加速量子研究的行政命令，为联邦机构采用该技术、加强美国抵御网络攻击的能力奠定基础。 特朗普在白宫表示，这些行政命令将提升美国“在这个非常重要的新...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitrf8892522.d.html",
-        "time": "1782163471",
+        "title": "广合科技拟向不特定对象发行募资总额不超过36亿元的A股可转换公司债券",
+        "intro": "广合科技（01989）发布公告，公司拟向深圳证券交易所申请，在中国境内向不特定对象发行募集资金总额不超过人民币36亿元的A股可转换公司债券。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-23/detail-inieixxc8839740.d.html",
+        "time": "1782172271",
         "source": "新浪新闻"
       },
       {
-        "title": "高通接近收购人工智能芯片初创公司Modular",
-        "intro": " 知情人士称，高通正就收购人工智能芯片初创公司Modular Inc．进行深入谈判，潜在交易对Modular的估值约为40亿美元。交易最快未来几周宣布。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2114115.d.html",
-        "time": "1782163353",
+        "title": "四大证券报头版头条内容精华摘要_2026年6月23日_财经新闻",
+        "intro": "6月23日（星期二），今日报刊头条主要内容精华如下：  中国证券报 两公司预计业绩翻倍 中报行情要来了？ 6月22日晚间，长川科技与卫星化学双双交出亮眼的半年度业绩预告。...",
+        "url": "https://finance.sina.cn/stock/ywgg/2026-06-23/detail-inieixxc8841844.d.html",
+        "time": "1782172171",
         "source": "新浪新闻"
       },
       {
-        "title": "美国股市：科技巨头走弱拖累标普500指数 盖过美伊和谈利好",
-        "intro": "标普500指数周一下跌，大型科技股走弱以及美国国债收益率上升盖过了周末美伊和谈进展带来的利好影响。 标普500指数收跌0.4%，超大盘科技股拖累大盘表现...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9827715.d.html",
-        "time": "1782163324",
+        "title": "中民控股获LOFTY KEY LIMITED增持200万股 每股作价0.036港元",
+        "intro": "香港联交所最新资料显示，6月17日，LOFTY KEY LIMITED增持中民控股（00681）200万股，每股作价0.036港元，总金额为7.2万港元。增持后最新持股数目约为27.14亿股...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-23/detail-inieixwz6546158.d.html",
+        "time": "1782172160",
         "source": "新浪新闻"
       },
       {
-        "title": "6月23日热门中概股多数下跌 阿里京东跌近2% 腾讯音乐跌超4%",
-        "intro": "6月23日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.35%。 上涨个股（按市值从高到低）：台积电涨1.2%，网易涨0.2%，联电涨14.2%，携程涨2.93%，贝壳涨0.6%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2106696.d.html",
-        "time": "1782162516",
+        "title": "中信银行遭国投瑞银基金管理有限公司减持约1470.82万股 每股作价7.64港元",
+        "intro": "香港联交所最新资料显示，6月16日，国投瑞银基金管理有限公司减持中信银行（00998）1470.8197万股，每股作价7.64港元，总金额约为1.23亿港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-23/detail-inieixwx9769752.d.html",
+        "time": "1782172100",
         "source": "新浪新闻"
       },
       {
-        "title": "CFTC：资产管理公司美国国债期货净多头增加 对冲基金净空头增加",
-        "intro": "美国商品期货交易委员会（CFTC）数据显示，截至6月16日当周，资产管理公司总体偏看涨美国国债期货，尤其是在长端显著增加净多头头寸。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitqz9815976.d.html",
-        "time": "1782161763",
+        "title": "黄金交易提醒：美伊握手言和，金价自一周低位反弹，多头却迎来最强对手？",
+        "intro": "来源：汇通财经APP  汇通财经APP讯——周一（6月22日），现货黄金价格上涨0.85%，最终收报每盎司4191.18美元，成功从前一交易日触及的逾一周低点4121.79美元回升。",
+        "url": "https://finance.sina.cn/2026-06-23/detail-inieixxc8838622.d.html",
+        "time": "1782172064",
         "source": "新浪新闻"
       },
       {
-        "title": "特斯拉致命车祸引发美国汽车安全监管机构调查",
-        "intro": " 一起涉及特斯拉轿车的致命碰撞事故正接受联邦调查，此前一辆电动汽车在德克萨斯州冲进一栋住宅，导致屋内一名女子身亡。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2101366.d.html",
-        "time": "1782161739",
+        "title": "CNT GROUP遭CHINACULTURE.COM LIMITED减持约2.99亿股 每股作价0.1港元",
+        "intro": "香港联交所最新资料显示，6月17日，CHINACULTURE.COM LIMITED减持CNT GROUP（00701）2.99277655亿股，每股作价0.1港元，总金额约为2992.78万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-23/detail-inieixxa2061268.d.html",
+        "time": "1782172038",
         "source": "新浪新闻"
       },
       {
-        "title": "6月23日美股成交额前20：SpaceX重挫16% 连跌3天 市值跌回2万亿美元附近",
-        "intro": "周一美股成交额第1名美光科技，收涨6.82%，成交611.81亿美元。美光公司与Anthropic宣布了一项战略协议，涵盖内存与存储AI架构设计、供需合作...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieitre2101190.d.html",
-        "time": "1782161700",
+        "title": "未来发展控股遭Golden Sparkle Limited减持660万股 每股作价0.0336港元",
+        "intro": "香港联交所最新资料显示，6月18日，Golden Sparkle Limited减持未来发展控股（01259）660万股，每股作价0.0336港元，总金额为22.176万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-23/detail-inieixxc8838023.d.html",
+        "time": "1782171954",
         "source": "新浪新闻"
       },
       {
-        "title": "芝商所平台“连接中断” 交易受到扰动",
-        "intro": "根据看到的一封电子邮件，全球最大衍生品交易所芝商所周一中午告知客户，由于该平台经历“连接中断”，交易受到扰动。 邮件表示，芝商所称“支持部门正在调查”这起事件。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2227465.d.html",
-        "time": "1782160646",
+        "title": "建滔积层板遭Kingboard Investments Limited减持1.55亿股 每股作价76港元",
+        "intro": "香港联交所最新资料显示，6月17日，Kingboard Investments Limited减持建滔积层板（01888）1.55亿股，每股作价76港元，总金额为117.8亿港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-23/detail-inieixxc8837641.d.html",
+        "time": "1782171882",
         "source": "新浪新闻"
       },
       {
-        "title": "大宗商品综述：油价下挫 铜价上涨 金价走高",
-        "intro": " 油价下挫，美国放松对伊朗的石油制裁提振了供应预期。伦铜上涨，中东紧张局势降温有助于改善需求前景。美伊谈判进展缓解能源与通胀忧虑，金价走高。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipih2227095.d.html",
-        "time": "1782160562",
+        "title": "美国众议员卡纳向马斯克发起挑战，寻求就DOGE影响展开电视辩论",
+        "intro": "2028年美国总统大选潜在候选人、众议员罗·卡纳（Ro Khanna）向新晋万亿美元富翁埃隆·马斯克发起挑战，要求就马斯克担任政府效率部（DOGE）负责人期间削减开支的影响进行电...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieixwz6544463.d.html",
+        "time": "1782171853",
         "source": "新浪新闻"
       },
       {
-        "title": "美国国债：美国国债维持跌势 企业债发行安排增多",
-        "intro": "美国国债在美国交易时段下跌，表现落后于欧洲债券。原油价格下跌，因为美国发布为期60天的许可证，允许伊朗在国际市场上销售石油。新发企业债安排超过100亿美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipii9001510.d.html",
-        "time": "1782159940",
+        "title": "东方证券遭上海宁泉资产管理有限公司减持125.4万股 每股作价5.91港元",
+        "intro": "香港联交所最新资料显示，6月12日，上海宁泉资产管理有限公司减持东方证券（03958）125.4万股，每股作价5.91港元，总金额为741.114万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-23/detail-inieixwx9768251.d.html",
+        "time": "1782171819",
         "source": "新浪新闻"
       },
       {
-        "title": "原油：油价下挫 美国放松对伊石油制裁提振供应预期",
-        "intro": " 国际油价下跌，因为有迹象显示美伊和谈取得进展，包括美国发布豁免允许部分伊朗石油销售，提振了市场对波斯湾石油供应持续恢复的希望。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipic9938784.d.html",
-        "time": "1782159902",
+        "title": "东江环保遭IMC Global Holdings LLC减持1430.6万股 每股作价1.98港元",
+        "intro": "香港联交所最新资料显示，6月18日，IMC Global Holdings LLC减持东江环保（00895）1430.6万股，每股作价1.98港元，总金额为2832.588万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-23/detail-inieixxc8836939.d.html",
+        "time": "1782171749",
         "source": "新浪新闻"
       },
       {
-        "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
-        "intro": "当地时间22日，伊朗谈判代表团团长、伊朗议会议长卡利巴夫表示，霍尔木兹海峡的管理绝不会回到战前状态。在遵守国际法的前提下，霍尔木兹海峡将按照伊朗制定的机制...",
-        "url": "https://finance.sina.cn/2026-06-23/detail-inieipic9943630.d.html",
-        "time": "1782159835",
+        "title": "江苏宁沪高速公路获江苏交通控股有限公司增持1193.8万股 每股均价约10.38港元",
+        "intro": "香港联交所最新资料显示，6月18日，江苏交通控股有限公司增持江苏宁沪高速公路（00177）1193.8万股，每股均价10.3810港元，总金额约为1.24亿港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-23/detail-inieixxc8836569.d.html",
+        "time": "1782171686",
         "source": "新浪新闻"
       },
       {
-        "title": "6月23日收盘：美股三大股指涨跌不一 SpaceX暴跌16%",
-        "intro": " 北京时间23日凌晨，美股周一三大股指涨跌不一，顶尖人才流失引发AI担忧，Alphabet跌超5%，遭遇一年来最差单日表现，拖累纳指。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-23/detail-inieipii9000709.d.html",
-        "time": "1782159721",
+        "title": "近九成上市券商加入“双提升”行动 部分方案仍偏“口号化”",
+        "intro": "转自：证券时报 人民财讯6月23日电，近一个月来，兴业证券、财通证券、华泰证券等多家券商密集发布2026年“提质增效重回报”专项行动方案，在年内又掀起一波小高潮。",
+        "url": "https://finance.sina.cn/2026-06-23/detail-inieixwz6543689.d.html",
+        "time": "1782171540",
         "source": "新浪新闻"
       },
       {
-        "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
-        "intro": " 当地时间22日，伊朗谈判代表团团长、伊朗议会议长卡利巴夫表示，在伊美谅解备忘录中，明确强调结束针对伊朗及其盟友的战争。",
-        "url": "https://finance.sina.cn/2026-06-23/detail-inieipic9945191.d.html",
-        "time": "1782159347",
+        "title": "美联储前主席格林斯潘的百年传奇：他带走了什么，又留下什么",
+        "intro": " 美国媒体报道，美国经济学家、美国联邦储备委员会前主席艾伦·格林斯潘（Alan Greenspan），6月22日在家中因帕金森病并发症去世，享年100岁。‌‌",
+        "url": "https://finance.sina.cn/2026-06-23/detail-inieixwx9766072.d.html",
+        "time": "1782171240",
         "source": "新浪新闻"
       }
     ]
