@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:55:44.822Z",
+  "updated": "2026-06-24T21:37:59.890Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,111 @@
     ],
     "finance": [
       {
+        "title": "6月25日外盘头条：美光科技股价大涨 营收翻四倍 谷歌又有两名AI干将跳槽Anthropic 美大型银行通过压力测试",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普突然取消两党住房法案的签署仪式 2、美国大型银行通过美联储压力测试 为派息和回购铺平道路 3...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-inieqfvc7886813.d.html",
+        "time": "1782336652",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元指数升至七个月高点 美联储加息押注盖过油价影响",
+        "intro": "美元延续近期涨势，尽管油价下挫，但市场对美联储政策路径的鹰派押注为美元提供了支撑。 彭博美元即期指数连续第三个交易日上涨，盘中一度上涨0.3%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-inieqfvh5850895.d.html",
+        "time": "1782336160",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普：低利率可以解决住房问题",
+        "intro": "当被问及国会通过的住房法案时，美国总统特朗普表示，“我们需要低利率”。 他说：“降低利率，你就能买到所有你想要的房子”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-inieqfvh5850597.d.html",
+        "time": "1782336126",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普政府寻求6.72亿美元用于移除伊朗核材料",
+        "intro": "一名白宫官员称，特朗普政府正寻求6.72亿美元的资金，用于移除伊朗核材料、开展核查与验证工作以及其他防扩散活动。 特朗普政府寻求的这笔资金是800亿美元追加拨款申请的一...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-inieqfva1106252.d.html",
+        "time": "1782336106",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月25日美股成交额前20：美光科技盘后大涨 营收翻两番 毛利率跃升近85%",
+        "intro": "周三美股成交额第1名美光科技，收跌0.31%，成交671.11亿美元。 美光科技美股盘后发布财报，营收较一年前的93亿美元大幅增长。对于当前季度，公司预计营收约为500亿美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-inieqfvk2623278.d.html",
+        "time": "1782335702",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月25日热门中概股多数下跌 阿里百度京东跌超2% 网易有道跌超8%",
+        "intro": "6月25日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.77%。 上涨个股（按市值从高到低）：台积电涨超1%，携程涨超1%，满帮涨超2%，哔哩哔哩涨超3%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-inieqfvh5838211.d.html",
+        "time": "1782334344",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储压力测试显示：在资本规则改革之际，美国银行业可承受7080亿美元的损失",
+        "intro": " 根据美联储周三发布的年度压力测试结果，在严重的全球性衰退中，美国最大的银行将能够吸收超过7080亿美元的损失，并继续向家庭和企业提供贷款。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-inieqfvc7865761.d.html",
+        "time": "1782333550",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美光科技股价大涨10% 营收翻四倍 内存供应紧缺导致价格飙升",
+        "intro": " 美光科技周三表示，由于持续受益于与人工智能热潮相关的旺盛需求，公司在第三财季的营收翻了两番以上。受此消息提振，该股在盘后交易中上涨约10%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepzpf7995790.d.html",
+        "time": "1782333381",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美光科技营收展望超出分析师预期 股价盘后大涨",
+        "intro": " 美国最大的计算机存储芯片制造商美光科技给出了高于华尔街预期的销售展望。受人工智能推动的供应短缺影响，存储芯片价格大幅上涨。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepzpf7995262.d.html",
+        "time": "1782333273",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国常驻联合国代表：伊朗出售石油是暂时的 制裁并未解除",
+        "intro": " 美国常驻联合国代表Mike Waltz在福克斯新闻谈及伊朗售油能力时表示，“制裁并未解除。这只是我们进行谈判期间的临时许可。”",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepzpf7994656.d.html",
+        "time": "1782333179",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "比特币再次跌破6万美元关口 几大支撑力量均现动摇",
+        "intro": " 比特币跌回6万美元下方，重新唤起了过去两年在加密货币市场基本上消失的一种担忧：当散户投资者失去兴趣的时候，如果市场最大买家也受到压力，会发生什么。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepzpn2738486.d.html",
+        "time": "1782333153",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX投资者David George看好星舰 称发展太空AI算力不可避免",
+        "intro": "SpaceX投资者、Andreessen Horowitz LLC普通合伙人David George表示，新型星舰火箭的“快速可重复使用”特性，对于实现埃隆·马斯克利用轨道数据中心扩展AI算力的愿景至",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepzpn2738174.d.html",
+        "time": "1782333104",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：国债上涨 受油价和科技股延续跌势影响",
+        "intro": "美国国债周三收盘接近盘中高点，10年期国债收益率日内下跌逾9个基点至4.40%附近。油价下跌以及美光科技财报发布前半导体股走低推动了国债价格走势。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepzpk5961839.d.html",
+        "time": "1782333067",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国大型银行通过美联储压力测试 为派息和回购铺平道路",
+        "intro": "美国所有大型银行均通过美联储年度压力测试，为这些银行提高回购和派息铺平道路。 压力测试旨在评估华尔街银行在假设金融体系遭遇冲击的情况下将表现如何。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepzpe1216536.d.html",
+        "time": "1782333034",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月25日收盘：道指转涨 纳指标普三连跌 美光发布财报盘后大涨",
+        "intro": "在科技股短暂遭遇抛售后，周三全球股市趋于稳定。美光科技美股盘后发布财报，第三财季调整后毛利润率84.9%，超分析师预期，股价盘后大涨9%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepzpk5960061.d.html",
+        "time": "1782332688",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美能源部长：美国已终结伊朗封锁霍尔木兹海峡的能力",
         "intro": "美国能源部长赖特周三表示，美军为商船提供护航的举措，已彻底剥夺了伊朗未来封锁霍尔木兹海峡的能力。 赖特在纽约市的一场会议上表示：“伊朗今后将不再具备关闭霍尔木兹海...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepzpn2722438.d.html",
@@ -476,111 +581,6 @@
         "intro": "美国财政部发行700亿美元5年期国债中标收益率4.200%，纽约时间下午1点投标截止时市场的发行前交易水平为4.193%，这表明市场需求略低于预期。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfh1297804.d.html",
         "time": "1782323722",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "高盛分析师称石油多头误判油价跌幅 低估系统灵活性",
-        "intro": "高盛全球大宗商品研究联席主管Daan Struyven表示，石油多头分析师误判了伊朗局势缓和后原油价格的下跌幅度。 美国与伊朗在4月达成临时停火协议...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfi8074819.d.html",
-        "time": "1782323689",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX发行的250亿美元债券走弱 长期债券领跌",
-        "intro": "在通过债市募资250亿美元次日，SpaceX债券大多走弱，长债领跌。投资者在该公司的首次发债中更青睐期限较短的债券。 Trace数据显示，截至纽约周三上午10点25分...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfh1295699.d.html",
-        "time": "1782323366",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普：伊朗正在做出重大让步",
-        "intro": "“伊朗正在做出非常大的让步，”特朗普在国会大厦对记者表示。 “我们拭目以待，”他补充道。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfn6031818.d.html",
-        "time": "1782322162",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "贝森特：美伊谈判涵盖伊朗重返美元体系 强调美元主导地位至关重要",
-        "intro": " 美国财政部长斯科特·贝森特暗示，美国与伊朗的谈判内容包括这个长期与美国对立的国家加入美元体系，并以美元为其石油销售开具发票。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfi8062138.d.html",
-        "time": "1782321722",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲央行执委Schnabel称或需继续加息 以实现2%通胀目标",
-        "intro": "欧洲央行执委Isabel Schnabel告诉德国《时代周报》，央行可能不得不进一步提高借贷成本，以抑制通胀压力。 这位德国官员在周三刊发的采访中表示：“从目前来看...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfn6021941.d.html",
-        "time": "1782320533",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根大通上调标普500指数目标位至7800点，同时警示市场或出现“闪崩”",
-        "intro": " 摩根大通策略师表示，人工智能超级周期叠加企业盈利上调，预计将推动标普 500 指数今年持续走高，但上涨之路并不会一帆风顺。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfi8053480.d.html",
-        "time": "1782320344",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国驻意大使紧急灭火 称特朗普与梅洛尼的冲突未破坏两国关系",
-        "intro": " 美国驻意大利大使Tilman Fertitta试图进一步缓和两国间的紧张局势，称尽管意大利总理乔治亚·梅洛尼与美国总统唐纳德·特朗普之间发生了公开冲突，但两国关系依然“良好”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfi8053464.d.html",
-        "time": "1782320339",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "着手勾勒经济议程 伯纳姆团队酝酿拆分财政部并推动英国央行改革",
-        "intro": " 安迪·伯纳姆身边颇具影响力的人士敦促这位有望成为英国首相的政治人物拆分财政部，以便让政府议程重新聚焦于经济增长。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfq2796415.d.html",
-        "time": "1782320214",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "谷歌进入道指后，道指风格愈发趋近纳指",
-        "intro": "谷歌母公司字母表（股票代码：GOOGL、GOOG）正式纳入道琼斯工业平均指数，让这只拥有 130 年历史的蓝筹指数进一步重仓大型科技股...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfq2796323.d.html",
-        "time": "1782320197",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英国政坛人物志：从党魁落选到首相热门 地方治理明星安迪·伯纳姆",
-        "intro": "基尔·斯塔默周一宣布辞去英国首相职务，将安迪·伯纳姆这个名字推向全世界。这位英国工党成员，刚以决定性优势重返议会，成为角逐工党领袖最热门人选...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfh1265871.d.html",
-        "time": "1782318908",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "丰田在美国市场销量正快速逼近通用汽车",
-        "intro": "核心要点考克斯汽车咨询机构最新预测，丰田今年上半年美国市场销量预计小幅增长近 1%，达到 125 万辆。美国销量第一的车企通用汽车，同期销量预计下滑 7.2%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfi8040948.d.html",
-        "time": "1782318606",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美伊和平谈判开局坎坷 鲁比奥赴海湾安抚盟友",
-        "intro": " 美国国务卿马尔科·鲁比奥周三会见了阿联酋和科威特的领导人，旨在向波斯湾盟友保证美国与伊朗达成的临时和平协议具有坚实基础。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfn6009092.d.html",
-        "time": "1782318553",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "半导体板块逆大盘上涨行情走弱",
-        "intro": "芯片板块未能参与本周三市场的反弹修复行情。 范埃克半导体交易所交易基金（代码：SMH）周三盘中基本持平，意味着在前一交易日遭遇大跌后，该行业板块并未迎来反弹。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfh1262580.d.html",
-        "time": "1782318396",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI和博通开发首款定制化人工智能芯片 比传统GPU节省约50%成本",
-        "intro": "OpenAI发布与博通合作开发的首款定制人工智能芯片，试图通过优化硬件来获取竞争优势。 两家公司周三表示，OpenAI已收到这款名为“Jalapeno”的芯片的首批样品...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfq2783555.d.html",
-        "time": "1782318232",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "曾在次贷危机中取得900%收益的对冲基金经理有了新的做空目标",
-        "intro": " 对冲基金经理Lee Robinson在全球金融危机期间曾凭借及时做空美国次级抵押贷款市场，将2，000万美元头寸做到了2亿美元，取得了高达900%的收益。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-25/detail-iniepvfn6006101.d.html",
-        "time": "1782318000",
         "source": "新浪新闻"
       }
     ]
