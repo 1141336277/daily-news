@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T17:56:39.175Z",
+  "updated": "2026-06-26T20:02:04.945Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,69 @@
     ],
     "finance": [
       {
+        "title": "苹果Vision Pro头显和智能眼镜部门负责人将离职加入OpenAI",
+        "intro": " 苹果公司负责Vision Pro头显和智能眼镜业务的高管即将离职加盟OpenAI，延续了人工智能和硬件领域高层人才流向竞争对手的趋势。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieuptc7129672.d.html",
+        "time": "1782503426",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储官员卡什卡里称通胀压力更趋广泛 央行或需加息",
+        "intro": " 明尼阿波利斯联储行长尼尔·卡什卡里表示，通胀普遍存在的迹象促使他在美联储本月早些时候公布的预测中预计今年将加息一次。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieuptc7104715.d.html",
+        "time": "1782500602",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗伊斯兰共和国通讯社：伊朗和巴基斯坦讨论最新外交动态",
+        "intro": " 据伊朗官方伊斯兰共和国通讯社（IRNA）报道，伊朗外交部长阿巴斯·阿拉格齐与巴基斯坦外长伊沙克·达尔通电话，双方讨论了最新的外交进展。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieupth4990870.d.html",
+        "time": "1782500342",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普谈伊朗袭击船只：他们不能干这种事",
+        "intro": "美国总统特朗普表示，伊朗昨日在霍尔木兹海峡发动无人机袭击，导致一艘船受损，并称他们“不能干这种事”。 特朗普是在华盛顿特区一场活动上发表上述讲话。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieupth4984340.d.html",
+        "time": "1782499464",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普称美国汽油价格即将降至每加仑2.50美元",
+        "intro": "美国总统特朗普在华盛顿出席活动时表示，美国汽油价格很快会降至每加仑2.50美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieupta0316109.d.html",
+        "time": "1782499318",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "国际海事组织估计霍尔木兹海峡传统航道内约有80枚水雷",
+        "intro": " 联合国全球航运监管机构国际海事组织（IMO）周五估计，霍尔木兹海峡的传统航道内大约有80枚水雷，这表明要让海峡石油运输完全恢复正常依旧困难重重。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieupta0315913.d.html",
+        "time": "1782499292",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "前高盛合伙人警告称股票估值应该引起投资者的担忧",
+        "intro": " 高企的股价可能掩盖了投资者应当更加关注的风险，尤其是在劳动力市场方面，高盛前合伙人、现任哥伦比亚商学院教授Abby Joseph Cohen表示。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieupta0309023.d.html",
+        "time": "1782498555",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "以色列官员：美国、以色列、黎巴嫩签署框架协议",
+        "intro": " 以色列一名高级官员表示，美国、以色列和黎巴嫩的代表签署了一项三方框架协议，旨在结束这两个中东国家之间的冲突，并最终达成和平协议。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieupth4974632.d.html",
+        "time": "1782498238",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Semafor：贝森特介入AI政策 此前有警告称AI或令联储支付系统面临风险",
+        "intro": " Semafor援引知情人士报道称，金融机构发出警告后，美国财政部长斯科特·贝森特今年早些时候寻求在人工智能（AI）政策中发挥更积极的作用。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieuime0425540.d.html",
+        "time": "1782496951",
+        "source": "新浪新闻"
+      },
+      {
         "title": "特朗普誓言对向美企征收数字服务税的国家征100%关税",
         "intro": "美国总统特朗普威胁称，将对任何向美国科技企业征收数字服务税的国家所有输美商品征100%关税。 特朗普周五在社交媒体发文称：“许多欧洲国家一直在讨论即将对美国企业实施数...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieuimf7191355.d.html",
@@ -518,69 +581,6 @@
         "intro": "明尼阿波利斯联邦储备银行行长尼尔・卡什卡里于周五表示，他调整了此前的政策预期，预计美联储今年会实施一次加息。 卡什卡里在阿斯彭思想节的专题研讨会上称：“今年 3...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieuimk5044357.d.html",
         "time": "1782490435",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧元区通胀料迎来伊朗战争爆发以来首次放缓 下周数据将揭晓",
-        "intro": "预计下周公布的数据将显示，欧元区通胀自伊朗战争爆发以来首次出现缓和迹象，反映出能源成本回落的影响。 分析师预估显示，6月消费者价格涨幅从上月的3.2%放缓至3%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieuimf7141892.d.html",
-        "time": "1782490427",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普指责伊朗违反停火协议 在霍尔木兹海峡对货船发动袭击",
-        "intro": "美国总统特朗普指责伊朗向穿越霍尔木兹海峡的货船发动袭击，称此举违反了双方停火协议。 特朗普周五在社交媒体发文称，”至少四架“单程攻击无人机袭击了这条水道上的船只...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieuimf7140660.d.html",
-        "time": "1782490324",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储官员卡什卡里称出现广泛通胀迹象 央行或需加息",
-        "intro": " 明尼阿波利斯联储行长尼尔·卡什卡里表示，通胀普遍存在的迹象促使他在美联储本月早些时候公布的经济预测中预计今年将加息一次。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieuime0362721.d.html",
-        "time": "1782490268",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "亿万富翁投资人格兰瑟姆：比特币终将“悄无声息地走向消亡”",
-        "intro": "核心要点 格兰瑟姆表示：“我认为，历经一年又一年、数十年的时间，比特币会慢慢萎缩消亡，不会轰然崩塌，只会悄无声息地落幕。它并非一种稳定的价值载体。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieuime0359220.d.html",
-        "time": "1782489961",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普：伊朗违反停火协议 在霍尔木兹海峡发动无人机袭击",
-        "intro": "特朗普表示，伊朗“向穿越霍尔木兹海峡的船只发射至少四架单程攻击无人机”，伊朗“愚蠢地违反了我们的停火协议”。 特朗普在Truth Social发文称，“虽然船只受到了损坏...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-27/detail-inieuimk5036176.d.html",
-        "time": "1782489648",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "油价重拾跌势 货船遇袭事件后霍尔木兹海峡继续保持通航",
-        "intro": " 随着霍尔木兹海峡的航运活动加速恢复，油价重拾跌势。尽管周四发生货轮遇袭事件再度引发人们对通航安全的担忧，但市场很快将这种担忧置之一边。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-26/detail-inieuimn1810892.d.html",
-        "time": "1782489406",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "杰里米・格兰瑟姆：当前美股创下美国历史最高估值",
-        "intro": "核心要点 格兰瑟姆在接受美国消费者新闻与商业频道《财经早间》栏目采访时表示：“经过调整后，从股市总市值相对国内生产总值（GDP）的比值来看...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-26/detail-inieuimk5034547.d.html",
-        "time": "1782489373",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普前顾问博尔顿承认非法保留国防信息",
-        "intro": "核心要点 约翰・博尔顿在马里兰州联邦法院，就一项非法保留国防信息的刑事罪名认罪。 博尔顿曾在唐纳德・特朗普首个总统任期内，担任美国总统国家安全事务助理。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-26/detail-inieucch0481100.d.html",
-        "time": "1782489032",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI据悉考虑最早于2027年IPO 或晚于Anthropic上市",
-        "intro": " 据知情人士透露，OpenAI考虑最早于2027年进行首次公开募股（IPO）。这意味着该公司可能会在AI竞争对手Anthropic PBC之后上市。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-26/detail-inieuccq1925934.d.html",
-        "time": "1782487515",
         "source": "新浪新闻"
       }
     ]
