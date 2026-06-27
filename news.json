@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T16:11:36.475Z",
+  "updated": "2026-06-27T18:10:21.246Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,20 @@
     ],
     "finance": [
       {
+        "title": "iPad、Xbox接连涨价 折射出存储芯片短缺之痛",
+        "intro": "仅仅在周四短短五个小时内，苹果公司和微软公司纷纷上调了多款热门产品的价格，包括Xbox游戏主机、Mac电脑和iPad。 两家公司都将涨价归因于人工智能热潮引发的史无前例的存...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-28/detail-iniewssk1096414.d.html",
+        "time": "1782580313",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "亚马逊会员日线上总消费额超Adobe预期",
+        "intro": " Adobe数据显示，亚马逊年度会员日活动期间，美国所有零售商线上消费总额达264亿美元，小幅超出该机构此前263亿美元的预测值。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-28/detail-iniewssk1093458.d.html",
+        "time": "1782579792",
+        "source": "新浪新闻"
+      },
+      {
         "title": "特朗普推出印有其肖像、纪念美国建国250周年的新版护照",
         "intro": " 美国总统特朗普公布了一款他称作“爱国者护照”的新版设计效果图，护照印有他本人肖像，用以纪念美国建国250周年，该款护照将于7月6日起正式签发。",
         "url": "https://finance.sina.cn/7x24/2026-06-27/detail-iniewnkn1180762.d.html",
@@ -566,20 +580,6 @@
         "title": "琥珀酸商品报价动态（2026-06-27）",
         "intro": "生意社06月27日讯交易商品牌/产地交货地最新报价琥珀酸 99.6%山东飞扬化工有限公司山东山东省/泰安市12000元/吨 （文章来源：生意社）",
         "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-06-27/detail-inievzuu3818856.d.html",
-        "time": "1782547260",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "马来酸酐商品报价动态（2026-06-27）",
-        "intro": "生意社06月27日讯交易商品牌/产地交货地最新报价马来酸酐 99.8%山东飞扬化工有限公司山东山东省/泰安市8800元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-06-27/detail-inievzuq4566928.d.html",
-        "time": "1782547260",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "BDO商品报价动态（2026-06-27）",
-        "intro": "生意社06月27日讯交易商品牌/产地交货地最新报价BDO 纯度99.7%青岛盛泽化工有限公司国产山东省7300元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-06-27/detail-inievzus1343250.d.html",
         "time": "1782547260",
         "source": "新浪新闻"
       }
