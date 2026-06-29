@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T20:51:53.292Z",
+  "updated": "2026-06-29T22:14:22.534Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,7 +409,70 @@
     ],
     "finance": [
       {
-        "title": "美国战储石油库存降至1983年以来的最低水平",
+        "title": "6月30日外盘头条：美最高法院裁定美联储理事库克留任 伊朗称无计划在多哈与美方会面",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美联储理事库克暂时保住职位 但最高法院没对特朗普彻底关上大门 2、伊朗称无计划在多哈与美方会面...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrnk6776855.d.html",
+        "time": "1782770477",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗称无计划在多哈与美方会面 重申将控制霍尔木兹海峡通行",
+        "intro": " 伊朗一名高级官员重申，德黑兰决心继续控制通过霍尔木兹海峡的海上交通，这加大了美伊新一轮旨在永久结束战争谈判的压力。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrna4988718.d.html",
+        "time": "1782770178",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美伊和平谈判代表前往多哈，但会晤能否举行仍不明朗",
+        "intro": " 伊朗和美国谈判团队原定本周在多哈会面，但伊朗方面表示，由于周末双方导弹交火，考验了旨在结束这场持续四个月战争的临时停火协议，因此并未安排会晤。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrne1764355.d.html",
+        "time": "1782769788",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "中欧贸易投资磋商机制正式成立 下设四大板块",
+        "intro": "2026年6月29日，商务部部长王文涛在欧盟总部与欧委会贸易和经济安全委员谢夫乔维奇共同主持召开中欧贸易投资磋商机制首次会议并在会后发表联合声明。",
+        "url": "https://finance.sina.cn/2026-06-30/detail-inifcrna4985441.d.html",
+        "time": "1782768843",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国3个月期国库券需求降至2024年以来最弱水平",
+        "intro": " 在美联储货币政策路径存在不确定性、且发行规模增至纪录高位之际，美国财政部周一进行的3个月期国库券拍卖需求趋弱，间接投标人获配比例降至逾一年半以来最低。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrna4980653.d.html",
+        "time": "1782768572",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：逢低买盘推动科技股反弹 纳斯达克100指数上涨逾2%",
+        "intro": "逢低买盘周一涌入近期遭重挫的科技股，推动美国股市从上周的跌势中反弹。 以科技股为主的纳斯达克100指数周一在纽约收涨2.3%，扭转了上周五的跌势。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrnn3539014.d.html",
+        "time": "1782768541",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "战火未断、航道未闭：霍尔木兹海峡航运流量仍维持高位",
+        "intro": " 在上周末美伊再度相互发动新袭击之后，关键通道霍尔木兹海峡的航运流量依然保持高位，似乎至少在一定程度上并未受到时断时续的和谈影响。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrna4978083.d.html",
+        "time": "1782768268",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Alphabet 道指首秀中上涨4%",
+        "intro": "Alphabet 股价周一上涨 4%，该公司正式加入道琼斯工业平均指数，取代了Verizon ，并被赋予蓝筹股的象征性称号。 尽管股价周一反弹，但压力依然存在。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeh1878783.d.html",
+        "time": "1782767435",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "6月30日美股成交额前20：瑞银上调台积电目标价",
+        "intro": "周一美股成交额第1名美光科技收高1.14%，成交659.15亿美元。日前美光与苹果就存储芯片定价问题公开交锋。美光CEO桑杰·梅赫罗特拉称，苹果十多年来以5美元采购芯片...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6876783.d.html",
+        "time": "1782766862",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国战略石油储备库存减少550万桶，降至1983年以来最低水平",
         "intro": " 据美国能源部数据，美国战略石油储备（SPR）中的原油库存减少了550万桶，降至3.257亿桶，创下自1983年5月以来的最低水平。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeq3647214.d.html",
         "time": "1782766052",
@@ -518,69 +581,6 @@
         "intro": "全美最大住宅建筑商之一PulteGroup周一宣布，已收购佛罗里达州帕斯科县约419英亩土地，将在此开发全新的Explore by Del Webb Verona社区。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeq3619795.d.html",
         "time": "1782762682",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "ICE将推出经济指标期货合约 涵盖央行决策与天然气库存",
-        "intro": "洲际交易所周一宣布，计划推出其首批经济指标期货合约，标的涵盖全球主要央行货币政策决策及美国天然气库存报告。这批现金结算的期货合约旨在为市场参与者提供交易所交易且...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeh1853304.d.html",
-        "time": "1782762589",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "BitGo为SEC注册收益型数字证券YLDS提供合格托管服务",
-        "intro": "数字资产基础设施公司BitGo Holdings周一宣布，其受美国货币监理署监管的子公司BitGo Bank &amp; Trust已开始为YLDS提供合格托管服务。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeh1853062.d.html",
-        "time": "1782762539",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "3B家居启动Everything Home战略 打造全方位家居生态系统",
-        "intro": "3B家居(Bed Bath &amp; Beyond)首席执行官Marcus Lemonis周一发布致股东信，宣告公司正通过一系列战略性收购与线下门店扩张，将曾经碎片化的家居零售业务重新整合...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmee5075582.d.html",
-        "time": "1782762471",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Evommune荨麻疹药物2b期研究未达主要终点 将转向特应性皮炎与偏头痛",
-        "intro": "生物技术公司Evommune周一公布EVO756治疗中重度慢性自发性荨麻疹的2b期临床试验顶线结果，研究未达到主要疗效终点，公司将停止该适应症的开发...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeh1852161.d.html",
-        "time": "1782762335",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Kopin获Sentinel FPV原型机多笔订单 无人机主导计划加速推进",
-        "intro": "微型显示器与光学系统供应商Kopin Corporation周一宣布，已收到多家客户的订单，这些客户正在评估Kopin的Sentinel第一人称观察器产品...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeh1851489.d.html",
-        "time": "1782762206",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "全美近两成购房者计划跨州搬家 阳光地带成首选目的地",
-        "intro": " 最新报告显示，2026年第一季度约19.1%的美国购房者寻找其他地区的住房，较去年同期的18.9%小幅上升，创下自2021年有记录以来的最高比例。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6837726.d.html",
-        "time": "1782761992",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "ESS被纳入罗素微盘股指",
-        "intro": " 长时储能系统制造商ESS Tech， Inc．已被正式纳入罗素微盘股指数。该调整于6月27日美股收盘后生效，作为富时罗素年度指数重组的一部分。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6837154.d.html",
-        "time": "1782761924",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "纽约汇市：日元跌至近40年低点 美元指数回落",
-        "intro": "日元兑美元跌至1986年以来最低水平，引发市场对日本当局可能入市支撑日元的猜测。美元指数回落。 彭博美元即期指数下跌0.1%；该指数在上周走高0.5%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6836760.d.html",
-        "time": "1782761888",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Five9宣布三项高管任命 强化AI驱动客户体验战略",
-        "intro": "云端联络中心软件提供商Five9周一宣布，任命Niranjan Vijayaragavan为首席技术官、Rob Hornish为首席销售官、Sven Linsmaier为执行副总裁（负责转型与战略）.",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeh1849588.d.html",
-        "time": "1782761872",
         "source": "新浪新闻"
       }
     ]
