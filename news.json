@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T15:58:44.085Z",
+  "updated": "2026-06-29T18:18:07.497Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,90 @@
     ],
     "finance": [
       {
+        "title": "船舶遇袭事件后 船东继续安排油轮通过霍尔木兹海峡",
+        "intro": "尽管过去几天发生两起袭击事件，令部分船东对通过全球最重要的海上咽喉要道更加谨慎，但油轮仍继续通过霍尔木兹海峡。 汇编的船舶追踪数据显示，周一晚些时候...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcews3670620.d.html",
+        "time": "1782753897",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲债市：德国国债结束五连涨 油价上涨令市场承压",
+        "intro": "德国国债结束上周连涨行情，收益率曲线略微熊平。本周美国和伊朗的和平谈判重启前夕，能源价格上涨令债市承压。根据对经济学家进行的调查...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcews3666975.d.html",
+        "time": "1782753511",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "法国与阿曼承诺推动霍尔木兹海峡无条件自由通航",
+        "intro": "法国总统埃马克龙与阿曼苏丹表示将推动霍尔木兹海峡实现不受限制的通行。 根据马克龙办公室在两位领导人于巴黎会晤后发布的声明，“两国元首强调重新开放霍尔木兹海峡的重要...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcews3666794.d.html",
+        "time": "1782753493",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国：产业与国防的渊源，自建国之初便已扎根",
+        "intro": "从乔治・华盛顿下令建立斯普林菲尔德兵工厂开始，这个国家前所未有地将战争与商业深度绑定 内容速览 美军与私营产业有着源远流长的合作关系...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcewk1926542.d.html",
+        "time": "1782751855",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "城堡证券警示市场格局生变 沃什抗通胀立场或拖累风险资产",
+        "intro": "城堡证券表示，投资者低估了美联储主席凯文·沃什让通胀回到央行2%目标的决心，以及这可能给风险资产带来的拖累。 该公司EMEA固定收益销售主管Nohshad...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifayqs6990251.d.html",
+        "time": "1782750530",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "弯勺科技IPO引关注：“数字资产捡漏式收购”模式浮出水面",
+        "intro": "距离美国独立日四天小长假仅剩数日，本周原本大概率会进入新闻淡季。但美国政府与人工智能行业之间的博弈大概率会持续上演，随着中国人工智能模型竞争力不断攀升...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifayqn2048301.d.html",
+        "time": "1782750475",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲股市持平 电信股因担心SpaceX冲击而下跌",
+        "intro": " 欧洲股市持平，电信板块下跌，市场担心SpaceX可能抢占更多移动通信市场份额，同时投资者权衡美国与伊朗停止互袭的影响。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifayqs6986524.d.html",
+        "time": "1782750115",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "白宫收紧监管，为何开源模型反而从中受益",
+        "intro": "特朗普政府近期接连出台人工智能监管新政，叠加行业成本持续攀升，开源人工智能迎来发展红利期。不少开发者与企业高管表示，他们此前基于安索普（Anthropic）的 Fable 5...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifayqn2045545.d.html",
+        "time": "1782749928",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "嘀嗒出行迎来触底反弹，顺风车下半场不靠补贴",
+        "intro": " 曾经共享出行的第一股，遇到了流量增长难题。2025年，嘀嗒出行收入从2024年的7.87亿降到了5.02亿，大幅缩水。其中收入来源主要来自于顺风车业务，收入结构高效却单一。",
+        "url": "https://finance.sina.cn/chanjing/gsxw/2026-06-30/detail-inifayqu3756597.d.html",
+        "time": "1782749470",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "午盘：美股周一午盘上涨 美伊停火提振市场 芯片股抛压限制涨幅",
+        "intro": "北京时间6月30日凌晨，美股周一午盘交易时段走高，投资者评估美国与伊朗之间暂停敌对行动的影响，但芯片制造商的抛售压力限制了市场涨幅...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifayqu3752525.d.html",
+        "time": "1782749120",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "现货金价跌向4000美元一线 交易员密切关注伊朗局势",
+        "intro": " 美国和伊朗同意停止互相攻击，金价下跌。两国此前的互相攻击对脆弱的和平协议构成考验，为这场加剧了全球通胀的战争何时结束平添变数。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifayqn2039943.d.html",
+        "time": "1782749095",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普誓言迅速采取“行动”回应库克案裁决",
+        "intro": " 美国总统特朗普表示，针对美国最高法院就美联储理事丽莎·库克作出的裁决，其政府“将立即采取适当行动”，以防“犯有不当行为的人作出关乎美利坚合众国福祉的重大决定”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifayqn2039618.d.html",
+        "time": "1782749046",
+        "source": "新浪新闻"
+      },
+      {
         "title": "沃纳参议员拟推出AI智能体专项法案",
         "intro": "这份立法草案预计于周一正式对外发布，将围绕智能体相关的用户隐私及其他领域出台监管规则弗吉尼亚州联邦参议员马克・沃纳 美国国会议员正加紧跟进人工智能监管立法...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqk5257389.d.html",
@@ -497,90 +581,6 @@
         "intro": "在线车辆拍卖巨头Copart周一宣布重大人事变动。首席执行官Jeff Liaw将于2026年7月31日正式卸任并退出董事会，其职位将由执行董事长、公司元老Jay Adair接任。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqn2021611.d.html",
         "time": "1782746286",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AeroVironment面临证券欺诈集体诉讼 投资者索赔窗口开启",
-        "intro": " 军工技术公司AeroVironment因涉及美国太空军SCAR项目的重大合同披露问题，正面临多起证券欺诈集体诉讼。购买该公司股票的投资者须在7月27日前申请成为首席原告。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqs6944573.d.html",
-        "time": "1782746142",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Velo3D正式纳入罗素3000及微盘股指数",
-        "intro": "金属增材制造技术公司Velo3D周一宣布，公司已被正式纳入罗素3000指数和罗素微盘股指数的成分股。此次纳入已于6月29日美国市场开盘时生效...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqu3719850.d.html",
-        "time": "1782746069",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "墨西哥基金强化折价控制机制 宣布有条件要约收购",
-        "intro": " 墨西哥基金公司(MEXICO FUND)周一宣布，将强化其折价控制机制，并推出一项有条件要约收购计划，以进一步缩小基金股价与资产净值之间的折价，提升股东长期回报。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqs6943016.d.html",
-        "time": "1782745995",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SEACOR Marine主要股东致信董事会 要求启动战略审查释放价值",
-        "intro": " 持有SEACOR Marine Holdings约3.5%流通股的长期股东Yoav Saffar周一宣布，已向公司董事会递交信函，敦促董事会立即启动船队变现流程，以实现股东价值最大化。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqs6942072.d.html",
-        "time": "1782745889",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "新研究显示K-12学区不再满足于使用教育科技工具 成效证据成关键",
-        "intro": "美国教育科技公司Instructure最新发布的一项研究揭示了K-12公立学区在数字化工具选用上的重大转变：学区在采购和使用教育科技产品时...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqk5241687.d.html",
-        "time": "1782745811",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX推动美股发行规模创下2510亿美元的半年最高纪录",
-        "intro": " 在SpaceX和谷歌母公司Alphabet创纪录的发行活动后，华尔街银行家们情绪高涨，这些交易提振了人们对2026年下半年交易活动的预期。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqu3716939.d.html",
-        "time": "1782745788",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Robinhood预测市场业务有望受到世界杯提振",
-        "intro": " Truist Securities分析师在一份报告中表示，Robinhood Markets的预测市场业务势头增强，过去一周交易量加速增长，使该指标有望比分析师对第二季度的预期高出近40%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqs6940205.d.html",
-        "time": "1782745730",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "深夜！美芯片股大跌，中国资产拉升",
-        "intro": "当地时间周一（6月29日），美股三大指数集体高开，随后涨幅收窄。 半导体股冲高后跳水，截至发稿，费城半导体指数跌幅扩大至1%，此前曾涨超1%。",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-06-29/detail-inifayqs6945643.d.html",
-        "time": "1782745681",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "霍尔木兹海峡运输环境改善 伊拉克1400万桶受困石油终运出",
-        "intro": " 过去10天，随着美伊脆弱停火协议使经由霍尔木兹海峡的运输环境改善，受中东冲突影响而滞留在波斯湾的伊拉克石油得以运出。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqn2017676.d.html",
-        "time": "1782745634",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "MiniMed董事会迎来爱尔康CEO及美敦力高管",
-        "intro": " 糖尿病技术公司MiniMed周一宣布，任命爱尔康首席执行官David Endicott与美敦力高管Linnea Burman为公司董事会成员，即日生效。董事会规模从9人扩大至11人。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqu3714964.d.html",
-        "time": "1782745613",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "内部文件曝光：Meta严防员工使用Claude、Codex，防范知识蒸馏风险",
-        "intro": "元平台（Meta）正逐步减少对 Anthropic、OpenAI 旗下高价 AI 代码工具的依赖，自主研发替代工具，但眼下遭遇一大难题：如何避免工程师过度依赖第三方工具...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqk5239831.d.html",
-        "time": "1782745556",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国参议员沃伦：库克案裁决证明普尔特应被撤职",
-        "intro": "美国民主党参议员伊丽莎白·沃伦在电邮声明中表示，美国最高法院裁定暂时维持丽莎·库克的美联储理事职务，提醒着普尔特不值得信任...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifayqu3714133.d.html",
-        "time": "1782745549",
         "source": "新浪新闻"
       }
     ]
