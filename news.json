@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T22:14:22.534Z",
+  "updated": "2026-06-30T00:12:09.299Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -19,6 +19,13 @@
   },
   "news": {
     "hot": [
+      {
+        "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
+        "intro": "今日热点导览\n  \n   马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus\n   美的回应空调产品在欧洲被疯抢\n   蔚来回应车漆洗车时被冲掉：高压水枪操作不",
+        "url": "<![CDATA[https://36kr.com/p/3874911939482880?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
       {
         "title": "烧光5000亿后，京东方开始给股民赚钱",
         "intro": "作者&nbsp;|&nbsp;范亮\n  编辑&nbsp;|&nbsp;张帆\n  很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超",
@@ -44,13 +51,6 @@
         "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
         "intro": "“每一代模型，我们都在押注一个非共识。”\n  文｜邓咏仪\n  编辑｜张雨忻\n  Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。\n  Sand.ai 是一家视频生成模型和产品公司，成立",
         "url": "<![CDATA[https://36kr.com/p/3873965241931014?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
-        "intro": "继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。\n  其中，动态血糖仪（CGM）品类的出海趋势可以看",
-        "url": "<![CDATA[https://36kr.com/p/3873902389794053?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "6月30日外盘头条：美最高法院裁定美联储理事库克留任 伊朗称无计划在多哈与美方会面",
-        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美联储理事库克暂时保住职位 但最高法院没对特朗普彻底关上大门 2、伊朗称无计划在多哈与美方会面...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrnk6776855.d.html",
-        "time": "1782770477",
+        "title": "平安健康获大摩增持约127.12万股 每股作价约7.13港元",
+        "intro": "香港联交所最新数据显示，6月24日，大摩增持平安健康（01833）127.1217万股，每股作价7.1283港元，总金额约为906.16万港元。增持后最新持股数目约为1.73亿股，持股比例为8...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-30/detail-inifcvty4908283.d.html",
+        "time": "1782778294",
         "source": "新浪新闻"
       },
       {
-        "title": "伊朗称无计划在多哈与美方会面 重申将控制霍尔木兹海峡通行",
-        "intro": " 伊朗一名高级官员重申，德黑兰决心继续控制通过霍尔木兹海峡的海上交通，这加大了美伊新一轮旨在永久结束战争谈判的压力。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrna4988718.d.html",
-        "time": "1782770178",
+        "title": "前日本央行理事称下一次加息可能在12月之前到来",
+        "intro": " 前日本央行理事Kenzo Yamamoto称，随着该行推进目前仍过于宽松的金融环境回归正常，其加息时间可能会早于大多数人的预期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcvuh6711933.d.html",
+        "time": "1782778228",
         "source": "新浪新闻"
       },
       {
-        "title": "美伊和平谈判代表前往多哈，但会晤能否举行仍不明朗",
-        "intro": " 伊朗和美国谈判团队原定本周在多哈会面，但伊朗方面表示，由于周末双方导弹交火，考验了旨在结束这场持续四个月战争的临时停火协议，因此并未安排会晤。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrne1764355.d.html",
-        "time": "1782769788",
+        "title": "大唐新能源遭BlackRock, Inc.减持302.40万股 每股作价约1.40港元",
+        "intro": "香港联交所最新数据显示，6月23日，BlackRock， Inc．减持大唐新能源（01798）302.40万股，每股作价1.3948港元，总金额约为421.79万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-30/detail-inifcvua1684519.d.html",
+        "time": "1782778201",
         "source": "新浪新闻"
       },
       {
-        "title": "中欧贸易投资磋商机制正式成立 下设四大板块",
-        "intro": "2026年6月29日，商务部部长王文涛在欧盟总部与欧委会贸易和经济安全委员谢夫乔维奇共同主持召开中欧贸易投资磋商机制首次会议并在会后发表联合声明。",
-        "url": "https://finance.sina.cn/2026-06-30/detail-inifcrna4985441.d.html",
-        "time": "1782768843",
+        "title": "中国中车遭BlackRock, Inc.减持2381.4万股 每股作价5.23港元",
+        "intro": "香港联交所最新数据显示，6月23日，BlackRock， Inc．减持中国中车（01766）2381.4万股，每股作价5.23港元，总金额约为1.25亿港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-30/detail-inifcvua1683869.d.html",
+        "time": "1782778137",
         "source": "新浪新闻"
       },
       {
-        "title": "美国3个月期国库券需求降至2024年以来最弱水平",
-        "intro": " 在美联储货币政策路径存在不确定性、且发行规模增至纪录高位之际，美国财政部周一进行的3个月期国库券拍卖需求趋弱，间接投标人获配比例降至逾一年半以来最低。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrna4980653.d.html",
-        "time": "1782768572",
+        "title": "建滔积层板四名董事同日减持合计逾236万股 套现超2.1亿港元",
+        "intro": " 香港联交所最新数据显示，6月24日，建滔积层板（01888）四名董事同步减持公司股份，合计减持约236.45万股，总套现金额约2.13亿港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-30/detail-inifcvuh6709781.d.html",
+        "time": "1782778076",
         "source": "新浪新闻"
       },
       {
-        "title": "美国股市：逢低买盘推动科技股反弹 纳斯达克100指数上涨逾2%",
-        "intro": "逢低买盘周一涌入近期遭重挫的科技股，推动美国股市从上周的跌势中反弹。 以科技股为主的纳斯达克100指数周一在纽约收涨2.3%，扭转了上周五的跌势。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrnn3539014.d.html",
-        "time": "1782768541",
+        "title": "建滔集团三股东同日减持合计逾2780万股 涉资35.6亿港元",
+        "intro": " 香港联交所最新数据显示，6月24日，建滔集团（00148）三名股东同步减持公司股份，合计减持约2780万股，涉资约35.62亿港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-30/detail-inifcvuh6708931.d.html",
+        "time": "1782778017",
         "source": "新浪新闻"
       },
       {
-        "title": "战火未断、航道未闭：霍尔木兹海峡航运流量仍维持高位",
-        "intro": " 在上周末美伊再度相互发动新袭击之后，关键通道霍尔木兹海峡的航运流量依然保持高位，似乎至少在一定程度上并未受到时断时续的和谈影响。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrna4978083.d.html",
-        "time": "1782768268",
+        "title": "中国再保险获Kopernik Globa Investors LLC增持902万股 每股作价约1.17港元",
+        "intro": "香港联交所最新数据显示，6月23日，Kopernik Globa Investors LLC增持中国再保险（01508）902万股，每股作价1.1737港元，总金额约为1058.68万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-06-30/detail-inifcvua1680636.d.html",
+        "time": "1782777867",
         "source": "新浪新闻"
       },
       {
-        "title": "Alphabet 道指首秀中上涨4%",
-        "intro": "Alphabet 股价周一上涨 4%，该公司正式加入道琼斯工业平均指数，取代了Verizon ，并被赋予蓝筹股的象征性称号。 尽管股价周一反弹，但压力依然存在。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeh1878783.d.html",
-        "time": "1782767435",
+        "title": "Token不经济",
+        "intro": "本文来自微信公众号：腾讯研究院，作者：李刚，头图来自：AI生成 近期部分媒体爆出微软收回内部Claude Code许可1。Claude Code是Anthropic推出的AI编程工具...",
+        "url": "https://finance.sina.cn/2026-06-30/detail-inifcvua1683045.d.html",
+        "time": "1782777836",
         "source": "新浪新闻"
       },
       {
-        "title": "6月30日美股成交额前20：瑞银上调台积电目标价",
-        "intro": "周一美股成交额第1名美光科技收高1.14%，成交659.15亿美元。日前美光与苹果就存储芯片定价问题公开交锋。美光CEO桑杰·梅赫罗特拉称，苹果十多年来以5美元采购芯片...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6876783.d.html",
-        "time": "1782766862",
+        "title": "日韩股市集体高开 日经上涨上0.9%",
+        "intro": " 日经225股价指数开盘上涨0.9%，报70085.60点，机械、金属板块领涨。韩国综合股价指数（KOSPI）开盘上涨0.3%，至8416.70点。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcvuh6704878.d.html",
+        "time": "1782777700",
         "source": "新浪新闻"
       },
       {
-        "title": "美国战略石油储备库存减少550万桶，降至1983年以来最低水平",
-        "intro": " 据美国能源部数据，美国战略石油储备（SPR）中的原油库存减少了550万桶，降至3.257亿桶，创下自1983年5月以来的最低水平。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeq3647214.d.html",
-        "time": "1782766052",
+        "title": "欧洲大行敦促监管机构勿干预股市，称收紧场外交易规则恐适得其反",
+        "intro": "欧洲大型银行敦促监管机构不要干预股票市场，称没有证据表明传统证券交易所交易量的下降对价格形成造成了损害。 欧洲金融市场协会（AFME）周二警告称...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcvuh6700732.d.html",
+        "time": "1782777234",
         "source": "新浪新闻"
       },
       {
-        "title": "特斯拉即将发布第二季度交付数据 这一关键数字备受关注",
-        "intro": "特斯拉将在7月初公布第二季度车辆交付数据，这一数字可能比任何自动驾驶出租车或人形机器人的最新进展都更受市场关注。交付量是衡量特斯拉汽车需求是否从艰难的2025年中复...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmee5092352.d.html",
-        "time": "1782765869",
+        "title": "油价下跌，受预期中的美伊会谈前可能的头寸调整影响",
+        "intro": "亚洲早盘油价下跌，受可能的头寸调整影响。美国总统特朗普周一在社交媒体上表示，伊朗已请求举行会面，会面将于周二在多哈举行。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcvty4896412.d.html",
+        "time": "1782776917",
         "source": "新浪新闻"
       },
       {
-        "title": "原油：油价上涨 美伊暂停相互攻击但霍尔木兹海峡通行放缓",
-        "intro": " 油价周一上涨。在霍尔木兹海峡周末爆发的冲突再次凸显中东停火协议的脆弱性后，交易员正在评估即将举行的美伊和平谈判前景。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeq3644129.d.html",
-        "time": "1782765619",
+        "title": "报告显示去年全球碳排放增长三分之一来自美国",
+        "intro": " 英国能源学会（Energy Institute）的一份报告显示，2025年全球碳排放量增长中约有三分之一来自美国，原因是天然气价格上涨迫使电力生产商重新转向煤炭发电。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcvuk3474696.d.html",
+        "time": "1782776905",
         "source": "新浪新闻"
       },
       {
-        "title": "Medalist Diversified推出DST赞助平台 首期特斯拉租赁项目向合格1031投资者开放",
-        "intro": "总部位于里士满的上市公司Medalist Diversified， Inc．周一宣布推出其特拉华法定信托赞助平台，由全资子公司MDRR Sponsor TRS运营。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6867040.d.html",
-        "time": "1782765494",
+        "title": "日经指数或受美国科技股反弹提振走高",
+        "intro": "继隔夜美国科技股反弹之后，日本股市或将上涨。新加坡交易所日经指数期货上涨1.2%，报70520点。投资者正关注美伊和平谈判，以及日本政府官员对日元近期贬值的任何评论。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcvuh6698273.d.html",
+        "time": "1782776853",
         "source": "新浪新闻"
       },
       {
-        "title": "6月30日热门中概股多数上涨 台积电涨5.24%，百度涨7.64%",
-        "intro": "6月30日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高1.41%。 上涨个股（按市值从高到低）：台积电涨5.24%，阿里巴巴涨0.73%，日月光半导体涨4.79%，网易涨4.41%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeq3642911.d.html",
-        "time": "1782765461",
+        "title": "美国暂时暂停对摩洛哥化肥征收部分关税",
+        "intro": "白宫情况说明书显示，美国总统特朗普签署授权，临时豁免部分自摩洛哥进口磷酸盐化肥的相关关税。该总统公告规定，关税豁免期限为8个月，或至相关紧急状态宣告结束为止。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcvty4893107.d.html",
+        "time": "1782776395",
         "source": "新浪新闻"
       },
       {
-        "title": "6月30日收盘：美股收高科技股领涨，纳指上涨2.07%",
-        "intro": "北京时间6月30日凌晨，美股周一收高，科技股领涨。Alphabet上涨4.8%。特斯拉大涨逾8%，SpaceX上涨7%。投资者权衡美国与伊朗暂停敌对行动的影响...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmee5081584.d.html",
-        "time": "1782763703",
+        "title": "因个人原因，于英涛辞任紫光股份董事长及新华三集团总裁 李涛、王竑弢分别“接棒”",
+        "intro": "每经记者|杨卉每经编辑|陈俊杰 6月29日晚间，紫光股份（SZ000938，股价26.24元，市值750.48亿元）发布公告称，公司董事会于近日收到董事长于英涛的书面辞职报告...",
+        "url": "https://finance.sina.cn/2026-06-30/detail-inifcvua1671167.d.html",
+        "time": "1782776384",
         "source": "新浪新闻"
       },
       {
-        "title": "美国债市：国债收盘涨跌互现 收益率曲线走平",
-        "intro": "美国国债周一收盘窄幅涨跌互现，收益率曲线趋平，原因是原油价格走高以及大型科技股反弹支撑了短债收益率。10年期美债基本持平。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6848632.d.html",
-        "time": "1782763236",
+        "title": "各执一词与导弹互射：美伊多哈会谈迷雾重重，60亿美元解冻能否平息海峡硝烟？",
+        "intro": "汇通财经APP讯——周一（6月29日），卡塔尔首都多哈的空气中弥漫着一种微妙而紧张的气息。就在同一天，美伊两国围绕一份旨在结束长达四个月武装冲突的临时停火协议...",
+        "url": "https://finance.sina.cn/forex/whzx/2026-06-30/detail-inifcvuk3472365.d.html",
+        "time": "1782776340",
         "source": "新浪新闻"
       },
       {
-        "title": "伊朗表示将控制霍尔木兹海峡通行 无论阿曼是否参与",
-        "intro": " 伊朗副外长卡泽姆·加里巴巴迪告诉伊朗国家电视台，即使“出于某种原因阿曼对此不感兴趣”，伊朗也将推进控制霍尔木兹海峡海上交通的计划。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeq3623568.d.html",
-        "time": "1782763099",
+        "title": "昔日的“强制配储”，今日的“AI基座”！新型储能打开十万亿能源赛道",
+        "intro": "在能源转型向纵深推进、新型电网加速建设的背景下，新能源高占比并网、供需时空失衡，电网安全稳定运行压力持续加大。新型储能逐步跳出辅助配套设备定位...",
+        "url": "https://finance.sina.cn/2026-06-30/detail-inifcvty4895372.d.html",
+        "time": "1782776333",
         "source": "新浪新闻"
       },
       {
-        "title": "美国民主党取得罕见胜利 最高法院允许邮寄选票在选举日后送达",
-        "intro": " 美国最高法院裁定，联邦法律允许邮寄选票在选举日之后送达，此举意味着全美30个州实施的邮寄选票宽限期制度将得以保留。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6847202.d.html",
-        "time": "1782763068",
+        "title": "第四代半导体，重大进展！布局公司数量稀缺，已跑出6只翻倍股",
+        "intro": "如今，第四代半导体氧化镓的风头越来越盛，这一产业逐渐成为资本追逐的新风口。 国内首个第四代半导体材料 全产业链项目签约落地 据河南日报，近日...",
+        "url": "https://finance.sina.cn/2026-06-30/detail-inifcvty4893189.d.html",
+        "time": "1782776333",
         "source": "新浪新闻"
       },
       {
-        "title": "欧洲央行行长称欧洲应对经济冲击的韧性正在增强",
-        "intro": " 欧洲央行行长克里斯蒂娜·拉加德表示，得益于更完善的金融框架以及绿色转型取得进展，面对外部冲击，欧洲不再像以前那样脆弱。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6846743.d.html",
-        "time": "1782763019",
+        "title": "美国众议院通过儿童互联网和数字安全法案",
+        "intro": "美国众议院当地时间周一通过了一项法案，要求在线平台为儿童提供安全保障措施。 《儿童互联网和数字安全法案》（简称KIDS法案）规定...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcvuh6690669.d.html",
+        "time": "1782775936",
         "source": "新浪新闻"
       },
       {
-        "title": "Domo获评Snowflake现代营销数据堆栈报告值得关注企业",
-        "intro": "Domo周一宣布，在Snowflake发布的《现代营销数据堆栈：治理代理型企业》报告中，被认定为分析与衡量类别的值得关注企业。该报告已连续发布五年...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeq3622225.d.html",
-        "time": "1782762951",
+        "title": "中金：SiC向左，GaN向右，三代半导体成为数据中心高压架构的必然解",
+        "intro": "中金点睛 在AI算力走向高密度、连续满载、强瞬态冲击之后，高压架构是数据中心供电系统发展的确定方向。在硬件技术进步推动下，2026年数据中心高压架构迎来落地元年。",
+        "url": "https://finance.sina.cn/stock/ggyj/2026-06-30/detail-inifcvua1674669.d.html",
+        "time": "1782775926",
         "source": "新浪新闻"
       },
       {
-        "title": "英国政坛人物志：从党魁落选到首相热门 地方治理明星安迪·伯纳姆",
-        "intro": "基尔·斯塔默宣布辞去英国首相职务后，安迪·伯纳姆这个名字被推向全世界。这位英国工党成员早前以决定性优势重返议会，成为角逐工党领袖的最热门人选...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6845807.d.html",
-        "time": "1782762919",
+        "title": "随着供应危机加剧，俄罗斯可能允许生产和进口质量较低的燃料",
+        "intro": "俄罗斯生意人报（Kommersant）报道称，鉴于乌克兰对俄罗斯炼油厂的袭击，该国正试图缓解燃料危机，俄罗斯可能会允许企业暂时生产质量较低的汽油和柴油...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcvty4889281.d.html",
+        "time": "1782775871",
         "source": "新浪新闻"
       },
       {
-        "title": "Fortune Brands Innovations任命Jesse Singh为首席执行官",
-        "intro": "Fortune Brands Innovations周一宣布，董事会已一致任命Jesse G． Singh为首席执行官并加入董事会，该任命即日生效。Singh拥有超过30年的领导经验，涵盖建材、消费品",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeq3621683.d.html",
-        "time": "1782762893",
+        "title": "藤森庆子，赢得秘鲁总统选举！",
+        "intro": "秘鲁全国选举程序办公室29日公布的全部计票结果显示，右翼政党人民力量党候选人藤森庆子在总统选举中获胜。 全部计票结果显示，藤森庆子以50...",
+        "url": "https://finance.sina.cn/2026-06-30/detail-inifcvty4890415.d.html",
+        "time": "1782775800",
         "source": "新浪新闻"
       },
       {
-        "title": "HCA旗下CRISPR基因编辑疗法在儿童中展现突破性疗效",
-        "intro": "HCA医疗集团周一宣布，其参与的一项基因编辑疗法研究在《新英格兰医学杂志》上发表，针对5至11岁患有严重镰状细胞病和输血依赖性β地中海贫血的儿童...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmen6845071.d.html",
-        "time": "1782762829",
+        "title": "10天涨73%、30天涨126%！存储龙头自己都怕了：股价可能快速回落",
+        "intro": "6月29日晚间，存储芯片板块龙头兆易创新发布股票交易风险提示的公告。 公司股票价格自2026年6月15日至2026年6月29日连续10个交易日内日收盘价涨幅偏离值累计达到73.42%...",
+        "url": "https://finance.sina.cn/2026-06-30/detail-inifcvty4890910.d.html",
+        "time": "1782775727",
         "source": "新浪新闻"
       },
       {
-        "title": "万豪度假俱乐部推出Inner Circle专属体验平台 重新定义业主权益",
-        "intro": "万豪度假俱乐部周一宣布推出Inner Circle专属平台，为旗下业主提供私人音乐会、美食活动、体育赛事及精选旅行体验等独家权益。该平台由Aflac冠名赞助...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmee5076710.d.html",
-        "time": "1782762734",
+        "title": "摩根士丹利下调油价预测 因霍尔木兹海峡重开速度快于预期",
+        "intro": " Martijn Rats等摩根士丹利分析师在一份报告中写道，由于霍尔木兹海峡的重开速度快于预期，加之美国出口依然居于高位，该行下调布伦特原油价格预测。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcrne1796442.d.html",
+        "time": "1782775691",
         "source": "新浪新闻"
       },
       {
-        "title": "美国住建商PulteGroup将在佛罗里达州帕斯科县推出Del Webb Verona新社区",
-        "intro": "全美最大住宅建筑商之一PulteGroup周一宣布，已收购佛罗里达州帕斯科县约419英亩土地，将在此开发全新的Explore by Del Webb Verona社区。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-06-30/detail-inifcmeq3619795.d.html",
-        "time": "1782762682",
+        "title": "缩短账期风吹到电池链：行业倡议最长60天！宁德时代等表态",
+        "intro": "来源：中国能源网6月29日，中国汽车动力电池产业创新联盟、中关村储能产业技术联盟联合发布《动力和储能电池企业供应商账款支付规范倡议》（下称《倡议》）...",
+        "url": "https://finance.sina.cn/2026-06-30/detail-inifcvuk3468416.d.html",
+        "time": "1782775680",
         "source": "新浪新闻"
       }
     ]
