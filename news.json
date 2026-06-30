@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T21:00:20.234Z",
+  "updated": "2026-06-30T23:18:28.776Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,167 @@
     ],
     "finance": [
       {
+        "title": "美铝56亿美元收购澳洲矿业巨头South32的大部分铝资产",
+        "intro": " 澳大利亚矿业巨头 South32 周三表示，已同意将其大部分铝资产出售给美国铝业公司，隐含企业价值高达 56 亿美元。这家多元化矿业公司此举旨在简化其业务。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffyta1119172.d.html",
+        "time": "1782861391",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "波音公司：此次IT系统故障影响了计算机系统和应用程序",
+        "intro": "波音公司周二表示，一次计划外的IT系统故障影响了其部分计算机系统和应用程序。 据《Air Current》援引知情人士的话报道，此次故障“严重扰乱”了这家航空航天公司的商用和军...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffysy4341012.d.html",
+        "time": "1782861280",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪",
+        "intro": "（一） 一觉醒来，特朗普气炸了，中国又躺枪。 因为美国最高法院这次历史性的裁决，特朗普又输了。 特朗普气啊。 虽然在美国最高法...",
+        "url": "https://finance.sina.cn/china/gjcj/2026-07-01/detail-iniffysy4342331.d.html",
+        "time": "1782861221",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "微软计划进行新一轮裁员，将影响到数千个岗位",
+        "intro": "据知情人士透露，微软持续推进成本管控工作，这家科技巨头即将宣布新一轮裁员计划。 知情人士称，本次裁员将波及数千个岗位，涵盖销售、咨询部门...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffyta1117505.d.html",
+        "time": "1782861171",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "股价翻倍上涨，美光、英特尔和AMD第二季度市值合计增加约2万亿美元",
+        "intro": " 随着投资者扩大人工智能相关持仓规模，英伟达之外的各大芯片厂商股价在第二季度大幅飙升：美光、英特尔市值增长了两倍多，AMD紧随其后。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffyth6358229.d.html",
+        "time": "1782861148",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "消息人士：美国将于周二解除对Anthropic公司Fable AI模型的出口管制",
+        "intro": "据一位知情人士透露，美国商务部预计将于周二解除对Anthropic公司Fable 5人工智能模型的出口管制，此前不到三周，该公司曾因国家安全风险被勒令暂停对其最先进人工智能模型...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffyta1114838.d.html",
+        "time": "1782860849",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国特使与地区领导人就伊朗问题展开积极会谈",
+        "intro": " 一位美国政府高级官员表示，美国中东问题特使史蒂夫·威特科夫和贾里德·库什纳与地区领导人就伊朗问题进行了非常积极的会谈。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffytk3125194.d.html",
+        "time": "1782860299",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "直接会谈搁浅 美伊双方“争夺外交主动权”",
+        "intro": "伊朗方面6月30日明确否认近期与美国举行任何级别会谈的计划，原被外界预期的美伊直接会谈已告搁浅。卡塔尔方面同日证实，美伊当天没有计划在多哈举行高级别会议...",
+        "url": "https://finance.sina.cn/2026-07-01/detail-iniffyta1114274.d.html",
+        "time": "1782859620",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Anthropic旗下Fable模型的出口管制料将于周二晚解除",
+        "intro": "美国商务部预计将于周二晚解除对Anthropic旗下Fable人工智能模型的出口管制。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffyta1102947.d.html",
+        "time": "1782858958",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月1日隔夜要闻：欧美股市收涨 油价下跌 特朗普2025年加密货币收入超14亿美元 美4月石油产量和出口量创新高",
+        "intro": "市场 7月1日收盘：道指创五年来最佳上半年表现，纳指录得2020年以来最大单季涨幅 7月1日美股成交额前20：闪迪上半年上涨逾850% 7月1日热门中概股多数上涨 台积电涨4.86%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffytk3108432.d.html",
+        "time": "1782858658",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普宣布共和党9月达拉斯大会 为中期选举造势",
+        "intro": " 美国总统特朗普宣布，共和党将于9月9日至10日在达拉斯举行中期选举大会。这一构想最早于去年提出，旨在为共和党在11月国会选举前凝聚党内选民支持。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffuma4448638.d.html",
+        "time": "1782857713",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "财务披露显示特朗普2025年加密货币收入至少14亿美元",
+        "intro": "美国总统特朗普的最新年度财务披露显示，他在2025年通过加密货币及迷因币相关业务获得至少14亿美元收入。 特朗普报告称从加密货币公司World Liberty...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffume1221852.d.html",
+        "time": "1782857107",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "交易员加码联邦基金利率期货空头头寸 冒险押注7月加息",
+        "intro": " 联邦基金利率市场交易员正在加大押注，认为美联储最早可能7月开始加息。这一此前难以想象的举措可能会被一系列经济数据打乱。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffume1221231.d.html",
+        "time": "1782857019",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普确认共和党将于9月9日至10日在达拉斯举行中期选举大会",
+        "intro": "美国总统特朗普在社交媒体平台Truth Social上发帖称，共和党将于9月9日至10日在达拉斯举行中期选举大会。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffume1217476.d.html",
+        "time": "1782856400",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普在年度财务披露文件中公布其加密货币收入和股票投资组合",
+        "intro": "美国总统特朗普的年度财务披露文件显示，其加密货币相关收入至少达到数亿美元。 美国政府道德办公室发布了特朗普的年度财务披露文件。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffume1215451.d.html",
+        "time": "1782856167",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月1日外盘头条：闪迪上半年涨超850% 谷歌发布全新AI创作工具 Anthropic推出Claude Science AI科研工作台",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、亚马逊云科技斥资10亿美元成立全新AI部门，派驻工程师入驻客户企业 2、Anthropic推出Claude Science AI科研工作台 3...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffume1213748.d.html",
+        "time": "1782855968",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "卡塔尔首相与特朗普特使讨论美伊谅解备忘录",
+        "intro": " 卡塔尔外交部在社交平台X发文称，卡塔尔首相兼外交大臣Sheikh Mohammed Bin Abdulrahman Al Thani在多哈会见了贾里德·库什纳和史蒂夫·威特科夫。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumk6433658.d.html",
+        "time": "1782855497",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：国债维持早盘跌势 JOLTS职位空缺数据超预期",
+        "intro": "美国国债延续美国早盘时段由5月JOLTS职位空缺数据高于预期引发的跌势。午后维持跌势，临近月末之际，纽约时间下午3点左右期货卖盘加大。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumn3208211.d.html",
+        "time": "1782855370",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "新兴市场股市创2009年以来最佳季度表现 AI热潮提供动力",
+        "intro": "新兴市场股市创17年来最佳季度表现，在亚洲人工智能股票上涨的支撑下，市场经受住了伊朗战争和油价上涨带来的冲击。 MSCI新兴市场股票指数在6月最后一个交易日上涨0.9%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumn3207835.d.html",
+        "time": "1782855336",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "芯片股创历史最佳季度表现 AI需求可持续性受关注",
+        "intro": " 芯片股创下历史最佳季度表现，在人工智能设备需求旺盛的推动下延续了今年以来的强劲涨势。但在近期股价波动后，投资者开始思考这轮行情还能持续多久。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumk6431034.d.html",
+        "time": "1782855285",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "大宗商品综述：油价下跌 铜价上涨 金价维持在4000美元上方",
+        "intro": "原油价格周二下跌，原因是在市场寄望于美国和伊朗达成永久和平协议之际，通过霍尔木兹海峡的航运正在回升，同时又出现了关于近期供应过剩的新警告。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumk6430458.d.html",
+        "time": "1782855236",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "耐克盘后下跌 公司高管就需求发表谨慎言论",
+        "intro": "耐克公司股价周二盘后下跌，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumk6429391.d.html",
+        "time": "1782855153",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：科技股带动大盘走高 标普500指数创六年来最佳季度表现",
+        "intro": "美国股市周二上涨，标普500指数录得六年来最佳季度表现，投资者继续消化最新经济数据。 标普500指数在纽约收涨0.8%，以科技股为主的纳斯达克100指数上涨1.7%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumn3204679.d.html",
+        "time": "1782855090",
+        "source": "新浪新闻"
+      },
+      {
         "title": "7月1日美股成交额前20：闪迪上半年上涨逾850%",
         "intro": "周二美股成交额第1名美光科技收高0.79%，成交464.22亿美元。该股在今年上半年累计上涨超过300%。 据报道，美光科技宣布将投入2.5亿美元参与“特朗普账户”（530A账户）项目...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffume1186884.d.html",
@@ -420,167 +581,6 @@
         "intro": "7月1日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高0.63%。 上涨个股（按市值从高到低）：台积电涨4.86%，阿里巴巴涨0.50%，日月光半导体涨7.03%，联电涨1.34%...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumk6386308.d.html",
         "time": "1782850918",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "对冲基金Millennium据悉将在今年晚些时候筹资至少100亿美元",
-        "intro": "Millennium Management正准备利用投资者对多策略对冲基金的旺盛需求，筹集数十亿美元的新资金。 因讨论非公开事务而要求匿名的知情人士透露...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumn3157593.d.html",
-        "time": "1782850415",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "7月1日收盘：道指创五年来最佳上半年表现，纳指录得2020年以来最大单季涨幅",
-        "intro": " 北京时间7月1日凌晨，美股周二收高，芯片股领涨。华尔街为强劲的上半年和第二季度画上句号，道指创五年来最佳上半年表现，纳斯达克录得2020年以来最大单季涨幅。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumn3155335.d.html",
-        "time": "1782850191",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "中欧基金公布年度股东大会投票结果",
-        "intro": " 中欧基金公司(The Central and Eastern Europe Fund, Inc. )周二公布了2026年年度股东大会的投票结果。会议于6月30日举行，股东就两项主要议案进行了表决。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumk6374988.d.html",
-        "time": "1782849806",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "GE HealthCare宣布2026年第二季度现金股息",
-        "intro": "GE HealthCare Technologies Inc． 宣布，公司董事会已批准2026年第二季度的现金股息，每股普通股派息0.035美元。 根据公告，此次股息将于2026年8月14日支付...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffuma4394377.d.html",
-        "time": "1782849726",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "新德国基金宣布股东大会投票结果",
-        "intro": " 新德国基金公司（The New Germany Fund， Inc．）周二公布了其2026年年度股东大会的投票结果，会议于6月30日在纽约DWS投资管理公司办公室召开。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumk6373706.d.html",
-        "time": "1782849678",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "会计差错致股价重挫31% Hub Group遭投资者集体诉讼",
-        "intro": "全球投资者权益律师事务所罗森律师事务所日前发布公告，提醒Hub Group股东联系律所了解相关权利。此前，这家货运物流公司因会计差错导致股价两度暴跌...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffuma4393844.d.html",
-        "time": "1782849621",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "希尔顿宣布2026年第二季度财报发布日期",
-        "intro": " 希尔顿全球控股公司周二宣布，将于2026年7月28日股市开盘前发布第二季度财务业绩。公司管理层将于当日美国东部时间上午9点召开电话会议，讨论业绩表现并回答分析师提问。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffumk6372883.d.html",
-        "time": "1782849577",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国运通允许持卡人通过Apple Pay兑换积分",
-        "intro": "美国运通周二宣布，已扩展其Membership Rewards积分兑换渠道，持卡人现在可以直接在Apple Pay结账时使用积分抵扣线上和App内购物的消费金额。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqch1301450.d.html",
-        "time": "1782849536",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "康卡斯特拆分NBC环球 媒体估值对标迪士尼引发市场关注",
-        "intro": " 康卡斯特宣布将旗下NBC环球与Sky媒体业务分拆为独立上市公司，华尔街普遍认为这一举措将释放巨大价值，并有望推动NBC环球获得对标迪士尼的市场估值。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqcn6502920.d.html",
-        "time": "1782849498",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "谷歌发布全新AI创作工具 加速多模态内容生成",
-        "intro": " 谷歌在近期举行的I/O开发者大会上宣布了一系列面向开发者的AI创作工具升级，旨在通过最新的Gemini模型家族，降低多媒体内容的生成门槛并提升效率。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqce4523808.d.html",
-        "time": "1782849457",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "宝马完成17亿美元美国工厂投资 首款本土纯电车型年底投产",
-        "intro": "周二，宝马集团宣布完成对美国南卡罗来纳州工厂17亿美元的投资，为纯电动汽车的本土化生产奠定基础。斯帕坦堡主工厂的扩建与伍德拉夫新工厂的建设均已完工...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqch1300712.d.html",
-        "time": "1782849404",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "散户对美股七巨头交易热情降至四年新低 资金转向ETF",
-        "intro": "花旗集团最新报告显示，散户投资者对美股七巨头的交易热情降至四年来最低水平，资金正从个股转向交易所交易基金。 截至6月26日的过去五个交易日内...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqch1300508.d.html",
-        "time": "1782849368",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "IBM任命Stagwell为首席创意合作伙伴",
-        "intro": "IBM周二宣布，已选定营销服务集团Stagwell作为其首席创意合作伙伴。Stagwell旗下的Code and Theory和Anomaly两家机构将组成统一的创意团队...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqcn6501430.d.html",
-        "time": "1782849323",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "原油：油价下跌 中东供应回归加剧了供应过剩风险",
-        "intro": " 原油价格周二下跌，原因是在市场寄望于美国和伊朗达成永久和平协议之际，通过霍尔木兹海峡的航运正在回升，同时又出现了关于近期供应过剩的新警告。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqch1300127.d.html",
-        "time": "1782849299",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "半导体研究机构看好英伟达 Rubin平台推动下半年营收超预期",
-        "intro": " 半导体研究机构SemiAnalysis近日发布预测称，英伟达2027财年下半年数据中心计算业务营收有望较华尔街一致预期高出约20%，主要受益于新一代Rubin平台的大规模量产放量。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqch1300081.d.html",
-        "time": "1782849287",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "富国银行看好AI盈利前景 上调标普500目标价",
-        "intro": " 富国银行本周大幅上调标普500指数2026年底目标价，认为人工智能驱动的盈利增长足以抵消通胀等宏观隐忧，为市场提供坚实支撑。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqcq3276798.d.html",
-        "time": "1782849234",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伊朗议会议长：120亿美元伊朗资金解冻工作在推进",
-        "intro": " 伊朗议会议长兼首席谈判代表卡利巴夫表示：“根据谅解备忘录规定的240亿美元伊朗资产，双方已同意将其中120亿美元交由伊朗中央银行支配。”",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqcn6500138.d.html",
-        "time": "1782849170",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伊朗：美国解除封锁后已出口逾4000万桶石油",
-        "intro": "伊朗议会议长兼首席谈判代表卡利巴夫表示：“自美国解除海上封锁以来，我们已经出口了超过4000万桶石油。” 他表示，在封锁解除前的约60天里，伊朗“没有出口一桶石油”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqcn6498942.d.html",
-        "time": "1782849037",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲央行管委Kazaks：不急于在7月再次加息",
-        "intro": "欧洲央行管委Martins Kazaks表示，在中东和平进程推动油价回落和通胀风险下降后，央行并不急于在7月再次加息。 中东冲突缓和削弱了进一步加息的理由...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqch1298592.d.html",
-        "time": "1782849016",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "战争扰乱中东供应 美国4月石油产量和出口量创历史新高",
-        "intro": "美国4月石油产量和出口量双双创下历史新高。由于伊朗战争干扰了波斯湾的运输，全球买家转向美国石油寻找替代供应。 自伊朗战争爆发以来...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqcq3274719.d.html",
-        "time": "1782848996",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Forgent AI热潮后启动19.2亿美元售股",
-        "intro": "数据中心电力设备制造商Forgent Power Solutions周二宣布启动约19.2亿美元的股票发行计划，这是该公司自2月IPO以来的第三次售股，其私募股权股东Neos...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqch1298415.d.html",
-        "time": "1782848979",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Abivax股价飙升36% 新数据缓解药物安全性担忧",
-        "intro": " 法国生物科技公司Abivax周二盘中股价一度大涨近36%，此前公司公布了旗下溃疡性结肠炎药物obefazimod的补充安全性与疗效数据，有效缓解了投资者对药物致癌风险的担忧。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqce4520972.d.html",
-        "time": "1782848939",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "纽约汇市：美元止步三连跌 日元下滑",
-        "intro": "美元结束了连续三天下跌的趋势，美国国债收益率小幅走高，日元则维持在四十年低点。 美元指数上涨0.1%，该货币兑多数G-10货币走强。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-01/detail-iniffqce4520930.d.html",
-        "time": "1782848930",
         "source": "新浪新闻"
       }
     ]
