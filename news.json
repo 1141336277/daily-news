@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T20:49:36.054Z",
+  "updated": "2026-07-01T22:22:27.608Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,69 @@
     ],
     "finance": [
       {
+        "title": "大宗商品综述：原油继续下跌 黄金上涨 铝价走低",
+        "intro": "随着伊朗战争影响消退、霍尔木兹海峡航运恢复，原油价格周三继续下跌。中东局势缓解也给铝价造成压力，伦敦期铝一度触及2月份以来低点。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifkcsk2740730.d.html",
+        "time": "1782943917",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：芯片股下跌拖累大盘 投资者消化沃什讲话和经济数据",
+        "intro": "美国股市周三收窄早前跌幅，投资者消化最新经济数据并评估美联储主席凯文·沃什的讲话。 标普500指数在纽约收跌0.2%，科技股为主的纳斯达克100指数下跌1.5%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifkcsk2738493.d.html",
+        "time": "1782943683",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "卡塔尔外交部：围绕美伊谅解备忘录取得积极进展",
+        "intro": " 卡塔尔外交部发言人Majed Al-Ansari在X平台发文称，卡塔尔和巴基斯坦调解人周三在多哈分别结束了与美国和伊朗谈判代表的会谈。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifkcry3709992.d.html",
+        "time": "1782943582",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普积极评价美伊在卡塔尔进行的间接会谈 美国致力于继续谈判",
+        "intro": " 美国总统唐纳德·特朗普表示，美伊间接会谈已取得进展。眼下，两国正试图走出上周相互报复性打击的阴影，并将临时停火转化为持久和平。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifkcsa0486292.d.html",
+        "time": "1782943430",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：彭博美元指数两连涨 美联储主席沃什重申倾向于缩表",
+        "intro": "彭博美元指数周三上涨，美联储主席沃什重申倾向于缩减央行资产负债表的规模。 彭博美元指数上涨0.2%，连续第二天走高。 美联储主席沃什周三在葡萄牙辛特拉举行的欧洲央行中...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifkcry3707860.d.html",
+        "time": "1782943235",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月2日外盘头条：美国拒绝续签美墨加协定 沃什称近期通胀风险下降 霍尔木兹海峡输油量已超每天1000万桶",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国拒绝延长北美贸易协定，开启终结倒计时并寻求修改 2、美官员称霍尔木兹海峡输油量已超每天1000万桶...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifkcsh5955553.d.html",
+        "time": "1782943011",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美伊多哈谈判结束，聚焦霍尔木兹海峡",
+        "intro": " 伊朗与美国周三结束了一轮间接谈判，尚无迹象表明双方在实现持久和平方面取得进展。谈判反而聚焦于那些据信两周前本已解决的问题。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifkcsk2717099.d.html",
+        "time": "1782941395",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：美债小幅下跌 回吐沃什讲话后涨幅",
+        "intro": " 美债期货在美国午后时段小幅走低，回吐了早前因美联储主席沃什发言引发的涨幅。油价延续跌势，从而遏制了美债盘尾的弱势表现，美债收益率收盘仅小幅上升。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifkcsa0471188.d.html",
+        "time": "1782940851",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国拒绝延长北美贸易协定，开启终结倒计时并寻求修改",
+        "intro": " 特朗普政府周三拒绝延长《美墨加协定》，开启了为期十年的贸易协定终止倒计时。美方希望寻求修改协定，以推动制造业岗位回流美国，并削减美国与北美邻国之间的贸易逆差。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifkcry3693067.d.html",
+        "time": "1782940735",
+        "source": "新浪新闻"
+      },
+      {
         "title": "7月2日美股成交额前20：Meta筹划进军云计算，股价应声大涨",
         "intro": "周三美股成交额第1名美光科技收跌10.57%，成交529.2亿美元。该股在今年上半年累计上涨超过300%。 闪迪与美光股价周三大幅下挫，主要受“板块大轮动”交易影响...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixke0587217.d.html",
@@ -518,69 +581,6 @@
         "intro": "远程医疗公司Hims &amp; Hers Health股价周三大幅上涨，此前Canaccord Genuity以减肥药业务势头强劲和肽类药物的巨大潜力为由，大幅上调了该股目标价...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixkn2785036.d.html",
         "time": "1782934643",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "大轮动冲击闪迪与美光股价，供应短缺或限制下行空间",
-        "intro": " 周三，闪迪与美光科技股价大幅下挫，成为大轮动交易中的重灾区。投资者纷纷从上半年表现强劲的半导体板块撤出，转向更具价值吸引力的领域。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixkn2784657.d.html",
-        "time": "1782934602",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Meta筹划进军云计算，拟出售AI算力叫板三大云巨头",
-        "intro": "社交媒体巨头Meta正筹划推出一项全新的云基础设施业务，计划对外出售其过剩的AI计算能力和模型访问权限，此举将直接挑战亚马逊AWS...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixka3787563.d.html",
-        "time": "1782934547",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "“大空头”迈克尔·伯里增持AI空头仓位，警告“狂欢已至终点”",
-        "intro": "因成功预测2008年金融危机而闻名的投资者迈克尔·伯里，正在大举押注人工智能相关股票的下跌行情。 伯里在其Substack专栏中披露，他已建立了对英伟达、应用材料...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixkn2783851.d.html",
-        "time": "1782934497",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "高盛旗下私募信贷基金赎回压力持续低位",
-        "intro": "高盛旗下私募信贷基金GS Credit在第二季度再次展现出强劲的流动性韧性。根据周三提交的监管文件，该基金第二季度仅收到约3.24%份额的赎回申请...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixkn2783493.d.html",
-        "time": "1782934451",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美伊谈判进展打压风险溢价，原油价格再探新低",
-        "intro": "原油价格周三延续跌势，WTI和布伦特原油双双测试近期低点，因美国总统特朗普称与伊朗的间接谈判取得“非常好的进展”，同时霍尔木兹海峡航运持续恢复...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixkn2782967.d.html",
-        "time": "1782934385",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "高蛋白麦片与猫粮：通用磨坊应对消费寒冬的两张王牌",
-        "intro": "面对日益精打细算的消费者和持续疲软的消费环境，包装食品巨头通用磨坊正试图通过“更有料”的产品来赢回市场。在周三的财报电话会议上，公司高管明确表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixkk6006513.d.html",
-        "time": "1782934347",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "沃尔玛与CVS出手相助：帮助老年人应对Medicare减肥药新政",
-        "intro": "美国Medicare于7月1日正式启动了一项临时计划，首次覆盖诺和诺德和礼来等公司生产的GLP-1类减肥药物，为数百万此前无力负担的老年人打开了大门。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixka3786379.d.html",
-        "time": "1782934315",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Robinhood扩大欧洲永续合约产品线，计划进军英国加密市场",
-        "intro": "在线券商Robinhood周三宣布，将扩大其在欧洲的永续合约产品线，覆盖范围从加密货币拓展至大宗商品、ETF和外汇市场。符合资格的欧洲投资者现可交易黄金、白银...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixke0563409.d.html",
-        "time": "1782934272",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "ADP、沃什讲话及ISM数据点燃黄金涨势，非农成关键考验",
-        "intro": "周三（7月1日），黄金价格大幅反弹，一度飙升2%至每盎司4090美元附近，从近八个月低点强势回升。此番上涨主要受到三大因素驱动：美国经济数据...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifixke0562837.d.html",
-        "time": "1782934138",
         "source": "新浪新闻"
       }
     ]
