@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T12:13:15.667Z",
+  "updated": "2026-07-02T15:21:57.211Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -20,6 +20,20 @@
   "news": {
     "hot": [
       {
+        "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+        "intro": "大公司：\n  奥飞娱乐：上半年净利润同比预增305.30%—413.38%36氪获悉，奥飞娱乐发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股东的净利润为1.5亿元—1.9亿元，比上",
+        "url": "<![CDATA[https://36kr.com/p/3878550357946625?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
+      {
+        "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
+        "intro": "撰文｜深海\n  \n  网文里的“系统流”，被拍成了职场短剧\n  千禧年初的网文圈，有三大经典题材在爽文届立于不败之地：无限流、快穿流、系统流。\n  这三大爽文战神体横空出世时，对IP界几乎是降维",
+        "url": "<![CDATA[https://36kr.com/p/3878522627518471?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
+      {
         "title": "36氪 AI 工具测评，正在找第一批「抢跑者」",
         "intro": "我们是一群每天深度使用 AI 工具的人\n  最近我们碰到一个普遍现象💡 ：很多人在用 AI 工具时，容易陷入自己的信息茧房。\n  不同的人拿到同一个 AI 工具，产出能差出好几个量级。\n  不是不愿",
         "url": "<![CDATA[https://36kr.com/p/3878412963508486?f=rss]]>",
@@ -37,20 +51,6 @@
         "title": "秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股",
         "intro": "本文约3300字，建议阅读7分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  \n   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。",
         "url": "<![CDATA[https://36kr.com/p/3878131056701447?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
-        "intro": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，深圳可立点科技有限公司（以下简称“可立点科技”）近日完成战略融资，由力合科创领投，江苏中科智能科学技术应用",
-        "url": "<![CDATA[https://36kr.com/p/3877863381741577?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
-        "intro": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，聚焦通用空中智能的硅羽科技（SPARO）半年内已连续完成四轮数亿元融资，在种子轮耀途资本之后，锦秋基金、阿里巴巴、弘毅投资、普洛斯隐山资本、云时资本相继入局",
-        "url": "<![CDATA[https://36kr.com/p/3877830625046535?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "独家 | 小象超市将收取包装费：常规品0.5元/单，7月20日全国上线",
-        "intro": "新浪科技讯 7月2日晚间消息，新浪科技获悉，美团小象超市将正式收取包装费，7月6日起在深圳试点，7月20日全国上线。收费标准方面，包装费按照订单维度收取...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-02/detail-inifmmms5878125.d.html",
-        "time": "1782994329",
+        "title": "黑石面向富裕人士的基金5月创下最强单月表现 得益于投资Anthropic",
+        "intro": " 得益于对AI领域热门企业Anthropic PBC的投资，黑石集团旗下面向富裕人士的私募股权基金5月取得了有史以来最强劲的月度业绩。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmvzu0763078.d.html",
+        "time": "1783005464",
         "source": "新浪新闻"
       },
       {
-        "title": "尽管高油价带来冲击 但世界杯和250周年仍将助推美国假期出行热潮",
-        "intro": " 随着美国迎来建国250周年，预计今年周末出游的美国人数将小幅上升，国际足联世界杯带来了一定提振，尽管高昂的机票和汽油价格抑制了部分假期计划。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmmu2653893.d.html",
-        "time": "1782994305",
+        "title": "苹果大幅上调折叠屏iPhone备货预期，目标直指千万台",
+        "intro": " 苹果公司据报已大幅上调其首款折叠屏iPhone的生产计划，将2026年的备货目标从此前的约700万至800万台提高至1000万台，显示出对这一全新产品线的强劲信心。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmvzn5757825.d.html",
+        "time": "1783005447",
         "source": "新浪新闻"
       },
       {
-        "title": "摩根大通策略师称芯片股的极端跑赢表现难以持续",
-        "intro": "摩根大通策略师表示，美国半导体股票相对于人工智能超大规模云服务商的极端跑赢表现正在造成不可持续的差距。 Nikolaos Panigirtzoglou带领的团队在一份报告中写道...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmmy0918628.d.html",
-        "time": "1782994216",
+        "title": "里维安上调2026年交付预期，路西德二季度交付量不及华尔街预期",
+        "intro": "核心要点里维安二季度交付量超出华尔街预期，随即上调全年电动车交付目标至 6.5 万 —7 万辆。竞品车企路西德交付数据未达市场预期...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmvzu0762627.d.html",
+        "time": "1783005409",
         "source": "新浪新闻"
       },
       {
-        "title": "沙特油轮驶出霍尔木兹海峡 出口流量创战争以来新高",
-        "intro": " 在美国与伊朗达成临时和平协议、地区各产油国增加原油外运量后，沙特的波斯湾原油出口规模创下两伊战争封锁海峡以来新高。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmms5875979.d.html",
-        "time": "1782994169",
+        "title": "优步AI数据标注业务管理层变动，两名技术高管离职",
+        "intro": "优步近期对其人工智能数据标注业务的管理层进行了调整，两名技术高管已从该部门离职。 离职的两位高管分别是优步AI解决方案工程高级总监纳加·卡苏（Naga...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmvzn5756949.d.html",
+        "time": "1783005353",
         "source": "新浪新闻"
       },
       {
-        "title": "德国无人机制造商Quantum Systems获得12亿美元融资",
-        "intro": "德国国防科技公司Quantum Systems周四表示，已筹集12亿美元新资金，这使这家无人机制造商的估值达到约80亿美元，这也是迄今为止欧洲国防科技公司获得的最大规模私募融资之...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmms5874994.d.html",
-        "time": "1782994096",
+        "title": "Eightco Holdings披露总资产约3.86亿美元",
+        "intro": "Eightco Holdings（纳斯达克代码：ORBS）今日发布公告，更新其截至2026年7月1日的总持仓情况。公告显示，公司总资产约3.86亿美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmvzu0761878.d.html",
+        "time": "1783005296",
         "source": "新浪新闻"
       },
       {
-        "title": "保险资管业绩半年考：权益类产品七成正回报，红利、消费主题掉队",
-        "intro": "21世纪经济报道记者 孙诗卉 2026年上半年，A股结构性行情极致演绎——科创50大涨25.77%，银行板块却跌逾12%。受此影响，保险资管产品交出了一份“冰火两重天”的成绩单：科技主...",
-        "url": "https://finance.sina.cn/insurance/hydt/2026-07-02/detail-inifmmmu2651553.d.html",
-        "time": "1782994095",
+        "title": "Ondo Finance在美国推出首个托管型代币化证券",
+        "intro": "代币化证券平台Ondo Finance宣布与美国金融科技巨头Broadridge Financial Solutions（纽交所代码：BR）合作，在美国现行监管框架内推出首个由第三方运营的托管型代币化",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmvzu0761650.d.html",
+        "time": "1783005262",
         "source": "新浪新闻"
       },
       {
-        "title": "单一资产集中度被动超过监管“红线”，华安保险拟减持精达股份不超2%股份，减持计划一度推进不畅",
-        "intro": "蓝鲸新闻7月2日讯（记者 陈晓娟） 由于投资单一资产集中度比例被动超过监管要求，华安财产保险股份有限公司（下称“华安保险”）不得不减持其持有的上市公司股份。",
-        "url": "https://finance.sina.cn/insurance/gsdt/2026-07-02/detail-inifmmmu2648599.d.html",
-        "time": "1782993862",
+        "title": "高端露营 + 融资计划：AutoCamp借暑期旅游热潮拉动业务增长",
+        "intro": "核心要点AutoCamp 提供清风房车套房、精致木屋、篝火区、设计感满满的配套设施，营地坐落于多个知名户外景区内。品牌在美国设有 9 处营地...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrtu4114579.d.html",
+        "time": "1783005160",
         "source": "新浪新闻"
       },
       {
-        "title": "雀巢称消费者因价格压力避开中等包装产品",
-        "intro": " 雀巢（Nestle）表示，在美国消费者专注于产品可负担性、购买者纷纷转向大包装或经济型包装而避开中等规格产品的背景下，该公司正努力控制价格。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmms5870636.d.html",
-        "time": "1782993797",
+        "title": "多数预测市场合约交易量低迷，用户面临价格剧烈波动与机器人交易风险",
+        "intro": "核心要点分析显示，2021 年至今年 5 月末，Polymarket 平台上约 70% 已完结市场的名义总成交额不足 1 万美元。学术界表示，低流动性薄市场更容易出现价格剧烈波动...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrtw0889034.d.html",
+        "time": "1783004832",
         "source": "新浪新闻"
       },
       {
-        "title": "超720家机构，“盯上”1家公司",
-        "intro": "2026年上半年行情收官，机构调研上市公司路径逐渐浮现。 Wind数据显示，今年上半年共有5302家上市公司接待机构调研，其中澜起科技累计接待724家机构调研...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-02/detail-inifmmmu2647028.d.html",
-        "time": "1782993741",
+        "title": "Dynatrace拟申请FedRAMP高影响级别认证，强化政府业务安全布局",
+        "intro": "可观测性平台提供商Dynatrace（纽约证券交易所代码：DT）今日宣布，计划申请美国联邦风险与授权管理计划（FedRAMP）的高影响级别授权，并拓展政府安全标准。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrts2655412.d.html",
+        "time": "1783004605",
         "source": "新浪新闻"
       },
       {
-        "title": "以色列副外长呼吁黎巴嫩废除禁止与以色列人接触的禁令",
-        "intro": " 据声明，以色列外交部副部长Sharren Haskel表示，黎巴嫩应该废除将与以色列人接触定为犯罪的法律，作为关系正常化的第一步。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmmy0912658.d.html",
-        "time": "1782993732",
+        "title": "哈塞特称在与所有人工智能公司对话 探讨如何分享收益",
+        "intro": " 美国国家经济委员会主任凯文·哈塞特在被问及政府是否计划持有OpenAI股份时表示：“我们正在与所有大型AI公司接触，想了解它们认为可以通过什么方式与美国民众分享收益。”",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrts2653276.d.html",
+        "time": "1783004414",
         "source": "新浪新闻"
       },
       {
-        "title": "弯勺资本上市首日股价大涨，为拟IPO企业释放积极信号",
-        "intro": "华尔街是否开始青睐被盘活的老牌互联网品牌？意大利企业弯勺资本（Bending Spoons）周三登陆纳斯达克，上市首日股价大涨 40%。该公司的核心战略是收购濒临没落的数字资产并...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmmy0910681.d.html",
-        "time": "1782993571",
+        "title": "现货金大涨 疲软的美国就业数据淡化升息忧虑",
+        "intro": "金价大幅上涨，因美国疲软的就业数据缓解了市场对美联储今年可能为遏制通胀而加息的担忧。 6月非农就业报告公布后，现货黄金一度上涨2.8%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrtq5876831.d.html",
+        "time": "1783004377",
         "source": "新浪新闻"
       },
       {
-        "title": "知名科技分析师丹·艾夫斯离开韦德布什，开启新事业",
-        "intro": " 华尔街最知名的科技分析师之一丹·艾夫斯将离开他长期任职的韦德布什证券，创办一家商人银行，旨在将研究、咨询、融资和投资业务整合于一体。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmms5867302.d.html",
-        "time": "1782993543",
+        "title": "Redfin：美国房价中位数创新高，月供8个月来首次同比上涨",
+        "intro": "房地产经纪公司Redfin发布的最新报告显示，在截至6月28日的四周内，美国中位房价同比上涨2.5%，达到创纪录的408，838美元；同时，在6.49%的30年期房贷利率水平下...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrtu4108043.d.html",
+        "time": "1783004314",
         "source": "新浪新闻"
       },
       {
-        "title": "AI代币经济模式席卷华尔街",
-        "intro": "路孚特、穆迪等金融数据服务商目前已经逐步打消了投资者的顾虑，证明自身不会被垂直金融类人工智能工具所取代。但如今投资者又产生了新的担忧：人工智能使用成本的不确定性...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmmy0906446.d.html",
-        "time": "1782993243",
+        "title": "Newell Brands将于7月31日发布二季度业绩",
+        "intro": "消费品公司Newell Brands（纳斯达克代码：NWL）今日宣布，将于7月31日（周五）盘前发布2026年第二季度财务业绩，并于当天上午7点30分（美国东部时间）举行网络直播会议...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrtu4107249.d.html",
+        "time": "1783004191",
         "source": "新浪新闻"
       },
       {
-        "title": "盘前，集体跳水！AI泡沫？高盛最新发声",
-        "intro": "美股热门科技股继续调整！ 周四美股盘前，存储概念股继续走低，闪迪跌超3%，美光科技跌超2%；光通信概念股也继续回调，迈威尔科技跌超2%，康宁、Coherent跌近2%。",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-02/detail-inifmmmy0914120.d.html",
-        "time": "1782993185",
+        "title": "Rivian二季度交付超预期，上调全年交付目标",
+        "intro": "电动车制造商Rivian于7月2日公布了2026年第二季度产量和交付数据，并上调了全年交付预期。数据显示，公司二季度在伊利诺伊州诺默尔工厂共生产12，613辆汽车，交付12...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrts2650317.d.html",
+        "time": "1783004132",
         "source": "新浪新闻"
       },
       {
-        "title": "马斯克如何在特斯拉内部组建泰拉晶圆厂（Terafab）团队",
-        "intro": "市场越来越多地预测，埃隆・马斯克或将推动太空探索技术公司（SpaceX）与特斯拉合并。但仔细梳理特斯拉的组织架构就能发现，总投资额达 5500 亿美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmmu2635676.d.html",
-        "time": "1782992998",
+        "title": "微软投入25亿美元、调动6000名员工组建全新AI落地实施部门",
+        "intro": "核心要点微软将抽调工程师与销售人员，成立名为 微软前沿公司（Microsoft Frontier Co．） 的新子公司，深度对接客户开展人工智能落地合作项目。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrtu4106526.d.html",
+        "time": "1783004087",
         "source": "新浪新闻"
       },
       {
-        "title": "板块全线破净！19家银行股息率超5%，存银行不如买银行股的逻辑还成立吗？",
-        "intro": "来源：WEMONEY研究室2026年上半年，在A股42家上市银行股中，仅有6家银行录得上涨。从市值变化来看，邮储银行超越交通银行，市值排名第6；而中信银行超越兴业银行...",
-        "url": "https://finance.sina.cn/bank/yhgd/2026-07-02/detail-inifmmmy0911164.d.html",
-        "time": "1782992901",
+        "title": "太罕见！今夜，102家A股公司提示风险",
+        "intro": "来源：中国基金报 【导读】102家A股公司提示风险，回应AI、机器人、六氟化钨等热点 中国基金报记者 闻言 7月2日晚间，102家A股公司发布股票交易异常波动公告或股票交易风险...",
+        "url": "https://finance.sina.cn/2026-07-02/detail-inifmrtw0885196.d.html",
+        "time": "1783003944",
         "source": "新浪新闻"
       },
       {
-        "title": "ATFX科普:如何搭建事件驱动型策略",
-        "intro": "ATFX科普：纯粹技术类的交易策略，很难实现正值期望。技术类策略寻求规避宏观面干扰（比如规避非农、通胀数据），只在行情自主波动时期交易。",
-        "url": "https://finance.sina.cn/forex/hsxw/2026-07-02/detail-inifmmmu2634104.d.html",
-        "time": "1782992879",
+        "title": "美国参议员沃伦致信美联储理事沃勒 要求停止推进地区联储改革方案",
+        "intro": "参议员伊丽莎白·沃伦要求美联储理事克里斯托弗·沃勒停止其改革美联储12家地区分行运营架构的努力。 作为参议院银行委员会首席民主党议员，沃伦周三致信沃勒指出...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrtu4105245.d.html",
+        "time": "1783003904",
         "source": "新浪新闻"
       },
       {
-        "title": "英伟达宣布将从部分客户的云业务收入中抽取分成",
-        "intro": "英伟达正依托自身雄厚的资产负债表，助力更多企业采购其价格高昂的人工智能芯片，同时也有望借此获取额外收益。 英伟达承诺，为对外出租自家图形处理器的初创云服务商提供...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmmmw4123820.d.html",
-        "time": "1782992762",
+        "title": "瑞银报告：股市大涨在2025年催生近百万名百万富翁",
+        "intro": "核心要点瑞银最新报告显示，受益于股市上涨，2025 年全球百万富翁总人数增至 5800 万。美国是新增富豪最多的国家，去年新增超 44 万名百万富翁...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrts2647748.d.html",
+        "time": "1783003904",
         "source": "新浪新闻"
       },
       {
-        "title": "ATFX:6月非农就业报告来袭 美元涨势迎考验",
-        "intro": "7月2日，ATFX：今日20：30，美国劳动统计局将公布6月非农就业报告。周五是美国独立纪念日，非农就业报告发布时间提前至周四。",
-        "url": "https://finance.sina.cn/forex/hsxw/2026-07-02/detail-inifmmms5856351.d.html",
-        "time": "1782992750",
+        "title": "视频 | 龚正市长调研促消费工作，到访南外滩量身定制中心，与境外消费者面对面交流",
+        "intro": "来源：上海发布 龚正市长调研促消费工作，到访南外滩量身定制中心，与境外消费者面对面交流，邀约海外友人多带亲朋好友体验“上海定制”。",
+        "url": "https://finance.sina.cn/stock/ggyj/2026-07-02/detail-inifmrts2646531.d.html",
+        "time": "1783003798",
         "source": "新浪新闻"
       },
       {
-        "title": "安克创新港股上市首日一度跌超9%，创始人：充电宝一定会消失",
-        "intro": "来源：国际金融报 7月2日，“充电宝一哥”安克创新正式登陆港交所，完成“A+H”双资本平台布局。 资料显示，安克创新最终发行价为99.32港元，相较A股折价约26%。",
-        "url": "https://finance.sina.cn/stock/ssgs/2026-07-02/detail-inifmmmw4130715.d.html",
-        "time": "1782992558",
+        "title": "欧洲主要国家现已接受 船舶通过霍尔木兹海峡将不可避免需要付费",
+        "intro": " 据知情人士透露，欧洲一些主要国家如今已接受这样一种现实：通过关键航道霍尔木兹海峡的船只将不得不向伊朗和阿曼支付费用。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrts2645349.d.html",
+        "time": "1783003696",
         "source": "新浪新闻"
       },
       {
-        "title": "黄力晨:通胀风险下降 美元回落支撑金价反弹",
-        "intro": "7月2日，昨日周三我们认为，美国5月职位空缺数刷新两年新高，显示劳动力市场依旧趋紧，美联储缺乏降息的理由，市场对美联储加息的预期，继续支撑美元保持强势...",
-        "url": "https://finance.sina.cn/futuremarket/gjspl/2026-07-02/detail-inifmmms5853587.d.html",
-        "time": "1782992522",
+        "title": "自主无人机初创企业量子系统融资12亿美元，资本扎堆涌入国防赛道",
+        "intro": "核心要点量子系统公司于周四宣布完成 12 亿美元融资。这家专注于自主国防系统研发的初创企业，投后估值达到 80 亿美元。今年迄今为止...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrtu4103473.d.html",
+        "time": "1783003657",
         "source": "新浪新闻"
       },
       {
-        "title": "最高退60%！失业保险稳岗返还政策延续",
-        "intro": "记者 辛圆 据人力资源社会保障部网站周四发布消息，近日，人力资源社会保障部、教育部、财政部、国家税务总局四部门联合印发《关于失业保险支持企业稳岗扩岗的通知》（以下...",
-        "url": "https://finance.sina.cn/2026-07-02/detail-inifmmmu2632429.d.html",
-        "time": "1782992471",
+        "title": "罗宾汉CEO：智能AI智能体很快将具备与人类交易员匹敌的能力",
+        "intro": "核心要点罗宾汉公司首席执行官弗拉德・特涅夫在接受 采访时表示，智能体人工智能将在交易领域拥有媲美人类的能力。智能体技术是可以替用户自主执行任务的人工智能...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrtw0879755.d.html",
+        "time": "1783003526",
         "source": "新浪新闻"
       },
       {
-        "title": "亏麻了的奈雪股东，喊话创始人领1元年薪",
-        "intro": "作者：雷子桐编辑：江昱玢图源：奈雪“在盈利之前，创始人能不能只拿1块钱工资？”6月下旬，奈雪的茶股东大会俨然成了一场“吐槽大会”。",
-        "url": "https://finance.sina.cn/stock/relnews/hk/2026-07-02/detail-inifmmmw4125652.d.html",
-        "time": "1782992382",
+        "title": "筹划重大事项 ST龙元7月3日起停牌",
+        "intro": "北京商报讯（记者王蔓蕾）7月2日晚间，ST龙元（600491）披露公告称，因筹划重大事项，公司股票将于7月3日起停牌。ST龙元表示，公司接到相关方通知...",
+        "url": "https://finance.sina.cn/2026-07-02/detail-inifmrts2646001.d.html",
+        "time": "1783003500",
         "source": "新浪新闻"
       },
       {
-        "title": "算力股集体崩盘资金全线出逃！黄金板块逆势暴涨，15只个股被主力重金加仓招金黄金涨停",
-        "intro": "7月2日，A股市场整体深度回调，三大指数及科创50均走弱，但黄金珠宝概念指数逆势上涨2.89%，居全市场概念板块前列，呈现明显避险特征。",
-        "url": "https://finance.sina.cn/stock/relnews/hk/2026-07-02/detail-inifmmmu2632484.d.html",
-        "time": "1782992365",
+        "title": "今晚，超90家A股提示风险",
+        "intro": " A股市场7月2日震荡调整，上证指数报收4028.90点，跌2.03%，创业板指跌5.71%，科创综指跌5.64%。尽管大盘整体走弱，但仍有不少个股逆势大涨，触发交易异常波动“红线”。",
+        "url": "https://finance.sina.cn/2026-07-02/detail-inifmrts2645143.d.html",
+        "time": "1783003500",
         "source": "新浪新闻"
       },
       {
-        "title": "前海开源基金市场点评：中期节奏全球科技止盈盘累积较多 需要良性结构调整",
-        "intro": "今日市场结构调整，其中上证综指下跌2.03%，沪深300下跌2.96%，中证500下跌3.71%，中证1000下跌2.83%，创业板指下跌5.71%，科创50下跌7.70%，全A成交额约3.47万亿元",
-        "url": "https://finance.sina.cn/fund/yhyj/2026-07-02/detail-inifmmms5852804.d.html",
-        "time": "1782992348",
+        "title": "沃亚金融研究显示：小企业主对财务顾问的期望正在发生显著变化",
+        "intro": "沃亚金融（Voya Financial）发布的一项新研究显示，小企业主对财务顾问的期望正在发生显著变化，顾问的角色已不再局限于传统的退休计划服务...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-02/detail-inifmrts2642841.d.html",
+        "time": "1783003460",
         "source": "新浪新闻"
       }
     ]
