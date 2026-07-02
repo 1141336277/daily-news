@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:44:05.490Z",
+  "updated": "2026-07-02T21:16:02.502Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,139 @@
     ],
     "finance": [
       {
+        "title": "微软计划8月推出Copilot全端整合产品 精简冗余功能对标ChatGPT",
+        "intro": " 当地时间周四上午，微软一名高管向员工透露，公司将整合面向个人消费者与企业端的两款Copilot应用，并砍掉冗余功能，力求在用户心中“赢得生存的资格”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrn3843014.d.html",
+        "time": "1783026666",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国计划加强工作场所移民执法",
+        "intro": "据报道援引五名知情人士称，特朗普政府计划增加针对工作场所的移民执法行动。 报道称，包括司法部和国土安全部在内的多个联邦机构官员参与了有关针对工作场所开展执法的方...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrh5680896.d.html",
+        "time": "1783025456",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月3日美股成交额前20：特斯拉严控员工AI支出，每周最高200美元",
+        "intro": "周四美股成交额第1名美光科技收跌5.49%，成交602.54亿美元。美光科技连续两个交易日大幅下跌，昨日下跌逾10%。 近日全球存储芯片板块遭遇剧烈震荡，分析师称...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrk2456201.d.html",
+        "time": "1783025336",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：道琼斯工业平均指数创新高 就业市场降温缓解加息担忧",
+        "intro": " 美国就业市场显著放缓引发市场猜测美联储短期内无需加息，这推动华尔街多数股票上涨。道琼斯工业平均指数上涨1.1%，创历史新高。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrn3835153.d.html",
+        "time": "1783025201",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Meta首席执行官扎克伯格称AI智能体开发未达预期",
+        "intro": "据报道，Meta首席执行官马克·扎克伯格表示，过去四个月AI的智能体开发“并未以我们预期的方式加速”。 扎克伯格补充称，包含大规模裁员在内的重组工作本可以更“干净利落”...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrk2452599.d.html",
+        "time": "1783024865",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：投资者回补空头仓位 油价企稳",
+        "intro": "由于交易员在美国假日周末前回补部分看空押注，油价在接近战前低点的位置企稳。 美国基准的WTI原油上涨0.2%，收于每桶69美元下方...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrk2450885.d.html",
+        "time": "1783024658",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特斯拉宣布三排六座版Model Y现已面向美国顾客发售",
+        "intro": "特斯拉公司宣布Model Y SUV的三排座版本现已面向美国消费者发售，这是对其最畅销车型的一次市场拓展。特斯拉在社交媒体发文称，美国和波多黎各的顾客现可订购Model...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrn3831436.d.html",
+        "time": "1783024477",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普财务披露显示2025年交易逾2.1万笔",
+        "intro": "美国总统唐纳德·特朗普重返白宫后的第一年进行了逾2.1万笔证券交易，而且交易往往在由他引发的市场事件期间密集出现。 根据其2025年财务披露文件...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrn3829266.d.html",
+        "time": "1783023984",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月3日热门中概股普跌 台积电跌2.20%，阿里巴巴跌1.88%",
+        "intro": "7月3日热门中概股普跌，纳斯达克中国金龙指数（HXC）收跌1.77%。 上涨个股（按市值从高到低）：京东涨1.18%，中通涨1.36%，贝壳涨0.37%，中国新城农村涨2.15%，欢聚涨0...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrh5665466.d.html",
+        "time": "1783023554",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "AI基建遇阻 黑石旗下QTS据悉放弃弗吉尼亚数据中心建设项目",
+        "intro": " 黑石集团旗下的QTS房地产信托公司决定，放弃在弗吉尼亚州建设数据中心园区的计划。对于那些多年来一直抗争并试图阻止该项目的当地居民而言，这无疑是一场胜利。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrn3827123.d.html",
+        "time": "1783023522",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特斯拉将员工每周AI支出上限设为200美元",
+        "intro": " The Information援引内部备忘录及知情人士报道，特斯拉上月通知员工，将从7月6日起对员工的人工智能支出设定每周200美元的上限。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrq0602282.d.html",
+        "time": "1783023134",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Whale Rock旗舰基金今年盈利近73% 押注科技股带来丰厚回报",
+        "intro": " Whale Rock Capital Management的旗舰对冲基金今年上涨72.5%，使这家专注科技领域、管理资产190亿美元的公司成为业内最佳之一。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrq0602129.d.html",
+        "time": "1783023099",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月3日收盘：道指创历史新高，芯片股拖累纳指走低",
+        "intro": " 北京时间7月3日凌晨，美股周四收盘涨跌不一。道指创历史新高，芯片股下跌拖累纳指走低。美国6月非农就业报告弱于预期，使市场认为美联储将因此暂缓加息。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrk2433641.d.html",
+        "time": "1783022716",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "严控AI成本 特斯拉将员工每周额度上限定为200美元",
+        "intro": "据一份内部备忘录显示，特斯拉上月通知员工，从7月6日起，员工每周人工智能工具使用额度上限将设定为200美元。这一迹象表明，即便是立志依托人工智能实现业务运营与产品变...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrq0596196.d.html",
+        "time": "1783022100",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Direxion瞄准HBM龙头，SK Hynix两倍杠杆ETF蓄势待发",
+        "intro": "Direxion已向美国证券交易委员会提交申请，计划推出Direxion Daily SK Hynix Bull 2X ETF（代码SKHL）。该基金将寻求实现SK hynix美国存托凭证（代码SKH",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrq0594918.d.html",
+        "time": "1783021862",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "旗舰矿增产承诺落空，Peabody Energy遭多起证券欺诈调查",
+        "intro": " 美国最大的冶金煤生产商之一Peabody Energy Corporation正因旗舰矿Centurion的增产承诺落空，面临多家律师事务所的证券欺诈调查和集体诉讼。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrk2426233.d.html",
+        "time": "1783021822",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "豪华酒店REIT Braemar遭调查：董事会被指违反信义义务",
+        "intro": " 律师事务所Howard G． Smith宣布，已代表Braemar Hotels &amp; Resorts Inc．股东对该公司董事会展开调查，关注焦点在于董事会是否违反了其对股东的忠实义务。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrn3817023.d.html",
+        "time": "1783021725",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "押注月放贷百亿美元目标未达，Better Home遭多家律所调查",
+        "intro": " AI抵押贷款平台Better Home &amp; Finance Holding Company正面临多家律师事务所的证券欺诈调查，因其此前设定的月放贷额目标未能如期实现，导致股价在5月遭遇暴跌。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrh5648820.d.html",
+        "time": "1783021651",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "AI芯片新星Cerebras上市月余即遭多起证券欺诈调查",
+        "intro": " AI芯片公司Cerebras Systems在上市仅一个多月后，便陷入证券欺诈调查的风波。多家美国律师事务所已宣布对其发起调查，涉嫌在首次公开募股过程中可能违反联邦证券法。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnhrn3816339.d.html",
+        "time": "1783021573",
+        "source": "新浪新闻"
+      },
+      {
         "title": "苹果折叠iPhone备货预期上调，供应链加速运转",
         "intro": " 苹果公司首款折叠屏iPhone的推进力度正在加大。据供应链最新消息，苹果已要求供应商将今年折叠屏iPhone的备货目标从此前的约700万至800万台上调至约1000万台。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnaik5776061.d.html",
@@ -448,139 +581,6 @@
         "intro": " 知情人士表示，人工智能初创公司ElevenLabs与投资者进行了初步洽谈，拟允许员工在二次发行中出售股份，这笔交易对该公司的估值可能达到220亿美元左右。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnaiq3942151.d.html",
         "time": "1783020635",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "纽约汇市：受就业疲软影响 美元兑G10货币全线下滑",
-        "intro": " 纽约汇市周四，美元兑所有G10货币都下跌，此前数据显示6月份美国招聘速度大幅放缓。由于交易员降低了对短期内加息的预期，短端收益率也出现下滑。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnais0718845.d.html",
-        "time": "1783020524",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Anthropic AI禁令解除，投资者疑虑未消",
-        "intro": "美国商务部于6月30日正式解除了对Anthropic旗下两款最先进AI模型——Fable 5和Mythos 5的出口管制，结束了为期近三周的封锁。受此消息提振，亚马逊...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnain2544800.d.html",
-        "time": "1783020380",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "DA Davidson上调评级至买入，Palantir借独特定位逆势上扬",
-        "intro": "受DA Davidson上调评级及与英伟达战略合作消息提振，Palantir Technologies股价7月2日走高，尾盘涨幅近3%。 DA Davidson分析师Gil...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnain2543856.d.html",
-        "time": "1783020275",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Rivian上调全年交付目标 因R2交付强劲助推信心",
-        "intro": " 美国电动汽车制造商Rivian近日宣布上调2026年全年交付指引，受此利好提振，公司股价7月2日大幅上涨超15%，盘中最高触及19.79美元，创下1月9日以来新高。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnaik5766914.d.html",
-        "time": "1783020180",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特斯拉二季度交付48万辆远超预期，但仍不敌比亚迪",
-        "intro": "特斯拉交出了一份远超市场预期的季度成绩单。7月2日发布的数据显示，2026年第二季度特斯拉全球交付量为480，126辆，同比增长约25%，环比增长约34%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnais0716733.d.html",
-        "time": "1783020118",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "微软投入25亿美元组建6000人AI部署团队",
-        "intro": "微软正投入25亿美元成立一个新的业务部门，专门负责帮助企业客户部署人工智能技术。该部门名为Microsoft Frontier Company，将整合约6000名工程师、技术顾问和销售团队...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnaiq3939035.d.html",
-        "time": "1783020018",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AI存储芯片遭恐慌性抛售，美光领跌引发行业拐点担忧",
-        "intro": "全球存储芯片板块遭遇剧烈震荡。7月1日，美股存储巨头美光科技股价暴跌超10%，闪迪跌逾10%，费城半导体指数重挫超6%。这轮抛售迅速蔓延至亚洲市场，韩国KOSPI指数暴跌7%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnaik5765010.d.html",
-        "time": "1783019960",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "法国巴黎银行看空AI云服务商前景，CoreWeave与Nebius双双大跌",
-        "intro": "法国巴黎银行近日对AI云基础设施服务商CoreWeave（CRWV）和Nebius Group（NBIS）发布最新研报，引发市场对AI算力行业可持续性的担忧。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnaiq3938418.d.html",
-        "time": "1783019881",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普在关税政策逆转前买入苹果、英伟达等科技巨头",
-        "intro": " 根据媒体对新披露的财务文件的分析，美国总统特朗普于2025年4月8日进行了327笔股票买入操作，当时市场正因他广泛的“解放日”关税计划而大幅震荡。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnain2539864.d.html",
-        "time": "1783019813",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Nuinsco股东大会通过全部议案，三名董事成功连任",
-        "intro": " Nuinsco Resources于6月30日召开年度及特别股东大会，会上提出的所有议案均获股东高票通过。三名被提名董事全部成功连任，三项特别决议亦获得超过90%的赞成票。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnain2536183.d.html",
-        "time": "1783019404",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特斯拉撞入德州民宅致一女子死亡，司机被控过失杀人罪",
-        "intro": " 美国得克萨斯州近日发生一起惨烈车祸。一辆特斯拉汽车失控后撞入一处住宅，导致屋内一名女子不幸身亡。肇事司机目前已被警方以过失杀人罪提起公诉。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnais0712992.d.html",
-        "time": "1783019361",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "赎回压力缓解，Blue Owl股价随之上涨",
-        "intro": " 私募信贷管理公司Blue Owl Capital近日公布的最新数据显示，其二季度旗舰基金赎回申请有所下降，市场情绪随之提振，公司股价出现明显上涨。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnain2534950.d.html",
-        "time": "1783019281",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "谷歌联手FBI打击NetNut代理网络，削减数百万台受控设备",
-        "intro": "谷歌近日宣布，已联合美国联邦调查局（FBI）及Lumen Technologies等合作伙伴，对NetNut住宅代理网络展开大规模打击行动，大幅削减了该网络可用的受感染设备池。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnais0712136.d.html",
-        "time": "1783019225",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "油价重返战前水平，但市场警报尚未解除",
-        "intro": " 国际原油价格已回落至伊朗战争爆发前水平，但能源市场远未恢复常态。霍尔木兹海峡的快速重开令供应激增，掩盖了深层结构性问题的存在。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnaiq3934350.d.html",
-        "time": "1783019147",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Fidelity中小盘基本面ETF：主动管理策略的差异化选择",
-        "intro": " 本周聚焦Fidelity Fundamental Small-Mid Cap ETF（FFSM），这只主动管理型ETF凭借其独特的高确信度选股策略和出色的业绩表现，正成为中小盘投资领域值得关注的标的",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnaiq3934002.d.html",
-        "time": "1783019100",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "明星分析师Dan Ives离职Wedbush，AI ETF面临变局",
-        "intro": "华尔街最具知名度的科技分析师之一Dan Ives正在离开他任职八年的Wedbush Securities，开启一项全新的创业计划。这一消息在业内引发广泛关注...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnais0710990.d.html",
-        "time": "1783019054",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "亚马逊部署卫星数量达标，今年将启动Leo互联网服务",
-        "intro": "亚马逊旗下低轨卫星互联网项目“柯伊伯计划”已更名为“Amazon Leo”，近日再完成一次重要发射。宇宙神五号火箭于当地时间7月2日凌晨从佛罗里达州卡纳维拉尔角太空军基地升空...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnain2532117.d.html",
-        "time": "1783019011",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Anthropic与三星洽谈定制AI芯片代工合作",
-        "intro": "人工智能初创公司Anthropic已启动自研AI芯片的早期筹备工作，并与三星电子就潜在制造合作展开洽谈。这一动向紧随竞争对手OpenAI的步伐...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnaiq3933341.d.html",
-        "time": "1783018956",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "分析师称金价接近合理估值，为下一轮上涨铺平道路",
-        "intro": "在经历了年初的剧烈波动后，黄金的大幅回调已使价格回到接近合理估值的水平。WisdomTree大宗商品与宏观经济研究主管Nitesh Shah表示，这并非贵金属长期牛市的终结...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-03/detail-inifnaiq3933058.d.html",
-        "time": "1783018904",
         "source": "新浪新闻"
       }
     ]
