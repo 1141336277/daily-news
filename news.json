@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T19:39:01.252Z",
+  "updated": "2026-07-03T21:14:36.285Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,34 @@
     ],
     "finance": [
       {
+        "title": "美国最大电网PJM升级紧急措施以避免停电",
+        "intro": " 美国最大电网运营商PJM周五表示，由于发电机故障、输电线路严重超载，以及持续闷热天气导致空调用电量激增，该电网已处于联邦警报状态下，要求在其服务区域内削减用电。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-04/detail-inifqrwh2268092.d.html",
+        "time": "1783112149",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伯纳姆称若接替斯塔默出任首相 不会提前举行英国大选",
+        "intro": "安迪·伯纳姆表示，若接替基尔·斯塔默出任英国首相，他不会提前举行英国大选。 周五在社交媒体平台Reddit上被问及是否会举行大选时，伯纳姆回答“不会”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-04/detail-inifqmqh5609314.d.html",
+        "time": "1783110953",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "大宗商品综述：油价平 波斯湾原油运输接近战前水平 铜价涨 金价升",
+        "intro": "原油价格基本持平，交投清淡，波斯湾石油运输恢复，在全球市场关键区域造成新的供应过剩。伦敦期铜周五上涨，跟随美元小幅波动。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-04/detail-inifqmqn3501978.d.html",
+        "time": "1783109382",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：油价基本持平 波斯湾原油运输接近战前水平",
+        "intro": "原油价格基本持平，交投清淡，波斯湾石油运输恢复，在全球市场关键区域造成新的供应过剩。 调查显示，随着波斯湾成员国恢复经霍尔木兹海峡出口...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-04/detail-inifqmqh5567205.d.html",
+        "time": "1783107790",
+        "source": "新浪新闻"
+      },
+      {
         "title": "智利两大矿企为锂合资项目增产70%规划路径",
         "intro": "智利化工矿业（SQM）和智利国家铜业（Codelco）正为其大型锂合资项目增产逾70%铺路，对电池需求进行长期押注。 在一份关于30亿美元业务改造计划的环境影响研究中...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-04/detail-inifqmqn3455153.d.html",
@@ -553,34 +581,6 @@
         "intro": "7月3日，Investing.com报道称，原油价格在美国长周末前小幅回升，投资者削减部分空头仓位，但实物供应改善和近端过剩预期仍限制油价涨幅。",
         "url": "https://finance.sina.cn/futuremarket/qszx/2026-07-03/detail-inifpyys3556785.d.html",
         "time": "1783090335",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "政策核弹来袭！细胞基因治疗赛道大松绑，创新药反转行情正式启动",
-        "intro": "2026 年 7 月 3 日，国家药监局综合司发布《关于优化细胞与基因治疗药品审评审批有关事项的公告（征求意见稿）》，从临床研发、上市审评、上市后工艺变更到注册检验...",
-        "url": "https://finance.sina.cn/stock/relnews/hk/2026-07-03/detail-inifpyys3559034.d.html",
-        "time": "1783090234",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OEXN:就业数据或改写金价节奏",
-        "intro": "7月3日，Kitco报道认为，6月就业数据的疲弱表现让黄金市场获得喘息空间。美国新增就业仅5.7万人，明显低于经济学家预期，黄金借此重回4100美元上方...",
-        "url": "https://finance.sina.cn/futuremarket/qszx/2026-07-03/detail-inifpyys3555521.d.html",
-        "time": "1783090194",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "CBCX:就业降温推动金银反弹",
-        "intro": "7月3日，Kitco晚间报告显示，美国6月就业数据弱于预期后，美元走软并压低近端加息预期，黄金与白银在北美收盘后继续走高。CBCX表示，现货黄金徘徊在每盎司4135美元附近...",
-        "url": "https://finance.sina.cn/futuremarket/qszx/2026-07-03/detail-inifpyyq2366873.d.html",
-        "time": "1783090114",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "量产拐点正式确认！人形机器人开启 1-10 爆发周期，物理 AIA 股核心主线全梳理",
-        "intro": "七月伊始，人形机器人行业迎来四大重磅催化密集落地：马斯克现身弗里蒙特 Optimus 工厂，官宣产线安装完成进入量产爬坡阶段；宇树科技科创板 IPO 注册获批...",
-        "url": "https://finance.sina.cn/2026-07-03/detail-inifpyyu0335215.d.html",
-        "time": "1783089989",
         "source": "新浪新闻"
       }
     ]
