@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T16:54:59.955Z",
+  "updated": "2026-07-06T19:00:15.925Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -49,7 +49,7 @@
       },
       {
         "title": "上市前夜｜4个月净利润38.4亿元，深圳存储黑马冲港股IPO",
-        "intro": "本文约3400字，建议阅读7分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  \n   编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。",
+        "intro": "本文约3400字，建议阅读7分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  \n   编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股���里，都藏着一家企业上市前的野心、周期与隐",
         "url": "<![CDATA[https://36kr.com/p/3883706720727303?f=rss]]>",
         "time": "",
         "source": "36氪"
@@ -409,6 +409,104 @@
     ],
     "finance": [
       {
+        "title": "微软裁员4800人，Xbox部门缩减规模并计划剥离四家游戏工作室",
+        "intro": "微软周一宣布，将立即裁减4800个岗位，占其员工总数的2.1%。这是这家软件巨头在人工智能时代削减成本的最新举措。其Xbox部门将裁减约五分之一的员工...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatm8476745.d.html",
+        "time": "1783364295",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普在白宫为美股敲响开市钟 庆祝儿童储蓄项目“特朗普账户”上线",
+        "intro": " 美国总统唐纳德·特朗普在白宫椭圆形办公室为纽约证券交易所和纳斯达克敲响开市钟，庆祝面向儿童的新投资工具“特朗普账户”上线。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatp1748829.d.html",
+        "time": "1783364242",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "尾盘：美股尾盘走高 芯片股引领纳指上涨",
+        "intro": " 北京时间7月8日凌晨，美股周一尾盘走高，芯片股引领纳指走高。市场关注的焦点仍是近期持续的板块轮动趋势。美联储将在本周公布6月货币政策会议纪要。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatm8476012.d.html",
+        "time": "1783363891",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英伟达AI服务器架构据传将延后推出 公司回应称路线图并没有改变",
+        "intro": " 由于有消息称英伟达的下一代人工智能（AI）服务器机架架构因制造困难将推迟一年以上推出，亚洲印刷电路板（PCB）板制造商的股价重挫。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatm8475789.d.html",
+        "time": "1783363776",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Ned Davis Research对欧洲股市转为超配",
+        "intro": "Ned Davis Research已将欧洲股市上调至超配，并指出，随着美国和伊朗朝着结束战争的方向迈进，能源价格下跌。 策略师Mark Phillips表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatk1697971.d.html",
+        "time": "1783363487",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储理事沃勒为前瞻指引辩护",
+        "intro": "美联储理事克里斯托弗·沃勒表示，如果运用得当，政策制定者就未来利率路径释放信号的做法仍能起到积极作用。 沃勒是在罗马一场会议上发表上述讲话的。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatk1697734.d.html",
+        "time": "1783363445",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "老龄化未必拖累经济 新研究表明人口萎缩反而有助繁荣",
+        "intro": "全球出生率下降令许多人担心其经济影响，有人预测增长将放缓，创新将减少。但一篇新论文指出，事实可能恰恰相反。 根据Daron Acemoglu、David Autor...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatk1682441.d.html",
+        "time": "1783360658",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "摩根士丹利建议押注美联储加息预期消退",
+        "intro": "摩根士丹利的利率策略师建议，随着美联储加息预期减弱，投资者应押注较短期限美国国债收益率相对于较长期限品种下行。 其结果将是美国国债收益率曲线趋陡...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatp1720208.d.html",
+        "time": "1783360558",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "微软Xbox将裁员3200人 剥离四家游戏开发工作室",
+        "intro": " 微软公司旗下Xbox计划未来一年裁减3，200个岗位，约占员工总数的20%，此外，Xbox还将剥离四家游戏开发工作室，并启动出售第五家工作室的程序。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatq8492907.d.html",
+        "time": "1783360197",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "沙特阿美下调面向亚洲的主要原油售价 幅度为至少2000年以来最大",
+        "intro": " 由于全球供应激增，加剧对买家的争夺，沙特阿拉伯大幅下调面向亚洲买家的主要原油售价，并自2020年价格战以来首次以贴水出售原油。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatp1697441.d.html",
+        "time": "1783358271",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "乌克兰呼吁增援防空系统 北约秘书长警告称盟国资源有限",
+        "intro": " 在乌克兰恳请北约增派导弹拦截器以抵御俄罗斯致命空袭数小时后，北约秘书长马克·吕特警告称，盟友的拦截弹供应并非无穷无尽。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifxatp1693709.d.html",
+        "time": "1783357913",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "微软裁员4800人，Xbox部门大幅缩编并计划分拆四家游戏工作室独立运营",
+        "intro": "核心要点微软在推出自愿退休计划后，本轮整体裁员 4800 人。旗下 Xbox 游戏部门裁减五分之一员工，四家游戏工作室将脱离微软独立运营。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifwwmr1818836.d.html",
+        "time": "1783357413",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX公司总裁肖特威尔将向“特朗普账户”捐赠所持公司股票",
+        "intro": "核心要点SpaceX公司总裁格温妮・肖特威尔宣布，将向 “特朗普账户” 计划捐赠股票。上周，特朗普总统在 采访中表示，他认为 SpaceX...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifwwms8593589.d.html",
+        "time": "1783357284",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "里维安、特斯拉与“霍莉指数”：普通大众电动车赛道新格局该如何交易",
+        "intro": "个股实时行情 特斯拉（TSLA）：上涨 24.50 美元，涨幅 6.23% 里维安（RIVN）：上涨 1.23 美元，涨幅 6.60% 美国电动车行业格局或将迎来根本性转变。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifwwms8591867.d.html",
+        "time": "1783357093",
+        "source": "新浪新闻"
+      },
+      {
         "title": "市场担忧新型芯片堆叠技术落地推迟，必思半导体股价大跌",
         "intro": "有消息称，三星电子、SK 海力士质疑其高端芯片堆叠产品线是否有必要采用必思半导体先进混合键合技术紫光照射下正在加工的半导体晶圆，拍摄于上海国际半导体展。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-07/detail-inifwwmr1808137.d.html",
@@ -483,104 +581,6 @@
         "intro": "Wind数据显示，截至7月6日21时，A股共有92家上市公司披露2026年半年度业绩预告，其中，83家预增，预增比例约为90.22%。已披露业绩预告的上市公司整体保持了较好的盈利能力...",
         "url": "https://finance.sina.cn/stock/ggyj/2026-07-06/detail-inifwwmn1765617.d.html",
         "time": "1783352506",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "旅行者保险发布2025年可持续发展报告",
-        "intro": "财产与意外伤害保险公司旅行者保险今日发布了其2025年可持续发展报告，全面披露公司在环境、社会和治理等方面的进展与承诺。报告重点展示了公司在应对气候变化风险...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwmr1770156.d.html",
-        "time": "1783352450",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "梅菲尔画廊盛大开幕 五层空间呈现建筑、设计与美食盛宴",
-        "intro": "高端家居零售品牌RH（原名Restoration Hardware）近日宣布，其位于伦敦梅菲尔区的全新旗舰展厅“RH London， The Gallery”正式开幕。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwmr1769792.d.html",
-        "time": "1783352420",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Exelon将于7月30日发布第二季度财报",
-        "intro": " 能源公司Exelon今日宣布，将于2026年7月30日美股开盘前发布第二季度财务业绩。公司管理层将于当天上午9时召开电话会议，讨论业绩表现及业务进展。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwms8545673.d.html",
-        "time": "1783352395",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国主力球员免于停赛引争议 特朗普称仅致电国际足联要求复核",
-        "intro": "美国总统唐纳德·特朗普表示，他曾致电国际足联主席詹尼·因凡蒂诺，要求复核美国球员福拉林·巴洛贡的红牌判罚。他称，这名前锋并未犯下应收到红牌的犯规行为...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwmn1759766.d.html",
-        "time": "1783352362",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "TD Bank U.S.任命Jill Gateman为商业银行负责人",
-        "intro": "TD Bank U.S．今日宣布，任命Jill Gateman为美国商业银行负责人，即日起生效。Gateman将负责领导该行在美国市场的商业银行及专业金融业务，涵盖商业贷款、资产融资...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwmr1768933.d.html",
-        "time": "1783352341",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AbCellera任命Lynn Seely博士为董事会成员",
-        "intro": "生物技术公司AbCellera今日宣布，任命Lynn Seely博士为公司董事会独立董事，即日起生效。Seely博士在生物制药行业拥有超过30年的经验...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwmp8536478.d.html",
-        "time": "1783352295",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "DoorDash将于8月5日发布2026年第二季度财报",
-        "intro": " 食品配送平台DoorDash今日宣布，将于2026年8月5日美股收盘后发布第二季度财务业绩。公司管理层将于当天下午5时召开电话会议，讨论业绩表现及业务进展。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwmp8536277.d.html",
-        "time": "1783352258",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "从普罗米修斯到哈德良：硅谷掀起美国再工业化浪潮",
-        "intro": "6 月中旬，太空探索技术公司（SpaceX）上市让科技投资人安东尼奥・格雷西亚身价暴涨数十亿美元。短短几天后，他回到家乡底特律，面向满场美国铁锈带制造企业主发表演讲。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwms8543831.d.html",
-        "time": "1783352216",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Willdan将于7月30日发布2026年第二季度财报",
-        "intro": " 能源与工程服务公司Willdan Group今日宣布，将于2026年7月30日美股收盘后发布第二季度财务业绩。公司管理层将于当天下午5时召开电话会议，讨论业绩表现及业务进展。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwmp8535997.d.html",
-        "time": "1783352214",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "深夜突发！腾讯大幅减持快手！",
-        "intro": "7月6日晚间，快手发布公告称，腾讯于2026年7月6日（交易时段后），通过场外大宗交易方式向若干买方出售2.73亿股公司B类股份，出售事项完成后，腾讯持股比例将由约15...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-06/detail-inifwwmr1773541.d.html",
-        "time": "1783352200",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "报道：美国财政部的一份报告草案对AI泡沫风险发出警告",
-        "intro": "NOTUS援引其获得的文件报道称，美国财政部分析师起草的一份报告草案将警告人工智能带来的风险。 NOTUS报道称，分析师发现，人工智能市场下滑将对经济构成重大风险。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwmp8535921.d.html",
-        "time": "1783352199",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Primaris REIT宣布财务业绩发布时间及网络会议安排",
-        "intro": "加拿大零售地产投资信托基金Primaris REIT今日宣布，将于2026年7月30日美股收盘后发布第二季度财务业绩。公司管理层将于次日上午10时召开网络直播和电话会议...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwms8543443.d.html",
-        "time": "1783352178",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储理事沃勒为前瞻指引辩护 称运用得当能起到积极作用",
-        "intro": "美联储理事克里斯托弗·沃勒表示，如果运用得当，政策制定者就未来利率路径释放信号的做法仍能起到积极作用。 沃勒是在罗马一场会议上发表上述讲话的。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwms8543339.d.html",
-        "time": "1783352165",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Solstice Advanced Materials收购案面临股东公平性调查",
-        "intro": "投资者权益律师事务所Halper Sadeh LLC近日宣布，正在对Solstice Advanced Materials Inc．的相关交易展开调查，以评估该公司董事会是否履行了对股东的受托责任..",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-06/detail-inifwwmr1767037.d.html",
-        "time": "1783352145",
         "source": "新浪新闻"
       }
     ]
