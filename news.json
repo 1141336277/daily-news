@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T15:26:54.017Z",
+  "updated": "2026-07-08T17:44:37.476Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -42,7 +42,7 @@
       },
       {
         "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5",
-        "intro": "大公司：\n  雷军回应SkyNomad上市时间\n  36氪��悉，7月8日，小米创办人，董事长兼CEO @雷军 在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复",
+        "intro": "大公司：\n  雷军回应SkyNomad上市时间\n  36氪获悉，7月8日，小米创办人，董事长兼CEO @雷军 在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复表",
         "url": "<![CDATA[https://36kr.com/p/3886678879727880?f=rss]]>",
         "time": "",
         "source": "36氪"
@@ -409,6 +409,153 @@
     ],
     "finance": [
       {
+        "title": "英国高级别防务官员力促伯纳姆考虑放松财政规则 包括发行战争债券",
+        "intro": "英国高级别防务官员正在力促安迪·伯纳姆重新考虑放宽英国的财政规则，从而筹集军费，其中包括发行战争债券。 据知情官员透露，有望于本月晚些时候接替基尔·斯塔默出任首相...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcqxs4685051.d.html",
+        "time": "1783530725",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美银向OpenAI提供5.2亿美元授信额度 希望在IPO中争取一席之地",
+        "intro": "据知情人士透露，美国银行最近几周向OpenAI提供了5.2亿美元信贷额度，此前该行曾拒绝这家人工智能巨头的请求。 这项交易显示，这家美国第二大银行及其对风险颇为谨慎的首席...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcqxq7905910.d.html",
+        "time": "1783530477",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲债市：交易员倾向于预计欧洲央行和英国央行2026年均加息两次",
+        "intro": " 欧洲债市重挫，因互换市场指向利率走升。随着油价骤升，交易员倾向于预计欧洲央行和英国央行到年底都将加息两次、每次25个基点。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcqxm1454820.d.html",
+        "time": "1783530203",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普称他不确定是否想与伊朗达成协议",
+        "intro": "美国总统特朗普在谈及伊朗时表示：“我不确定自己还想不想和他们达成协议。” 这是特朗普在回答记者提问时作出的表态． 他还说：“我们可以继续玩这些游戏...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcqxm1453404.d.html",
+        "time": "1783530122",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "资深策略师Yardeni警告美伊停火破裂恐推升通胀 加大美联储加息压力",
+        "intro": "市场策略师Ed Yardeni表示，美国与伊朗停火破裂可能引发新一轮通胀加速，从而可能迫使美联储加息。 “市场对通胀的担忧重新升温，因此美联储再次成为市场关注焦点...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcqxq7902635.d.html",
+        "time": "1783530091",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "加航另聘外部人士出任新任CEO，修复视频事件引发的公众信任危机",
+        "intro": "现任北欧航空 CEO 安科・范德韦夫将履新背景事件：此前拉瓜迪亚机场发生空难，加航仅发布英文视频声明、未同步法语版本，时任 CEO 迈克尔・卢梭饱受抨击...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckrp1569866.d.html",
+        "time": "1783529086",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "摩根大通加码并购业务，布局中小企业交易",
+        "intro": "投行瞄准 5 亿美元以下并购项目，聚焦婴儿潮一代企业主的传承出售需求摩根大通高管约翰・里希特，将分管中小市值企业投行团队 内容速览 摩根大通专门组建投行团队...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckrq8342885.d.html",
+        "time": "1783528865",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "科技巨头CEO集体改口：不再渲染AI大规模失业末日论",
+        "intro": "另有两大行业动态：企业发动 AI 推广先锋扭转员工抵触情绪；顶尖名校学生放弃实习，投身创业冲刺赛道OpenAI 首席执行官山姆・奥特曼 职场核心看点...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckrp1563341.d.html",
+        "time": "1783528634",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲股市下跌 特朗普言论令伊朗风险回归",
+        "intro": "欧洲股市下跌，油价上涨，因美国总统唐纳德·特朗普表示，与伊朗的临时停火可能已经结束，美国可能会发动进一步打击。 斯托克欧洲600指数收盘下跌1.7%，连续第三天下跌...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckrq8330033.d.html",
+        "time": "1783527990",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI投资人维诺德・科斯拉阐释其风险投资理念",
+        "intro": "这位科斯拉风投创始人、知名风险投资人表示，外界批评 OpenAI 估值过高，他对此毫不在意 作者：贡詹・班纳吉 维诺德・科斯拉称自己从不会感到焦虑。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckrs8011422.d.html",
+        "time": "1783527619",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "布伦特原油重返80美元上方 因特朗普威胁对伊朗发动更多打击",
+        "intro": " 在特朗普表示与伊朗达成的临时停火已经结束后，国际油价突破每桶80美元，地缘政治风险溢价重新回归市场，投资者担心原油供应再次中断。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckrs8009865.d.html",
+        "time": "1783527461",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "芯片板块市值蒸发2万亿美元，指数触及生死关键支撑位",
+        "intro": "芯片板块在市值蒸发 2 万亿美元后小幅尝试反弹，指数当前运行至回调与破位的临界分水岭。 费城半导体指数（^SOX）正在测试约 12000 点一线，该点位 5 月曾短暂止住下跌...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckrq8320009.d.html",
+        "time": "1783527303",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "报道：美财政部等将向特朗普提交西班牙商品清单 供其考虑禁运",
+        "intro": " 援引一位美国官员的话报道，美国财政部将与美国贸易代表和商务部合作，向特朗普提交一份来自西班牙的产品清单，供其考虑实施禁运。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckru4781073.d.html",
+        "time": "1783526855",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "午盘：美股跌幅扩大，道指下跌800点，布伦特原油突破80美元",
+        "intro": "北京时间7月9日凌晨，美股周三午盘跌幅扩大，道指下跌约800点。美国总统特朗普表示与伊朗的停火已经“结束”，中东局势再度紧张导致油价飙升。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckrq8311271.d.html",
+        "time": "1783526722",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国2年期国债收益率逼近2026年高点 全球债市抛售加剧",
+        "intro": "随着油价上涨再次引发对通胀的担忧，全球债市遭遇抛售，2年期美国国债收益率回升，逼近上月高点。 这一与美联储货币政策预期密切相关的短期收益率一度上涨4个基点，至4...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckrp1534591.d.html",
+        "time": "1783526686",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "德国央行行长：中东局势令人关切 不排除欧洲央行再次加息的可能性",
+        "intro": "欧洲央行管理委员会委员、德国央行行长Joachim Nagel对中东局势发展表示担忧，重申欧洲央行可能仍需再次加息。 Nagel周三在斯洛文尼亚首都卢布尔雅那表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihckrp1532867.d.html",
+        "time": "1783526592",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "油价飙升再度引燃通胀担忧，10年期美债收益率升至4.57%",
+        "intro": "特朗普在土耳其北约峰会表态称美伊停火状态已然终结，受油价暴涨带动，美国国债收益率周三全线走高。 10 年期美债是房贷、车贷、信用卡利率的核心定价基准...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckru4770778.d.html",
+        "time": "1783525855",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "乌克兰袭击炼油厂后 俄罗斯禁止柴油出口",
+        "intro": "俄罗斯禁止柴油出口，以避免乌克兰无人机密集袭击该国炼油厂后引发国内供应短缺。 此举可能进一步加剧全球燃料市场紧张局势。根据能源分析公司Vortexa...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrs7989751.d.html",
+        "time": "1783525487",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗官媒：如果美国发动袭击 伊朗将封锁霍尔木兹海峡并双倍还击",
+        "intro": "伊朗官方媒体Press TV援引未具名知情人士报道称，若美国发动任何打击，伊朗将关闭霍尔木兹海峡，禁止所有船舶通行。 报道称，若遭到打击...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrq8292098.d.html",
+        "time": "1783525424",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗冲突推高油价，美国二手电动车价格持续走高",
+        "intro": "核心要点 考克斯汽车咨询公司数据显示，受伊朗局势、美国高油价双重因素刺激，纯电二手车需求暴涨，售价同步走高。 美瀚电动车二手车价值指数（跟踪全美批发拍卖二手车成交...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrs7982491.d.html",
+        "time": "1783524849",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Waymo加速扩张，在美国新增四座城市上线无人驾驶网约车服务",
+        "intro": "核心要点Waymo宣布将在四座美国新城市推出自动驾驶网约车：圣地亚哥、拉斯维加斯、佛罗里达州坦帕、丹佛；未来数周将先对内部员工开放乘车服务...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrq8278515.d.html",
+        "time": "1783524532",
+        "source": "新浪新闻"
+      },
+      {
         "title": "俄罗斯副总理告知普京将下令禁止柴油出口",
         "intro": "俄罗斯副总理诺瓦克在与总统普京举行的视频政府会议上表示，俄罗斯将禁止出口柴油。 诺瓦克表示，此举是为应对俄罗斯炼油厂遭袭而采取的措施。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrp1493162.d.html",
@@ -434,153 +581,6 @@
         "intro": "2018 年，亚历山德拉・弗里德曼搬到西雅图，入职亚马逊担任市场营销岗。彼时她 36 岁，虽从小在此长大，但离开 18 年后，一切人际圈都要重新搭建。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckru4742539.d.html",
         "time": "1783523191",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Waymo未来几周将在美国四个新城市推出无人驾驶出租车服务",
-        "intro": " Waymo周三宣布，将在未来几周内陆续在美国四个新城市推出无人驾驶出租车服务，进一步巩固其在本土市场对特斯拉和Zoox的领先优势。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrp1482005.d.html",
-        "time": "1783523187",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "中天期货:螺纹阳线反攻 焦煤继续震荡",
-        "intro": "热点品种分析 一、商品指数 二、股指 上证综指 7 月 8日收盘下跌 19.36点，跌幅 0.49%，报 3996.81点； 深证成指 7 月 8日收盘下跌 285.39 点，跌幅 1.87%，报 1",
-        "url": "https://finance.sina.cn/futuremarket/qsyw/2026-07-08/detail-inihckrp1481472.d.html",
-        "time": "1783523152",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "为特朗普家族带来加密财富的公司洽谈出售核心业务",
-        "intro": " 一年前，特朗普家族的加密企业以7.5亿美元控股了一家小型支付公司。这笔交易让几乎所有人都沦为了输家，唯独特朗普家族例外。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckru4738279.d.html",
-        "time": "1783522765",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "中天策略:7月8日市场分析",
-        "intro": "",
-        "url": "https://finance.sina.cn/futuremarket/qsyw/2026-07-08/detail-inihckrp1475275.d.html",
-        "time": "1783522718",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普称空袭伊朗导致的油价上涨可以接受",
-        "intro": "美国总统特朗普表示，美国每次打击伊朗后，油价“涨一点没关系”。 谈及油价时，他还表示：“也许我们会采取一些其他行动，可能会让油价再涨一点，但我认为不会涨很多”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrs7959281.d.html",
-        "time": "1783522579",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普承诺授权乌克兰生产“爱国者”导弹 称泽连斯基“做得非常出色”",
-        "intro": " 美国总统唐纳德・特朗普表示，美方将授予乌克兰生产爱国者防空拦截弹的许可，这一举动进一步体现出他对俄乌冲突以及对泽连斯基个人态度的转变。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckru4734425.d.html",
-        "time": "1783522373",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "中金公司预告半年净利润不低于77亿，同比增幅超78%",
-        "intro": "又一家头部券商发布半年报预告。 7月8日晚间，中国国际金融股份有限公司（下称“中金公司”，601995.SH，03908.HK）发布《2026年半年度业绩预增公告》显示，2026年上半年...",
-        "url": "https://finance.sina.cn/2026-07-08/detail-inihckrq8246586.d.html",
-        "time": "1783522200",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "贝佐斯旗下蓝色起源首轮外部融资估值达1300亿美元",
-        "intro": "核心要点 多位消息人士向记者安德鲁・罗斯・索尔金透露：杰夫・贝佐斯创办的蓝色起源正在开展首轮外部融资，募资规模 100 亿美元，投后估值 1300 亿美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrq8234720.d.html",
-        "time": "1783521715",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普威胁不再与西班牙开展任何贸易往来 西班牙股市下跌",
-        "intro": "特朗普总统于土耳其举办的北约峰会上公开痛斥西班牙，缘由是西班牙对参与对伊军事行动的美国军机关闭本国领空。 特朗普在土耳其安卡拉表态：“我们不再打算同西班牙开展任何...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrs7949363.d.html",
-        "time": "1783521684",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Perpetuals将出席全球科技投资者大会",
-        "intro": " 金融科技公司Perpetuals.com Ltd宣布，首席战略官Matthew Nicoletti将于7月9日下午1：30出席全球科技虚拟投资者大会，并在会上发表演讲及回答投资者提问。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrq8233398.d.html",
-        "time": "1783521633",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SiteOne Landscape Supply将于7月29日发布第二季度财报",
-        "intro": "美国最大的园林景观用品全国性批发分销商SiteOne Landscape Supply宣布，将于7月29日周三美股盘前发布2026年第二季度财务业绩，并于当天上午8：00召开电话会议及网络直播。...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrp1456444.d.html",
-        "time": "1783521585",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "今夜，27家A股公司提示风险",
-        "intro": "来源：中国基金报 【导读】27家A股公司公告提示风险，事关超级电容器、光通信、机器人等热点题材 中国基金报记者 闻言 7月8日晚间...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-08/detail-inihckru4730968.d.html",
-        "time": "1783521546",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Clean Harbors将于7月29日发布第二季度财报",
-        "intro": " 北美环境与工业服务龙头企业Clean Harbors宣布，将于7月29日周三美股盘前发布2026年第二季度财务业绩，并于当天上午9：00召开电话会议及网络直播。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrq8231670.d.html",
-        "time": "1783521533",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "苹果与博通的交易提振其“美国制造”目标",
-        "intro": "苹果公司表示，本周与博通达成的重大芯片供应协议是其扩大美国本土制造这一更大目标的一部分。周三苹果股价出现下跌。 博通在周一提交给美国证券交易委员会（SEC）的监管文...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrs7947324.d.html",
-        "time": "1783521504",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Cloudflare宣布与OpenAI开展研究试点，以提升AI回答的准确性与时效性",
-        "intro": "Cloudflare宣布与OpenAI启动一项研究试点项目，旨在探索如何利用Cloudflare全球网络的网站洞察数据，帮助AI搜索引擎更高效地在开放网络上发现并索引相关内容...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrs7947089.d.html",
-        "time": "1783521487",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "今夜，多只“强悍股”提示风险",
-        "intro": "7月8日晚间，多家A股上市公司发布股票交易异常波动公告，并提示相关风险。 宿迁联盛股票于2026年7月6日、2026年7月7日、2026年7月8日连续3个交易日内日收盘价格涨幅偏离值...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-08/detail-inihckrs7954491.d.html",
-        "time": "1783521470",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "A10 Networks将于8月5日发布第二季度财报",
-        "intro": " A10 Networks宣布，将于8月5日周三美股盘后发布2026年第二季度财务业绩。公司管理层将于当天太平洋时间下午1：30召开电话会议及网络直播，讨论当季经营情况。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrq8228853.d.html",
-        "time": "1783521376",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储会议纪要即将公布，分析师们正就沃什是否会缩减会议纪要内容展开讨论",
-        "intro": "周三美联储将发布的一份关键纪要，记录了凯文·沃什担任主席后主持的首场美联储政策会议，这或许能让我们更深入地了解这位新任央行掌舵人所说的“内部争执”——上个月为期两天...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihckrq8227955.d.html",
-        "time": "1783521324",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "VanEck推出四只新ETF，TruSector系列实现GICS全行业覆盖",
-        "intro": "资产管理公司VanEck推出四只新的TruSector系列ETF，分别为能源（TRUN）、公用事业（TRUU）、房地产（TRUR）和材料（TRUM）板块基金。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihceiu8075299.d.html",
-        "time": "1783521263",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "深夜，中概股大涨！美联储，重磅来袭",
-        "intro": "美联储6月会议纪要即将发布。 当地时间7月8日，美股三大指数集体低开，截至发稿，道指跌超1%，纳指跌0.5%，标普500指数跌0.61%。 消息面上，中东硝烟再起。",
-        "url": "https://finance.sina.cn/2026-07-08/detail-inihckrq8229917.d.html",
-        "time": "1783521175",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "TKO将于8月3日发布第二季度财报",
-        "intro": " 体育娱乐公司TKO Group Holdings宣布，将于8月3日周一美股盘后发布2026年第二季度财务业绩，并于当天美国东部时间下午5：00召开电话会议及网络直播，讨论当季经营情况。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-08/detail-inihceiu8074354.d.html",
-        "time": "1783521169",
         "source": "新浪新闻"
       }
     ]
