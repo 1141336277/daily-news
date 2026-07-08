@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T19:43:49.672Z",
+  "updated": "2026-07-08T21:15:24.000Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -42,7 +42,7 @@
       },
       {
         "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5",
-        "intro": "大公司：\n  雷军回应SkyNomad上市时间\n  36氪获悉，7月8日，小米创办人，董事长兼CEO @雷军 在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复表",
+        "intro": "大公司：\n  雷军回应SkyNomad上市时间\n  36氪��悉，7月8日，小米创办人，董事长兼CEO @雷军 在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复",
         "url": "<![CDATA[https://36kr.com/p/3886678879727880?f=rss]]>",
         "time": "",
         "source": "36氪"
@@ -409,6 +409,62 @@
     ],
     "finance": [
       {
+        "title": "7月9日美股成交额前20：博通获苹果超300亿美元芯片大单",
+        "intro": " 周三美股成交额第1名美光科技收高1.11%，成交396.71亿美元。该股近期自历史高点明显回落，投资者正重新审视AI驱动的内存需求能否支撑更长时间。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfk8296603.d.html",
+        "time": "1783544033",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "布鲁姆能源公司连续两日大跌，投资者似乎在其大涨后获利了结",
+        "intro": "布鲁姆能源公司（NYSE： BE）周二收跌8.64%之后，周三再跌5.67%。该股连续承压，投资者似乎在股价大幅上涨后获利了结，尽管该公司刚刚获得与Brookfield扩大AI基础设施融资...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfn7880247.d.html",
+        "time": "1783543915",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：油价飙升 特朗普称停战已结束且可能发动更多打击",
+        "intro": " 油价周三飙升至两周高点，之前美国再次对伊朗发动袭击，且美国总统唐纳德·特朗普表示临时和平协议已经结束，加剧了人们对该地区石油供应的担忧。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfi1494856.d.html",
+        "time": "1783542198",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普称美国将把叙利亚移出恐怖主义制裁名单",
+        "intro": "美国总统特朗普在北约峰会期间会见叙利亚总统Ahmed al-Sharaa时表示，美国将把叙利亚移出恐怖主义制裁名单。 “我想我会这么做。为什么不呢？",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfk8270624.d.html",
+        "time": "1783542169",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月9日热门中概股普涨 阿里巴巴涨11.03%，京东涨4.30%",
+        "intro": "7月9日热门中概股普涨，纳斯达克中国金龙指数（HXC）收高2.05%。 上涨个股（按市值从高到低）：台积电涨0.93%，阿里巴巴涨11.03%，拼多多涨2.68%，日月光半导体涨0.69%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfq4644667.d.html",
+        "time": "1783542165",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：国债收低 10年期国债标售强劲促使跌幅收窄",
+        "intro": "美国国债日内维持跌势，但在美国10年期国债续发表现强劲后跌幅收窄。收益率在国债招标前保持高位，因为在美国总统特朗普表示与伊朗的临时停火协议终结后...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfi1493338.d.html",
+        "time": "1783542104",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国军方称开始对伊朗发动更多打击",
+        "intro": "美国中央司令部发文称，美军已对伊朗发动新一轮打击，“以进一步削弱其威胁霍尔木兹海峡航行自由的能力”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfk8268924.d.html",
+        "time": "1783542067",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月9日收盘：道指跌逾570点，油价飙升且特朗普威胁再度打击伊朗",
+        "intro": "北京时间7月9日凌晨，美股周三收盘涨跌不一。美国总统特朗普在北约峰会上表示与伊朗的停火已经“结束”，中东局势再度紧张导致油价飙升。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfi1483291.d.html",
+        "time": "1783541472",
+        "source": "新浪新闻"
+      },
+      {
         "title": "Meta将在艾伯塔省投建130亿加元数据中心，系加拿大首个布局项目",
         "intro": "科技巨头 Meta 于周三宣布，将在加拿大艾伯塔省中部兴建一座超大型数据中心，这也是该公司在加拿大落地的首个算力基地，用以快速扩充算力储备...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfi1456956.d.html",
@@ -525,62 +581,6 @@
         "intro": " 在经历了惊人的年度涨幅后，美光科技股价近期自历史高点明显回落，投资者正重新审视AI驱动的内存需求能否支撑更长时间。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfq4618861.d.html",
         "time": "1783538952",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "贝索斯旗下蓝色起源寻求1300亿美元估值，首轮外部融资引关注",
-        "intro": " 在SpaceX上月完成创纪录IPO之后，太空赛道的投资热情持续升温。如今，杰夫·贝索斯创办的蓝色起源也迈出了关键一步，首次向外部投资者敞开大门。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfn7841280.d.html",
-        "time": "1783538903",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "6月美联储纪要显示对AI的提及增多",
-        "intro": " 在美联储官员们平衡等待更大生产力回报与应对其短期内可能造成的任何通胀压力之间的风险之际，AI的扩建给他们带来了不确定的局面。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfq4617901.d.html",
-        "time": "1783538824",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美股太阳能股显现看涨技术形态",
-        "intro": "近期，美股太阳能板块部分个股在经历前期调整后，技术面上出现一定积极信号，引发市场关注。 从板块整体表现来看，Invesco Solar ETF（TAN）上涨0.93%，报38.435美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfk8221466.d.html",
-        "time": "1783538789",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "从IPO到核心持仓：SpaceX何以成为RONB基金的基石",
-        "intro": "在SpaceX完成全球最大规模IPO仅数周后，这只航天巨头已迅速从“新股”蜕变为部分ETF基金的投资核心。其中，Baron First Principles...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfn7839443.d.html",
-        "time": "1783538653",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国法官下令特朗普向作家卡罗尔支付500万美元损害赔偿金",
-        "intro": "周三，纽约一名联邦法官下令，美国总统特朗普必须向作家卡罗尔（E· Jean Carroll）支付陪审团此前裁定的500万美元损害赔偿金。之前...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfk8218710.d.html",
-        "time": "1783538604",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国5月消费者信贷环比减少1.8245亿美元 预估增加175.00亿美元",
-        "intro": "美国5月消费者信贷下降，经济学家原本预期上升。 美联储数据显示，5月消费者信贷环比减少1.8245亿美元，预估为增加175.00亿美元；4月修正后为增加208.23亿美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfk8217506.d.html",
-        "time": "1783538528",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "霍尔木兹海峡冲突持续升级，特朗普称“不确定”是否还要与伊朗达成协议",
-        "intro": " 美国东部时间周三，特朗普总统表态称，他几乎不想再推进与伊朗的谈判。就在此番发言数小时前，因霍尔木兹海峡再起战事，他刚刚宣布美伊临时停火协议彻底失效。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcvfk8214581.d.html",
-        "time": "1783538304",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "尾盘：联储纪要揭示意见分歧，美股维持下跌局面",
-        "intro": "北京时间7月9日凌晨，美股周三尾盘维持下跌局面。美国总统特朗普表示与伊朗的停火已经“结束”，中东局势再度紧张导致油价飙升。美联储6月货币政策会议纪要显示联储官员们在...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihcqxm1547938.d.html",
-        "time": "1783536812",
         "source": "新浪新闻"
       }
     ]
