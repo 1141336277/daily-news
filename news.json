@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T15:25:06.595Z",
+  "updated": "2026-07-09T18:02:54.297Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -19,6 +19,13 @@
   },
   "news": {
     "hot": [
+      {
+        "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
+        "intro": "7月9日，万勋科技于北京举办自动充电机器人业务战略发布会，重磅推出行业首个以 “混沌服务” 模式全面覆盖公用、专用、家用所有应用类别的 “柔韧充” 自动充电通用服务引擎及其核心产品。其独一无二的 “0",
+        "url": "<![CDATA[https://36kr.com/p/3888567864851204?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
       {
         "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
         "intro": "Alpha will be made, not found。\n  麦肯锡在2026年初发布的全球私募市场报告中给出了一个精准的判断。Alpha（超额收益）不再是找到的，而是做出来的。持续走低的利率、不",
@@ -44,13 +51,6 @@
         "title": "创始人回归，一家高增长公司进入新阶段",
         "intro": "六月末的苏黎世，利马特河从 On Labs 楼后流过。昂跑（On）三位创始人之一 Olivier Bernhard 站在一群跑步与商业记者面前，先说了一句略带歉意的开场白：“这里不是那种光鲜亮丽的展示",
         "url": "<![CDATA[https://36kr.com/p/3886969297893892?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
-        "intro": "特斯拉FSD（Full Self-Driving）每迭代出一个新版本，自动驾驶公司Momenta的创始人曹旭东都会飞去美国亲自体验。\n  “他还不光是去坐车，还会找一切能接触到特斯拉的人聊。”接触到曹",
-        "url": "<![CDATA[https://36kr.com/p/3888180493318921?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "Frontdoor将于8月6日发布第二季度财报",
-        "intro": "美国领先的家庭保修服务提供商Frontdoor， Inc．（纳斯达克代码：FTDR）宣布，将于2026年8月6日（周四）发布第二季度财务业绩，并于当天美国中部时间上午7：30（东部时间上...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqx5342001.d.html",
-        "time": "1783610607",
+        "title": "美国30年期国债拍卖获强劲需求 中标收益率创2007年以来最高",
+        "intro": "美国财政部发行220亿美元30年期国债中标收益率5.058%，创2007年以来新高，纽约时间下午1点投标截止时的发行前交易水平为5.061%，表明市场需求超出预期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftws4229688.d.html",
+        "time": "1783618974",
         "source": "新浪新闻"
       },
       {
-        "title": "Backblaze Q1硬盘可靠性报告：92%新部署硬盘超20TB，年化故障率降至1.24%",
-        "intro": " 云存储平台Backblaze发布了2026年第一季度硬盘可靠性报告，数据显示其存储集群可靠性持续改善，同时高容量硬盘已成为新部署的绝对主力。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqv8563098.d.html",
-        "time": "1783610383",
+        "title": "霍尔木兹海峡航运几近停滞 迹象显示一些油轮关闭应答器以隐藏行踪",
+        "intro": "美军连续第二天打击伊朗后，霍尔木兹海峡航运几近停滞，美伊之间本已脆弱的停火局面愈发摇摇欲坠。 船舶追踪数据显示，周四仅有少数船只显示正经由伊朗控制的航道通行...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwv5300797.d.html",
+        "time": "1783618738",
         "source": "新浪新闻"
       },
       {
-        "title": "停牌前涨停！002677，拟易主",
-        "intro": "来源：中国基金报 【导读】浙江美大拟易主，停牌前1个交易日涨停 中国基金报记者 闻言 7月9日晚间，浙江美大发布公告称，公司当日收到实际控制人夏志生、夏鼎的通知。",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-09/detail-inihfpqu4300060.d.html",
-        "time": "1783610142",
+        "title": "华尔街五大行同日放榜 分析师早起备战“疯狂星期二”",
+        "intro": "即便是以每个季度都与银行CEO“过招”而闻名的分析师Mike Mayo也认为，华尔街五大银行同一天公布业绩将是一场硬仗。 对于这位富国银行分析师以及业内同行而言...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwq7447697.d.html",
+        "time": "1783618180",
         "source": "新浪新闻"
       },
       {
-        "title": "300020及控股股东，被立案！",
-        "intro": "来源：中国基金报 【导读】涉嫌信息披露违法违规，ST银江及控股股东被证监会立案 中国基金报记者 闻言 7月9日晚间，ST银江发布公告称...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-09/detail-inihfpqu4299740.d.html",
-        "time": "1783610142",
+        "title": "俄罗斯削减柴油出口，全球柴油供应短缺问题日益加剧",
+        "intro": " 受俄罗斯柴油出口禁令叠加伊朗战事带来的供应压力影响，全球柴油供应将再度陷入紧张。这不仅会推高车主与农户的用油成本，还会阻碍各国抑制通胀的相关举措。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftws4216420.d.html",
+        "time": "1783616822",
         "source": "新浪新闻"
       },
       {
-        "title": "美国6月二手房销售回落 负担能力担忧挥之不去",
-        "intro": "美国6月二手房销售回落，受抵押贷款利率持续高企影响，房地产市场仍未摆脱持续数年的低迷。 全美房地产经纪人协会（NAR）周四公布的数据显示，6月二手房销售下降2.4%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqv8559061.d.html",
-        "time": "1783609986",
+        "title": "OpenAI CEO称在与美国政府磋商期间对最新模型作出“许多调整”",
+        "intro": " OpenAI首席执行官Sam Altman表示，在推进向公众发布其最新人工智能模型之前，该公司在与特朗普政府进行磋商期间作出“许多调整”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftws4213064.d.html",
+        "time": "1783616289",
         "source": "新浪新闻"
       },
       {
-        "title": "美伊紧张局势再度升温 伊朗紧急运出约1100万桶原油",
-        "intro": " 随着美伊紧张局势再度升级、美国总统特朗普威胁恢复对伊朗港口实施封锁，德黑兰过去24小时紧急调派油轮，运出约1100万桶原油。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqs7520052.d.html",
-        "time": "1783609940",
+        "title": "美股七大科技龙头估值跌至十余年来最低水平",
+        "intro": "美股七大科技龙头估值跌至低位，这种情况十分罕见。 核心要点速览 摩根士丹利分析显示，当前七大科技龙头相对标普 500 整体的估值溢价，创下十多年来新低。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwq7436126.d.html",
+        "time": "1783616238",
         "source": "新浪新闻"
       },
       {
-        "title": "星巴克自研AI软件替代外部供应商，IBM微软股价承压",
-        "intro": "美股周四早盘，IBM下跌2.1%，微软下跌1.1%，此前有报道称星巴克正借助人工智能开发内部软件工具，以取代目前从微软和IBM采购的部分企业应用程序。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqv8558519.d.html",
-        "time": "1783609934",
+        "title": "斯洛克：若AI盈利不及预期，股市与宏观经济将双双承压",
+        "intro": "阿波罗全球管理首席经济学家托尔斯滕・斯洛克周四向客户发布研报称：“AI 收益兑现周期拉长，将成为全市场共同的难题。” 当前华尔街主流一致预期，到 2030 年...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwq7433676.d.html",
+        "time": "1783615827",
         "source": "新浪新闻"
       },
       {
-        "title": "美光科技上调美国投资计划至2500亿美元 押注AI存储芯片需求",
-        "intro": "美光科技表示，计划将对美国新工厂的支出增至2500亿美元，以满足全球人工智能热潮推动的存储芯片需求激增。 此举意味着在美光此前宣布的2000亿美元支持承诺上再增加500亿美...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqv8556947.d.html",
-        "time": "1783609809",
+        "title": "7-Eleven母公司上调全年业绩指引，北美板块汽油业务利润大增",
+        "intro": "公司称油价受地缘冲突刺激大幅上涨推高盈利受地缘冲突推高汽油价格影响，7-Eleven 日本母公司旗下北美便利店板块盈利大涨，公司上调全年业绩预期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwt8490945.d.html",
+        "time": "1783615549",
         "source": "新浪新闻"
       },
       {
-        "title": "美国稀土人才短缺，或拖累国供应链重建进程",
-        "intro": "尽管美国政府投入数十亿美元推动稀土供应链重建，但专业人才严重短缺正在成为制约这一进程的关键瓶颈。 美国稀土产业正面临严峻的人才断层。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqx5333081.d.html",
-        "time": "1783609808",
+        "title": "“每一口热量都备受消费者审视” 百事CEO应对GLP-1减肥药热潮与通胀双重挑战",
+        "intro": "拉蒙・拉瓜尔塔看好小份装零食、提神茶饮赛道蕴藏的增长机遇百事公司 CEO 拉蒙・拉瓜尔塔站在总部大楼内，头顶醒目的彩色 “微笑” 品牌标识 油价持续上涨挤压民众钱包...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwt8488307.d.html",
+        "time": "1783615353",
         "source": "新浪新闻"
       },
       {
-        "title": "礼来湿疹药物Ebglyss获加拿大医保推荐，全境覆盖迈出关键一步",
-        "intro": "礼来公司近日迎来利好消息，加拿大药品管理局已对其中度至重度特应性皮炎治疗药物Ebglyss（lebrikizumab）给出了积极的报销推荐意见。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqv8555352.d.html",
-        "time": "1783609649",
+        "title": "科技和矿业股上涨推动欧洲股市走高 阿斯利康重挫",
+        "intro": " 尽管中东局势持续紧张，欧洲股市仍在周三下跌后反弹，矿业和科技股上涨。阿斯利康下跌6.2%，因其Wainua心脏病药物在后期试验中失败。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwq7429844.d.html",
+        "time": "1783615318",
         "source": "新浪新闻"
       },
       {
-        "title": "Wedbush：服务器CPU持续短缺，英特尔仍有提价空间",
-        "intro": " 投行Wedbush近日发布报告指出，鉴于服务器CPU市场持续供不应求，英特尔在本季度仍有进一步上调处理器价格的空间，且不会对市场需求造成明显冲击。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqv8553688.d.html",
-        "time": "1783609500",
+        "title": "美国与伊朗互相发动空袭 重燃全面战争担忧",
+        "intro": " 美国连续第二天对伊朗发动军事打击，伊朗则对波斯湾地区美国盟友展开报复。在外交努力几乎没有取得进展之际，外界对双方重回战争状态的担忧加剧。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwq7423977.d.html",
+        "time": "1783614445",
         "source": "新浪新闻"
       },
       {
-        "title": "报道：卡塔尔暂缓推进全球最大液化天然气基地增产基地 运营将维持最低负荷",
-        "intro": " 霍尔木兹海峡一艘卡塔尔液化天然气运输船遇袭，市场担忧这条关键航道通行风险居高不下，卡塔尔已暂缓推进全球最大液化天然气基地的快速增产工作。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqv8550907.d.html",
-        "time": "1783609302",
+        "title": "欧洲债市：欧债反弹 油价小幅走低促使交易员削减加息押注",
+        "intro": "随着油价小幅走低，交易员削减对央行加息的押注，欧洲债市部分收复周三的跌幅。 英国2年期国债收益率下跌8个基点，报4.25%，此前周三收盘上涨16个基点。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwv5252785.d.html",
+        "time": "1783614242",
         "source": "新浪新闻"
       },
       {
-        "title": "房价创历史新高，美国6月房屋销售数据不及预期",
-        "intro": "核心要点6 月成屋销量环比 5 月下滑 2.4%；6 月末房源库存 156 万套，环比下降 0.6%，较 2025 年 6 月上涨 1.3%；全款购房成交占比四分之一，低于去年 29% 的水平。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqx5326362.d.html",
-        "time": "1783609220",
+        "title": "PGIM称30年期美债收益率的重新定价已经开始",
+        "intro": "PGIM的Gregory Peters表示，30年期美国国债收益率重回5%上方，正促使投资者重新思考何种水平才算具有吸引力。 Peters预计，美国国债和30年期公司债收益率还将大幅走高...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwt8476291.d.html",
+        "time": "1783614211",
         "source": "新浪新闻"
       },
       {
-        "title": "美国6月房屋销量回落 春季销售惨淡",
-        "intro": " 受抵押贷款利率居高不下、房价屡创新高的双重压力，购房者入市意愿低迷，美国6月房屋销量回落，楼市春季传统销售旺季收官表现惨淡。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqs7513784.d.html",
-        "time": "1783609174",
+        "title": "欧洲央行管委Nagel向Delo表示 决策者谈论利率前景时需克制",
+        "intro": "-欧洲央行管委会成员Joachim Nagel表示，地缘政治局势的不确定性使得欧洲央行很难讨论接下来的行动。 “在谈到货币政策时，我们应当非常克制，避免揣测下一步行动...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwv5251563.d.html",
+        "time": "1783614130",
         "source": "新浪新闻"
       },
       {
-        "title": "阿联酋正将本国自研卫星星座送入轨道",
-        "intro": " 来，阿拉伯联合酋长国（阿联酋）在深空探索领域斩获了一系列亮眼成果：不仅派遣宇航员进入太空，其“希望号”探测器还成功进入火星轨道。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqu4290441.d.html",
-        "time": "1783609169",
+        "title": "关停核电站变身能源科幻未来：核聚变落地计划",
+        "intro": "2011 年福岛核事故后，德国做出了影响深远的决定：全面关停境内核电站。如今，两座退役核电站将迎来二次新生，改造为核聚变实验项目。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwt8469623.d.html",
+        "time": "1783613521",
         "source": "新浪新闻"
       },
       {
-        "title": "Meta入局AI代码大模型赛道，追赶Anthropic与OpenAI",
-        "intro": "核心要点Meta 推出 Muse Spark 大模型重大更新，并公布定价方案；Meta 人工智能负责人表示，对比 Anthropic、OpenAI 同类产品，本次定价极具竞争力...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqx5325077.d.html",
-        "time": "1783609079",
+        "title": "午盘：美股继续上扬，芯片股普涨",
+        "intro": "北京时间7月10日凌晨，美股周四午盘继续上扬。芯片股普涨叠加油价下跌，令股指得到支撑。交易员继续评估美伊紧张局势。特朗普称美国发动打击后伊朗来电寻求达成协议...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwq7417403.d.html",
+        "time": "1783613332",
         "source": "新浪新闻"
       },
       {
-        "title": "D-Wave获IDC量子计算领导者评级，商业化进程获权威认可",
-        "intro": "D-Wave Quantum近日迎来双重利好消息。公司被IDC MarketScape评为全球量子计算领域的领导者之一，同时CEO Alan Baratz强调公司正聚焦商业增长...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqs7513105.d.html",
-        "time": "1783609029",
+        "title": "TD考恩投行：英伟达技术栈落地场景远超市场认知",
+        "intro": " TD 考恩投行表示，英伟达技术体系的实际应用场景远比当前市场理解的更广，具备极高配置价值，值得投资者纳入持仓组合。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftws4192270.d.html",
+        "time": "1783613106",
         "source": "新浪新闻"
       },
       {
-        "title": "高盛集团拿下总值 700 亿美元资产管理合作项目，合作方包括威瑞森通信、洛克希德・马丁公司",
-        "intro": "高盛集团周四宣布，公司成功拿下两份资产管理委托业务，将为威瑞森通信与洛克希德・马丁合计管理 7000 亿美元退休资产。这也是高速增长的企业外包投资市场近期规模最大的合...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqx5323157.d.html",
-        "time": "1783608898",
+        "title": "Belden推出ProLinx Edge网关，扩展边缘计算产品组合",
+        "intro": " 全球连接解决方案供应商Belden Inc．宣布推出ProSoft Technology ELX3 ProLinx Edge网关，将运营技术协议转换与基于Docker的边缘应用托管整合于单一加固硬件",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihftwt8464412.d.html",
+        "time": "1783613040",
         "source": "新浪新闻"
       },
       {
-        "title": "Meta在加拿大开工建设130亿加元数据中心，着眼AI算力扩张",
-        "intro": "当地时间7月8日，Meta宣布在加拿大艾伯塔省斯特金县正式开工建设其在该国的首座数据中心，总投资达130亿加元（约合92亿美元）。这座装机容量1吉瓦（GW）的设施是Meta在美国...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqv8546624.d.html",
-        "time": "1783608860",
+        "title": "Claritev荣登Everest Group 2026年预付理赔审查解决方案领导者象限",
+        "intro": "Claritev Corporation（纽约证券交易所代码：CTEV）宣布，在Everest Group发布的2026年预付理赔审查解决方案PEAK Matrix评估中被评为领导者，其排名较此前显著",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihftwv5237373.d.html",
+        "time": "1783612781",
         "source": "新浪新闻"
       },
       {
-        "title": "英伟达推出Nemotron 3 Ultra，推理成本较闭源模型骤降90%",
-        "intro": "英伟达近日发布开源大模型Nemotron 3 Ultra，凭借高性能与极低推理成本引发市场关注。该模型在LangChain深度智能体基准测试中取得开源模型组别最高准确率...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqu4287331.d.html",
-        "time": "1783608723",
+        "title": "AIRO完成搭载Zentra相机系统的首次运营交付",
+        "intro": " AIRO Group Holdings， Inc．宣布，已在2026年第二季度完成一批无人机系统订单的交付，标志着其新型Zentra相机系统首次在RQ-35 Heidrun无人机上投入实际部署。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihftws4189022.d.html",
+        "time": "1783612663",
         "source": "新浪新闻"
       },
       {
-        "title": "微软调整游戏战略：黑曜石工作室取消《宣誓2》转攻《辐射》新作",
-        "intro": "微软旗下黑曜石游戏工作室（Obsidian Entertainment）近期经历重大战略调整。据报道，为配合Xbox新任首席执行官Asha Sharma的“聚焦核心IP”战略...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqx5318876.d.html",
-        "time": "1783608577",
+        "title": "Roblox将于7月30日发布2026年第二季度财报",
+        "intro": "Roblox Corporation（纽约证券交易所代码：RBLX）宣布，将于2026年7月30日（周四）美股收盘后发布第二季度财务业绩。公司管理层将于当天美国太平洋时间下午1：30（美国东部...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihftws4187928.d.html",
+        "time": "1783612496",
         "source": "新浪新闻"
       },
       {
-        "title": "库存跌至数十年低位 美国石油储备难以应对美伊冲突重启",
-        "intro": "美国的石油储备体系远未做好应对美伊停火协议破裂、冲突重启的准备。 今年6月中旬特朗普总统宣布临时停火后，国际油价回落至战前水平，霍尔木兹海峡的油轮航运也逐步恢复...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqv8542497.d.html",
-        "time": "1783608561",
+        "title": "半导体板块大涨，美股七大科技巨头集体走弱",
+        "intro": "周四资金持续从大型云科技集团流出，转而涌入半导体赛道。半导体板块全线上涨，安硕半导体行业 ETF（SOXX）涨幅超 5%；而 Roundhill 发行的美股七大科技巨头...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihftwq7410768.d.html",
+        "time": "1783612433",
         "source": "新浪新闻"
       },
       {
-        "title": "OpenAI首席执行官：OpenAI 最新人工智能模型在智能体代码编写任务上的令牌效率提升 54%",
-        "intro": " OpenAI首席执行官奥特曼周四接受采访时表示，公司最新人工智能模型GPT-5.6 Sol在智能代理编程任务上的令牌效率提升54%，且综合表现与市面上竞品持平甚至更优。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihfpqs7508453.d.html",
-        "time": "1783608492",
+        "title": "LP Building Solutions发布第六份年度可持续发展报告",
+        "intro": "总部位于田纳西州纳什维尔的高性能建筑产品制造商LP Building Solutions发布了其2026年度可持续发展报告，详细披露了公司在环境保护、劳动力发展...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihftwv5233772.d.html",
+        "time": "1783612399",
         "source": "新浪新闻"
       },
       {
-        "title": "深夜！全线爆发！芯片巨头，重大宣布！",
-        "intro": "芯片股大涨。 当地时间7月9日，美股三大指数集体高开，截至发稿，道指涨0.12%，纳指涨0.61%，标普500指数涨0.4%。 芯片股集体走高，费城半导体指数涨超5%。",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-09/detail-inihfpqs7509215.d.html",
-        "time": "1783608439",
+        "title": "纽约联储行长表示特别关注人工智能需求对通胀的影响",
+        "intro": " 纽约联储行长约翰·威廉姆斯表示，在推动美国通胀的诸多因素中，他最关注的是人工智能带动的需求。如果这种需求持续存在，可能迫使美联储加息。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihftwv5232862.d.html",
+        "time": "1783612324",
         "source": "新浪新闻"
       },
       {
-        "title": "大额分红后，三兄妹紧攥98%表决权冲IPO……",
-        "intro": "来源：IPO日报 7月10日，淮南文峰光电科技股份有限公司（下称“文峰光电”）迎来北交所上市委审议，保荐机构为国元证券。 公司主营航空航天、核工业配套特种线缆与光电组件...",
-        "url": "https://finance.sina.cn/2026-07-09/detail-inihfpqs7511699.d.html",
-        "time": "1783608206",
+        "title": "United Rentals将于7月23日召开第二季度财报电话会议",
+        "intro": "设备租赁公司United Rentals， Inc．（纽约证券交易所代码：URI）宣布，将于2026年7月23日（周四）美国东部时间上午8：30举行第二季度财报电话会议。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-09/detail-inihftwt8456260.d.html",
+        "time": "1783612272",
         "source": "新浪新闻"
       }
     ]
