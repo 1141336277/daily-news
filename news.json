@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:51:22.142Z",
+  "updated": "2026-07-09T22:36:19.510Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,90 @@
     ],
     "finance": [
       {
+        "title": "大宗商品综述：油价下跌 黄金扭转连续三天的跌势 基本金属上涨",
+        "intro": " 原油价格周四下跌，交易员预计美伊冲突将保持可控，因此对能源设施遭袭的担忧有所缓解。黄金价格连续三天下跌后反弹。伦敦市场基本金属追随风险资产走高。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhkuk3961386.d.html",
+        "time": "1783636440",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI发布GPT-5.6系列模型：性能全面超越Claude，价格最低仅为竞品十六分之一",
+        "intro": "来源：华尔街见闻 OpenAI正式推出GPT-5.6系列模型，以更低成本实现更强性能，向AI行业竞争格局发出明确信号。 此次发布包含三款模型：旗舰版Sol...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenp8467072.d.html",
+        "time": "1783635654",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国暂不对飞机和喷气发动机零部件加征关税",
+        "intro": " 在完成一项调查后，美国暂不对商用飞机、喷气发动机及相关零部件征收关税。美国总统唐纳德·特朗普转而指示政府与贸易伙伴谈判，以调整这些产品的进口。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenr5235792.d.html",
+        "time": "1783635095",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元微跌 新西兰元受加息预期提振走强",
+        "intro": " 随着油价回落，美元指数走弱。新西兰元大涨，因为强劲的PMI数据和新西兰央行官员讲话巩固了市场对该国央行进一步加息的预期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenk7297951.d.html",
+        "time": "1783634268",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月10日外盘头条：美伊重燃全面战争担忧 OpenAI推出GPT-5.6系列模型 Meta加入AI“价格战”并否认算力过剩",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国与伊朗互相发动空袭 重燃全面战争担忧 2、沃什公布五大工作组负责人 为改革美联储铺路 3、OpenAI推出最新GPT-5...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenk7295134.d.html",
+        "time": "1783633972",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美官员：美伊相关技术谈判仍在继续",
+        "intro": "总台记者当地时间9日获悉，一名美国官员表示，在伊朗问题上美国仍致力于寻求解决方案，相关技术谈判仍在继续。（总台记者 赵淼）©2026中央广播电视总台版权所有。",
+        "url": "https://finance.sina.cn/2026-07-10/detail-inihhenn4065738.d.html",
+        "time": "1783632712",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI推出最新GPT-5.6系列模型 奥特曼称“不知道”今年是否会进行IPO",
+        "intro": " OpenAI首席执行官山姆 · 奥特曼周四表示，公司最新人工智能模型GPT-5.6 Sol在智能体编程任务中的标记效率提高了54%，并且“与市面上竞品相比表现同样出色甚至更好”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenr5197582.d.html",
+        "time": "1783632556",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国暂不依据232条款对飞机进口征收关税",
+        "intro": " 美国总统特朗普签署的公告显示，美国商务部一份报告“建议暂不依据232条款征收关税，以应对商用飞机、喷气发动机及其相关零部件进口对国家安全构成的损害威胁”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenk7271801.d.html",
+        "time": "1783631480",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Netflix正探索直播电视与套餐捆绑业务，以留住流失观众",
+        "intro": "今年春季，Netflix一众高管齐聚年度业务复盘会，会上不乏值得欣喜的利好消息：公司利润持续增长，用户流失率维持行业低位，同时手握《布里奇顿》《怪奇物语》等爆款 IP...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenk7271408.d.html",
+        "time": "1783631436",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SK海力士据悉将ADR发行价定为每份149美元",
+        "intro": "知情人士表示，SK海力士将其美国存托凭证（ADR）发行定价为每份149美元。 根据此前向美国证券交易委员会提交的文件，SK海力士此次发行1.779亿份ADR...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenn4042857.d.html",
+        "time": "1783630837",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "以色列总理办公室：内塔尼亚胡和特朗普周四通话",
+        "intro": "以色列总理办公室声明称，以色列总理内塔尼亚胡和美国总统特朗普周四通话。 通话期间，双方确定将在多个领域继续协调。 特朗普向内塔尼亚胡通报了美国在海湾地区的行动。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenk7263909.d.html",
+        "time": "1783630443",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月10日美股成交额前20：美光宣布超2500亿美元本土投资计划",
+        "intro": " 周四美股成交额第1名美光科技收高4.52%，成交408.4亿美元。该公司宣布，计划2035年前在美国投资超过2500亿美元。最新计划比该公司去年6月公布的2000亿美元大幅提升。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenn4040467.d.html",
+        "time": "1783630420",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美国债市：油价走低推动国债上涨 标售需求强劲后守住涨幅",
         "intro": "美国国债期货在美国时段走高，油价下跌提供了支撑，投资者权衡美国与伊朗紧张局势再度升温及其对霍尔木兹海峡能源运输的影响。美国时段午后...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihhenr5163378.d.html",
@@ -441,6 +525,13 @@
         "intro": "在规模达4.3万亿美元的韩国股市中，围绕三星电子和SK海力士的散户杠杆交易热情已升至极端水平。据相关证券机构数据，这两只芯片股及追踪其两倍日收益的杠杆ETF合计占韩国市...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyer8486089.d.html",
         "time": "1783626966",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
+        "intro": "当地时间9日晚间，以色列总理办公室发表声明称，以总理内塔尼亚胡当晚与美国总统特朗普通电话，双方商定将继续在各个领域保持两国间的政策协调。",
+        "url": "https://finance.sina.cn/2026-07-10/detail-inihhenk7255575.d.html",
+        "time": "1783626899",
         "source": "新浪新闻"
       },
       {
@@ -490,97 +581,6 @@
         "intro": "律师事务所提醒Hub Group， Inc．（纳斯达克代码：HUBG）的投资者，针对该公司的证券欺诈集体诉讼已临近首席原告申请截止日期。在2023年4月28日至2026年5月11日期间购买或...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyet5248500.d.html",
         "time": "1783625684",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "IRNA：霍尔木兹海峡附近地区未报告爆炸事件",
-        "intro": "据IRNA报道，到目前为止，阿巴斯港、格什姆、锡里克或贾斯克均未报告发生爆炸。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyeq4142216.d.html",
-        "time": "1783625638",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "沃什公布五大工作组负责人 为改革美联储铺路",
-        "intro": " 美联储主席凯文·沃什公布了五个工作组的负责人名单。这些工作组将审视美联储在政策制定关键领域的做法，并可能推动大范围改革。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyen7365369.d.html",
-        "time": "1783625614",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "First Solar遭集体诉讼，投资者须在8月24日前申请首席原告",
-        "intro": "律师事务所提醒First Solar， Inc．（纳斯达克代码：FSLR）的投资者，针对该公司的证券欺诈集体诉讼已临近首席原告申请截止日期。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyeq4141477.d.html",
-        "time": "1783625531",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "ZoomInfo遭集体诉讼，投资者须在8月24日前申请首席原告",
-        "intro": "律师事务所提醒ZoomInfo Technologies Inc．（纳斯达克代码：GTM）的投资者，针对该公司的证券欺诈集体诉讼已临近首席原告申请截止日期。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyeq4140547.d.html",
-        "time": "1783625392",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Solstice收购Element Solutions交易引发多家律所调查",
-        "intro": "特种化学品公司Element Solutions Inc（纽约证券交易所代码：ESI）近期宣布将被Solstice Advanced Materials， Inc．收购，该交易引发多家股东权益律师事务",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyeq4139947.d.html",
-        "time": "1783625295",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Crinetics Pharmaceuticals百亿出售案引发多家律所调查",
-        "intro": "Crinetics Pharmaceuticals， Inc．（纳斯达克代码：CRNX）近期宣布将被福泰制药（Vertex Pharmaceuticals）以约100亿美元收购，该交易引发多家股东权益",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyet5243795.d.html",
-        "time": "1783625212",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Element Solutions出售案引发多家律所调查",
-        "intro": "Element Solutions Inc（纽约证券交易所代码：ESI）近期宣布将被Solstice Advanced Materials， Inc．收购，该交易引发多家股东权益律师事务所的调查...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyet5243083.d.html",
-        "time": "1783625149",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "ClearOne与Cortigent合并案引发股东权益调查",
-        "intro": " 律师事务所宣布，正代表ClearOne， Inc．（纽约证券交易所代码：CLRO）股东就公司与医疗设备公司Cortigent的合并交易展开调查，重点评估该交易是否符合股东最佳利益。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyeq4138701.d.html",
-        "time": "1783625079",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Virax Biolabs通过优先投资期权行权募资330万美元",
-        "intro": "Virax Biolabs Group Limited（纳斯达克代码：VRAX）宣布，已就部分未行使的优先投资期权达成协议，投资者将按每股6.00美元的价格行权认购最多548，000股普通股...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyer8464657.d.html",
-        "time": "1783624974",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "BeFra宣布2026年第二季度财报发布日期",
-        "intro": "家具用品直销公司Betterware de México， S.A.P.I． de C.V．（纽约证券交易所代码：BWMX），以BeFra名义运营，宣布将于2026年7月23日（周四）美国市场收盘后发",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyet5239247.d.html",
-        "time": "1783624830",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "扎克伯格为Meta付费人工智能工具制定“激进”价格策略",
-        "intro": "在竞争激烈的AI工具市场，马克·扎克伯格希望凭借价格优势胜出。 Meta Platforms Inc．发布了其最先进人工智能模型Muse Spark 1.1，并首次面向开发者推出付费版本。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyeq4136516.d.html",
-        "time": "1783624706",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Peabody Energy因旗舰煤矿增产承诺落空面临证券欺诈集体诉讼",
-        "intro": "煤炭生产商皮博迪能源公司（Peabody Energy Corporation，纽约证券交易所代码：BTU）正因旗舰资产Centurion冶金煤矿的严重投产延误而面临证券欺诈集体诉讼。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyet5236990.d.html",
-        "time": "1783624600",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "扎克伯格否认Meta算力过剩 称发展云业务具商业潜力",
-        "intro": "Meta Platforms Inc．首席执行官马克·扎克伯格表示，Meta需要尽可能多的算力资源。不过，在AI开发和运行所需算力供不应求的情况下...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-10/detail-inihfyen7359185.d.html",
-        "time": "1783624597",
         "source": "新浪新闻"
       }
     ]
