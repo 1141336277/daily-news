@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T19:42:21.733Z",
+  "updated": "2026-07-13T21:03:45.609Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,160 @@
     ],
     "finance": [
       {
+        "title": "大宗商品综述：原油飙升 铜价上涨 金价下挫",
+        "intro": "WTI飙升，因为特朗普称美国拟对霍尔木兹海峡通行收费20%。铜价上涨，交易员暂时淡化美伊冲突升级可能打击需求的担忧，转而关注近期供应趋紧的迹象。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewq8651743.d.html",
+        "time": "1783976602",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普称美国将“荡平”伊朗的镐山",
+        "intro": "美国总统特朗普称该国将“荡平”伊朗的镐山（Pickaxe Mountain）。 他在休·休伊特秀（The Hugh Hewitt Show）上接受采访时说：“告诉伊朗人等着吧”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewq8649354.d.html",
+        "time": "1783976264",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月14日美股成交额前20：SK海力士股价大跌9.3%",
+        "intro": "周一美股成交额第1名美光科技收跌4.32%，成交324.84亿美元。该公司日前宣布，为应对人工智能时代对内存需求的激增，计划将其对美国的投资额由之前承诺的2035年前投资2000亿...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewq8648266.d.html",
+        "time": "1783976089",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：WTI飙升 特朗普称美国拟对霍尔木兹海峡通行收费20%",
+        "intro": "原油飙升，创4月份以来最大涨幅，此前美国总统唐纳德·特朗普表示将重新对通过霍尔木兹海峡的伊朗船只实施封锁，并要求所有其他经由该水道运输的货物缴纳费用...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtews5419221.d.html",
+        "time": "1783975131",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "胡塞武装称向沙特阿拉伯发射了导弹和无人机",
+        "intro": " 也门胡塞武装的发言人在一份声明中称，该组织向沙特阿卜哈机场发射了多枚弹道导弹和无人机，是对沙特此前袭击萨那国际机场的回应。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewm4118642.d.html",
+        "time": "1783975044",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普声称解密情报显示2020年选举遭干预",
+        "intro": " 两位白宫官员周一向美媒透露，美国总统特朗普计划在周四晚间的演讲中宣称，新解密的情报报告揭示了一个外国势力干预2020年总统选举的计划。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtews5418059.d.html",
+        "time": "1783974885",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月14日热门中概股多数下跌 蔚来涨3.14%，台积电跌2.88%",
+        "intro": "7月14日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌0.14%。 上涨个股（按市值从高到低）：阿里巴巴涨0.02%，网易涨2.66%，京东涨2.41%，中通涨0.76%，贝壳涨3...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewq8638351.d.html",
+        "time": "1783974285",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普称美国今晚和明天将“狠狠”打击伊朗",
+        "intro": "美国总统特朗普在休·休伊特秀（The Hugh Hewitt Show）上接受采访时表示，该国今晚和明天将“狠狠”打击伊朗。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewi7332210.d.html",
+        "time": "1783973946",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月14日收盘：美股收跌纳指跌逾400点，SK海力士重挫9%，中东局势紧张油价飙升",
+        "intro": " 北京时间7月14日凌晨，美股周一收跌。原油价格飙升，此前美国总统特朗普宣布，他将重新实施对伊朗通过霍尔木兹海峡航运的所谓封锁。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewm4105392.d.html",
+        "time": "1783973616",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "苹果诉讼成拦路虎 OpenAI挑战iPhone的雄心可能遇阻",
+        "intro": " 苹果公司指控OpenAI系统性窃取其知识产权，这起诉讼可能在案件最终得到解决之前很久，就扰乱这家AI公司开发硬件设备的雄心。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewq8633247.d.html",
+        "time": "1783973343",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "报道：特朗普周四的讲话将谈及2020年大选",
+        "intro": " MS Now的记者在X发帖称，美国总统特朗普定于周四发表的讲话将涉及新的情报报告。白宫声称，这些情报披露了外国干涉2020年大选的计划。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtews5406942.d.html",
+        "time": "1783972872",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "米高梅度假村洽谈收购People Inc.，媒体巨头或迎跨界整合",
+        "intro": " 米高梅度假村国际集团正与People Inc．就潜在的收购交易进行谈判。这一动向将有望将娱乐与博彩巨头和一家大型数字媒体出版商联系在一起。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtews5406558.d.html",
+        "time": "1783972805",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "外资上周净买入13亿美元印度股票，高盛预计后续资金将持续流入",
+        "intro": " 海外投资者上周净买入13亿美元印度股票，创下去年6月以来最大单周流入规模。高盛预计，随着印度宏观经济前景改善和外资持仓处于极低水平，后续仍有充足回流空间。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtews5406318.d.html",
+        "time": "1783972749",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "IRS税收指引缺位，预测市场或重塑169.6亿美元博彩业税负格局",
+        "intro": "在预测市场平台（如Kalshi）交易量激增的背景下，美国国税局（IRS）尚未就此类交易收益的税务处理发布明确指引，这可能导致用户享受比传统体育博彩更优惠的税负待遇...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewm4095109.d.html",
+        "time": "1783972695",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美光锁定硅片供应，AI芯片瓶颈或向产业链上游蔓延",
+        "intro": "美光科技近期宣布向环球晶圆提供5亿美元战略融资，并签订为期十年的硅片供应协议，以支持其位于得克萨斯州谢尔曼的300毫米半导体硅片制造设施建设。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewm4093122.d.html",
+        "time": "1783972513",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：短端领跌国债 美联储理事沃勒谈及加息",
+        "intro": "美国国债走低，延续早盘跌势，此前美联储理事克里斯托弗·沃勒表示，如果基础通胀继续表明价格压力广泛存在，决策层就可能需要在近期上调利率。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewi7316623.d.html",
+        "time": "1783972479",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "加州新电动车补贴方案出炉，特斯拉成最大赢家",
+        "intro": "加利福尼亚州州长加文·纽森周一签署SB 168法案，正式推出“我的第一辆电动车”补贴计划，为首批电动车购买者提供3500美元的即时购车折扣。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewi7316254.d.html",
+        "time": "1783972450",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "关税退款激增 美国联邦预算赤字本财年首次走阔",
+        "intro": "在美国最高法院裁定非法后开始退还的大量关税导致美国联邦预算赤字自本财年开始以来首次扩大。 美国财政部周一公布的数据显示，2026财年前九个月预算赤字为1...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewi7316104.d.html",
+        "time": "1783972432",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "谷歌TPU战略深入新型云服务商，打破英伟达主导格局",
+        "intro": "谷歌正积极将其自研张量处理单元推向由英伟达主导的新型云服务商市场。这些被称为“新型云服务商”的云计算公司专为提供AI算力而建，目前大多严重依赖英伟达的GPU...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewm4089800.d.html",
+        "time": "1783972236",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美银上调AMD目标价，看好服务器CPU需求驱动业绩超预期",
+        "intro": " 在二季度财报公布前夕，美银重申对AMD的买入评级，并将目标价从550美元上调至620美元，认为其服务器处理器需求持续强劲，有望再次交出超预期的成绩单。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewm4088446.d.html",
+        "time": "1783972129",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "谷歌TPU战略转向，挑战英伟达AI芯片主导地位",
+        "intro": "谷歌正加速将其自研张量处理单元（TPU）从内部工具转变为对外销售的商用AI芯片，直接挑战英伟达在AI硬件市场的统治地位。这家科技巨头已将TPU作为其AI超级计算机的核心组件...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihtewm4085927.d.html",
+        "time": "1783971904",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "加州等12个州联合起诉，寻求阻止派拉蒙与华纳兄弟探索1100亿美元合并案",
+        "intro": "由加利福尼亚州总检察长罗布·邦塔牵头，联合纽约州、新泽西州、华盛顿州等共12个州的跨党派联盟，已于周一正式提起诉讼，旨在阻止派拉蒙影业对华纳兄弟探索价值约1100亿美...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqp4215576.d.html",
+        "time": "1783971790",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美银看好AMD二季度业绩，上调目标价",
         "intro": " 在二季度财报公布前夕，包括美银在内的华尔街多家机构对AMD释放积极信号，认为其服务器处理器需求强劲，有望交出超预期的成绩单。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqu5529981.d.html",
@@ -427,160 +581,6 @@
         "intro": "德国联邦金融监管局（BaFin）周一公布的一项行业调查结果显示，德国金融机构因涉及所谓的“cum-ex”和“cum-cum”股息套利交易，面临总计约70...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqp4208174.d.html",
         "time": "1783971003",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "机构发出信号：英伟达股价回调后更显价值",
-        "intro": "在近期市场波动导致英伟达（NVDA）股价自5月历史高点下跌约16%、市值蒸发约1万亿美元后，有机构向投资者发出明确信号，重申该股的“买入”评级，并维持300美元的目标价...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqm7430284.d.html",
-        "time": "1783970792",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普称将恢复对伊朗封锁 拟对霍尔木兹海峡货运收取20%补偿",
-        "intro": " 美国总统唐纳德·特朗普表示，美国将恢复对通过霍尔木兹海峡的伊朗船只实施封锁，并要求对经由这条水道运输的所有其他货物按20%的比例收取补偿。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqs8747763.d.html",
-        "time": "1783970490",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX股价触及上市以来最低点，IPO涨幅几近悉数回吐",
-        "intro": " 周一盘中，太空探索公司SpaceX（SPCX）股价延续近期跌势，一度触及纳斯达克上市以来的最低水平，较发行价仅存微弱溢价，此前IPO带来的巨额市值涨幅已几乎悉数回吐。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqm7426612.d.html",
-        "time": "1783970399",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "法国兴业银行建议买入2年期至5年期美国国债",
-        "intro": " 法国兴业银行的利率策略师建议，逐步建立2至5年期美国国债多头仓位，理由是“短端收益率接近年内高点，持有收益仍具吸引力”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqu5523944.d.html",
-        "time": "1783970373",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国封锁伊朗详解：范围、对象、时间、措施、后果",
-        "intro": "联合海上信息中心表示，美军中央司令部将自美东时间7月14日下午4时起对所有伊朗港口和该国沿海地区实施海上封锁。 封锁范围还包括伊朗的石油码头。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqs8746600.d.html",
-        "time": "1783970232",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "大众汽车成本削减升级：裁员规模或达10万人",
-        "intro": "大众汽车集团正面临前所未有的经营压力，首席执行官奥利弗·布鲁姆正在推动一项涉及裁员约10万人和关闭四座德国工厂的全面重组计划...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqs8746554.d.html",
-        "time": "1783970219",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国两轮海上封锁之间伊朗成功运出5700万桶原油",
-        "intro": "伊朗在美国两轮海上封锁之间的短暂窗口期内成功运出至少5，700万桶原油。 美国总统特朗普周一通过社媒平台表示，美国将恢复对进出伊朗港口船只的封锁...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqs8746449.d.html",
-        "time": "1783970192",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英特尔深化欧洲芯片布局，新增产能瞄准AI、云和代工需求",
-        "intro": "英特尔周一宣布，已启动一项规模达50亿欧元（约合57亿美元）的资本投资计划，用以扩建其位于爱尔兰都柏林郊外莱克斯利普（Leixlip）园区的制造基地。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqm7424777.d.html",
-        "time": "1783970162",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根大通将在周二盘前公布Q2财报，交易与投行业务成焦点",
-        "intro": "摩根大通将于7月14日（周二）盘前公布第二季度财报，拉开华尔街大型银行财报季的序幕。市场预期较高，分析师预计其每股收益约为5.52至5.59美元，营收约487亿至510亿美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqs8745496.d.html",
-        "time": "1783970022",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英特尔斥资57亿美元扩建爱尔兰芯片厂，加码至强处理器产能",
-        "intro": "英特尔周一宣布，已启动一项规模达50亿欧元（约合57亿美元）的资本投资计划，用以扩建其位于爱尔兰都柏林郊外莱克斯利普（Leixlip）园区的Fab 34工厂。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqp4197367.d.html",
-        "time": "1783969852",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "大众汽车拟再裁5万人，应对成本劣势",
-        "intro": "大众汽车集团首席执行官奥利弗·布鲁姆在一份致员工的内部备忘录中表示，公司可能需要再裁员约5万人，以缩小与竞争对手之间的成本差距...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqs8742302.d.html",
-        "time": "1783969550",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Truist上调Biogen评级至买入，看好阿尔茨海默病管线数据",
-        "intro": " 证券公司Truist周一将生物技术公司Biogen的股票评级从持有上调至买入，并将目标价从190美元上调至235美元，意味着较上周五收盘价有约18%的上行空间。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqp4189899.d.html",
-        "time": "1783969192",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AppLovin股价重挫12%，领跌标普500成分股",
-        "intro": "软件公司AppLovin周一股价暴跌12%，成为标普500指数中表现最差的成分股。这已是该股在近七个交易日中第六次录得下跌，显示市场对这家移动广告技术公司的信心正在快速流失。...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqm7412705.d.html",
-        "time": "1783969083",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普将于美东时间周四晚间9点向全国发表讲话",
-        "intro": "美国总统特朗普在社交媒体发文称，他将于美国东部时间周四晚9点（北京时间周五09:00）发表全国讲话。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqu5515936.d.html",
-        "time": "1783969059",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Braiin发布房地产AI智能体ARIA，股价飙升62%",
-        "intro": "人工智能平台公司Braiin Limited周一宣布推出ARIA（Agentic Real Estate Intelligence and Automation），这是一款专为全球房地产行业设计的AI",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqm7411818.d.html",
-        "time": "1783968996",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储7月加息概率已大幅增加",
-        "intro": "投资者开始认为美联储可能在7月加息。 芝加哥商品交易所（CME）的FedWatch工具显示，市场预计美联储在7月29日会议上加息25个基点的概率已升至46.5%，高于周日的34%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqm7410948.d.html",
-        "time": "1783968915",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Sarat Sethi在法拉利摆脱电动车担忧后买入其股票",
-        "intro": "法拉利标志展示于2025年4月16日美国纽约国际车展预展上的一辆车上。Jeenah Moon | 路透社 Sarat Sethi对媒体表示，尽管法拉利今年早些时候在电动车方面遭遇挫折...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqs8737733.d.html",
-        "time": "1783968823",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国6月赤字达1203亿美元，因关税退税拖累财政",
-        "intro": " 美国财政部周一公布，6月预算赤字为1203亿美元，与去年同期的盈余相比转为亏空，原因是关税退税金额是关税收入的两倍多。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqm7409226.d.html",
-        "time": "1783968774",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Jefferies将Shopify评级从持有上调至买入，看好AI驱动型商业崛起",
-        "intro": " Jefferies将Shopify的评级从中性上调至买入，并将目标价从140美元上调至160美元——意味着较上周五收盘价有31%的上行空间。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqp4184406.d.html",
-        "time": "1783968700",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "尾盘：美股维持下跌局面 标普指数下跌0.7%",
-        "intro": " 北京时间7月14日凌晨，美股周一尾盘维持下跌局面，标普指数下跌0.7%。原油价格飙升，此前美国总统特朗普宣布，他将重新实施对伊朗通过霍尔木兹海峡航运的所谓封锁。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqu5512765.d.html",
-        "time": "1783968578",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "定在美东时间7月14日下午4点：美军将开始封锁伊朗港口",
-        "intro": "美军中央司令部表示，下辖部队将自美东时间7月14日下午4时恢复封锁出入伊朗港口的海上交通。 中央司令部表示，军方将继续支持所有不违反封锁规定的船只通过相关水域。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqp4175977.d.html",
-        "time": "1783967969",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伊朗外长：保障霍尔木兹海峡安全通行者应获得补偿",
-        "intro": " 伊朗外长阿巴斯·阿拉格齐在社交媒体发文称，“美国总统完全正确。为商船通过霍尔木兹海峡提供安全保障的任何一方都应该为此获得补偿。”",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqp4165806.d.html",
-        "time": "1783966940",
         "source": "新浪新闻"
       }
     ]
