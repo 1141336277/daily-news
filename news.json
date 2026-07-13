@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T15:44:50.839Z",
+  "updated": "2026-07-13T17:59:43.669Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,125 @@
     ],
     "finance": [
       {
+        "title": "华尔街五大银行第二季度交易业务收入总和料接近390亿美元",
+        "intro": "华尔街交易业务热潮有望持续。 美国大型银行将于周二拉开第二季度财报季序幕，其中五家银行将在同一天公布业绩。过去几个月市场剧烈波动促使客户交易活动增加...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsyqu5481608.d.html",
+        "time": "1783963701",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "俄罗斯原油产量降至两年半以来的最低水平",
+        "intro": "俄罗斯6月原油产量降至至少两年半以来的最低水平，因乌克兰几乎每天都在袭击俄罗斯石油基础设施。 根据OPEC月度报告，俄罗斯生产商6月日均生产原油892.8万桶。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhu8835418.d.html",
+        "time": "1783963648",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储理事重磅发声 沃勒说要驾驭核心通胀可能就得很快加息",
+        "intro": "美联储理事克里斯托弗·沃勒表示，如果基础通胀继续表明价格压力广泛存在，决策层就可能需要在近期上调利率。 “要是本周的核心通胀再次火热出炉...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhw5611034.d.html",
+        "time": "1783963460",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "华尔街给沃什的建议：不提供前瞻指引也无妨 但讲清政策反应逻辑",
+        "intro": " 美联储主席凯文·沃什一心避免释放有关利率走向的信号，却也掩盖了另一项对投资者、分析师和其他政策制定者同样至关重要的信息：当经济面临挑战时，他将如何作出政策回应。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhw5602032.d.html",
+        "time": "1783962224",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "匈牙利通过罢免总统的法案 加速与欧尔班时代切割",
+        "intro": " 匈牙利议员批准一项宪法修正案，罢免与欧尔班关系密切的总统，这兑现了总理毛焦尔与其民族主义前任彻底切割的承诺。匈牙利福林应声下跌。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhr4244090.d.html",
+        "time": "1783962180",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国国债跌幅扩大 互换合约显示7月加息的可能性为50%",
+        "intro": "美国国债跌至日内新低，此前美联储理事沃勒表示，如果基础通胀继续显示价格压力广泛存在，决策者可能需要在近期加息。短端方面，Waller讲话后，互换合约定价显示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhu8824802.d.html",
+        "time": "1783962157",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX股价连续第二日下跌，逼近135美元发行价",
+        "intro": "核心要点SpaceX 股价连续第二个交易日走低，这家埃隆・马斯克旗下企业股价距离 135 美元 IPO 发行价越来越近。该股现已跌破 6 月 12 日上市首日 150 美元开盘价。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhp7466486.d.html",
+        "time": "1783962056",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美伊争夺海峡控制权，霍尔木兹海峡船舶通行量大幅锐减",
+        "intro": "核心要点航运数据机构 Kpler 数据显示，周日仅有 14 艘船舶穿越霍尔木兹海峡，较上周同日降幅约 60%。海事分析机构温沃德与 Kpler 分析师表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhu8822549.d.html",
+        "time": "1783961817",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "沃勒：美联储不应再用旧思路应对本轮通胀，但仍不排除加息可能",
+        "intro": " 美联储理事克里斯托弗・沃勒周一谈及通胀形势时表示担忧，但同时警示央行不要 “重蹈过去的作战思路”，在加息前应当等待更多经济数据佐证。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhw5598345.d.html",
+        "time": "1783961681",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "IMF警告称若不解决债务问题 欧洲恐步入危险轨道",
+        "intro": "国际货币基金组织（IMF）表示，如果欧洲不能有效控制公共财政，其主权债务状况可能严重恶化。 包括Luc Eyraud、Mahika Gandhi和Andrew...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhw5595917.d.html",
+        "time": "1783961350",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普建议Graham妹妹接替其完成联邦参议员任期",
+        "intro": " 美国总统特朗普表示，已故参议员Lindsey Graham的妹妹Darline Graham Nordone应接替他完成南卡罗来纳州联邦参议员任期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhw5595755.d.html",
+        "time": "1783961321",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "阿联酋退出欧佩克后6月原油产量大幅飙升",
+        "intro": "欧佩克下调全球石油需求增长预期，日增量预测从 97 万桶降至 78 万桶今年欧佩克 + 集团以外产油国原油供应预计每日增加 64 万桶  内容速览 阿联酋退出欧佩克...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhr4220282.d.html",
+        "time": "1783960078",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲股市持稳 能源股上涨抵消其他板块跌势",
+        "intro": "欧洲股市表现平淡，油价上涨带动的能源股涨势抵消了科技股和旅游股下跌的影响。 斯托克欧洲600指数收盘基本持平。美国与伊朗隔夜互相发动袭击后，布伦特原油攀升4.4%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhp7439305.d.html",
+        "time": "1783959613",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "午盘：特朗普重新封锁霍尔木兹海峡，美股午盘走低",
+        "intro": " 北京时间7月14日凌晨，美股周一午盘走低。原油价格飙升，此前美国总统特朗普宣布，他将重新实施对伊朗通过霍尔木兹海峡航运的所谓封锁。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhp7431662.d.html",
+        "time": "1783959000",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "华尔街大行将密集发布财报 瑞银料高盛财报与摩根大通接班人将成焦点",
+        "intro": "瑞银分析师Erika Najarian表示，高盛在本轮财报中面临最大的考验，要在华尔街各大银行中脱颖而出并不容易；与此同时，投资者正聚焦谁可能接替杰米·戴蒙出任摩根大通首席执...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-14/detail-inihsuhw5575872.d.html",
+        "time": "1783958675",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲债市：欧债大跌 油价跃升促使交易员加大加息押注",
+        "intro": " 欧洲政府债券下跌，此前美国总统特朗普宣布美国正接管霍尔木兹海峡，释放中东战争可能进一步升级的信号，推动油价跃升。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhp7420147.d.html",
+        "time": "1783958246",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "最高预增3426%，今夜114家A股报喜",
+        "intro": "7月13日晚间，截至22时，A股共有114家公司上半年业绩预告正增长，其中有57家公司预告净利润同比增长下限（简称“净利润同比预增下限”）超100%...",
+        "url": "https://finance.sina.cn/stock/ggyj/2026-07-13/detail-inihsuhu8795856.d.html",
+        "time": "1783958173",
+        "source": "新浪新闻"
+      },
+      {
         "title": "特朗普若真收霍尔木兹保护费 大宗商品到股债都会广受冲击",
         "intro": "特朗普说所有通过霍尔木兹海峡的货物都要给美国交20%的份子钱，其实就等于说是要收“保护费”的意思。很难想象这种说法会真正落地，眼下市场似乎也没有对此定价。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhu8788865.d.html",
@@ -462,125 +581,6 @@
         "intro": "随着苹果公司上周对OpenAI提起商业秘密诉讼，埃隆·马斯克与萨姆·阿尔特曼之间长期存在的公开矛盾再次升级。两人在社交媒体上唇枪舌剑...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhw5557116.d.html",
         "time": "1783956559",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美银调查：全球基金经理对日元看空情绪达到2022年以来最高",
-        "intro": " 美国银行调查显示，由于日本财政和货币政策前景风险盖过日本政府干预汇市的可能性，全球投资组合经理对日元的看空情绪升至约四年来最高水平。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhw5556972.d.html",
-        "time": "1783956541",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "中东局势升级后 交易员几乎完全计入到9月加息的预期",
-        "intro": "在波斯湾地区爆发针锋相对的袭击，以及美国总统特朗普在社交媒体宣布，美国拟对经霍尔木兹海峡运输的所有货物按20%的比例收取补偿后...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhu8779403.d.html",
-        "time": "1783956437",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "派拉蒙考虑将总部迁出加州，以应对监管诉讼威胁",
-        "intro": " 派拉蒙全球正考虑将公司总部迁出加利福尼亚州，以应对加州总检察长可能就1110亿美元收购华纳兄弟探索交易发起的反垄断诉讼。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhw5555263.d.html",
-        "time": "1783956319",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲防务AI企业Helsing完成18亿美元E轮融资，估值达180亿美元",
-        "intro": "欧洲国防科技公司Helsing周一宣布完成18亿美元E轮融资，投后估值达180亿美元，确立了其作为欧洲资金实力最强的国防技术初创企业的地位。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhr4166459.d.html",
-        "time": "1783956195",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX上市首月：估值博弈白热化",
-        "intro": "周一盘中，SpaceX（SPCX）股价延续跌势，截至美东时间上午11：17，报138.67美元，下跌4.56%，较上市首日开盘价150美元跌逾7.5%，较6月16日创下的225...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhp7389053.d.html",
-        "time": "1783956094",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX股价连续第二日下跌，逼近135美元的IPO发行价",
-        "intro": " SpaceX股价周一连续第二个交易日下跌，使马斯克旗下公司更接近其135美元的首次公开募股（IPO）发行价，而就在几天前，该股刚刚被纳入纳斯达克100指数。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhu8775312.d.html",
-        "time": "1783955934",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美股盘中：地缘风险施压科技股，芯片板块领跌美股",
-        "intro": "周一盘中，美股三大指数涨跌互现，科技板块承压明显。截至美东时间上午11点13分，纳斯达克指数下跌0.84%，报26060.14点，表现最弱；标普500指数下跌0.35%，报7548...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhp7384266.d.html",
-        "time": "1783955729",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国多个州计划周一提起诉讼 阻止Paramount收购华纳兄弟探索的交易",
-        "intro": "据一位知情人士透露，美国十余州计划于周一联合起诉，阻止Paramount Skydance Corp．收购华纳兄弟探索公司。 知情人士称，这起反垄断诉讼将提交至美国联邦法院。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhr4159752.d.html",
-        "time": "1783955686",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "艾艾精工，拟易主！明日复牌",
-        "intro": "来源：中国基金报 【导读】上海誉升拟通过协议转让及部分要约收购，取得艾艾精工40.00%的股份 中国基金报记者 牛思若 刚刚“摘星脱帽”的艾艾精工，便迎来控制权变更。",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-13/detail-inihsuhw5554127.d.html",
-        "time": "1783955655",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Meta加码AI基建：追加400亿美元！股价应声下跌",
-        "intro": "来源：中国基金报 【导读】Meta大手笔加码AI基建，股价下跌 中国基金报记者 莫琳 AI算力正在从“盛宴”变成“剩宴”？ 7月13日，Meta宣布...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-13/detail-inihsuhr4165457.d.html",
-        "time": "1783955655",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普要求对经霍尔木兹海峡运输的货物按20%的比例获得补偿",
-        "intro": " 美国总统唐纳德·特朗普表示，美国将恢复对通过霍尔木兹海峡的伊朗船只实施封锁，并要求对经由这条水道运输的所有其他货物按20%的比例收取补偿。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihsuhw5549646.d.html",
-        "time": "1783955648",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX获准在5月助推器故障后再次试飞星舰",
-        "intro": " 美国联邦航空管理局（FAA）已批准SpaceX再次试飞星舰原型机，此前该公司已查明5月一次飞行中火箭系统助推级失败的可能原因。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihspyt4287107.d.html",
-        "time": "1783955446",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "科罗拉多州立法破解电动车电池回收经济难题",
-        "intro": "随着电动车普及率攀升，废旧电池回收的经济性正成为日益严峻的挑战。科罗拉多州今年通过了一项全美首创的法律，要求汽车制造商为废旧电池的回收承担责任...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihspyw8899591.d.html",
-        "time": "1783955204",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SK海力士周一在韩国股市暴跌逾15%，市场担忧存储芯片周期见顶",
-        "intro": "周一，韩国存储芯片巨头SK海力士股价暴跌逾15%，创下该股有史以来最大单日跌幅，拖累韩国KOSPI指数重挫9%并触发交易暂停机制。此次暴跌源于多重因素叠加...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihspyr7506635.d.html",
-        "time": "1783955161",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "芯片股拖累美股走低，行业疲软蔓延",
-        "intro": "周一，美国股市期货下跌，主要芯片制造商大幅走低，拖累大盘表现。此轮下跌与亚洲市场的抛售潮形成联动——韩国KOSPI指数重挫近9%，因存储巨头SK海力士股价暴跌逾15%并触发交...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihspyy5674616.d.html",
-        "time": "1783955008",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "机构上调Deckers评级，称股价回调创造估值买点",
-        "intro": "市场机构周一将Deckers Outdoor（NYSE：DECK）的股票评级从“持有”上调至“买入”，并将目标价从110美元上调至130美元，较上周五收盘价隐含约23%的上行空间。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-13/detail-inihspyy5670640.d.html",
-        "time": "1783954575",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "黄金急跌逼近4000美元，国际油价直线飙涨，特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
-        "intro": " 7月13日晚，国际油价直线飙涨，美油、布油一度涨超5%，截至22点42分，纽约原油涨4.52%，报74.64美元/桶，布伦特原油涨4.45%，报79.39美元/桶。",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-13/detail-inihspyy5674360.d.html",
-        "time": "1783954562",
         "source": "新浪新闻"
       }
     ]
