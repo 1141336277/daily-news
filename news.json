@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T16:40:07.861Z",
+  "updated": "2026-07-15T18:12:38.092Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,104 @@
     ],
     "finance": [
       {
+        "title": "伊朗议会议长卡利巴夫：国家安全取决于伊朗对霍尔木兹海峡的安排",
+        "intro": " 伊朗议会议长兼首席谈判代表卡利巴夫称，伊朗的国家安全关键在于维护对霍尔木兹海峡的“伊朗安排”，并确保商船最大限度安全通过这一水道。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxnuu1152616.d.html",
+        "time": "1784138624",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲债市：德国国债收窄跌幅 受美国国债涨势提振",
+        "intro": "美国通胀数据提振美债、削弱全球加息押注后，德国政府债券收窄跌幅。 短端引领回升，2年期收益率一度下跌3个基点，至2.73%，逆转日内早些时候2个基点的升幅。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxnuq7812123.d.html",
+        "time": "1784138286",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲股市企稳 历峰集团业绩提振奢侈品板块",
+        "intro": "欧洲股市周三表现平淡，历峰集团的利好业绩提振了奢侈品板块，但被矿业和电信股的下跌抵消。 欧洲斯托克600指数收盘小幅上涨0.1%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxnuq7793697.d.html",
+        "time": "1784136443",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储理事库克关切通胀问题 称如不降温将支持央行采取行动",
+        "intro": " 美联储理事丽莎·库克表示，随着人工智能建设持续推进以及近期供应冲击推高物价，持续高通胀的风险超过了劳动力市场走弱的风险。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxnuq7790774.d.html",
+        "time": "1784136117",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "国会作证第二天 沃什称AI造成的价格效应未必推高通胀",
+        "intro": "美联储主席凯文·沃什表示，人工智能基础设施建设带来的价格上涨并不一定会刺激通货膨胀。 在与议员就人工智能热的影响进行交流时...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxnuu1116273.d.html",
+        "time": "1784136092",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英伟达CEO黄仁勋否认产品延期论 称Vera Rubin将按计划向客户交付",
+        "intro": " 针对有关制造问题可能导致产品延期的说法，英伟达创始人兼首席执行官黄仁勋表示，公司下一代人工智能加速计算系统已进入生产阶段，将按计划向客户交付。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxhns7915107.d.html",
+        "time": "1784135389",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普敦促纽约州“立即”修改数据中心政策",
+        "intro": "美国总统特朗普呼吁纽约州“立即”改变其数据中心政策。 特朗普称该州暂停新建大型数据中心是“一个糟糕的决定”。 特朗普称，“绝不能允许（民主党人）让我们在数据中心...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxhns7909773.d.html",
+        "time": "1784134913",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "巴菲特点评当前市场：“全民热衷投机博弈，价值标的难觅踪迹”",
+        "intro": "核心要点 沃伦・巴菲特批评当下股市越来越由短线投机交易主导，长期价值投资不再主流。 他在接受主播贝基・奎克采访时表示：“所有人都一心投机博弈...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxhnu4684712.d.html",
+        "time": "1784134699",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "贝莱德财报业绩超预期，股价大幅拉升",
+        "intro": "得益于财报业绩全线超出华尔街一致预期，贝莱德股价周三有望创下一年多以来最大单日涨幅。 周三午盘，这家资管巨头股价涨幅超 7%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxhnw1224086.d.html",
+        "time": "1784134520",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "芯片板块全线跳水，美光大跌9%",
+        "intro": "受半导体板块集体抛售拖累，存储芯片厂商美光科技周三早盘股价大跌 9%。 截至美国东部时间上午 11：40，超威（AMD）、英特尔、美满电子（Marvell）跌幅均超 5%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxhnx7998809.d.html",
+        "time": "1784134429",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX股价首次跌破135美元发行价",
+        "intro": "核心要点 SpaceX 股价周三连续第四日下跌，首次跌破 135 美元的 IPO 发行价。 这家由埃隆・马斯克创立的火箭企业 6 月完成历史性上市，此后股价持续大幅震荡。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxhns7903749.d.html",
+        "time": "1784134247",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国6月批发物价意外环比下跌 0.3%，汽油价格大幅回落拖累数据",
+        "intro": "核心要点 衡量批发端成本的生产者物价指数（PPI）6 月环比下跌 0.3%，市场此前预期持平。 核心 PPI 环比上涨 0.2%，略低于预期；剔除贸易服务的核心 PPI 仅上涨 0.1%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxhns7901411.d.html",
+        "time": "1784134031",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国参议院委员会推进Matsumoto劳工统计局局长提名 将交全院表决",
+        "intro": " 美国参议院一个委员会投票推进Brett Matsumoto出任劳工统计局（BLS）局长的提名。在总统唐纳德·特朗普去年解雇该机构负责人后，这一职位距离补缺又近了一步。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxhnu4675402.d.html",
+        "time": "1784133760",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX股价首次跌破IPO发行价 投资者热情迅速降温",
+        "intro": "SpaceX股价跌至上市以来的最低水平，投资者对这家火箭、卫星和人工智能公司的热情在过去一个月迅速消退。 该股周三下跌2%，至133.34美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxhnu4674358.d.html",
+        "time": "1784133667",
+        "source": "新浪新闻"
+      },
+      {
         "title": "融资买股规模触及历史牛市峰值水平：后市信号极度看空",
         "intro": "核心内容 股市融资负债规模，已攀升至历次牛市顶部才出现的水平。 鲁特霍尔德研究集团数据显示，过去 12 个月融资负债增幅超 40%，这一增幅门槛仅在 2000 年、2007 年...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-16/detail-inihxhnx7983094.d.html",
@@ -483,104 +581,6 @@
         "intro": "伊朗外交部发言人巴加埃称：“我们目前没有谈判计划，我们专注于防御。” 巴加埃说：“如果对方违约，我们也同样不会履行我们的承诺”。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnu4644655.d.html",
         "time": "1784131132",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "微软培训销售团队如何迎战AI巨头 重点突出后者产品的不足",
-        "intro": "微软正在指导其销售团队如何与Anthropic和OpenAI展开有力竞争，并突出这些人工智能公司产品的不足。 软件巨头微软的高管在本周一次内部会议上阐述该公司本月开始的新财年销...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnw1166234.d.html",
-        "time": "1784130897",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国最大电网容量拍卖连续三年未达供电目标",
-        "intro": "美国最大区域电网运营商PJM Interconnection周二公布2028/2029交付年度的容量拍卖结果，总成交额达164亿美元。拍卖以每兆瓦日325美元触及联邦能源监管委员会批准的价格上限...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnu4641772.d.html",
-        "time": "1784130832",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国国债上涨 PPI报告增强了通胀见顶信心",
-        "intro": "美国国债上涨，此前公布的生产者价格报告强化了市场的乐观情绪，即美国通胀已经见顶，可能会降低美联储加息的必要性。 国债价格上涨使对美联储利率调整更为敏感的短期国债...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnu4640853.d.html",
-        "time": "1784130739",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "阿斯麦计划提高芯片制造设备价格",
-        "intro": "知情人士表示，阿斯麦计划上调产品价格。 阿斯麦近期与台积电讨论提高极紫外光（EUV）光刻系统价格。 阿斯麦最近几周还通知部分客户...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnu4640727.d.html",
-        "time": "1784130716",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伯纳姆预计将任命Shabana Mahmood为英国财政大臣",
-        "intro": "熟悉英国准首相安迪·伯纳姆想法的人士称，现任英国内政大臣Shabana Mahmood料将被任命为财政大臣。 据悉，Mahmood尚未被告知这项任命。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnw1159226.d.html",
-        "time": "1784130431",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根大通和摩根士丹利双双发债融资 此前财报表现亮眼",
-        "intro": "摩根大通和摩根士丹利在公布业绩报告后寻求在美国高评级债券市场发债融资。 此次发债延续了华尔街大行本季度的融资热潮。这轮融资始于高盛在周二启动100亿美元债券发行...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnw1156256.d.html",
-        "time": "1784130272",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "以色列总理内塔尼亚胡计划周六访美 拟与特朗普会面",
-        "intro": "一位知情人士称，以色列总理内塔尼亚胡计划于周六前往美国，拟与美国总统特朗普会晤。 美国和以色列官员一直在联系协调一次会晤。双方尚未最终敲定面谈安排。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnw1155320.d.html",
-        "time": "1784130220",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国参议员沃伦要求美联储主席沃什说明经济政策计划",
-        "intro": "美国参议员伊丽莎白·沃伦向美联储主席凯文·沃什询问有关他的经济政策计划的信息，“以确保公众充分理解”他的决定。 沃伦询问沃什有关改善沟通的努力...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnw1153983.d.html",
-        "time": "1784130154",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI正式回应苹果诉讼：其指控“缺乏证据”",
-        "intro": " 人工智能公司OpenAI周二首次就苹果提起的商业秘密诉讼作出正式回应，直言“未发现任何证据”支持苹果的指控，并强调自己坚持公平竞争、尊重人才自由流动的立场。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnw1153340.d.html",
-        "time": "1784130110",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美银Q2业绩获消费韧性支撑 消费部门盈利近33亿美元",
-        "intro": " 美国银行周二公布的第二季度财报显示，尽管面临通胀压力和货币政策收紧风险，消费者支出依然保持韧性，推动消费银行部门实现净利润近33亿美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnu4630702.d.html",
-        "time": "1784129891",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "贝宝联合创始人、Affirm首席执行官详解并购严苛标准",
-        "intro": "有消息称，支付服务商思创联合私募安宏国际提出超 530 亿美元收购贝宝，受此消息刺激贝宝股价大涨。 尽管多年增长放缓、行业竞争加剧，但这笔收购意向足以证明...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnx7921740.d.html",
-        "time": "1784129606",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "加码半导体！300567周四复牌",
-        "intro": "显示面板检测龙头精测电子（300567）重大资产重组事项迎最新进展。 7月15日晚，精测电子公告称，公司董事会当天审议通过发行股份...",
-        "url": "https://finance.sina.cn/2026-07-15/detail-inihxhnx7920152.d.html",
-        "time": "1784129400",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "一张图表揭示：投资者为何担忧微软、亚马逊等云巨头盈利前景",
-        "intro": "本月下旬各大科技企业将陆续披露财报，人工智能云厂商投资者即将迎来又一个资本开支高企的季度数据。 悬而未决的核心问题：科技高管持续大手笔投入 AI...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhnu4625325.d.html",
-        "time": "1784129393",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "编剧工会加入诉讼战团 派拉蒙华纳千亿合并案再添变数",
-        "intro": "美国编剧工会周二对派拉蒙影业收购华纳兄弟探索的1100亿美元交易提起诉讼，称该合并将违反反垄断法，并对全美影视编剧造成“具体伤害”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-15/detail-inihxhns7842951.d.html",
-        "time": "1784128839",
         "source": "新浪新闻"
       }
     ]
