@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T19:21:38.809Z",
+  "updated": "2026-07-16T21:08:52.206Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,160 @@
     ],
     "finance": [
       {
+        "title": "大宗商品综述：油价下跌 镍价上涨 金价走低",
+        "intro": "由于交易员在获利回吐和对中东石油供应的担忧之间寻求平衡，原油价格周四下跌，不过本周累计仍上涨。镍价升至三周高点，因为主要生产国印尼的采矿政策前景存在不确定性。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniiaaiq1283401.d.html",
+        "time": "1784235396",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：美债维持小幅跌势 油价走势震荡",
+        "intro": "美国国债走势全天受到油价先涨后跌的影响，最终各期限收益率日内小幅上升。国债在早盘受油价上涨影响承压下跌，但随着交易员在获利回吐和对中东石油供应的担忧之间寻求平衡...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniiaaik7425615.d.html",
+        "time": "1784235241",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月17日美股成交额前20：谷歌推迟发布Gemini旗舰模型",
+        "intro": "周四美股成交额第1名美光科技收跌5.65%，成交391.2亿美元。周四美股存储股下挫，美光市值跌破1万亿美元。 第2名英伟达收跌2.4%，成交250.58亿美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniiaaik7424382.d.html",
+        "time": "1784235038",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月17日热门中概股涨跌不一 小鹏汽车涨2%，台积电跌2.25%",
+        "intro": "7月17日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收高1.79%。 上涨个股（按市值从高到低）：拼多多涨1.10%，网易涨0.44%，京东涨1.37%，百度涨1.20%，中华电信涨1...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzn7540541.d.html",
+        "time": "1784233021",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月17日收盘：美股收跌科技股领跌，芯片股再遭抛售",
+        "intro": "北京时间7月17日凌晨，美股周四收跌，纳指下跌超过380点。芯片股的大规模抛售盖过了一连串稳健的财报利好。 道指跌105.67点，跌幅为0.20%，报52552.97点；纳指跌387.28点...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8152115.d.html",
+        "time": "1784232484",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：油价下跌 投资者获利回吐遏制了涨势",
+        "intro": "由于交易员在获利回吐和对中东石油供应的担忧之间寻求平衡，原油价格周四下跌，不过本周累计仍上涨。 全球基准的布伦特原油结算价高于每桶84美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8151347.d.html",
+        "time": "1784232429",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "苹果拟对iPad mini进行五年来最大规模升级 今年秋季发布新品",
+        "intro": "苹果公司准备对iPad mini进行五年来最大规模升级，为这款深受旅行人士和科技爱好者欢迎的产品注入新活力。 据知情人士透露，代号为J510的新款iPad...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzrtv8087829.d.html",
+        "time": "1784232022",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "达拉斯联储行长洛根支持“适度”加息",
+        "intro": " 达拉斯联邦储备银行行长洛里·洛根周四表示，本周公布的利好通胀数据还不够好，她呼吁适度提高利率，以打赢这场美联储已持续输掉五年的抗通胀之战。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzs1362293.d.html",
+        "time": "1784231533",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "据传Gemini 3.5 Pro AI模型延迟 Alphabet股价下跌4.7%",
+        "intro": "Alphabet股价因一则报道称公司推迟发布其旗舰人工智能模型Gemini 3.5 Pro而下跌。 该股最新下跌4.7%。Alphabet的下跌拖累了主要股指，使其在周四下午跌至日内低点。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzs1360539.d.html",
+        "time": "1784231394",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Roblox因年龄验证冲击遭集体诉讼，首席原告申请截止8月7日",
+        "intro": " 在线游戏平台Roblox Corporation（纽约证券交易所代码：RBLX）正面临证券欺诈集体诉讼。投资者申请担任首席原告的截止日期为2026年8月7日。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzq4302983.d.html",
+        "time": "1784231235",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国对伊朗发动新一轮打击 霍尔木兹海峡航运量骤降",
+        "intro": " 美国周四对伊朗发动新一轮打击，此前已连续数日空袭伊朗，眼下中东地区的敌对行动持续升级，霍尔木兹海峡航运量急剧下滑。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzs1356879.d.html",
+        "time": "1784231154",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "临床数据披露引发专利与安全双重危机，Erasca遭投资者集体诉讼",
+        "intro": "肿瘤药物研发公司Erasca， Inc．（纳斯达克代码：ERAS）因在其主打候选药物ERAS-0015的临床前数据对比中涉嫌误导投资者，正面临证券欺诈集体诉讼。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8130537.d.html",
+        "time": "1784230997",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Embecta面临证券欺诈集体诉讼 财报暴雷曾导致股价单日暴跌57.8%",
+        "intro": " 医疗设备公司Embecta Corp．（纳斯达克代码：EMBC）因涉嫌在财报指引上误导投资者，正面临证券欺诈集体诉讼。投资者申请担任首席原告的截止日期为2026年8月17日。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzs1352215.d.html",
+        "time": "1784230845",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "IPO文件被指隐瞒门店蚕食风险，Black Rock Coffee遭投资者集体诉讼",
+        "intro": "连锁咖啡品牌Black Rock Coffee Bar， Inc．（纳斯达克代码：BRCB）因被指在其2025年9月的IPO文件及后续披露中隐瞒新开门店对现有门店收入的“销售转移”效应...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzq4297442.d.html",
+        "time": "1784230588",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "旗舰煤矿增产承诺落空，Peabody Energy遭投资者集体诉讼",
+        "intro": "美国最大冶金煤生产商之一Peabody Energy Corporation（纽约证券交易所代码：BTU）正因旗舰煤矿Centurion的严重投产延误而面临多起证券欺诈集体诉讼。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzs1346893.d.html",
+        "time": "1784230482",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "会计差错致股价重挫，Hub Group遭投资者集体诉讼",
+        "intro": "供应链解决方案提供商Hub Group， Inc．（纳斯达克代码：HUBG）因连续披露重大会计差错，正面临多起证券欺诈集体诉讼。投资者申请担任首席原告的截止日期为2026年8月28日。...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzn7518891.d.html",
+        "time": "1784230336",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "谷歌据悉推迟发布Gemini 3.5 Pro 因持续提升模型编程能力",
+        "intro": " 知情人士透露，谷歌最强旗舰AI模型Gemini 3.5 Pro的发布时间已较原计划推迟数月，因为该公司投入了更多时间提升模型能力，尤其是编程能力。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzs1344436.d.html",
+        "time": "1784230317",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Photronics遭集体诉讼，首席原告申请截止日期为9月4日",
+        "intro": "全球光掩模制造商Photronics， Inc．（纳斯达克代码：PLAB）因涉嫌证券欺诈，正面临股东集体诉讼。多家股东权益律师事务所已提醒投资者...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzq4294739.d.html",
+        "time": "1784230211",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "做空报告指控渠道填塞，Gildan股价暴跌18%",
+        "intro": "服装制造商Gildan Activewear Inc．（纽约证券交易所代码：GIL）股价在7月16日暴跌逾18%，市值蒸发约21.5亿美元。此前，做空机构Jehoshaphat...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzs1341327.d.html",
+        "time": "1784230082",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Galaxy Digital推出机构级金库管理服务Galaxy Curator",
+        "intro": "加密货币金融服务公司Galaxy Digital（纳斯达克代码：GLXY）7月16日宣布推出机构级金库管理业务“Galaxy Curator”，帮助机构客户在不自行搭建去中心化金融（DeFi）基础设施",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzq4292823.d.html",
+        "time": "1784229993",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "KeyBank基金会拨款30万美元，助力全美青少年金融普惠教育",
+        "intro": "KeyBank基金会宣布向全国性非营利组织Cities for Financial Empowerment Fund（CFE基金）提供30万美元赠款，用于支持其“青少年银行互联”计划的全国扩张。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzq4291878.d.html",
+        "time": "1784229887",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "史赛克全面上市Mako RPS手持机器人，拓展Mako骨科机器人产品线",
+        "intro": "全球领先的医疗技术公司史赛克（Stryker，纽约证券交易所代码：SYK）7月16日宣布，其Mako RPS全膝关节置换手持机器人系统在美国全面商业化上市。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8112896.d.html",
+        "time": "1784229729",
+        "source": "新浪新闻"
+      },
+      {
         "title": "FUEL FALD研究发表于《Pediatric Cardiology》期刊，为Fontan相关肝病提供新见解",
         "intro": "Mezzion Pharma于7月16日宣布，其FUEL FALD研究已在权威同行评审期刊《Pediatric Cardiology》上正式发表。该研究是FUEL开放标签扩展试验的一项探索性亚研究..",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8111674.d.html",
@@ -427,160 +581,6 @@
         "intro": "另类资产管理公司Canal Road Group（CRG）宣布扩大与三井住友银行（SMBC）的战略合作关系。SMBC已承诺对CRG的直接贷款策略进行股权投资，此举将为CRG释放高达2...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzn7512223.d.html",
         "time": "1784229447",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国商品期货交易委员会调查白宫提词器操作员 涉特朗普演讲押注获利",
-        "intro": "一位知情人士透露，一名白宫提词器操作员正接受美国商品期货交易委员会（CFTC）调查，原因是其涉嫌通过在预测市场平台Kalshi上围绕美国总统唐纳德·特朗普演讲进行押注而获...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8109316.d.html",
-        "time": "1784229390",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "国际纸业将关闭得克萨斯州卡罗尔顿南包装工厂",
-        "intro": "国际纸业公司（International Paper）日前宣布，将于2026年第三季度末关闭其位于得克萨斯州卡罗尔顿的南包装工厂。此举是该公司持续优化其北美包装业务制造布局...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8109092.d.html",
-        "time": "1784229378",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国将J和F签证上限定在四年",
-        "intro": " 特朗普政府着手废除一项行之数十年的政策，将不再允许海外留学生和访问学者在美国停留至完成学业，取而代之的是四年签证期限。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8107536.d.html",
-        "time": "1784229274",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "研究显示：美国LNG五年内将成第二大净出口行业",
-        "intro": " 标普全球能源公司发布的最新研究显示，美国液化天然气(LNG)出口量有望在未来五年内翻倍，使LNG成为美国第二大净出口行业，仅次于民用飞机及零部件。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzn7510641.d.html",
-        "time": "1784229265",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "白宫新闻秘书莱维特：白宫提词器操作员被停职",
-        "intro": " 在ABC News报道称一名白宫提词器操作员通过围绕特朗普演讲内容下注获利后，白宫新闻秘书卡罗琳·莱维特表示，该操作员已被行政停职。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8106009.d.html",
-        "time": "1784229167",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国水业公司亮相NACWA 2026年公用事业领导力会议，分享行业洞见",
-        "intro": "美国最大的受监管供水和污水处理公用事业公司美国水业公司（American Water，纽约证券交易所代码：AWK）本周参与了在俄亥俄州克利夫兰举行的全国清洁水机构协会（NACWA）20...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzq4286405.d.html",
-        "time": "1784229130",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "纽约汇市：中东紧张局势推动美元与美债收益率一道上涨",
-        "intro": " 纽约汇市周四彭博美元指数与美国国债收益率一道上涨，因为美国加大了对伊朗的打击力度并且霍尔木兹海峡的船舶通行大幅减少。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8104847.d.html",
-        "time": "1784229088",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
-        "intro": " 根据伊朗司法部门官方媒体Mizan通讯社报道，伊朗否认美国总统唐纳德·特朗普关于一名美国囚犯已获释的说法，称没有美国公民从伊朗监狱获释或被交换。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzn7508290.d.html",
-        "time": "1784228964",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "机构报告：87%美国中小企业视全球招聘为“必选项”",
-        "intro": "Multiplier发布的最新报告显示，美国本土AI技能人才短缺及移民政策收紧，正迫使中小企业彻底改变招聘策略。高达87%的受访美国中小企业如今认为全球招聘已非战略优势...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzn7508226.d.html",
-        "time": "1784228955",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "哥伦比亚国家石油公司就收购要约上诉获巴西CVM支持，收购进程重启",
-        "intro": "哥伦比亚国家石油公司Ecopetrol S.A．（BVC： ECOPETROL；NYSE： EC）宣布，巴西证券交易委员会（CVM）已就其控股子公司Ecopetrol Investimentos do",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzn7506887.d.html",
-        "time": "1784228832",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "CenterPoint Energy宣布季度股息上调，每股0.24美元",
-        "intro": "CenterPoint Energy， Inc．（纽约证券交易所代码：CNP）董事会宣布，已批准派发每股0.2400美元的常规季度现金股息，将于2026年9月10日支付给8月20日收盘时登记在册的股东",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzs1322221.d.html",
-        "time": "1784228693",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Saluda Medical完成CAP24桨型电极在美国首批手术应用",
-        "intro": " Saluda Medical近日宣布，其新近获得美国FDA批准的Evoke® CAP24™桨型电极已在美国完成首批手术，标志着该公司闭环式脊髓刺激平台正式拓展至外科手术电极领域。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzq4281558.d.html",
-        "time": "1784228571",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "尾盘：美股尾盘走低，芯片股再度拖累大盘",
-        "intro": "北京时间7月17日凌晨，美股周四尾盘走低，道指下跌超过300点。芯片股的大规模抛售盖过了一连串稳健的财报利好。 道指跌158.88点，跌幅为0.30%，报52499.76点；纳指跌332...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzs1313735.d.html",
-        "time": "1784228105",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美军于美东时间周四下午2点对伊朗发动新一轮打击",
-        "intro": "美国中央司令部在X平台发文称，美军于美国东部时间周四下午2时开始对伊朗发动新一轮打击。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzs1296861.d.html",
-        "time": "1784226871",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "达拉斯联储行长洛根主张适度加息以降通胀",
-        "intro": "达拉斯联储行长洛丽·洛根主张提高利率，称通胀似乎并未以可持续方式向美联储2%的目标回落。 “我目前认为，适度提高利率将更好地平衡”美联储价格稳定和充分就业双重使命的前...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzvzt8066355.d.html",
-        "time": "1784226272",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "堪萨斯城联储行长称美国通胀过热 且超出目标的时间已经太久",
-        "intro": "堪萨斯城联储行长杰夫·施密德表示，鉴于未来几个月物价可能加速上涨，他目前最担心的是通胀问题。 尽管6月通胀数据好于预期，施密德仍警告称...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzrtq7610884.d.html",
-        "time": "1784225286",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "规模近40亿美元的对冲基金Carronade将停止接受新客户",
-        "intro": "在管理的资产规模达到37亿美元后，对冲基金Carronade Capital Management将于今年年底停止接纳新投资者。 根据一封致投资者信函，该对冲基金表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzrts4368213.d.html",
-        "time": "1784223446",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国参议员沃伦要求美联储监察长调查鲍曼对硅谷银行审查事宜",
-        "intro": " 美国参议员伊丽莎白·沃伦致信美联储监察长，要求调查美联储负责监管事务的副主席米歇尔·鲍曼聘请一家咨询公司对硅谷银行倒闭开展第四次审查是否浪费政府资源一事。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzrts4363606.d.html",
-        "time": "1784222939",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普定于今晚发表聚焦选举的全国讲话",
-        "intro": "美国总统唐纳德·特朗普已表示，他计划在美东时间周四晚9点的黄金时段全国讲话中提出对美国选举的所谓“问题”。 这远非他第一次这么做。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzrts4359391.d.html",
-        "time": "1784222477",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "腹泻食品安全恐慌盖过Taco Bell扩张机遇",
-        "intro": "百胜集团 CEO、前哥伦比亚广播公司总裁解读快餐行业与投资的未来 眼下Taco Bell正深陷环孢子虫食品安全风波，消费者担忧寄生虫引发腹泻...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzrtv8130985.d.html",
-        "time": "1784221626",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "今晚迎来IPO后首次试飞，SpaceX股价承压",
-        "intro": "星舰试飞前夕 SpaceX 股价跌破发行价：“这本质是押注埃隆・马斯克” SpaceX 正筹备史上规模最大的火箭发射，该股持续受到市场高度关注；而就在今晚这场重大发射任务前夕...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzrtu1352919.d.html",
-        "time": "1784221446",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "电动车渗透率回暖提速，但购车负担能力问题愈发突出",
-        "intro": "特斯拉二季度交付量大幅超出预期，股价却走低 过去，续航焦虑是美国消费者选购电动车的主要顾虑，如今，购车成本负担成为普及电动车更大的阻碍。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-inihzrtq7569301.d.html",
-        "time": "1784220713",
         "source": "新浪新闻"
       }
     ]
