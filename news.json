@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T17:17:48.670Z",
+  "updated": "2026-07-17T19:19:25.310Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,76 @@
     ],
     "finance": [
       {
+        "title": "特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权",
+        "intro": " 美国总统特朗普的媒体公司计划让交易员和投资者付费，以实时访问Truth Social社交媒体平台上“排名最高”帐户发布的帖子。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyyn7339942.d.html",
+        "time": "1784315757",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美伊战争恐在伯纳姆上任首周升级 英国研判特朗普对伊威胁并非空话",
+        "intro": " 英国候任首相安迪·伯纳姆将会接到英国官员的评估，即美伊战争在他上任首周可能存在升级的风险，这可能在伯纳姆上任之初便打乱他的施政安排。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyyt8326252.d.html",
+        "time": "1784315394",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国：伊拉克-叙利亚输油管道每日将输送200万桶原油",
+        "intro": " 美国国务院在一份声明中表示，伊拉克和叙利亚将“共同努力修复和运营”两国之间的一条原油管道，该管道初期日输油能力为200万桶。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyyq4102175.d.html",
+        "time": "1784314440",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Truist第二季度净利润大增37%，投行业务收入飙升72%",
+        "intro": "Truist Financial Corp近日公布2026年第二季度财报，数据显示公司净利润同比大幅增长37%。 财报显示，Truist第二季度净利润达到15.2亿美元，合每股收益1.23美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyyq4101621.d.html",
+        "time": "1784314397",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "尾盘：美股继续下滑 标普指数下跌1%",
+        "intro": "北京时间7月18日凌晨，美股周五尾盘走低，标普指数下跌1%。三大股指本周均有可能录得跌幅。市场对人工智能支出的担忧不断升温，打压了市场情绪，拖累科技股走低。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyyq4097744.d.html",
+        "time": "1784314019",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国联邦航空管理局恢复波音为737 MAX和787签发适航证的权限",
+        "intro": " 波音公司重新获得在交付前为其737 Max和787梦想飞机签发适航证的权限；此前，在发生一系列制造问题后，美国航空监管机构曾撤销这些权限。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyyn7296592.d.html",
+        "time": "1784311866",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国银行策略师团队：市场仓位极度看涨 应卖出股票",
+        "intro": "美国银行以Michael Hartnett为首的策略师团队表示，资产配置者已变得极度看涨，这通常是市场的一个警示信号，表明投资者应当“降低股票敞口，撤退或轮换”出风险资产...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyys1480967.d.html",
+        "time": "1784311452",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "苹果正与美国司法部就反垄断案展开初步和解谈判",
+        "intro": "苹果公司与美国司法部正在就和解2024年的违反反垄断法诉讼进行初步磋商。 据知情人士透露，双方的谈判正在进行中，但无法保证协议的最终达成。目前该案尚未确定开庭日期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyyt8255956.d.html",
+        "time": "1784311389",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油期货大幅上涨 市场担忧美伊冲突进一步升级",
+        "intro": "国际油价大幅上涨，因市场愈发担心美国与伊朗可能重回全面战争，并威胁到霍尔木兹海峡的原油运输。 全球基准布伦特原油一度上涨逾3.5%，至每桶87美元左右...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyyt8247660.d.html",
+        "time": "1784310891",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Meta据悉洽谈出租算力给Anthropic 价值最高可达100亿美元",
+        "intro": "据知情人士透露，Meta Platforms Inc．正与Anthropic PBC展开初步磋商，拟向后者出租其数据中心算力。 知情人士表示，双方谈判仍处于初期阶段，计划最终仍可能发生变化。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyyq4113606.d.html",
+        "time": "1784310000",
+        "source": "新浪新闻"
+      },
+      {
         "title": "据报Meta洽谈向Anthropic租赁算力 价值最高可达100亿美元",
         "intro": " 据报道，Meta Platforms Inc．正与Anthropic PBC展开初步磋商，拟向后者出租其数据中心的算力。这项合作将为时两年，价值最高可达100亿美元。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyys1426421.d.html",
@@ -511,76 +581,6 @@
         "intro": "AI推理云初创公司General Compute已从科技投资公司Upper90获得4亿美元贷款。这可能是首笔以推理专用芯片作为抵押品的交易——这类芯片用于快速高效地运行已训练好的AI模型...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusv8253949.d.html",
         "time": "1784303528",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "旧金山市长敦促加强自动驾驶监管 此前Waymo引发交通瘫痪",
-        "intro": "旧金山市长丹尼尔·卢里曾表示该市应成为新兴技术的试验场，但这一立场在Waymo自动驾驶出租车引发长达数小时的交通堵塞后发生了转变。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusu1474704.d.html",
-        "time": "1784303314",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Zoox因烟雾识别缺陷推送软件更新",
-        "intro": "Zoox公司周五宣布，已向其105辆自动驾驶车队推送软件更新，以解决6月发生的一起自动驾驶出租车在烟雾弥漫的火灾现场导航困难的问题。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusv8245955.d.html",
-        "time": "1784303060",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "亚马逊修复AWS账单系统故障 部分客户被误计数十亿美元费用",
-        "intro": "部分亚马逊云服务客户本周五发现，他们的账单估算显示欠费数十亿美元，而实际并未使用相关服务。 亚马逊周五确认，正在努力解决其AWS账单门户中的一个故障。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusu1468061.d.html",
-        "time": "1784302966",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "高露洁-棕榄将于2026年7月31日直播第二季度财报电话会议",
-        "intro": "高露洁-棕榄公司（纽交所代码：CL）将于美国东部时间2026年7月31日（周五）上午8：30，通过音频网络直播其2026年第二季度财报电话会议。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusu1467038.d.html",
-        "time": "1784302905",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国企业加速扩展AI原生微软运营模式",
-        "intro": "ISG Provider Lens®报告指出，美国企业日益关注AI的可衡量价值，推动组织将数据、生产力及云能力统一整合。 全球以AI为核心的技术研究与咨询公司信息服务集团（ISG）今日发...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusv8241453.d.html",
-        "time": "1784302814",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "“肌肉价值千金”：Life Time专家分享女性力量训练顶级建议",
-        "intro": "Life Time（纽交所代码：LTH）指出，力量训练在女性中日益流行，并概述了其女性教练团队所认可的多项益处，包括改善骨骼与肌肉健康、调节激素平衡、增强自信...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusu1462740.d.html",
-        "time": "1784302695",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "CAE与萨博签署谅解备忘录 就“鹰狮”战斗机综合培训及任务保障解决方案展开合作",
-        "intro": "CAE（纽交所代码：CAE，多伦多证交所代码：CAE）与萨博签署谅解备忘录，双方将就“鹰狮”战斗机的先进培训、模拟及任务保障解决方案展开合作...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusv8237725.d.html",
-        "time": "1784302628",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Catherine Wood晋升为First Horizon银行商业银行策略主管",
-        "intro": "First Horizon 银行（纽交所代码：FHN）宣布晋升 Catherine Wood 为高级副总裁兼商业银行策略主管，任命自2026年7月17日起生效。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicuss4095454.d.html",
-        "time": "1784302553",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "达能报告关于投票权及股份总数的信息",
-        "intro": "达能（OTCQX：DANOY）根据法国监管要求，报告了截至2026年6月30日的资本及投票权情况。公司已发行股份总数为683，337，177股，对应理论投票权723，091，363票...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicuss4094734.d.html",
-        "time": "1784302485",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美伊互袭升级 重陷全面战争风险加剧",
-        "intro": " 美伊连续第六天爆发冲突，双方袭击范围扩大至军事目标以外。由于围绕霍尔木兹海峡问题仍未达成协议，外界对冲突重回全面战争的担忧升温。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusq7317451.d.html",
-        "time": "1784302447",
         "source": "新浪新闻"
       }
     ]
