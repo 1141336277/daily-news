@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T19:19:25.310Z",
+  "updated": "2026-07-17T21:02:07.769Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,34 @@
     ],
     "finance": [
       {
+        "title": "7月18日美股成交额前20：传Meta向Anthropic租赁算力 价值最高可达100亿美元",
+        "intro": "周五美股成交额第1名美光科技收跌0.5%，成交538.76亿美元。该股在过去六个交易日内有五日下跌，本周累计下跌13.31%。 第2名英伟达收跌2.21%，成交291.47亿美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniiefhn4044907.d.html",
+        "time": "1784321414",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月18日热门中概股普跌 台积电跌2.81%，阿里巴巴跌2.14%",
+        "intro": "7月18日热门中概股普跌，纳斯达克中国金龙指数（HXC）收跌1.81%。 上涨个股（按市值从高到低）：网易涨0.74%，中华电信涨0.35%，欢聚涨1.08%，雾芯科技涨0.99%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniiefhn4025727.d.html",
+        "time": "1784319556",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月18日收盘：美股道指跌逾400点 三大股指本周均录得跌幅",
+        "intro": " 北京时间7月18日凌晨，美股周五收跌，三大股指本周均录得跌幅。市场对人工智能支出的担忧不断升温，打压了市场情绪，拖累科技股走低。美国国债收益率下跌。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniiefhn4019165.d.html",
+        "time": "1784318912",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "波音与空客角力，竞逐SMBC百架窄体机大单",
+        "intro": "随着2026年范堡罗国际航展临近，全球两大飞机制造商波音与空客在窄体机市场的争夺战再度升级。据知情人士透露，双方正同时与飞机租赁巨头SMBC Aviation...",
+        "url": "https://finance.sina.cn/china/gjcj/2026-07-18/detail-iniiefhq1441039.d.html",
+        "time": "1784316784",
+        "source": "新浪新闻"
+      },
+      {
         "title": "特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权",
         "intro": " 美国总统特朗普的媒体公司计划让交易员和投资者付费，以实时访问Truth Social社交媒体平台上“排名最高”帐户发布的帖子。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicyyn7339942.d.html",
@@ -553,34 +581,6 @@
         "intro": "北京时间7月18日凌晨，美股周五午盘维持下跌局面，三大股指本周均有可能录得跌幅。市场对人工智能支出的担忧不断升温，打压了市场情绪，拖累科技股走低。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-18/detail-iniicuss4116807.d.html",
         "time": "1784304411",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "阿斯麦拟向员工发放2万欧元一次性奖励 AI需求旺盛推动业绩增长",
-        "intro": " 阿斯麦控股将向全球员工发放一次性2万欧元（约合22，862美元）奖励。随着人工智能需求推动销售额创下新高，该公司加入了越来越多芯片企业与员工分享业绩红利的行列。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicuss4109416.d.html",
-        "time": "1784303742",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "可口可乐旗下Fairlife乳业遭勒索软件攻击 生产暂停",
-        "intro": "美国饮料制造商可口可乐公司表示，其一家乳制品子公司遭黑客攻击，将在可预见的未来暂停运营。这家跨国巨头在向美国证券交易委员会提交的披露文件中称...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusq7331189.d.html",
-        "time": "1784303612",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX星舰V3第二次试射点火后紧急中止",
-        "intro": "SpaceX周四在得克萨斯州南部基地对升级版星舰火箭系统进行第二次试射，助推器点火后不久即突然中止。首席执行官埃隆·马斯克在X平台上表示，“部分发动机未能启动...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicuss4107330.d.html",
-        "time": "1784303558",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "首笔以推理芯片为抵押的融资落地 4亿美元交易揭示AI投资新动向",
-        "intro": "AI推理云初创公司General Compute已从科技投资公司Upper90获得4亿美元贷款。这可能是首笔以推理专用芯片作为抵押品的交易——这类芯片用于快速高效地运行已训练好的AI模型...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-17/detail-iniicusv8253949.d.html",
-        "time": "1784303528",
         "source": "新浪新闻"
       }
     ]
