@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T22:05:44.123Z",
+  "updated": "2026-07-21T00:02:03.266Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -20,6 +20,20 @@
   "news": {
     "hot": [
       {
+        "title": "「月泉仿生」获数亿元融资，仿生拉压体灵巧手万台量产、订单过亿｜36氪首发",
+        "intro": "文｜胡香赟\n  编辑｜海若镜\n  36氪独家获悉，近日，月泉仿生已完成数亿元Pre-A+轮融资。本轮融资由长发基金、华控基金、华夏基金、国力民生、星科创投基金等联合投资，老股东中关村启航投资跟投。",
+        "url": "<![CDATA[https://36kr.com/p/3899174356387718?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
+      {
+        "title": "8点1氪丨美国将对加拿大部分产品加征50%关税；任泽平回应会员炒股亏损千万；韩国今年人均GDP有望达3.9万美元",
+        "intro": "今日热点导览\n  光电融合芯片有望让Token成本降50%\n  泡泡玛特创始人王宁与投资人段永平纽约会面\n  阿根廷队背对领奖台无视对手领奖，拒绝接受采访，恐遭处罚\n  京沪高铁、京沪铁路可提前60天",
+        "url": "<![CDATA[https://36kr.com/p/3904632333862535?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
+      {
         "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
         "intro": "大公司：\n  摩根士丹利成为华尔街AI债务交易头号银行\n  摩根士丹利已崛起为华尔街构建人工智能（AI）繁荣背后融资架构的主导力量，设计了新的债务和股权融资模式，为数据中心的大规模建设输送数百亿美元资",
         "url": "<![CDATA[https://36kr.com/p/3903710346790535?f=rss]]>",
@@ -37,20 +51,6 @@
         "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
         "intro": "一台80cm高的毛绒人形机器人，可以承载多少想象力？\n  “它虽然没有完全像人，但拥有全套的传感器，可以跟你交互、分析你的表情，去看你是高兴还是低落。只要算力可以满足，它可以提供各种各样的东西，软件能",
         "url": "<![CDATA[https://36kr.com/p/3903761449617027?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
-        "intro": "硬氪获悉，量子计算企业两仪万象（北京）科技有限公司（以下简称“两仪万象”）近日完成数亿元A+轮融资，由君联资本领投，基石创投、上海科创、中信建投投资、海棠基金跟投，老股东顺为资本和科大讯飞追加投资。此",
-        "url": "<![CDATA[https://36kr.com/p/3903756643255940?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "硬氪首发 | 离子束装备商获超亿元融资，已批量导入光通信、核聚变、量子计算头部客户",
-        "intro": "硬氪获悉，中山市博顿光电科技有限公司（以下简称“博顿光电”）完成超亿元人民币B+轮融资，本轮投资方为毅达资本、中信建投资本、达武创投、友谊时光、南控基金，IO资本担任独家财务顾问。\n  该轮资金将用来",
-        "url": "<![CDATA[https://36kr.com/p/3903739699005058?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "美国股市：苹果和特斯拉下跌拖累大盘 芯片股反弹迎接财报大考",
-        "intro": " 标普500指数回吐早盘涨幅并收跌，苹果和特斯拉股价下跌抵消了其他涨势。芯片股在一系列财报公布前反弹，市场将检验大型科技公司的盈利能否达到市场的高预期。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatp2718061.d.html",
-        "time": "1784584893",
+        "title": "博雅互动获Boyaa Global Limited增持270万股 每股作价1.9678港元",
+        "intro": "香港联交所最新数据显示，7月14日，Boyaa Global Limited增持博雅互动（00434）270万股，每股作价1.9678港元，总金额约为531.31万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzq8152277.d.html",
+        "time": "1784591992",
         "source": "新浪新闻"
       },
       {
-        "title": "沙特阿拉伯称将采取措施保护本国船只",
-        "intro": "沙特阿拉伯外交部在社交媒体平台上发帖称，将根据国际法和1982年《联合国海洋法公约》采取一切必要措施保护本国船只。 沙特呼吁国际社会执行联合国安理会第2722号决议。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatp2717732.d.html",
-        "time": "1784584846",
+        "title": "新奥能源获董事会主席王玉锁增持12.94万股 每股作价42.9348港元",
+        "intro": "香港联交所最新数据显示，7月20日，董事会主席王玉锁增持新奥能源（02688）12.94万股，每股作价42.9348港元，总金额约为555.58万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzn9423818.d.html",
+        "time": "1784591940",
         "source": "新浪新闻"
       },
       {
-        "title": "大宗商品综述：油价小幅上涨 金价企稳 伦铜走高",
-        "intro": "受中东冲突升级的影响，油价周一在动荡的交易中小幅上涨，不过投资者也在关注调解方推动暂时停火的努力。黄金价格企稳，在伊朗紧张局势的背景下...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatp2717419.d.html",
-        "time": "1784584806",
+        "title": "牧原股份获小摩增持约39.56万股 每股作价约33.06港元",
+        "intro": "香港联交所最新资料显示，7月15日，小摩增持牧原股份（02714）39.5631万股，每股作价33.0628港元，总金额约为1308.07万港元。增持后最新持股数目约为2203.73万股...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzn9423304.d.html",
+        "time": "1784591883",
         "source": "新浪新闻"
       },
       {
-        "title": "美国将对部分加拿大商品征收50%关税 首次援引从未启用法律条款",
-        "intro": " 特朗普政府将依据一项从未启用过的法律条款，对部分加拿大商品征收新的50%关税，理由是加拿大对美国酒类、汽车和乳制品采取了不公平待遇。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatu4934746.d.html",
-        "time": "1784583991",
+        "title": "泰格医药遭Norges Bank减持51.49万股 每股作价39.7061港元",
+        "intro": "香港联交所最新资料显示，7月16日，Norges Bank减持泰格医药（03347）51.49万股，每股作价39.7061港元，总金额约为2044.47万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzm2645805.d.html",
+        "time": "1784591817",
         "source": "新浪新闻"
       },
       {
-        "title": "7月21日外盘头条：特朗普要让伊朗为美军身亡士兵付出代价 派拉蒙收购华纳交易被叫停",
-        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普誓言要让伊朗为美军士兵身亡“付出代价” 调解方力促冲突降温 2、特朗普政府出新招：到美国建厂铝关税打对折 3...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatp2700533.d.html",
-        "time": "1784583046",
+        "title": "昭衍新药获Barclays PLC增持约327.98万股 每股作价约24.25港元",
+        "intro": "香港联交所最新资料显示，7月15日，Barclays PLC增持昭衍新药（06127）327.982万股，每股作价24.2508港元，总金额约为7953.83万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzs4924558.d.html",
+        "time": "1784591755",
         "source": "新浪新闻"
       },
       {
-        "title": "原油：中东紧张局势推动油价小幅上涨",
-        "intro": " 油价周一在动荡的交易中小幅上涨，交易员一方面消化一连串显示中东冲突正在恶化的消息，另一方面也在评估推动战争暂时停火的努力。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatq9454307.d.html",
-        "time": "1784580732",
+        "title": "星源材质获富国基金增持66万股 每股作价约7.97港元",
+        "intro": "香港联交所最新数据显示，7月16日，富国基金增持星源材质（06067）66万股，每股作价7.9693港元，总金额约为525.97万港元。增持后最新持股数目为1350.1万股...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzs4922627.d.html",
+        "time": "1784591645",
         "source": "新浪新闻"
       },
       {
-        "title": "7月21日美股成交额前20：苹果涨价动摇核心用户升级意愿",
-        "intro": " 周一美股成交额第1名美光科技收高1.94%，成交369.63亿美元。分析师指出，存储芯片行业供需博弈加剧，扩产与AI需求拉锯引发周期担忧。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatq9453604.d.html",
-        "time": "1784580497",
+        "title": "中国水务获王小沁增持10.2万股 每股作价4.68港元",
+        "intro": "香港联交所最新资料显示，7月16日，王小沁增持中国水务（00855）10.2万股，每股作价4.68港元，总金额约为47.74万港元。增持后最新持股数目为905.2万股，最新持股比例为0...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzq8144369.d.html",
+        "time": "1784591510",
         "source": "新浪新闻"
       },
       {
-        "title": "美国中央司令部：美军对伊朗发动新一轮打击",
-        "intro": " 美国中央司令部发文称，美军于美东时间周一下午4时开始对伊朗发动新一轮打击，以进一步削弱伊朗袭击霍尔木兹海峡船只的能力。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatp2672967.d.html",
-        "time": "1784579332",
+        "title": "思考乐教育获Smart Scholar Limited增持70万股 每股作价约0.97港元",
+        "intro": "香港联交所最新资料显示，7月16日，Smart Scholar Limited增持思考乐教育（01769）70万股，每股作价0.9746港元，总金额约为68.22万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzs4919639.d.html",
+        "time": "1784591446",
         "source": "新浪新闻"
       },
       {
-        "title": "特朗普政府出新招：到美国建厂铝关税打对折",
-        "intro": "特朗普政府宣布激励措施，在美国新建、扩建或翻新铝厂的企业从国外进口该金属可享受关税折扣。 根据这项周一公布的方案，对于符合新要求并获得美国批准的公司...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatu4866628.d.html",
-        "time": "1784579202",
+        "title": "近期科技股遭抛售后日经指数或将上涨",
+        "intro": "日本股市在近期科技股遭遇抛售后可能上涨。新加坡交易所的日经指数期货开盘报65，155点，较周一上涨340点，较周五上涨1，170点。日本市场周一因全国性假日休市。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniiphzs4918738.d.html",
+        "time": "1784591385",
         "source": "新浪新闻"
       },
       {
-        "title": "7月21日热门中概股多数上涨 阿里巴巴涨4.69%，南茂科技跌8.33%",
-        "intro": "7月21日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高0.9%。 上涨个股（按市值从高到低）：台积电涨0.99%，阿里巴巴涨4.69%，拼多多涨2.27%，网易涨2.22%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatq9449196.d.html",
-        "time": "1784579075",
+        "title": "汤臣集团获董事局主席徐枫增持11.4万股 每股作价约2.17港元",
+        "intro": "香港联交所最新数据显示，7月17日，董事局主席徐枫增持汤臣集团（00258）11.4万股，每股作价2.1743港元，总金额约为24.79万港元。",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzs4918517.d.html",
+        "time": "1784591372",
         "source": "新浪新闻"
       },
       {
-        "title": "7月21日收盘：油价上涨拖累美股收跌 道指下跌逾300点",
-        "intro": " 北京时间7月21日凌晨，美股周一收跌。道指下跌逾300点。标普500指数下跌0.19%。市场继续关注美伊局势。特朗普称伊朗将为美国军人的死亡付出代价后，国际油价走高。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatu4864105.d.html",
-        "time": "1784578561",
+        "title": "友邦保险获Lee Yuan Siong增持165股 每股作价约76.04港元",
+        "intro": "香港联交所最新资料显示，7月15日，Lee Yuan Siong增持友邦保险（01299）165股，每股作价76.0353港元，总金额约为1.25万港元。增持后最新持股数目约为1142.18万股...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzm2641325.d.html",
+        "time": "1784591315",
         "source": "新浪新闻"
       },
       {
-        "title": "纽约汇市：美元震荡后企稳 加元与英镑下跌",
-        "intro": " 一度因交易员密切关注美伊战争进展而出现震荡的彭博美元指数尾盘变化不大；数据显示加拿大CPI放缓后，加元兑美元下跌。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipats8087110.d.html",
-        "time": "1784578344",
+        "title": "远东发展获邱达昌增持14.3万股 每股作价约0.68港元",
+        "intro": "香港联交所最新资料显示，7月16日，邱达昌增持远东发展（00035）14.3万股，每股作价0.6782港元，总金额约为9.70万港元。增持后最新持股数目约为17.23亿股...",
+        "url": "https://finance.sina.cn/hkstock/gsxw/2026-07-21/detail-iniiphzs4916877.d.html",
+        "time": "1784591267",
         "source": "新浪新闻"
       },
       {
-        "title": "特朗普称伊朗将为杀害美国军人付出代价，油价周一上涨",
-        "intro": " 油价周一上涨，此前美国总统唐纳德·特朗普表示伊朗将为三名美国军人的死亡付出代价，且也门胡塞武装宣布对沙特阿拉伯实施海上禁运。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatu4863043.d.html",
-        "time": "1784578293",
+        "title": "英特尔计划新一轮裁员",
+        "intro": "英特尔计划新一轮裁员，公司发言人表示：“为落实整体战略，打造业务更聚焦、运营更高效的企业，公司数据中心事业部正在调整组织架构，匹配适配长期业务发展的岗位与人才...",
+        "url": "https://finance.sina.cn/stock/ggyj/2026-07-21/detail-iniiphzm2643775.d.html",
+        "time": "1784591125",
         "source": "新浪新闻"
       },
       {
-        "title": "美国债市：国债追随英债下跌 也受到特朗普对伊朗威胁的拖累",
-        "intro": "美国国债周一下跌，追随了英国国债跌势，此前英国新任首相安迪·伯纳姆表示将对英国财政规则中的灵活空间加以利用。此外，美国总统特朗普誓言要让伊朗为美军伤亡付出代价。...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniipatp2669503.d.html",
-        "time": "1784578067",
+        "title": "摩根大通CEO称全球经济风险被低估：不会以当前价格购买股票或长期美债",
+        "intro": "摩根大通CEO杰米·戴蒙表示，投资者低估了全球经济面临的风险，他不会以当前价格购买股票或长期美国国债。 在当地时间周一晚间播出的一次采访中，戴蒙表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniiphzn9414714.d.html",
+        "time": "1784590996",
         "source": "新浪新闻"
       },
       {
-        "title": "投行BGL宣布将Strategic Thermal Labs出售给Vertiv",
-        "intro": "投资银行Brown Gibbons Lang &amp; Company周一宣布，将Strategic Thermal Labs（STL）出售给Vertiv Holdings Co．的全资子公司。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmw4990437.d.html",
-        "time": "1784577550",
+        "title": "重赏求勇夫 船东加码半年薪资吸引船员闯霍尔木兹海峡运油",
+        "intro": " 一家船东开出加码六个月薪资的条件，试图说服船员航经霍尔木兹海峡运油。船员们面临残酷的抉择：接受可观的金钱回报，还是承担可能丧命的风险。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniiphzq8135689.d.html",
+        "time": "1784590991",
         "source": "新浪新闻"
       },
       {
-        "title": "华纳音乐集团将于8月6日召开财报电话会议",
-        "intro": "华纳音乐集团周一宣布，将于2026年8月6日（周四）美国东部时间上午8：30举行电话会议，讨论其截至2026年6月30日的第三财季财务业绩。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmw4989059.d.html",
-        "time": "1784577255",
+        "title": "黄金交易提醒：美军继续轰炸伊朗+胡塞封锁沙特，下一波大行情正在酝酿？",
+        "intro": "汇通财经APP讯——现货黄金周一（7月20日）报收每盎司4007.32美元，跌幅约0.2%，8月期金合约也微跌约0.1%至4015.90美元附近。这一走势发生在中东局势急剧升级的背景下...",
+        "url": "https://finance.sina.cn/forex/whzx/2026-07-21/detail-iniiphzs4904648.d.html",
+        "time": "1784590440",
         "source": "新浪新闻"
       },
       {
-        "title": "AMD获微软扩大AI合作，Azure将部署Helios系统",
-        "intro": "超微半导体（AMD）周一宣布与微软大幅扩大战略合作，微软Azure云平台将部署AMD的Helios机架级AI系统，用于前沿模型推理及Azure AI服务。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmu8212552.d.html",
-        "time": "1784577167",
+        "title": "操盘必读：影响股市利好或利空消息_2026年7月21日_财经新闻",
+        "intro": "宏观新闻 1、外交部发言人林剑7月20日主持例行记者会。有记者提问称，美国国务卿鲁比奥表示，中国国家主席习近平即将于9月对美国进行的访问仍在按计划进行。",
+        "url": "https://finance.sina.cn/2026-07-21/detail-iniiphzm2635249.d.html",
+        "time": "1784590406",
         "source": "新浪新闻"
       },
       {
-        "title": "Archer与Anduril联合发布“雷霆”自主攻击旋翼机",
-        "intro": "在2026年范堡罗国际航展首日，Anduril Industries与Archer Aviation联合发布了名为“雷霆”的自主攻击旋翼机。该机型被定位为第5组自主攻击旋翼机...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmr2797659.d.html",
-        "time": "1784576938",
+        "title": "多重积极因素汇聚 A股市场企稳回升底气十足",
+        "intro": "本报记者周尚伃 近期A股市场经历了一轮震荡调整，投资者情绪有所波动。围绕本轮调整的成因、性质以及后市展望，中国银河证券策略首席分析师杨超近日在接受《证券日报》记者...",
+        "url": "https://finance.sina.cn/stock/ggyj/2026-07-21/detail-iniiphzm2633096.d.html",
+        "time": "1784590367",
         "source": "新浪新闻"
       },
       {
-        "title": "CMS Energy宣布季度股息，每股57美分",
-        "intro": " CMS Energy Corporation周一宣布，其董事会已批准向普通股股东派发季度股息，每股57美分。该股息将于2026年9月1日支付给2026年8月7日收盘时登记在册的股东。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmu8211074.d.html",
-        "time": "1784576829",
+        "title": "股海导航_2026年7月21日_沪深股市公告与交易提示",
+        "intro": "【热点】 国瓷材料：上调氧化锆粉体销售价格，上调幅度约为10%—40%不等。 【业绩】 震裕科技：上半年净利润同比预增98.72%—117.65%。",
+        "url": "https://finance.sina.cn/stock/ssgs/2026-07-21/detail-iniiphzm2632966.d.html",
+        "time": "1784590322",
         "source": "新浪新闻"
       },
       {
-        "title": "Old Republic携手Hope For The Warriors，宣布全国性合作伙伴关系",
-        "intro": "专业保险公司Old Republic International Corporation周一宣布，与致力于支持退伍军人、现役军人、军属及照护者的非营利组织Hope For The...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmr2796755.d.html",
-        "time": "1784576562",
+        "title": "“奶茶店不止卖奶茶” 新茶饮跨界布局谋突围",
+        "intro": "本报记者李静 当顾客走进街边的新式茶饮门店，现磨咖啡的焦香、烘焙欧包的麦香与冰淇淋的奶香交织，货架上零食、瓶装饮品陈列整齐，曾经仅依靠鲜果茶...",
+        "url": "https://finance.sina.cn/2026-07-21/detail-iniiphzm2631649.d.html",
+        "time": "1784590188",
         "source": "新浪新闻"
       },
       {
-        "title": "世界顶尖癌症中心Sheba采用Entolimod临床试验",
-        "intro": "位列《新闻周刊》2026年全球最佳医院第七位的以色列Sheba医疗中心，已正式确定临床试验方案，将评估Valion Bio公司药物Entolimod在癌症患者中的效果。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmr2796449.d.html",
-        "time": "1784576437",
+        "title": "四大证券报头版头条内容精华摘要_2026年7月21日_财经新闻",
+        "intro": "7月21日（星期二），今日报刊头条主要内容精华如下： 中国证券报 看好资本市场 多家险资巨头齐表态 7月20日，多家险资巨头集体发声，表示看好资本市场发展前景...",
+        "url": "https://finance.sina.cn/stock/ywgg/2026-07-21/detail-iniiphzm2632288.d.html",
+        "time": "1784590134",
         "source": "新浪新闻"
       },
       {
-        "title": "迪克体育加码投资女子体育，推出WNBA纪录片《Life In the W》",
-        "intro": "迪克体育用品公司周一宣布，其旗下内容制作工作室Cookie Jar &amp; A Dream Studios与ESPN合作推出的六集WNBA纪录片《Life In the W》将于7月24日首播。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmu8209029.d.html",
-        "time": "1784576338",
+        "title": "美伊冲突升级，美国汽油均价再度触及每加仑4美元心理关口",
+        "intro": "随着美伊冲突再度升级，美国汽油平均价格再度升至每加仑4美元的心理关口。 据美国汽车协会（AAA）的数据显示，周一全美汽油均价恰好达到每加仑4美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniiphzs4898651.d.html",
+        "time": "1784590066",
         "source": "新浪新闻"
       },
       {
-        "title": "Replenish Nutrients获SRC 1500万加元战略投资，自有产能将提升五倍",
-        "intro": "再生农业肥料公司Replenish Nutrients Holding Corp．周一宣布，已与SRC Agrominerals达成一项1500万加元的战略投资协议。该投资将用于在艾伯塔省Beisek",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmu8208240.d.html",
-        "time": "1784576205",
+        "title": "今日视点：从中期业绩趋势看A股的基本面支撑",
+        "intro": "■苏向杲 当前，A股市场已进入2026年半年度业绩预告集中披露期。面对市场风格轮动，上市公司盈利能否持续改善，正成为判断市场中期走势的重要变量。",
+        "url": "https://finance.sina.cn/stock/ggyj/2026-07-21/detail-iniiphzq8122626.d.html",
+        "time": "1784590053",
         "source": "新浪新闻"
       },
       {
-        "title": "Medline在佩里斯新建百万平方英尺配送中心",
-        "intro": "医疗用品巨头Medline周一宣布，计划在加利福尼亚州佩里斯市开设一座全新的配送中心。该设施面积约100万平方英尺，旨在增强公司在加州乃至全美的分销网络能力...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmr2795226.d.html",
-        "time": "1784576068",
+        "title": "新西兰通胀加速至4.1% 受燃油成本飙升推动",
+        "intro": "受燃油价格飙升推动，新西兰第二季度通胀率加速升至两年多来的最高水平，这也进一步印证了新西兰央行开始加息的决定。 新西兰统计局周二在惠灵顿公布的数据显示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniiphzn9407162.d.html",
+        "time": "1784590030",
         "source": "新浪新闻"
       },
       {
-        "title": "Veritone面临证券集体诉讼，投资者索赔今夜截止",
-        "intro": "人工智能软件公司Veritone正面临证券欺诈集体诉讼，律师事务所Faruqi &amp; Faruqi， LLP周一提醒投资者，申请成为首席原告的截止日期为2026年7月20日（今夜）。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniinwmr2795003.d.html",
-        "time": "1784575953",
+        "title": "国际铝业协会：全球6月原铝产量同比下降1.5%",
+        "intro": " 国际铝业协会（IAI）周一公布的数据显示，全球6月原铝产量较上年同期减少1.5%至598万吨，其中海湾地区的产量下降了三分之一。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-21/detail-iniiphzn9407048.d.html",
+        "time": "1784590009",
         "source": "新浪新闻"
       }
     ]
