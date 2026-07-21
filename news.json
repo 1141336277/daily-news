@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T19:40:45.694Z",
+  "updated": "2026-07-21T21:17:12.895Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -27,7 +27,7 @@
         "source": "36氪"
       },
       {
-        "title": "独家 | PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人",
+        "title": "独家 | PICO创始人周宏伟将卸任，���晓凯成为新任业务负责人",
         "intro": "&nbsp;\n  文 | 李炤锋\n  编辑 | 张雨忻\n  智能涌现独家获悉，字节旗下XR（扩展现实）业务PICO近日完成业务负责人调整：由于个人规划原因，创始人周宏伟不再担任 PICO 负责人，李晓",
         "url": "<![CDATA[https://36kr.com/p/3905176863721349?f=rss]]>",
         "time": "",
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
+        "title": "投资回报飙升至数十年最高 套利交易在华尔街大行其道",
+        "intro": " 面对各类资产低到令人难以置信的波动率，投资者纷纷涌入套利交易，让这种最经久不衰的外汇押注之一迎来了几十年来最耀眼的行情。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2248305.d.html",
+        "time": "1784667649",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "大宗商品综述：原油、黄金和铜普遍上涨",
+        "intro": " 由于中东冲突以及俄乌战争都加剧石油市场的供应风险，布伦特原油周二升至6月初以来最高水平。黄金和白银受到逢低买盘推动上涨。供应紧张迹象推动铜价升至一个多月高点。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsu4839590.d.html",
+        "time": "1784667591",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：芯片股反弹提振 纳斯达克100指数创三周来最佳表现",
+        "intro": " 纳斯达克100指数创下三周来最佳单日表现，以人工智能交易为核心的芯片股反弹，盖过了美国与伊朗冲突再度升级带来的影响。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsu4833807.d.html",
+        "time": "1784667007",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：油价上涨 霍尔木兹到红海乃至俄罗斯都面临供应中断风险",
+        "intro": " 布伦特原油周二升至6月初以来最高水平，交易员们正在权衡从霍尔木兹海峡和红海到俄罗斯海岸一个重要哈萨克斯坦石油出口码头的海上运输所面临的威胁。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2237933.d.html",
+        "time": "1784666121",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月22日美股成交额前20：美光市值重返万亿美元之上",
+        "intro": "周二美股成交额第1名美光科技收高2.17%，成交458.51亿美元。该股市值重新回到1万亿美元之上。美光CEO在财报电话会上指出，受全产业链AI算力、智能体及自动驾驶需求拉动...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsu4822795.d.html",
+        "time": "1784666108",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国拟不迟于周五征收新关税 衔接即将到期的临时性10%全球关税",
+        "intro": " 知情人士称，美国总统唐纳德·特朗普准备不迟于周五对数十个经济体商品征收新关税。此举旨在确保即使临时性的10%全球关税到期，其关税体系仍可维持。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq9011035.d.html",
+        "time": "1784665556",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "赫格塞思称伊朗战争已耗费美国375亿美元",
+        "intro": "美国国防部长皮特·赫格塞思周二对议员说，对伊朗的战争已耗费该国375亿美元。 五角大楼官员曾在5月中对国会表示，伊朗战争耗资约290亿美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfss8035691.d.html",
+        "time": "1784665138",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "泽连斯基解除西尔斯基的乌军总司令之职",
+        "intro": "乌克兰总统沃洛迪米尔·泽连斯基宣布，解除亚历山大·西尔斯基武装部队总司令的职务。 泽连斯基任命Mykhailo Drapatyi少将为新任军队总司令。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2230284.d.html",
+        "time": "1784664965",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月22日热门中概股涨跌不一 台积电涨5.50%，阿里巴巴跌1.98%",
+        "intro": "7月22日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.68%。 上涨个股（按市值从高到低）：台积电涨5.50%，日月光半导体涨8.40%，联电涨4.24%，中华电信涨0.94%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfss8031742.d.html",
+        "time": "1784664836",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英国新任首相伯纳姆批准英国基地用于部分美军对伊打击 延续前任政策",
+        "intro": "英国新任首相安迪·伯纳姆已批准美国使用英国军事基地，对伊朗进行英国所称的防御性打击；尽管美国总统唐纳德·特朗普正加大对伊军事行动力度...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2227144.d.html",
+        "time": "1784664593",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月22日收盘：美股收高芯片股领涨 标普指数三连跌后反弹",
+        "intro": " 北京时间7月22日凌晨，美股周二收高，芯片股普涨。道指上涨近400点，标普500指数连续三日下跌之后反弹。投资者正在权衡美伊战争升级的影响，并关注最新企业财报。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsu4801342.d.html",
+        "time": "1784664395",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX的宏大解禁即将来临 逾千亿美元股票将可上市交易",
+        "intro": "SpaceX已为资本市场历史上规模最大的股票解禁之一拉开序幕，下个月将有价值高达1160亿美元的股票首次具备出售资格。 禁止部分内部人士出售多达9...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq8998532.d.html",
+        "time": "1784664026",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "标普全球评级机构确认Assured Guaranty AA财务实力评级 展望稳定",
+        "intro": "Assured Guaranty于7月21日宣布，标普全球评级已确认其保险子公司的AA财务实力评级、财务增强评级及发行人信用评级，同时确认母公司AGL的A发行人信用评级...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2220778.d.html",
+        "time": "1784663852",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普称将允许美国航空公司直飞黎巴嫩",
+        "intro": "美国总统特朗普表示，他正指示其政府允许所有美国航空公司开通直飞黎巴嫩的航线。 特朗普与黎巴嫩总统Joseph Aoun会晤后，在Truth Social上发帖宣布这一决定。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq8996484.d.html",
+        "time": "1784663689",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI智能体用户突破千万 ChatGPT Work推动采用率翻倍",
+        "intro": "OpenAI于7月21日宣布，旗下AI智能体产品——编程工具Codex和通用任务工具ChatGPT Work——的合并周活跃用户数已突破1000万，较本月早些时候几乎翻倍。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2219333.d.html",
+        "time": "1784663656",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "ONERugged推出搭载英特尔Lunar Lake平台的AI加固平板电脑",
+        "intro": "ONERugged于7月21日宣布推出四款基于英特尔Lunar Lake平台的AI加固型Windows平板电脑，分别为EM-I10L、EM-I20L、M10L和M20L。该系列产品面向智能制造、仓储物",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsu4791402.d.html",
+        "time": "1784663393",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "报道：伊朗袭击科威特阿里·萨利姆基地和布比延岛",
+        "intro": "伊朗国有媒体IRIB报道，伊斯兰革命卫队周二晚些时候打击了科威特阿里·萨利姆空军基地附近以及布比延岛上的雷达系统。 报道称，此次空袭是正在进行的“清除该地区雷达”行动的...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsu4791241.d.html",
+        "time": "1784663370",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "海湾国家对战争走向分歧加深 部分美国盟友希望华府加码打击伊朗",
+        "intro": "美国与伊朗之间的敌对行动加剧令华盛顿的海湾盟友愈发不满，因为冲突正危及这些国家的安全与经济。 而且这些国家对美国下一步应采取何种行动意见也不统一。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq8994839.d.html",
+        "time": "1784663341",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "标普道琼斯指数携手Pantera Capital推出数字资产新指数",
+        "intro": " 标普道琼斯指数公司与数字资产投资机构Pantera Capital于7月21日联合推出标普Pantera数字资产指数，旨在为机构投资者提供更具纪律性和结构化的数字资产配置基准。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq8994582.d.html",
+        "time": "1784663280",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Source Capital宣布2026年9至11月普通股月度分红",
+        "intro": " 封闭式投资公司Source Capital董事会日前批准，维持2026年9月、10月和11月的常规月度分红方案，每股派息金额为0.2083美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfss8012820.d.html",
+        "time": "1784663099",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "股东权益律所对Personalis收购案启动调查",
+        "intro": " 多家股东权益律师事务所近日宣布，已对癌症检测公司Personalis拟被Tempus AI收购的交易展开调查，关注点集中在交易价格是否公允以及董事会是否履行了信义义务。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq8992740.d.html",
+        "time": "1784663003",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "拉斯维加斯地标度假酒店凯撒宫推出1966主题限定餐饮 庆祝开业60周年",
+        "intro": " 拉斯维加斯地标度假酒店凯撒宫于7月21日宣布，为庆祝1966年开业至今的60周年，将在旗下多家知名餐厅推出限时主题菜单和纪念鸡尾酒，活动将持续至2026年12月31日。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2215834.d.html",
+        "time": "1784662974",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元小幅走强 日元重返四十年低点",
+        "intro": "由于美伊冲突推高油价，美元随美国国债收益率上涨，日元回落至1986年以来最低水平。 彭博美元即期指数上涨约0.2%，徘徊在日内高点附近，该指数在美国交易时段走高。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq8992047.d.html",
+        "time": "1784662900",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Fluor获巴林石化设施前端工程设计合同",
+        "intro": "美国福陆公司(Fluor)宣布，已获得海湾石油化工工业公司授予的合同，将为巴林王国一座新建芳烃设施提供前端工程与设计服务。该项目将对GPIC位于锡特拉的综合体进行扩建...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq8991635.d.html",
+        "time": "1784662859",
+        "source": "新浪新闻"
+      },
+      {
         "title": "丹纳赫二季度业绩超预期 生命科学业务表现强劲",
         "intro": " 丹纳赫于7月21日公布2026年第二季度财报，营收和利润均超出市场预期，并上调全年每股收益指引，但受生物制药业务客户订单时间推迟影响，股价在周二尾盘交易中下跌11.5%。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2213442.d.html",
         "time": "1784662724",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Synchrony Financial二季度业绩：购买量创纪录，费用上升成隐忧",
-        "intro": " Synchrony Financial于7月21日发布的2026年第二季度财报显示，公司核心业务增长强劲，创下历史最高购买量纪录，但净利润受费用上升及信贷拨备增加影响，同比有所下滑。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfss8005483.d.html",
-        "time": "1784662507",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "HelloFresh新债遭大量做空 融券比例超10%",
-        "intro": " 德国餐包配送公司HelloFresh于7月1日发行的新债券在二级市场表现疲软，目前已有超过10%的债券可供借出，且几乎所有可供借出的债券均已被借出，显示投资者做空意愿强烈。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq8987701.d.html",
-        "time": "1784662418",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Garmin推出无屏健康手环Cirqa 挑战估值百亿的Whoop",
-        "intro": " Garmin于7月21日正式发布其首款无屏智能手环Cirqa Smart Band，以199.99美元的价格切入快速增长的无屏可穿戴设备市场，直接向估值达101亿美元的行业领军者Whoop发起挑战。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfss8003237.d.html",
-        "time": "1784662318",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Bloom Energy斩获17亿美元AI数据中心供电大单 股价飙升15%",
-        "intro": " 美国燃料电池公司Bloom Energy股价周二大涨15%，此前该公司宣布获得一笔17亿美元的项目投资，用于为AI云算力公司Nebius提供专属电力解决方案。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2209692.d.html",
-        "time": "1784662255",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特斯拉将Robotaxi服务扩展至奥兰多和坦帕",
-        "intro": " 特斯拉于7月21日宣布，将其无人驾驶出租车服务扩展至佛罗里达州的奥兰多和坦帕两市，此举正值该公司即将公布第二季度财报前夕。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq8985346.d.html",
-        "time": "1784662089",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "NEXTDC合同利用容量跃升11%至740兆瓦 股价应声上涨",
-        "intro": "澳大利亚数据中心运营商NEXTDC于7月21日宣布，在截至6月份的三个月内，公司新签客户合同推动合同利用容量增加73兆瓦，达到740兆瓦，环比增长11%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfss7999802.d.html",
-        "time": "1784661958",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "巴西数字银行Nubank收购Porto Real以获取银行牌照",
-        "intro": " 拉美领先的数字金融机构Nubank已达成协议，收购巴西Banco Porto Real de Investimentos S/A，以获取银行牌照，满足巴西央行新规要求。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfss7998928.d.html",
-        "time": "1784661880",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OKO与Shinsegae启动5亿美元奢华地产基金",
-        "intro": " 韩国零售巨头新世界集团与全球房地产开发商OKO集团宣布，将共同设立一只规模5亿美元的合资基金，专项用于开发奢华酒店及品牌住宅项目。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2204144.d.html",
-        "time": "1784661547",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "铠侠股价腰斩 分析师仍看好逾一倍上涨空间",
-        "intro": " 日本半导体巨头铠侠控股近期股价大幅下挫，自6月创下的历史高点已跌去逾一半，但多数分析师仍维持看涨观点，平均目标价较当前股价高出约130%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsu4771068.d.html",
-        "time": "1784661507",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "谷歌发布三款Gemini新模型 应对AI领域激烈竞争",
-        "intro": "面对日益激烈的人工智能市场竞争，谷歌于7月21日发布三款新的Gemini系列AI模型。 此次推出的三款模型各具特色。Gemini 3.6 Flash作为主力模型，在编程...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsq8979399.d.html",
-        "time": "1784661368",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普50%关税威胁预示美墨加协定谈判艰难",
-        "intro": "加拿大帝国商业银行指出，美国总统特朗普对加拿大发出的50%关税新威胁，或将成为北美贸易协定艰难谈判的起点。 白宫于7月20日宣布，将对加拿大乳制品、酒精...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2201127.d.html",
-        "time": "1784661192",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普似乎将推出一系列新关税，分析师称可能不会对市场造成太大冲击",
-        "intro": "预计美国总统特朗普本周将征收新的进口税，因为2月份开征的关税仅能维持150天。 特朗普政府官员正在利用其他法律授权，以接近总统唐纳德·特朗普一年多前推出的“解放日”关税...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsu4762012.d.html",
-        "time": "1784660806",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "内华达锂业宣布聘请Arrowhead为其提供企业接入和投资者推介服务",
-        "intro": "内华达锂业公司（Nevada Lithium Resources Inc．，多伦多证券交易所创业板代码：NVLH）宣布，已聘请Arrowhead Business and Investment Dec",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2193342.d.html",
-        "time": "1784660364",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Jason Canning出任CAMSO Construction与CEAT OHT副总裁兼国际销售负责人",
-        "intro": "建筑设备轮胎和履带高端品牌CAMSO Construction与CEAT Specialty今日宣布，任命Jason Canning为CAMSO Construction和CEAT OHT业务副总裁兼",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniirfsp2191631.d.html",
-        "time": "1784660126",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "尾盘：美股维持涨势 道指上涨360点",
-        "intro": " 北京时间7月22日凌晨，美股周二尾盘维持涨势，道指上涨360点。投资者正在权衡美伊战争升级的影响，并关注最新企业财报。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniiqzku8105054.d.html",
-        "time": "1784659900",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普会见黎巴嫩总统 讨论协助落实以黎停火协议",
-        "intro": " 美国总统特朗普表示，他会与黎巴嫩总统奥恩讨论如何协助落实由美国斡旋的以黎停火协议。目前，贝鲁特寻求获得援助，以遏制伊朗支持的真主党武装。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniiqzkr2320195.d.html",
-        "time": "1784659786",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伊朗称已部署新防空装备",
-        "intro": " 伊朗军方发言人Mohammad Akraminia报道，伊朗军队已部署新的防空装备，并修复了此前在美国和以色列的空袭中受损的作战系统。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniiqzkw4867429.d.html",
-        "time": "1784658800",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国银行对英镑态度转为中性 预计新首相将带来密集消息",
-        "intro": "美国银行策略师已软化了他们对英镑的“超出共识的看涨观点”，预计随着政治不确定性持续高企，英镑近期的涨幅将会回落。 由Kamal Sharma为首的策略师在报告中表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniiqzkr2295084.d.html",
-        "time": "1784656158",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "胡塞武装发出封锁威胁前 沙特从红海码头的原油出口创新高",
-        "intro": "在胡塞武装表示将对沙特阿拉伯实施海上封锁之前的数日和数周内，沙特从红海沿岸码头出口的原油创下历史新高。 在伊朗战争期间，沙特将石油出口从波斯湾改道至西海岸再运往...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniiqzks9071617.d.html",
-        "time": "1784656106",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "加拿大总理卡尼与特朗普同意在美国50%关税生效前加紧谈判",
-        "intro": "加拿大总理卡尼表示，他与美国总统特朗普已同意，在美国可能于下月对系列加拿大商品征收50%关税前，加快贸易谈判。 特朗普政府周一宣布，将加征上述关税，理由是美方认为...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniiqzkw4818596.d.html",
-        "time": "1784654128",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "互联网泡沫时代最致命投资误区正在重演，你的投资组合务必警惕、避开",
-        "intro": "核心要点 美股 “七大科技巨头” 带领科技板块推动大盘创下历史新高，但越来越多人担忧，当下市场环境与互联网泡沫破裂前夕高度相似。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniiqzkr2282001.d.html",
-        "time": "1784654026",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "微软投入数十亿美元，与欧洲Mistral共建GPU算力共享池",
-        "intro": " 两家企业周二联合宣布，微软将斥资数十亿美元采购英伟达 GPU，并计划与欧洲人工智能初创企业 Mistral 共享这批算力资源。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniiqzks9049502.d.html",
-        "time": "1784652550",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "陆川：AI在电影行业最大的价值，是将试错成本降到前所未有的水平",
-        "intro": "美国当地时间7月20日，由新浪财经联合美国中国总商会举办的“超越赛场——中美商业、人工智能与全球协作”私享会在纽约举行。导演、编剧...",
-        "url": "https://finance.sina.cn/chanjing/gdxw/2026-07-22/detail-iniiqvau9175598.d.html",
-        "time": "1784651645",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX 股价结束七日连跌，大幅反弹",
-        "intro": " 周二早盘，SpaceX 股价上涨近 6%，终结连续七个交易日的下跌行情。此前麦格理分析师维持 “跑赢大盘” 评级，建议投资者逢下跌布局。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniiqvat2394818.d.html",
-        "time": "1784650942",
         "source": "新浪新闻"
       }
     ]
