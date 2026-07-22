@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T16:24:15.878Z",
+  "updated": "2026-07-22T18:13:05.183Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,48 @@
     ],
     "finance": [
       {
+        "title": "美官员：特朗普政府正评估马里军事行动选项",
+        "intro": "据熟悉相关讨论的现任及前任美国官员透露，特朗普政府正评估在西非国家马里采取军事行动，以打击与基地组织有关联的武装团体“伊斯兰和穆斯林支持组织”（Jama‘at Nusrat...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-23/detail-iniitkrs7818088.d.html",
+        "time": "1784743809",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "GE Vernova公布最新季度财报后股价走低",
+        "intro": "GE Vernova于周三发布 2026 年第二季度财报。 尽管公司二季度营收达到 111 亿美元，但其股价跌幅一度超过 7%。 首席执行官斯科特・斯特拉齐克在新闻稿中表示：“公司手握...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-23/detail-iniiteiw4675400.d.html",
+        "time": "1784739823",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "亚马逊裁撤通用人工智能部门岗位",
+        "intro": "亚马逊对旗下通用人工智能（AGI）相关部门实施裁员。 公司并未披露本次裁员具体人数。此番最新一轮人员精简发生在英特尔近期启动裁员之后...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-23/detail-iniiteis8581727.d.html",
+        "time": "1784739672",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "小麦价格大涨 投资者担忧黑海地区的运输面临风险",
+        "intro": " 乌克兰和俄罗斯之间的袭击升级，引发市场对黑海这一重要粮食枢纽的出口运输受阻的担忧，小麦价格飙升至两年来最高水平。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-23/detail-iniiteiu7891917.d.html",
+        "time": "1784739077",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "企业财报提振欧洲股市 市场聚焦欧洲央行利率决策",
+        "intro": "风险偏好回升推动欧洲股市上涨，企业业绩整体向好提振了市场情绪，斯托克600指数20个行业板块中有15个上涨。 斯托克欧洲600指数在伦敦上涨0.6%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-23/detail-iniiteis8569142.d.html",
+        "time": "1784737753",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普拟对进口仿制药征关税：将如何影响药价、药企与药品供应链",
+        "intro": "核心要点 特朗普计划设立两年缓冲期，之后对进口仿制药最高征收 200% 关税，以此推动药品在美国本土生产。 仿制药企业利润率微薄，相比原研药企更难消化关税成本...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-23/detail-iniiteiu7876744.d.html",
+        "time": "1784737549",
+        "source": "新浪新闻"
+      },
+      {
         "title": "三星抢先苹果推出新款折叠屏手机并上调售价",
         "intro": "核心要点 三星周三发布 Galaxy Z Fold8 Ultra、Galaxy Z Fold8 以及 Galaxy Z Flip8 三款机型。 受存储芯片涨价影响，这家韩国科技巨头上调旗下折叠屏产品售",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-23/detail-iniiteis8565270.d.html",
@@ -539,48 +581,6 @@
         "intro": "来源：上市之家 近日，一则关于东山精密（002384）海外仓库光模块被盗、损失高达数千万美元的消息在市场上迅速发酵，引发投资者广泛关注。",
         "url": "https://finance.sina.cn/stock/ssgs/2026-07-22/detail-iniisxzy4729960.d.html",
         "time": "1784731811",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "大众加深与地平线合作，推进中国自动驾驶技术落地",
-        "intro": "L3 级自动驾驶功能预计自明年下半年开启装车交付地平线与大众自动驾驶合资公司 Carizon 携手研发自动驾驶技术 内容速览 大众汽车在华自动驾驶合资公司 Carizon 将深化与地...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniisxzu8654612.d.html",
-        "time": "1784731801",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "深夜，全线拉升！暴涨23%！AI“新贵”，利好突袭",
-        "intro": "芯片股探底回升！ 北京时间22日晚间，美股三大指数走势分化。存储板块探底回升，希捷科技涨近3%，西部数据涨近2%。其他芯片股也大幅拉升，费城半导体指数翻红...",
-        "url": "https://finance.sina.cn/2026-07-22/detail-iniisxzw7951635.d.html",
-        "time": "1784731740",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "纳斯达克小幅下行，市场静待特斯拉、谷歌财报出炉",
-        "intro": "受中东冲突与乌克兰战事从多个层面冲击能源市场、能源缓冲库存持续走低影响，国际油价今日大幅上涨。 国际基准布伦特原油期货价格，较 7 月初低点上涨逾 20 美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniisxzy4724574.d.html",
-        "time": "1784731680",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AMD与Anthropic签署重大芯片供应及投资协议",
-        "intro": "这项总规模 2 吉瓦算力合作涉及价值数百亿美元芯片；AMD 计划最高向 Anthropic 投资 50 亿美元AMD 首席执行官苏姿丰 内容速览 AMD 与 Anthropic 达成协议...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-22/detail-iniisxzu8653089.d.html",
-        "time": "1784731568",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "专访微亿智造董事长张志琦：在“人形狂欢”中保持冷静",
-        "intro": "来源：@华夏时报微博华夏时报记者 石飞月 上海报道在刚刚过去的2026世界人工智能大会（下称“2026WAIC”）上，一家工业物理AI厂商的展位吸引了不少观众的目光：一台具身质检...",
-        "url": "https://finance.sina.cn/2026-07-22/detail-iniisxzu8653245.d.html",
-        "time": "1784731549",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "利好不断，千亿存储龙头，董事长提议回购",
-        "intro": "今晚，又一批公司加入增持、回购“大军”。 其中，A股存储龙头佰维存储发布公告称，公司控股股东、实际控制人、董事长孙成思提议，公司以集中竞价方式回购股份...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-22/detail-iniisxzu8653502.d.html",
-        "time": "1784731502",
         "source": "新浪新闻"
       }
     ]
