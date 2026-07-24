@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T19:38:47.175Z",
+  "updated": "2026-07-24T21:11:06.963Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,97 @@
     ],
     "finance": [
       {
+        "title": "7月25日美股成交额前20：特斯拉遭遇2022年以来最大单周跌幅",
+        "intro": " 周五美股成交额第1名美光科技收跌6.90%，成交373.29亿美元。美光科技周五收跌，投资者在本周上涨后获利了结，同时来自中国内存芯片制造商的竞争加剧给该股带来压力。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiyccq9146398.d.html",
+        "time": "1784926118",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：布伦特原油脱离100美元高位 迹象显示红海航运仍在持续",
+        "intro": " 布伦特原油已从每桶100美元回落。尽管近期美伊敌对行动升级且白宫不断发出武力威胁，但石油仍能通过中东贸易航线运输。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiyccv1402442.d.html",
+        "time": "1784925963",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "马斯克的糟糕一周：特斯拉遭遇2022年以来最严重暴跌，SpaceX在星际飞船试飞前下跌",
+        "intro": "对埃隆·马斯克来说，这是糟糕的一周。 特斯拉周五(7月24日)收于313.03美元，本周暴跌近18%，创下自2022年以来最差的单周表现。SpaceX也延续跌势，五个交易日下跌7.2%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiyccx1413457.d.html",
+        "time": "1784924795",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：油价涨势止步 美国国债收复当周部分跌幅",
+        "intro": "美国国债周五收盘走高，扭转了持续一周的抛售行情。此前，这轮抛售在周四将除30年期以外的国债收益率推升至今年以来的最高水平。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiycct4617682.d.html",
+        "time": "1784924759",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月25日热门中概股多数下跌 台积电跌2.88%，阿里巴巴跌1.66%",
+        "intro": "7月25日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌0.66%。 上涨个股（按市值从高到低）：京东涨0.33%，中华电信涨1.02%，携程涨1.44%，富途控股涨0.40%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiyccq9124675.d.html",
+        "time": "1784924195",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月25日收盘：纳指跌逾0.6%芯片股普跌，道指录得连续第三周下跌",
+        "intro": " 北京时间7月25日凌晨，美股周五收盘涨跌不一，纳指收跌0.6%，英伟达、AMD与英特尔等芯片股构成拖累。三大股指本周均录得跌幅。投资者正在评估中东冲突的最新进展。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiyccv1387946.d.html",
+        "time": "1784923685",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "派拉蒙天舞与华纳兄弟探索合并暂停 直至法院作出裁决或2027年6月",
+        "intro": " 科罗拉多州总检察长Phil Weiser表示，提交给联邦法院的一项协议规定，派拉蒙天舞和华纳兄弟探索不得合并，直到法院作出裁决或2027年6月1日为止，以较早发生者为准。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiyccx1401146.d.html",
+        "time": "1784923613",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "红海、霍尔木兹与黑海战火升级，石油运输遭多线攻击",
+        "intro": "随着经济战被用作中东和欧洲日益升级的冲突中的武器，油轮在多条战线上正越来越多地遭受攻击。 本月以来，伊朗加大了对霍尔木兹海峡及其周边油轮的攻击力度...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiycct4610014.d.html",
+        "time": "1784923547",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "威瑞森二季度业绩超预期 AI协议有望带来数十亿美元收入",
+        "intro": "美国最大无线运营商威瑞森通信周五公布第二季度财报，调整后每股收益为1.30美元，超过市场预期的1.28美元。受业绩提振及人工智能基础设施相关增长前景推动...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiyccq9114878.d.html",
+        "time": "1784923182",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Waymo探索退出与Uber合作关系的方案",
+        "intro": "英媒援引多名不具名知情人士报道，Alphabet旗下自动驾驶公司Waymo正在研究退出与Uber合作的选项。 报道称，Waymo已在内部讨论终止目前与Uber签订的合作协议。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiyccq9107971.d.html",
+        "time": "1784922414",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "旅行者保险年内涨超30%创历史新高，华尔街密集下调评级",
+        "intro": "美国财产与意外险保险公司旅行者保险周五尾盘上涨10.95美元，涨幅2.91%，报387.32美元，股价创下历史新高。该股年内累计涨幅已超过30%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniiycct4602615.d.html",
+        "time": "1784922343",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "三星SK海力士借硅谷峰会推进8800亿美元AI布局",
+        "intro": "韩国半导体巨头三星电子和SK海力士正筹备在美国硅谷宣布多项重大AI合作协议，涉及高带宽内存（HBM）芯片的长期供应合同及AI数据中心投资。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvx1507850.d.html",
+        "time": "1784922057",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "互联网服务提供商Cogent因波长业务披露问题遭证券欺诈诉讼",
+        "intro": "全球互联网服务提供商Cogent Communications Holdings Inc．正面临一桩证券欺诈集体诉讼。该公司被指控在2024年2月29日至2026年5月1日的诉讼期内...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvz1514679.d.html",
+        "time": "1784921919",
+        "source": "新浪新闻"
+      },
+      {
         "title": "特许通讯二季度营收承压，移动业务成亮点",
         "intro": "美国第二大有线电视与宽带运营商特许通讯公司(Charter Communications Inc , CHTR)公布了2026年第二季度业绩。财报显示，公司当季总营收为135亿美元，同比下降1.7%.",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvs9231302.d.html",
@@ -490,97 +581,6 @@
         "intro": "以下是美股交易中受到关注的部分公司： 数据中心基础设施 —— 投资者纷纷撤出数据中心基础设施行业相关公司的股票，因市场对超大规模企业在人工智能方面的支出持续担忧。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvs9207862.d.html",
         "time": "1784919801",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "本周大型科技股领跌美股各板块",
-        "intro": " 通信服务和非必需消费品板块本周跌幅居前，两者均下跌约6%，因Alphabet和特斯拉的财报业绩拖累了这两个以大型科技股为主的板块。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvv4714052.d.html",
-        "time": "1784919689",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "有报道称特朗普“正考虑升级”与伊朗的冲突",
-        "intro": "周五尾盘交易时段，美国股市涨跌不一，此前有报道称总统唐纳德·特朗普正在考虑升级与伊朗的冲突。 据报道，特朗普定于周五与顾问及高级内阁成员会面...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvv4713706.d.html",
-        "time": "1784919614",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美股周五尾盘涨跌不一，标普500指数转跌，芯片股持续下跌",
-        "intro": " 北京时间7月25日凌晨，美股周五尾盘涨跌不一。标普500指数转跌，芯片股构成拖累，投资者同时正在评估中东冲突的最新进展。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvx1489621.d.html",
-        "time": "1784919432",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普威胁称，将对“掠夺”美国科技巨头的欧盟征收“高额关税”",
-        "intro": " 美国总统唐纳德·特朗普周五表示，其政府将对欧盟发起贸易调查，此举将取消对美国科技巨头征收的高额罚款，并很可能导致对这个27国集团征收“高额”关税。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvs9201448.d.html",
-        "time": "1784919083",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "应对企业成本管控与行业竞争 人工智能厂商Anthropic发布高性价比新模型",
-        "intro": "美国人工智能初创企业Anthropic于当地时间周五发布名为“Claude Opus 5”的全新人工智能模型。在当前企业客户日益注重AI部署成本、行业市场竞争不断加剧的背景下...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvv4710205.d.html",
-        "time": "1784918880",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "马斯克称社交平台“X”将开源全部底层代码并接受第三方审计",
-        "intro": "埃隆·马斯克日前在社交媒体平台发文宣布，在完成网络安全漏洞审查后，“X”平台将把包含底层系统在内的全部代码向社会开源，并邀请第三方独立机构对运行系统进行审计...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvz1475839.d.html",
-        "time": "1784918379",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "受通胀与地缘冲突推高债基影响 美国房贷利率升至近一年来高位",
-        "intro": "受地缘局势升级与通胀风险上升推动，作为美国住房抵押贷款基准的30期固定利率本周进一步走高，创下近11个月来的新高。市场分析认为...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvz1448269.d.html",
-        "time": "1784916056",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普敦促美国参议院于8月休会前通过预算决议",
-        "intro": " 美国总统特朗普在社交媒体发文，要求美国参议院在8月休会前通过一项预算决议。特朗普强调，该决议只需简单多数票即可获批，并将成为“美国历史上最具影响力的法案之一”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvs9158361.d.html",
-        "time": "1784915271",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "因发动机舱存在起火隐患 福特在美国紧急召回超56万辆烈马系列SUV",
-        "intro": " 因发动机舱内线束存在短路并引发火灾的安全隐患，美国福特汽车公司日前宣布在美国本土紧急召回565691辆烈马（Bronco）及烈马猛禽（Bronco Raptor）多用途越野车。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvs9157725.d.html",
-        "time": "1784915211",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "亚马逊25亿美元和解案赔偿申请即将在即 涉事消费者最高可获51美元退款",
-        "intro": "根据美国联邦贸易委员会（FTC）此前与亚马逊公司达成的和解协议，针对部分符合条件但尚未收到自动退款的亚马逊Prime会员，索赔申请窗口将于2026年7月27日正式关闭。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvv4681716.d.html",
-        "time": "1784914872",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "反垄断再重弹 欧盟对谷歌开出近10亿美元罚单 美称将实施关税反制",
-        "intro": "欧盟委员会宣布对美国科技巨头谷歌公司处以总计约10亿美元的反垄断罚款，并要求其整改搜索业务与应用商店运营模式。美方随即对欧方处罚行为表示强烈不满...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvs9149718.d.html",
-        "time": "1784914673",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "居民消费意愿趋弱挤压业绩 美国连锁超市艾伯森下调全财年盈利预期并重组业务",
-        "intro": "由于市场需求疲软及消费者开支趋于谨慎，美国知名连锁超市运营商艾伯森公司（Albertsons Companies）日前发布财报，宣布下调2026财年全年的业绩指引...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvz1431060.d.html",
-        "time": "1784914641",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国政府拟拨巨资重构科研体系 科学界担忧政治介入与资本化挤压基础研究",
-        "intro": "美国政府近日宣布启动名为“创世纪计划”（Genesis Mission）的重塑科研体系项目，计划拨付50亿美金资助数百项以人工智能（AI）为核心驱动力的科学研究。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-25/detail-iniixwvs9146429.d.html",
-        "time": "1784914478",
         "source": "新浪新闻"
       }
     ]
