@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T19:41:24.608Z",
+  "updated": "2026-07-28T21:13:41.816Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -42,7 +42,7 @@
       },
       {
         "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
-        "intro": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项���。\n  36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“5",
+        "intro": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。\n  36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561",
         "url": "<![CDATA[https://36kr.com/p/3913637793059968?f=rss]]>",
         "time": "",
         "source": "36氪"
@@ -409,6 +409,132 @@
     ],
     "finance": [
       {
+        "title": "原油：油价创2020年以来最大三日跌幅 中东紧张局势缓和",
+        "intro": "油价创下逾六年来最差三日表现，受中东局势缓和迹象增多影响，美国和伊朗均继续避免发动袭击。 布伦特在过去三个交易日下跌约16%，周二收于每桶84美元附近。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpt0145770.d.html",
+        "time": "1785272009",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月29日美股成交额前20：苹果市值首次触及5万亿美元",
+        "intro": " 周二美股成交额第1名美光科技收跌8.85%，成交475.47亿美元。美光等美股半导体股周二普遍下跌，跟随亚洲和欧洲的疲弱走势。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpv1749315.d.html",
+        "time": "1785272000",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：油价和科技股下跌推动国债上涨 国债标售暂告一段落",
+        "intro": "美国国债周二收涨，主要受油价继续回落推动。美国交易时段，科技股走弱以及世界大型企业联合会消费者信心指数意外下降，也为债市提供支撑。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpv1749050.d.html",
+        "time": "1785271913",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗：德黑兰和基辅在船只遇袭事件后均不寻求局势升级",
+        "intro": "伊朗外交部长阿拉格齐表示，乌克兰外长Andrii Sybiha向他保证，“对一艘伊朗船只的袭击并非蓄意”。 阿拉格齐周二早些时候与Sybiha通电话后，在社交平台发文作出上述表态。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpz2830858.d.html",
+        "time": "1785271875",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗外长与欧盟外交负责人通话讨论地区局势",
+        "intro": "伊朗外交部长阿拉格齐与欧盟外交政策负责人卡拉斯通电话，讨论最新的地区和国际局势。 双方还重点讨论了如何帮助缓和紧张局势并维护地区稳定与安全。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpz2830743.d.html",
+        "time": "1785271823",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月29日热门中概股多数上涨 汽车之家涨7.72%，慧荣科技跌9.42%",
+        "intro": "7月29日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高1.08%。 上涨个股（按市值从高到低）：阿里巴巴涨0.17%，拼多多涨1.01%，网易涨2.92%，京东涨2.71%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpt0137406.d.html",
+        "time": "1785270248",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月29日收盘：美股收盘涨跌不一，道指收高逾500点，板块轮动令芯片股承压",
+        "intro": "北京时间7月29日凌晨，美股周二收盘涨跌不一。受强劲财报、油价下跌以及资金从半导体板块轮动至市场其他板块的推动，道指收高逾500点。纳指小幅收跌。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpz2821725.d.html",
+        "time": "1785269389",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗：过去16-17天从未请求与美国谈判",
+        "intro": "伊朗副外长Kazem Gharibabadi表示：“我们从未请求与美国谈判，也没有向美方提出过停火请求。” 他称，是美国方面通过阿曼传话并提出了结束冲突的方案。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpv1734251.d.html",
+        "time": "1785269015",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "超过1100名顶尖AI企业员工联名呼吁华府放慢前沿人工智能发展步伐",
+        "intro": "在OpenAI披露其AI工具意外入侵另一家公司的内部系统后，超过1100名来自领先人工智能企业的员工签署了一份倡议书，呼吁美国政府支持建立一种机制...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpx6037710.d.html",
+        "time": "1785268961",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Visa计划裁员2600人 周二尾盘股价上涨1.6%",
+        "intro": "全球支付处理公司Visa股价在周二尾盘交易中上涨约1.6%，此前有报道称该公司计划裁减约7%的员工，涉及约2600个职位。这一消息来自彭博新闻社报道的一份员工备忘录。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpz2815733.d.html",
+        "time": "1785268205",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Radoff-JEC集团再提优化收购要约，每股现金2.55美元加CVR",
+        "intro": "投资集团Radoff-JEC于7月28日向生物技术公司Seer， Inc．提交了第四份优化的非约束性收购要约，提议以每股2.55美元现金加一项或有价值权收购公司全部股权。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpz2815031.d.html",
+        "time": "1785268103",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国数字金融服务平台SoFi与圣母大学达成多年期里程碑式合作协议",
+        "intro": "美国数字金融服务平台SoFi与圣母大学体育部宣布达成一项多年期合作协议。SoFi正式成为圣母大学体育部的官方金融服务合作伙伴，同时也是首个以球衣广告形式出现在该校所有运...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpz2814549.d.html",
+        "time": "1785268037",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "银行控股公司Third Coast Bancshares将敲响纽交所收盘钟",
+        "intro": "总部位于德克萨斯州的银行控股公司Third Coast Bancshares， Inc．宣布，公司创始人、董事长、总裁兼首席执行官将率董事会成员、高管团队及优秀员工代表...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpx6032222.d.html",
+        "time": "1785267974",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "金融服务公司Principal Financial Group获评全球残障包容领先企业",
+        "intro": " 金融服务公司Principal Financial Group近日宣布，凭借其在残障包容领域的卓越表现，被全球权威基准评测工具“残障指数”评为“世界顶级残障包容企业”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpx6031878.d.html",
+        "time": "1785267919",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "林德宣布2026年第三季度股息",
+        "intro": " 全球领先的工业气体和工程公司林德（Linde plc）周二宣布，其董事会已批准派发每股1.60美元的季度股息。该股息将于2026年9月17日支付给9月3日登记在册的股东。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpz2813400.d.html",
+        "time": "1785267852",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "医疗机器人公司PROCEPT BioRobotics因秘密折扣计划面临证券欺诈集体诉讼",
+        "intro": "医疗机器人公司PROCEPT BioRobotics正面临证券欺诈集体诉讼。该诉讼代表在2024年2月28日至2026年2月25日期间购买该公司股票的投资者提起...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpz2812947.d.html",
+        "time": "1785267780",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "富国银行宣布提高普通股季度股息",
+        "intro": "富国银行公司周二宣布，其董事会已批准将普通股季度股息提高至每股0.50美元，较此前的0.45美元增加0.05美元，涨幅为11%。该股息将于2026年9月1日支付给8月7日登记在册的股...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpv1723921.d.html",
+        "time": "1785267715",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "数据隐私非营利组织借助ZoomInfo实现捐赠翻倍",
+        "intro": "数据隐私非营利组织The Plunk Foundation在采用ZoomInfo平台约一年后，成功将捐款额翻倍。该基金会成立于2022年，致力于保护儿童和弱势群体的数据隐私...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpx6030343.d.html",
+        "time": "1785267681",
+        "source": "新浪新闻"
+      },
+      {
         "title": "Pathward Financial因财务披露问题面临证券欺诈调查",
         "intro": "Pathward Financial正面临证券欺诈调查，该公司股价此前因大额贷款损失拨备及可疑欺诈事件而大幅下挫。领先的证券欺诈诉讼律所Glancy Prongay Wolke &amp; Rotte",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpx6029967.d.html",
@@ -455,132 +581,6 @@
         "intro": "独立代理顾问机构Egan-Jones Ratings Company建议XAI浮动利率与另类收益信托的股东，在7月30日召开的股东特别大会上，投票否决将现任副投资顾问Octagon Credit...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpv1718920.d.html",
         "time": "1785267221",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "信达思宣布季度现金股息",
-        "intro": " 信达思公司（Cintas Corporation）董事会宣布，将派发每股普通股1.77美元的季度现金股息。此次季度股息与上一季度持平，体现了公司通过稳定派息持续回报股东的长期承诺。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpx6026155.d.html",
-        "time": "1785267082",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "能源基础设施有限合伙企业MPLX LP宣布季度现金分配",
-        "intro": "中游能源基础设施有限合伙企业MPLX LP董事会宣布，2026年第二季度每普通单位现金分配为1.0765美元，年化分配额为4.31美元。该分配将于2026年8月14日支付给8月7日登记在册的...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpt0113577.d.html",
-        "time": "1785267023",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "教育科技公司Liaison携手ZoomInfo，以ABM策略重构高等教育招生模式",
-        "intro": " 教育科技公司Liaison宣布与上市企业情报平台ZoomInfo达成合作，将其招生与营销工作全面转向基于客户的营销模式，以更精准、高效地触达潜在生源。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpt0112651.d.html",
-        "time": "1785266894",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "PSQ Holdings以550万美元现金出售EveryLife，聚焦金融科技核心业务",
-        "intro": "PSQ Holdings， Inc．宣布已达成一项最终协议，将其直营婴儿用品品牌EveryLife以550万美元现金出售给FreeHold Brands， LLC。该交易预计将于2026年9月30日前",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpx6025022.d.html",
-        "time": "1785266818",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "医疗机器人公司PROCEPT BioRobotics因折扣披露问题遭证券欺诈诉讼",
-        "intro": " 医疗机器人公司PROCEPT BioRobotics正面临证券欺诈集体诉讼。诉讼指控公司在披露一项未公开的折扣计划方面存在问题，导致其股价大幅下跌。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpz2806791.d.html",
-        "time": "1785266771",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "凯悦天地成Premier Lacrosse League官方酒店合作伙伴",
-        "intro": "凯悦旗下忠诚度计划“凯悦天地(World of Hyatt)”与Premier Lacrosse League及Women‘s Lacrosse League宣布达成一项多年合作协议，凯悦天地正式成为",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpx6024580.d.html",
-        "time": "1785266680",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Safety Insurance集团拟售交易引投资者调查，律所质疑价格与程序公正性",
-        "intro": "路易斯安那州知名律师事务所Kahn Swick &amp; Foti， LLC宣布，正在对安全保险集团公司（Safety Insurance Group ）拟议中的出售交易进行调查...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpv1714230.d.html",
-        "time": "1785266520",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "PayPal二季度业绩超预期并上调全年展望 转型计划初显成效",
-        "intro": " 支付巨头PayPal周二公布的第二季度财报显示，公司营收和利润均超出市场预期，并上调了全年盈利指引，表明新任CEO领导下推进的转型计划正取得初步进展。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpv1713609.d.html",
-        "time": "1785266405",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "多元化工业集团德事隆公司二季度营收增长3% 供应链挑战与员工短缺持续",
-        "intro": "多元化工业集团德事隆公司（Textron Inc ，TXT）周二公布的第二季度财报显示，受益于航空和防务业务的稳定需求，公司营收实现温和增长...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpv1713316.d.html",
-        "time": "1785266351",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "苹果市值首次触及5万亿美元",
-        "intro": "苹果周二盘中市值首次触及5万亿美元，此前一天刚刚超越英伟达成为市值最高的上市公司。 这家iPhone制造商将于周四公布季度业绩，其股价今年已上涨25%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpt0109436.d.html",
-        "time": "1785266293",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "保险经纪公司Brown & Brown Q2业绩喜忧参半 营收猛增三成但有机增长疲软",
-        "intro": "保险经纪公司Brown &amp; Brown周二公布的第二季度财报显示，受收购Accession驱动，总营收同比大增30.4%至约17亿美元，但剔除收购和或有佣金影响后...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpx6022610.d.html",
-        "time": "1785266248",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "马斯克旗下股票市值蒸发1.5万亿美元 SpaceX锁定期解除在即迎来新考验",
-        "intro": "对埃隆·马斯克来说，这是艰难的一个月——如果这个世界首富也会有“艰难”这回事的话。 自六月中旬以来，SpaceX和特斯拉的市值已累计蒸发1.5万亿美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikmcpz2804195.d.html",
-        "time": "1785266181",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "公用事业公司CenterPoint Energy Q2业绩稳健增长，上调资本计划至460亿美元",
-        "intro": " 公用事业公司CenterPoint Energy周二公布的第二季度财报显示，公司营收和利润均实现增长，同时宣布上调多年期资本投资计划，并重申了长期每股收益增长目标。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikkxfz6153053.d.html",
-        "time": "1785266175",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "药企因塞特展现强劲商业化势头 营收猛增38%并上调全年预期",
-        "intro": "生物制药公司因塞特（Incyte Corp （INCY））周二公布的第二季度财报显示，得益于核心产品的全面增长以及与政府就Opzelura返款纠纷达成和解带来的一次性收益...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikkxfz6152612.d.html",
-        "time": "1785266104",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "订单激增与数据中心需求强劲，开利上调全年业绩指引",
-        "intro": "智能气候与能源解决方案提供商开利全球公司周二公布的第二季度财报显示，公司营收和利润均超出市场预期，受益于数据中心需求带来的订单大幅增长...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikkxhc2933914.d.html",
-        "time": "1785266011",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "波音二季度营收与现金流均显著增长",
-        "intro": " 波音公司周二发布的2026年第二季度财报显示，得益于商用飞机交付量增加，公司营收和现金流均实现显著增长，但受“空军一号”项目新增成本拖累，盈利端远不及市场预期。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikkxhc2932009.d.html",
-        "time": "1785265813",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国电塔公司上调年度业绩指引，CoreSite租赁创新高",
-        "intro": "美国电塔公司（American Tower）周二公布的财报显示，第二季度营收和利润均超出市场预期，同时受益于数据中心的强劲表现和有利的汇率变动...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikkxhc2931002.d.html",
-        "time": "1785265715",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "传英伟达签署500亿美元德州数据中心租约",
-        "intro": "据多方报道，芯片巨头英伟达已与数据中心运营商Hut 8签署了一项长期租赁协议，租用其位于得克萨斯州Beacon Point的1吉瓦AI数据中心园区。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-29/detail-inikkxfv0233449.d.html",
-        "time": "1785265636",
         "source": "新浪新闻"
       }
     ]
