@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T20:18:07.631Z",
+  "updated": "2026-07-30T22:12:10.256Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,160 @@
     ],
     "finance": [
       {
+        "title": "大宗商品综述：油价下跌 铜价走高 金价续涨",
+        "intro": "油价下跌，有迹象显示霍尔木兹海峡运输量增加，抵消了市场对从伊朗到黑海地区新一轮冲突的担忧。铜价上涨，市场关注供应趋紧的迹象。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrvzt4671331.d.html",
+        "time": "1785449266",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "白宫国家经济委员会主任哈塞特：美国可能延续压低油价的措施",
+        "intro": "白宫国家经济委员会主任凯文·哈塞特表示，如有必要，美国可能继续采取压低油价的措施。 哈塞特在接受采访时作出上述表示。 他认为，美国采取的多项措施...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrvzr0957321.d.html",
+        "time": "1785448910",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "微软市值单日大增4500亿美元 创个股历史之最",
+        "intro": "微软周四创下股票市场历史纪录，市值单日增加约4500亿美元，创下单只股票有史以来最大单日市值增量。 该公司股价收盘飙升16%，创2008年10月以来最大涨幅...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrvzv1446143.d.html",
+        "time": "1785448445",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月31日外盘头条：亚马逊云业务营收大增37% OpenAI降价至多80%巩固市场 苹果iPhone销量同比大涨22%",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、战事外溢引发担忧 美参议员共和党再度阻挠终止对伊战争决议 2、求职要缴10万美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrvzt4662819.d.html",
+        "time": "1785448241",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：科技股推动大盘强势反弹 微软股价大涨",
+        "intro": "科技股反弹推动美国股市周四上涨。微软股价收涨16%，创2008年10月以来最大单日涨幅。 标普500指数上涨1.7%，收复了周三的急剧跌幅。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrvzt4662086.d.html",
+        "time": "1785448146",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "应对成本竞争压力 OpenAI降价至多80%巩固市场",
+        "intro": "OpenAI于周四宣布下调两款最新人工智能模型GPT-5.6Terra与GPT-5.6Luna的定价，距离两款模型公开发布仅约三周。 企业客户对成本愈发敏感，若无法清晰看到投资回报...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrvzv1438890.d.html",
+        "time": "1785447509",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "战事外溢引发担忧 美参议员共和党再度阻挠终止对伊战争决议",
+        "intro": " 尽管越来越多共和党人对战事扩大及其对能源价格造成的影响感到不安，美国参议院共和党议员仍在周四否决了一项要求特朗普总统撤出卷入对伊朗敌对行动美军的决议案。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrvzt4653446.d.html",
+        "time": "1785447117",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "iPhone销量同比大涨22% 苹果Q3利润超预期",
+        "intro": " 苹果发布第三财季财报，受iPhone销量同比大涨22%拉动，利润与营收均超出市场预期；但由于服务业务营收不及预估，公司盘后股价下跌4%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrvzr0933395.d.html",
+        "time": "1785446888",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "油价维持高位之际 特朗普政府计划重启多家停产炼油厂",
+        "intro": " 受伊朗战事推高汽油价格影响，特朗普政府计划重启多家已关停的炼油厂，其中就包括维尔京群岛一座运营陷入困境的炼油设施。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrvzr0931809.d.html",
+        "time": "1785446758",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "以色列称炸毁黎南部博福特岭地区地下通道设施",
+        "intro": "当地时间7月31日凌晨，以色列总理办公室通过社交媒体发布声明称，根据以总理内塔尼亚胡和国防部长卡茨的指令，以色列国防军当天拆毁了黎巴嫩南部博福特岭地区的地下通道设...",
+        "url": "https://finance.sina.cn/2026-07-31/detail-inikrvzv1436289.d.html",
+        "time": "1785446651",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "报道：日本干预汇市 美国也进行汇率询价",
+        "intro": "据报道援引市场参与者称，日本政府和日本央行周四在美国交易时段干预了外汇市场，并且美国当局也进行了汇率询价。 报道称，日本实施了大规模买入日元的汇市干预。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrvzr0926972.d.html",
+        "time": "1785446403",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "求职要缴10万美元 特朗普酝酿对毕业后想留在美国的外国学生收费",
+        "intro": "据一位知情人士透露，特朗普政府正在考虑向国际生收取10万美元以换取其毕业后留在美国工作的计划。 此举若实施可能会对已受到近期移民政策打击的学生签证持有者造成更严重...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtx1548467.d.html",
+        "time": "1785445205",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：WTI下跌 交易员权衡霍尔木兹海峡运输量回升与美伊冲突影响",
+        "intro": "原油下跌，夏季交易清淡，有迹象显示霍尔木兹海峡运输量增加，抵消了市场对从伊朗到黑海地区新一轮冲突的担忧。 WTI原油下跌1%，结算价在每桶84美元下方；布伦特原油收于每...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtv4766422.d.html",
+        "time": "1785445177",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Rivian汽车业务营收增23% R2 SUV开启交付",
+        "intro": "Rivian汽车公司在周四盘后发布第二季度财报时，下调了其2026年支出计划，并小幅收窄此前预测的本年度亏损规模。 更新后的指引显示，调整后亏损区间为18亿至20亿美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtx1548222.d.html",
+        "time": "1785445134",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月31日美股成交额前20：微软股价创18年来最佳单日表现",
+        "intro": "周四美股成交额第1名美光科技收高18.32%，成交511.58亿美元。周四，闪迪、美光及其他芯片制造商的股价大幅飙升。微软关于人工智能投资的“负责任”表态...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt1040264.d.html",
+        "time": "1785444892",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "西班牙关闭梅利利亚与摩洛哥边境口岸",
+        "intro": "当地时间7月30日，西班牙政府宣布，北非自治市梅利利亚与摩洛哥之间唯一开放的贝尼恩萨尔（Beni Enzar）边境口岸已关闭。当地政府呼吁民众不要前往边境区域...",
+        "url": "https://finance.sina.cn/2026-07-31/detail-inikrvzv1435598.d.html",
+        "time": "1785444258",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：美债涨跌互现 收益率曲线进一步趋陡",
+        "intro": "美国国债延续了周三美联储政策会议引发的收益率曲线大幅陡峭化走势。长债收益率日内小幅上升，而短期国债和中期国债受到英国国债飙升的支撑...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtq9432086.d.html",
+        "time": "1785444241",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "亚马逊第二季度云业务营收大增37% 创2021年以来最高增速",
+        "intro": "亚马逊第二季度云业务营收增速大幅超出分析师预期，同比增幅接近37%，创下2021年以来最高单季增长水平。 这家电商巨头在周四发布的财报公告中披露...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtv4762060.d.html",
+        "time": "1785444038",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "IMF总裁：石油冲击或将引发衰退的风险仍持续存在",
+        "intro": "国际货币基金组织总裁克里斯塔利娜・格奥尔基耶娃在一场活动上表示，尽管霍尔木兹海峡若迅速恢复通航，冲突带来的影响将相对有限...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtx1542944.d.html",
+        "time": "1785443769",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "亚马逊Q2营收超预期 盘后股价大涨超9%",
+        "intro": "亚马逊发布第二季度财报，营收与云业务增长均超市场预期，盘后股价大涨超9%。 以下为公司实际业绩与路孚特（LSEG）调研分析师一致预期对比： 每股收益：5.75美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt1029947.d.html",
+        "time": "1785443504",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "7月31日热门中概股多数上涨 台积电涨7.63%，理想汽车跌2.25%",
+        "intro": "7月31日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高1.05%。 上涨个股（按市值从高到低）：台积电涨7.63%，阿里巴巴涨1.10%，网易涨1.76%，日月光半导体涨11...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtv4758783.d.html",
+        "time": "1785443217",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "对冲基金Situational Awareness资产规模降至100亿美元 此前城堡介入",
+        "intro": " Leopold Aschenbrenner旗下对冲基金Situational Awareness的资产规模已降至约100亿美元，此前Ken Griffin旗下城堡接手该基金持有的大部分股票头寸。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt1023482.d.html",
+        "time": "1785442716",
+        "source": "新浪新闻"
+      },
+      {
         "title": "7月31日收盘：美股收高纳指涨约680点 微软收高15.5%创18年来最大涨幅",
         "intro": " 北京时间7月31日凌晨，美股周四收高，科技股领涨，纳指上涨约680点。在经历了周三的显著下跌后，主要股指在微软和芯片股带动下反弹。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtx1535815.d.html",
@@ -427,160 +581,6 @@
         "intro": "据知情人士透露，一家为Anthropic配套服务的数据中心开发商正进入最终磋商阶段，计划融资150亿美元，在得克萨斯州建设大型算力园区及自备发电厂；谷歌将为此提供财务担保并...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtq9412178.d.html",
         "time": "1785441935",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "马斯克将投入至少1亿美元助力共和党中期选举",
-        "intro": " 马斯克一年前曾对共和党表达强烈不满，并扬言要组建第三政党，如今他似乎重回共和党阵营，准备在中期选举中豪掷重金助力共和党候选人。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtq9405366.d.html",
-        "time": "1785441183",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI下调两款GPT-5.6模型价格，因企业成本意识增强",
-        "intro": "OpenAI周四宣布，对其最新人工智能模型GPT-5.6 Terra和GPT-5.6 Luna进行降价，距其公开发布仅约三周时间。 该公司正面临压力，需满足对成本更为敏感的客户群体...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt1003479.d.html",
-        "time": "1785440502",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧足联威胁国际足联：若推进私募股权计划，将抵制世界杯",
-        "intro": " 欧洲足球管理机构欧足联（UEFA）周四表示，如果国际足联（FIFA）继续推进向私人投资者出售其商业业务股权的计划，欧足联将抵制包括世界杯在内的国际足联赛事。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtq9399139.d.html",
-        "time": "1785440407",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Nymex原油近月合约周四下跌1.03%，收于每桶83.59美元",
-        "intro": "今日Nymex原油9月交割合约每桶下跌0.87美元，跌幅1.03%，收于83.59美元。 过去五个交易日中四个交易日下跌。 较2026年4月7日（周二）创下的52周高点112.95美元下跌25...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt0997671.d.html",
-        "time": "1785439783",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "ICE布伦特原油近月合约周四下跌1.88%，收于每桶89.03美元",
-        "intro": "今日ICE布伦特原油9月交割合约每桶下跌1.71美元，跌幅1.88%，收于89.03美元。 过去五个交易日中四个交易日下跌。 较2026年3月31日（周二）创下的52周高点118.35美元下跌24..",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtx1523818.d.html",
-        "time": "1785439690",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国抵押贷款利率跃升至一年来最高水平，且几无回落迹象",
-        "intro": "美国30年期抵押贷款利率再创2026年新高。政治和经济发展正推高抵押贷款利率。 购房者迎来更多坏消息：抵押贷款利率跃升至今年新高，使得申请住房贷款的成本进一步增加。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt0996055.d.html",
-        "time": "1785439576",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国大学生正搬进养老社区，原因不止“廉价房租”",
-        "intro": "作者：Jessica Hall 学生们在规划游戏之夜和教授健身课程的同时，也在建立代际纽带，但“到了晚上7点半或8点，这里就变得很安静了。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtv4741091.d.html",
-        "time": "1785439507",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国环孢子虫疫情规模创历史之最，为何“异常”疫情如此难以控制？",
-        "intro": "环孢子虫病季节通常在8月结束，但专家表示此次疫情可能比往年持续更久。 美国今夏正应对多起可能的环孢子虫寄生虫疫情，其中欧芹可能是部分感染的源头。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt0994191.d.html",
-        "time": "1785439325",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国社会保障最大问题并非设计缺陷，而是缺失的信托基金",
-        "intro": "美国社会保障缴费并未用于投资，而是用于支付当前退休人员的福利。 政策制定者是否应寻求工资税以外的途径来弥补这一缺口？ 在思考如何修复社会保障体系时...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtv4739959.d.html",
-        "time": "1785439230",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "微软财报提振美光、闪迪等芯片股大幅上涨",
-        "intro": " 周四，闪迪、美光及其他芯片制造商的股价大幅飙升。微软关于人工智能投资的“负责任”表态，对接受其支出的公司而言似乎是利好消息。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt0991058.d.html",
-        "time": "1785438954",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储主席沃什的华尔街信誉受损，投资者质疑其抗击通胀的决心",
-        "intro": "新任美联储主席凯文·沃什上任仅数月，便已招致众多质疑者。股票和债券投资者对这位美联储主席缺乏沟通表示不满。 沃什坚称，美联储将不惜一切代价将美国通胀率降至2%的目标...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtv4738039.d.html",
-        "time": "1785438854",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "墨西哥经济第二季度反弹——部分得益于足球世界杯",
-        "intro": "墨西哥经济活动在第二季度实现广泛复苏，扭转了年初的疲弱开局，部分得益于该国联合主办2026年足球世界杯。 国家统计局Inegi周四表示，经季节性调整后...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtv4737651.d.html",
-        "time": "1785438758",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "白宫贸易顾问纳瓦罗：如果市场趋势持续 美联储应考虑降息",
-        "intro": "白宫贸易顾问彼得·纳瓦罗表示，如果当前市场趋势持续，美联储应考虑降息。 纳瓦罗在RealClearMarkets发表的评论文章中表示。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtx1519041.d.html",
-        "time": "1785438644",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "意大利国家电力公司上半年营收409.2亿欧元 国际业务推动盈利增长",
-        "intro": " 意大利国家电力公司（Enel）公布上半年盈利增长，得益于西班牙和拉丁美洲业务的稳健表现，抵消了意大利本土利润率下降的影响。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt0987481.d.html",
-        "time": "1785438576",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Perpetua Resources获美国陆军支持开设锑试点工厂，股价尾盘上涨7.5%",
-        "intro": "美国矿业公司Perpetua Resources股价周四尾盘上涨约7.5%，此前该公司宣布已与美国陆军和爱达荷国家实验室合作开设一家试点加工厂...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtq9382734.d.html",
-        "time": "1785438484",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国企业内部人士的悲观程度创下逾20年之最",
-        "intro": "美国企业高管和董事对公司股票的内部交易行为正释放出强烈的看跌信号，这通常预示着市场可能即将面临压力。 内部人士的悲观情绪已达到数十年来的最高点，而这值得警惕...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt0985244.d.html",
-        "time": "1785438363",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "三菱汽车在美国开设首家Gallery经销店",
-        "intro": "三菱汽车北美公司（MMNA）周四在纳什维尔都会区为旗下首家美国Gallery经销店举行开业典礼。该门店位于安条克的Century Farms开发区...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtq9380444.d.html",
-        "time": "1785438245",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "中东冲突升级，柴油重回关注焦点",
-        "intro": "随着秋季需求旺季临近，供应担忧加剧，中东冲突的再度升级正使柴油价格受到更大冲击。 荷兰合作银行高级能源策略师Joe DeLaura表示：“我们现在正面临柴油供应紧张...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrmmz1647058.d.html",
-        "time": "1785438150",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Meta披露未来支出承诺近7000亿美元 涉AI数据中心及云计算",
-        "intro": " Meta Platforms Inc．表示，公司已通过长期和短期协议承诺未来投入近7000亿美元，用于人工智能数据中心、云计算和其他领域。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrrtt0989176.d.html",
-        "time": "1785438033",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "卢平获FDA批准，在美上市默沙东Bridion仿制药",
-        "intro": "卢平有限公司（Lupin Ltd．）表示，在获得美国食品药品监督管理局（FDA）批准后，其已在美上市默沙东公司（Merck &amp; Co．）一款注射剂的仿制药...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrmmz1646257.d.html",
-        "time": "1785438023",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Corebridge Financial与Equitable Holdings股东批准合并",
-        "intro": "Corebridge Financial与Equitable Holdings两家金融服务公司的股东均已投票批准了双方拟议的合并。 两家公司周四援引初步计票结果表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrmms9507900.d.html",
-        "time": "1785437910",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Comex近月黄金结算价周四上涨1.58%，报4100.10美元",
-        "intro": "近月Comex黄金8月合约（新近月合约）今日每盎司上涨63.80美元，涨幅1.58%，收于4100.10美元。 创2026年7月22日（星期三）以来最大单日美元和百分比涨幅。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrmmz1645554.d.html",
-        "time": "1785437845",
         "source": "新浪新闻"
       }
     ]
