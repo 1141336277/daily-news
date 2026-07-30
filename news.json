@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T16:40:33.700Z",
+  "updated": "2026-07-30T18:21:33.312Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,48 @@
     ],
     "finance": [
       {
+        "title": "欧洲债市：英国国债飙升 因英国央行行长发表鸽派言论",
+        "intro": "短期英国国债上涨，此前英国央行维持利率不变，并令市场对其正准备加息的猜测降温。短期德国国债跟随美国国债走高。 2年期英国国债收益率一度大跌12个基点，至4.33%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrmmx4832418.d.html",
+        "time": "1785431260",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国对伊朗发动新一轮打击 冲突在中东蔓延",
+        "intro": "美伊持续五个月的战争再度升温，双方彼此交火，敌对行动现已在中东多地蔓延。 美国中央司令部在社交平台X上发帖称，美军在周四早些时候的行动中打击了数十个军事目标...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrmmz1614073.d.html",
+        "time": "1785431188",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "日元急涨引发日本再度干预汇市猜测 分析师称“顺势出手”时机聪明",
+        "intro": "日元兑美元一度飙升逾3%，创2023年12月以来最大涨幅，引发市场猜测日本当局再次出手干预汇市。 周四纽约交易时段，日元兑美元一度上涨3.3%，升至157.98日元兑1美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrmmv1051110.d.html",
+        "time": "1785430792",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "AI数据中心建设热潮、能源安全焦虑带动ESG基金再度回暖",
+        "intro": " 晨星周四发布最新报告显示，受投资者青睐电力基建与可再生能源板块推动，美国可持续投资基金二季度迎来 2022 年以来首次资金净流入。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrmmz1610559.d.html",
+        "time": "1785430449",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "阿波罗全球管理经济学家：AI拉低薪资增速，但并未造成大规模裁员",
+        "intro": "阿波罗全球管理的经济学家托尔斯滕・斯洛科、萨尼亚・埃德利奇于周四发布研究，为人工智能对劳动力市场的影响补充了新实证：过去三年，容易被人工智能冲击的岗位薪资涨幅...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrmmv1047518.d.html",
+        "time": "1785430340",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽交所母公司洲际交易所同意以约60亿美元收购MarketAxess",
+        "intro": " 纽约证券交易所母公司洲际交易所同意以约60亿美元现金收购MarketAxess Holdings Inc．，将全球最大的固定收益交易平台之一纳入旗下交易平台体系。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrmms9443795.d.html",
+        "time": "1785430325",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美联储决议后首批数据发布 长期美债收益率守住大部分涨幅",
         "intro": " 长期美国国债收益率守住本周美联储决议后录得的大部分涨幅，一系列美国经济数据显示通胀仍然高企且劳动力市场具有韧性。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-inikrfcz4954676.d.html",
@@ -539,48 +581,6 @@
         "intro": "金融科技平台财捷（Intuit）近日宣布与美国大学理事会（College Board）达成合作，将为全新推出的AP商业与个人理财课程提供免费的补充教学资源与实用工具。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-30/detail-inikrfcz4932046.d.html",
         "time": "1785424999",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "第一太阳能公司发布2026年责任报告：本土制造创造多重价值",
-        "intro": " 美国领先的太阳能技术与制造公司第一太阳能公司（First Solar）近日发布2026年企业责任报告，阐述了其在美国本土的制造与供应链如何创造持久的经济与社区价值。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-30/detail-inikrfcu9529819.d.html",
-        "time": "1785424554",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "日元兑美元跳涨至两月新高，市场猜测日本当局或已干预",
-        "intro": " 周四，日元兑美元汇率跳涨3%，触及两月高位，引发市场强烈猜测日本政府可能已出手干预以支撑日元。此前，日本官员加强了对可能加速国内通胀的投机性波动的口头警告。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-30/detail-inikrfcx1132961.d.html",
-        "time": "1785424494",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "消费者转向廉价香烟，奥驰亚第二季度利润下滑",
-        "intro": "奥驰亚集团（Altria Group）第二季度利润出现下滑，主要原因是消费者在高通胀压力下转向购买价格更低的香烟产品。 公司周四公布的数据显示，当季折扣香烟销量飙升67%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-30/detail-inikrfcu9527748.d.html",
-        "time": "1785424282",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "赛诺菲CEO坦言管线挑战，股价大幅下跌",
-        "intro": "法国制药巨头赛诺菲（Sanofi）股价周四在欧洲午后交易中下跌9%，有望创下近三年来最大单日跌幅。此前，公司新任首席执行官贝伦·加里霍（Belen...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-30/detail-inikrfcz4926192.d.html",
-        "time": "1785424039",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "能源需求增长背景下Williams关键可持续发展指标改善",
-        "intro": " Williams（NYSE： WMB）发布2025年可持续发展报告，披露在能源基础设施需求激增的同时，公司在环境、安全及运营等关键可持续发展指标上均实现改善。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-30/detail-inikrfec1707603.d.html",
-        "time": "1785423921",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国联邦《无意外法案》争议量创新高，Claritev凸显市场领导地位",
-        "intro": "根据美国医疗保险和医疗补助服务中心（CMS）最新发布的2025年数据，联邦独立争议解决（IDR）机制处理的争议数量创下历史新高，全年争议申请量超过250万件...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-30/detail-inikrfec1707275.d.html",
-        "time": "1785423858",
         "source": "新浪新闻"
       }
     ]
