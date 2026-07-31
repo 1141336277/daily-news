@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T13:00:28.684Z",
+  "updated": "2026-07-31T16:03:26.793Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -19,6 +19,13 @@
   },
   "news": {
     "hot": [
+      {
+        "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+        "intro": "文｜王欣逸\n  编辑｜张雨忻\n  &nbsp;\n  一句话介绍\n  国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。\n  主动智能，指的是",
+        "url": "<![CDATA[https://36kr.com/p/3919386961177985?f=rss]]>",
+        "time": "",
+        "source": "36氪"
+      },
       {
         "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
         "intro": "文｜王毓婵 兰杰\n  编辑｜乔芊\n  36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。\n  36氪就此事向B站方面求证，对方暂无回应。\n  \n  曾爱",
@@ -44,13 +51,6 @@
         "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
         "intro": "文｜张子怡\n  编辑｜袁斯来\n  随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。\n  前不久，全球支付平台PingPong联合产业",
         "url": "<![CDATA[https://36kr.com/p/3919301778288261?f=rss]]>",
-        "time": "",
-        "source": "36氪"
-      },
-      {
-        "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
-        "intro": "你的创业想法，值得被看见\n  有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。\n  我们发现，每位创业者关注的重点都不一样",
-        "url": "<![CDATA[https://36kr.com/p/3919112515956355?f=rss]]>",
         "time": "",
         "source": "36氪"
       },
@@ -409,178 +409,178 @@
     ],
     "finance": [
       {
-        "title": "加拿大5月GDP环比增长0.3%",
-        "intro": "受油气活动扩张推动，加拿大经济连续第二个月实现增长。 加拿大统计局周五表示，国内生产总值（衡量经济中商品和服务生产的广泛指标）环比增长0.3%，达到2...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcuw9326351.d.html",
-        "time": "1785502770",
+        "title": "反对按兵不动 达拉斯联储行长警告称不行动难达2%通胀目标",
+        "intro": " 达拉斯联储行长洛丽·洛根表示，她对美联储维持利率不变的决定持异议是因为她认为，如果央行不采取行动，通胀将无法回落至官员设定的2%目标。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktqkx4279897.d.html",
+        "time": "1785513505",
         "source": "新浪新闻"
       },
       {
-        "title": "三位美联储异议者发声：为何他们支持加息",
-        "intro": "克利夫兰联邦储备银行行长Beth Hammack一直是支持加息以遏制高通胀的坚定拥护者。 本周美联储内部三位投反对票的决策者表示，他们担心除非央行采取更果断的行动来控制物价...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcuz0928779.d.html",
-        "time": "1785502658",
+        "title": "斯特兰蒂斯将在美召回约127万辆公羊1500皮卡",
+        "intro": " 克莱斯勒母公司斯特兰蒂斯(Stellantis)周五表示，将在美国主动召回约127万辆公羊(Ram) 1500皮卡，以解决安全带固定装置问题。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktqks9192517.d.html",
+        "time": "1785513202",
         "source": "新浪新闻"
       },
       {
-        "title": "帝国石油公司第二季度利润因原油价格和供应波动而上升",
-        "intro": "加拿大帝国石油公司第二季度利润大幅增长，得益于原油供应波动和中东冲突导致的价格上涨，抵消了产量下降的影响。 这家加拿大能源公司公布净利润跃升至21.9亿加元（约合15...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcvc4450617.d.html",
-        "time": "1785502521",
+        "title": "埃森哲与IBM携手裕信银行，共建长期技术合作伙伴关系",
+        "intro": " 埃森哲与IBM周五宣布，已与意大利裕信银行达成一项长期战略合作协议，旨在对该银行的技术基础设施进行现代化改造，并支持其在整个欧洲的人工智能发展计划。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktqks9182920.d.html",
+        "time": "1785512327",
         "source": "新浪新闻"
       },
       {
-        "title": "江西银行获批发行不超过110亿元的资本工具",
-        "intro": " 7月31日金融一线消息，江西金融监管局发布《关于江西银行发行资本工具的批复》，同意该行发行不超过110亿元人民币的资本工具，品种为无固定期限资本债券、二级资本债券。",
-        "url": "https://finance.sina.cn/2026-07-31/detail-iniktcvc4449366.d.html",
-        "time": "1785502390",
+        "title": "亚马逊财报重塑AI支出辩论：强劲回报支撑巨额投资",
+        "intro": "亚马逊第二季度财报以强劲的业绩表现为围绕AI基础设施巨额投资的争论提供了新的论据。财报显示，其云计算部门AWS收入同比增长36.7%至422亿美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktqks9181908.d.html",
+        "time": "1785512238",
         "source": "新浪新闻"
       },
       {
-        "title": "林媛媛获批担任前海再保险董事",
-        "intro": " 7月31日金融一线消息，深圳金融监管局发布《关于林媛媛前海再保险股份有限公司董事任职资格的批复》，核准林媛媛前海再保险股份有限公司董事的任职资格。",
-        "url": "https://finance.sina.cn/insurance/gsdt/2026-07-31/detail-iniktcvf1230269.d.html",
-        "time": "1785502283",
+        "title": "假票据疑云笼罩Radiant World 贸易巨头中止往来 债权银行评估敞口",
+        "intro": "据知情人士透露，维多集团和嘉吉公司已停止与私营企业Radiant World开展交易，嘉能可也不再与该公司开展新业务。Radiant World近年来迅速崛起...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4399407.d.html",
+        "time": "1785511671",
         "source": "新浪新闻"
       },
       {
-        "title": "韩国釜山国立大学研究以多功能膜推进太阳能海水淡化",
-        "intro": "随着全球人口增长和工业扩张，非洲、中东和东南亚许多国家正面临淡水短缺危机。寻找可持续的清洁水生产方式已成为当务之急，而太阳能海水淡化可能是最有前景的途径之一。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcuz0923725.d.html",
-        "time": "1785502269",
+        "title": "密歇根大学7月消费者信心回升至55.2",
+        "intro": "根据密歇根大学月度调查的最终结果，随着汽油价格回落，7月份消费者信心有所改善。 调查的信心指数从6月份的49.5升至7月份的55.2。本月早些时候的初读值为54.4。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1177060.d.html",
+        "time": "1785510960",
         "source": "新浪新闻"
       },
       {
-        "title": "王莹获批担任比亚迪财险审计责任人",
-        "intro": " 7月31日金融一线消息，深圳金融监管局发布《关于王莹深圳比亚迪财产保险有限公司审计责任人任职资格的批复》，核准王莹深圳比亚迪财产保险有限公司审计责任人的任职资格。",
-        "url": "https://finance.sina.cn/insurance/gsdt/2026-07-31/detail-iniktcvf1229785.d.html",
-        "time": "1785502230",
+        "title": "西屋电气秘密递交IPO上市申请",
+        "intro": "布鲁克菲尔德资产管理持有西屋电气 51% 股份，卡梅科持有剩余 49% 股份中国国际进口博览会上的西屋电气标识 核心速览 西屋电气已向美国证券交易委员会秘密提交 IPO...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkau9293188.d.html",
+        "time": "1785510382",
         "source": "新浪新闻"
       },
       {
-        "title": "建行公示个贷年化综合融资成本上限：房贷上限为LPR+0.5% 个人消费贷款上限为6%",
-        "intro": "7月31日金融一线消息，建设银行今日发布个人贷款正常履约年化综合融资成本上限公示。公示表示，该行发放的个人贷款实行差异化定价。",
-        "url": "https://finance.sina.cn/2026-07-31/detail-iniktcuz0921345.d.html",
-        "time": "1785502102",
+        "title": "苹果拖累科技板块，单日市值将蒸发逾3000亿美元",
+        "intro": "美股周五早盘，美国科技股与苹果公司同步下滑，这家iPhone制造商因最新业绩展望令投资者失望而遭遇抛售。苹果市值近期已蒸发约3727亿美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1170570.d.html",
+        "time": "1785510062",
         "source": "新浪新闻"
       },
       {
-        "title": "莫德纳下调财测，盘前股价走低",
-        "intro": "莫德纳（Moderna）周五盘前交易下跌逾2%，此前该公司公布了第二季度财报并下调了本年度的部分财务预测。 这家生物技术公司公布每股收益为1.97美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcuz0919424.d.html",
-        "time": "1785501957",
+        "title": "艾伯维因收购下调业绩预期，本季度利润大幅攀升",
+        "intro": "这家制药企业更新全年调整后每股收益预期至 13.87~14.07 美元，此前指引为 13.91~14.11 美元艾伯维下调全年调整后盈利预期。 核心摘要 受拟斥资 109 亿美元收购 Apogee..",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1170509.d.html",
+        "time": "1785510056",
         "source": "新浪新闻"
       },
       {
-        "title": "盘前：纳指期货涨0.94% 亚马逊大涨13%",
-        "intro": "全球股市周五上涨，科技股反弹势头延续，芯片股回升推动市场继续走高，并以积极表现结束这个月。此前，今年最热门的交易之一——AI相关股票——经历了大幅估值下调。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcuw9322246.d.html",
-        "time": "1785501034",
+        "title": "Stifel下调Alnylam目标价至318美元，维持买入评级",
+        "intro": " 投资机构Stifel近日更新了对生物制药公司Alnylam Pharmaceuticals的评级，将其目标股价从444美元下调至318美元，同时维持买入评级。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkax0889936.d.html",
+        "time": "1785509750",
         "source": "新浪新闻"
       },
       {
-        "title": "能源市场动荡，大型石油巨头赚得盆满钵满",
-        "intro": "霍尔木兹海峡长期通航受阻推高能源价格，埃克森美孚利润翻倍，雪佛龙创下史上最高单季盈利加州帕萨迪纳市 5 月一处雪佛龙加油站 内容速览 能源价格暴涨...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcuz0906328.d.html",
-        "time": "1785501026",
+        "title": "Benchmark下调Strategy目标价至435美元，维持买入评级",
+        "intro": "投资机构Benchmark近日更新了对Strategy的评级，将其目标股价从此前的570美元下调至435美元，同时维持“买入”评级。 Benchmark分析师Mark...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4385940.d.html",
+        "time": "1785509619",
         "source": "新浪新闻"
       },
       {
-        "title": "朱鹤新局长会见全球基础设施合伙公司董事长兼首席执行官柏优",
-        "intro": "2026年7月30日，中国人民银行副行长、国家外汇管理局局长朱鹤新会见来访的全球基础设施合伙公司（GIP）董事长兼首席执行官柏优（Adebayo Ogunlesi）。",
-        "url": "https://finance.sina.cn/forex/hsxw/2026-07-31/detail-iniktcvc4434288.d.html",
-        "time": "1785500924",
+        "title": "日元干预行情降温 交易员警惕日本再次出手",
+        "intro": " 在干预推动的涨势逐渐消退后，日元汇率在涨跌之间反复波动，引发市场猜测，日本当局可能再次出手干预汇市，以防止日元重新走弱。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4385814.d.html",
+        "time": "1785509601",
         "source": "新浪新闻"
       },
       {
-        "title": "埃克森美孚与雪佛龙因美伊战争推高油价而利润飙升",
-        "intro": "埃克森美孚和雪佛龙周五公布的第二季度利润因伊朗战争导致油价上涨而大幅飙升。 雪佛龙净利润飙升至120亿美元，较去年同期的25亿美元增长近400%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcuw9299383.d.html",
-        "time": "1785500750",
+        "title": "高露洁棕榄：市场环境起伏不定，营收依旧实现上涨",
+        "intro": "这家主营牙膏、洗护皂类的企业第二季度营收增长 4.9%，达 53.6 亿美元高露洁棕榄第二季度销售额实现增长。 核心速览 高露洁棕榄披露，公司第二季度营收上涨 4.9% 至 53...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1167055.d.html",
+        "time": "1785509486",
         "source": "新浪新闻"
       },
       {
-        "title": "450亿归零！25岁“AI股神”旗下对冲基金爆仓",
-        "intro": "近日，华尔街上演了一场教科书级别的强制平仓。 据券商中国，25岁的“AI股神”、OpenAI前研究员利奥波德·阿申布伦纳（Leopold Aschenbrenner）旗下AI对冲基金 “态势感知”（.",
-        "url": "https://finance.sina.cn/2026-07-31/detail-iniktcvc4435935.d.html",
-        "time": "1785500624",
+        "title": "Benchmark上调First Internet Bancorp目标价至35美元，维持买入评级",
+        "intro": "投资机构Benchmark近日更新了对数字银行First Internet Bancorp的评级，将其目标股价从33美元上调至35美元，并维持“买入”评级。该目标价基于其对该公司2027财年每股收益预",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkau9282286.d.html",
+        "time": "1785509356",
         "source": "新浪新闻"
       },
       {
-        "title": "301152，被证监会立案调查！",
-        "intro": "天力锂能及控股股东、实际控制人，被证监会立案调查。 7月31日晚，天力锂能（301152）公告，公司及控股股东、实际控制人王瑞庆于7月31日分别收到中国证监会下发的《立案告...",
-        "url": "https://finance.sina.cn/2026-07-31/detail-iniktcvc4434581.d.html",
-        "time": "1785500583",
+        "title": "莫德纳：诺如病毒疫苗临床试验未达到早期成功统计学判定标准",
+        "intro": "这家生物制药企业总营收上涨 2.1%，达 1.45 亿美元莫德纳第二季度亏损有所收窄。 核心速览 受益于营收同比上涨 2.1% 至 1.45 亿美元，莫德纳第二季度亏损收窄至 7...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4383467.d.html",
+        "time": "1785509246",
         "source": "新浪新闻"
       },
       {
-        "title": "美国空军将扩大使用Blade Diagnostics专有发动机维护平台至F-35",
-        "intro": "美国空军与F-35联合项目办公室将扩大使用Blade Diagnostics专有发动机维护平台至F-35发动机。 Blade Diagnostics公司2026年7月31日宣布...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcvf1212204.d.html",
-        "time": "1785500476",
+        "title": "亚马逊云业务增长强劲，股价有望创11年来最大单日涨幅",
+        "intro": "亚马逊公司（AMZN）周五早盘上涨13.7%，若维持至收盘，将创下自2015年4月24日以来的最大单日涨幅。这一涨势源于其云业务亚马逊网络服务（AWS）第二季度营收同比增长36.7%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4383414.d.html",
+        "time": "1785509241",
         "source": "新浪新闻"
       },
       {
-        "title": "加拿大油气基础设施企业Enbridge对增长持乐观态度，尽管第二季度利润下滑",
-        "intro": "加拿大油气基础设施企业Enbridge表示，尽管宏观经济环境艰难，但公司仍具备增长条件。 这家公司周五公布第二季度利润为14亿加元（约合10亿美元），合每股0.64加元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcvc4427855.d.html",
-        "time": "1785500240",
+        "title": "券商8月“金股”来了",
+        "intro": "Wind数据显示，截至7月31日发稿时，已有超过90只A股及港股标的入围券商8月“金股”组合，投资价值获得关注。 在市场7月回调的大背景下，仅有华西证券金股指数1只实现正收益...",
+        "url": "https://finance.sina.cn/stock/ggyj/2026-07-31/detail-iniktkau9283592.d.html",
+        "time": "1785509221",
         "source": "新浪新闻"
       },
       {
-        "title": "韩国芯片巨头刚刚创下历史最大涨幅——这对全球AI交易意味着什么？",
-        "intro": "1. 短期信号：技术性反弹，非趋势反转周五的暴涨（SK海力士+29%、三星+26%）是超跌后的技术性反弹，主要驱动力为：美国科技巨头（微软、亚马逊...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcuz0895325.d.html",
-        "time": "1785500174",
+        "title": "Stifel下调挪威邮轮目标价至25美元，维持买入评级",
+        "intro": "投资机构Stifel近日更新了对挪威邮轮控股的评级展望，将其目标股价从26美元下调至25美元，同时维持“买入”评级。 此次下调主要基于该公司对2026年全年业绩展望的再次下调。...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1164843.d.html",
+        "time": "1785509156",
         "source": "新浪新闻"
       },
       {
-        "title": "300613，上半年净利最高预增超14倍！",
-        "intro": "AI需求持续爆发带动产业链景气上行，多家A股上市公司半年报业绩大幅增长。 7月31日晚间，富瀚微（300613）披露业绩预告，预计2026年上半年营业收入14亿元—15亿元...",
-        "url": "https://finance.sina.cn/stock/ssgs/2026-07-31/detail-iniktcuw9296778.d.html",
-        "time": "1785500166",
+        "title": "索尼上调全年业绩预期，音乐与图像传感器业务表现强劲",
+        "intro": " 索尼集团周五发布了2026财年第一季度财报，受益于音乐、游戏及图像传感器业务的强劲增长，公司当季营业利润同比大幅增长40%，并同步上调了全年业绩指引。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4382049.d.html",
+        "time": "1785509049",
         "source": "新浪新闻"
       },
       {
-        "title": "欧元区7月CPI同比上涨2.9%，能源价格持续高企推高通胀",
-        "intro": " 欧元区本月通胀率进一步升至欧洲央行目标之上，原因是能源成本再次加速上涨且服务价格走强，而未来物价走势很大程度上取决于中东冲突的演变。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcuz0890342.d.html",
-        "time": "1785499821",
+        "title": "金融科技公司Chime推行AI提效，裁减10%员工",
+        "intro": "金融科技公司Chime Financial正裁减约10%的员工，以适应人工智能带来的运营效率提升。此次裁员将影响近150名员工，公司CEO Chris...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkau9277993.d.html",
+        "time": "1785508988",
         "source": "新浪新闻"
       },
       {
-        "title": "韩国综合股价指数（KOSPI）本月下跌22.19%，收于6595.45点",
-        "intro": "韩国综合股价指数本月下跌1881.03点，跌幅22.19%，收于6595.45点。 创2008年10月以来最大单月百分比跌幅。 终结此前连续三个月的上涨走势。 本周下跌95.17点，跌幅1.42%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcvf1203843.d.html",
-        "time": "1785499656",
+        "title": "一日连查三人！东风汽车反腐风暴升级",
+        "intro": "来源：国际金融报 7月30日，中央纪委国家监委驻东风汽车集团有限公司纪检监察组通过“廉洁东风”微信公众号连发三则通报，东风汽车集团有限公司旗下三名管理人员因涉嫌严重违...",
+        "url": "https://finance.sina.cn/2026-07-31/detail-iniktkaz4379428.d.html",
+        "time": "1785508645",
         "source": "新浪新闻"
       },
       {
-        "title": "【一图看懂】“算力金属”价格狂飙，哪些公司受益？",
-        "intro": "",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-31/detail-iniktcvf1204347.d.html",
-        "time": "1785499613",
+        "title": "芝加哥7月商业活动小幅增长",
+        "intro": " 由MNI Indicators编制的芝加哥商业晴雨表7月份从6月份的56.7小幅上升至57.6。媒体调查的经济学家此前预期该读数为55.7。该指数高于50表明商业活动处于扩张状态。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkax0875103.d.html",
+        "time": "1785508521",
         "source": "新浪新闻"
       },
       {
-        "title": "慧与CEO安东尼奥・内里：把晚间时间全权交给团队",
-        "intro": "安东尼奥・内里每天不用闹钟，固定在清晨 5 点 45 分自然醒来。 这位阿根廷出生的慧与（HPE）首席执行官近期到访领导力研究院时介绍...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcvc4421116.d.html",
-        "time": "1785499595",
+        "title": "《哪吒》背后的这家西安公司，获西高投千万级押注",
+        "intro": "每经记者|张文瑜每经编辑|贺娟娟 日前，一则投融资消息引发关注。 西安数字怪兽科技有限公司（简称“数字怪兽”）正式获得西安高新技术产业风险投资有限责任公司（简称“西高...",
+        "url": "https://finance.sina.cn/2026-07-31/detail-iniktkcc1159106.d.html",
+        "time": "1785508431",
         "source": "新浪新闻"
       },
       {
-        "title": "诺和诺德股价因心脏病药物试验失败暴跌9%",
-        "intro": " 诺和诺德公司表示，其一项针对心脏病药物的后期临床试验未能比安慰剂更有效地减少重大心血管事件，该公司股价随即一度暴跌10%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktcvf1201961.d.html",
-        "time": "1785499507",
+        "title": "美国7月密歇根大学消费者信心指数终值为55.2 预估为54",
+        "intro": "美国7月密歇根大学消费者信心指数终值为55.2；预估为54 密歇根大学7月消费者信心指数终值为55.2，此前公布的初值为54.4；前月为49.5。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1157738.d.html",
+        "time": "1785508412",
         "source": "新浪新闻"
       },
       {
-        "title": "保险业协会：针对20个省份暴雨等灾害 保险业已赔付55.3亿元",
-        "intro": "人民财讯7月31日电，7月31日，中国保险行业协会召开2026年度第二次例行新闻发布会。中国保险行业协会党委委员、副秘书长方咏介绍，今年5月以来，受强降雨、台风等影响...",
-        "url": "https://finance.sina.cn/2026-07-31/detail-iniktcvc4420423.d.html",
-        "time": "1785499440",
+        "title": "美国股市高开低走 跌宕起伏的7月接近尾声",
+        "intro": " 美国股市周五高开后转为下跌。亚马逊股价大涨14%一度推动市场走高，其亮眼业绩也提振了一批受益于人工智能热潮的公司。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkau9268653.d.html",
+        "time": "1785508345",
         "source": "新浪新闻"
       }
     ]
