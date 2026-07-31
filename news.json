@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T16:03:26.793Z",
+  "updated": "2026-07-31T18:23:31.197Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,125 @@
     ],
     "finance": [
       {
+        "title": "美国F-35战机在加州海军陆战队航空站附近坠毁",
+        "intro": "据报道称，一架据信为F-35战斗机的军用飞机在Miramar海军陆战队航空站坠毁。 福克斯新闻称，有关坠机的消息约在当地时间上午10点左右开始涌现。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktusx0993117.d.html",
+        "time": "1785522020",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "5万移民涌入休达引发边境危机 西班牙称已有超过半数离开",
+        "intro": " 西班牙表示，非法越境进入其位于非洲飞地、与摩洛哥接壤边境的5万名移民中，已有超过半数离开。与此同时，西班牙正面临来自欧洲日益加大的压力，要求其尽快重新掌控局势。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktusv4210049.d.html",
+        "time": "1785521866",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "梅洛尼：意大利暂停与西班牙的申根协定",
+        "intro": "意大利总理梅洛尼在X平台发文表示，意大利政府已决定暂时中止与西班牙的申根协议。 她表示：“这是一项非常手段，旨在维护国家安全，防止对意大利可能造成的影响。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktusq9153555.d.html",
+        "time": "1785521835",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "阿申布伦纳如何打造450亿美元AI对冲基金，又在数日之内亏掉绝大部分资产",
+        "intro": "核心要点 前 OpenAI 研究员利奥波德・阿申布伦纳创立的对冲基金 “态势感知”，受半导体股票暴跌、追加保证金通知集中袭来影响，管理资产规模从 450 亿美元缩水至约 100...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqks9238394.d.html",
+        "time": "1785517466",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX火箭残骸即将撞月 可为月球撞击研究提供样本",
+        "intro": "一枚约5吨重的SpaceX火箭残骸即将撞上月球。这枚火箭曾将两台月球着陆器送往月球，而本次撞击并非计划内操作。 追踪天体轨道的“冥王星计划”负责人Bill...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqkx4308501.d.html",
+        "time": "1785517336",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "市场大盘走势平稳，态势洞察对冲基金为何轰然崩盘",
+        "intro": "美股大盘走势异常平稳，但华尔街一只高速成长、重仓人工智能赛道的对冲基金暗流涌动，濒临瓦解。 短短数周内，利奥波德・阿申布伦纳执掌的态势洞察（Situational...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqks9231815.d.html",
+        "time": "1785516847",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "明尼苏达遭遇网络攻击 特朗普将其归咎于州长而非伊朗",
+        "intro": " 美国总统唐纳德·特朗普将明尼苏达州多个供水系统遭受网络攻击归咎于与他长期不和的州政府官员，尽管此前有报道称，官员怀疑伊朗参与了这些破坏活动。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqkx4302292.d.html",
+        "time": "1785516462",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲股市收窄月度涨幅 诺和诺德与环球音乐重挫",
+        "intro": "受诺和诺德一款试验性药物研究结果不尽人意，以及环球音乐集团业绩令人失望拖累，欧股回吐周五早前涨幅。 斯托克欧洲600指数在伦敦收盘时基本持平。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqkz1083373.d.html",
+        "time": "1785516341",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国纽约州起诉Kalshi 指控其“非法赌博”",
+        "intro": " 美国纽约州于周五对Kalshi提起诉讼，指控其运营的预测市场本质上属于未经牌照许可的非法赌博，核心理由是该平台交易结果更多依赖运气而非个人研判能力。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqks9224993.d.html",
+        "time": "1785516187",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普称正对伊朗失去信心 指责德黑兰撒谎",
+        "intro": "美国总统特朗普表示，随着美伊谈判持续进行，他正对伊朗失去信心，因为“他们确实会撒谎”。 特朗普在戴维营举行的内阁会议上发表讲话。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqkx4298853.d.html",
+        "time": "1785515995",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普之子支持的反无人机技术企业计划美股上市",
+        "intro": "由特朗普总统之子埃里克・特朗普投资支持的反无人机技术企业太空之眼公司（Space-Eyes），计划通过与特殊目的收购公司麦金利收购公司（McKinley...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqks9217482.d.html",
+        "time": "1785515514",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "中东战争推高油价 美石油巨头埃克森美孚与雪佛龙Q2盈利达265亿美元",
+        "intro": "受特朗普政府对伊朗开战推高原油与汽油价格影响，埃克森美孚与雪佛龙二季度合计盈利达到265亿美元。 美国两大石油巨头于周五公布这笔巨额暴利，投资者对此一片欢欣...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqkv0819040.d.html",
+        "time": "1785515296",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普谈伊朗：我们将“狠狠打击”他们",
+        "intro": "美国总统特朗普表示，美国将在未来数周“狠狠打击”伊朗，并重申伊朗不能拥有核武器。 特朗普在戴维营举行的内阁会议上作出上述表态。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqks9210941.d.html",
+        "time": "1785514870",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美股周五午盘小幅上扬，三大股指本周均有望录得涨幅",
+        "intro": " 北京时间8月1日凌晨，美股周五午盘小幅上扬，三大股指本周均有望录得涨幅。亚马逊公布乐观财报后股价大涨。苹果重挫近10%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqkx4285110.d.html",
+        "time": "1785514165",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约州指控卡尔希运营非法赌博业务",
+        "intro": "纽约州总检察长莉蒂夏・詹姆斯提起诉讼，称这家预测交易平台无视本州博彩法规曼哈顿街头的卡尔希广告。 核心摘要 纽约州对预测交易平台卡尔希发起诉讼...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqkx4284329.d.html",
+        "time": "1785514048",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "财报前夕，SpaceX股价经历震荡一周",
+        "intro": "SpaceX 股价创下历史新低。IPO 上市后的上涨势头为何戛然而止？ 作者：普拉斯・苏布拉马尼亚姆 随着投资者静待这家新晋上市公司发布首份财报，同时迎来大规模股票解禁...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqkx4282946.d.html",
+        "time": "1785513870",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普：伊朗处境糟糕 在谈判中不诚实",
+        "intro": "美国总统特朗普表示，伊朗在谈判中“非常不诚实”。 特朗普在戴维营举行的内阁会议上表示，伊朗的情况“非常糟糕”并且在战争中“处境艰难”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-01/detail-iniktqkv0803167.d.html",
+        "time": "1785513815",
+        "source": "新浪新闻"
+      },
+      {
         "title": "反对按兵不动 达拉斯联储行长警告称不行动难达2%通胀目标",
         "intro": " 达拉斯联储行长洛丽·洛根表示，她对美联储维持利率不变的决定持异议是因为她认为，如果央行不采取行动，通胀将无法回落至官员设定的2%目标。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktqkx4279897.d.html",
@@ -462,125 +581,6 @@
         "intro": "美股周五早盘，美国科技股与苹果公司同步下滑，这家iPhone制造商因最新业绩展望令投资者失望而遭遇抛售。苹果市值近期已蒸发约3727亿美元...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1170570.d.html",
         "time": "1785510062",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "艾伯维因收购下调业绩预期，本季度利润大幅攀升",
-        "intro": "这家制药企业更新全年调整后每股收益预期至 13.87~14.07 美元，此前指引为 13.91~14.11 美元艾伯维下调全年调整后盈利预期。 核心摘要 受拟斥资 109 亿美元收购 Apogee..",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1170509.d.html",
-        "time": "1785510056",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Stifel下调Alnylam目标价至318美元，维持买入评级",
-        "intro": " 投资机构Stifel近日更新了对生物制药公司Alnylam Pharmaceuticals的评级，将其目标股价从444美元下调至318美元，同时维持买入评级。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkax0889936.d.html",
-        "time": "1785509750",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Benchmark下调Strategy目标价至435美元，维持买入评级",
-        "intro": "投资机构Benchmark近日更新了对Strategy的评级，将其目标股价从此前的570美元下调至435美元，同时维持“买入”评级。 Benchmark分析师Mark...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4385940.d.html",
-        "time": "1785509619",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "日元干预行情降温 交易员警惕日本再次出手",
-        "intro": " 在干预推动的涨势逐渐消退后，日元汇率在涨跌之间反复波动，引发市场猜测，日本当局可能再次出手干预汇市，以防止日元重新走弱。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4385814.d.html",
-        "time": "1785509601",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "高露洁棕榄：市场环境起伏不定，营收依旧实现上涨",
-        "intro": "这家主营牙膏、洗护皂类的企业第二季度营收增长 4.9%，达 53.6 亿美元高露洁棕榄第二季度销售额实现增长。 核心速览 高露洁棕榄披露，公司第二季度营收上涨 4.9% 至 53...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1167055.d.html",
-        "time": "1785509486",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Benchmark上调First Internet Bancorp目标价至35美元，维持买入评级",
-        "intro": "投资机构Benchmark近日更新了对数字银行First Internet Bancorp的评级，将其目标股价从33美元上调至35美元，并维持“买入”评级。该目标价基于其对该公司2027财年每股收益预",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkau9282286.d.html",
-        "time": "1785509356",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "莫德纳：诺如病毒疫苗临床试验未达到早期成功统计学判定标准",
-        "intro": "这家生物制药企业总营收上涨 2.1%，达 1.45 亿美元莫德纳第二季度亏损有所收窄。 核心速览 受益于营收同比上涨 2.1% 至 1.45 亿美元，莫德纳第二季度亏损收窄至 7...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4383467.d.html",
-        "time": "1785509246",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "亚马逊云业务增长强劲，股价有望创11年来最大单日涨幅",
-        "intro": "亚马逊公司（AMZN）周五早盘上涨13.7%，若维持至收盘，将创下自2015年4月24日以来的最大单日涨幅。这一涨势源于其云业务亚马逊网络服务（AWS）第二季度营收同比增长36.7%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4383414.d.html",
-        "time": "1785509241",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "券商8月“金股”来了",
-        "intro": "Wind数据显示，截至7月31日发稿时，已有超过90只A股及港股标的入围券商8月“金股”组合，投资价值获得关注。 在市场7月回调的大背景下，仅有华西证券金股指数1只实现正收益...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-07-31/detail-iniktkau9283592.d.html",
-        "time": "1785509221",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Stifel下调挪威邮轮目标价至25美元，维持买入评级",
-        "intro": "投资机构Stifel近日更新了对挪威邮轮控股的评级展望，将其目标股价从26美元下调至25美元，同时维持“买入”评级。 此次下调主要基于该公司对2026年全年业绩展望的再次下调。...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1164843.d.html",
-        "time": "1785509156",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "索尼上调全年业绩预期，音乐与图像传感器业务表现强劲",
-        "intro": " 索尼集团周五发布了2026财年第一季度财报，受益于音乐、游戏及图像传感器业务的强劲增长，公司当季营业利润同比大幅增长40%，并同步上调了全年业绩指引。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkaz4382049.d.html",
-        "time": "1785509049",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "金融科技公司Chime推行AI提效，裁减10%员工",
-        "intro": "金融科技公司Chime Financial正裁减约10%的员工，以适应人工智能带来的运营效率提升。此次裁员将影响近150名员工，公司CEO Chris...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkau9277993.d.html",
-        "time": "1785508988",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "一日连查三人！东风汽车反腐风暴升级",
-        "intro": "来源：国际金融报 7月30日，中央纪委国家监委驻东风汽车集团有限公司纪检监察组通过“廉洁东风”微信公众号连发三则通报，东风汽车集团有限公司旗下三名管理人员因涉嫌严重违...",
-        "url": "https://finance.sina.cn/2026-07-31/detail-iniktkaz4379428.d.html",
-        "time": "1785508645",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "芝加哥7月商业活动小幅增长",
-        "intro": " 由MNI Indicators编制的芝加哥商业晴雨表7月份从6月份的56.7小幅上升至57.6。媒体调查的经济学家此前预期该读数为55.7。该指数高于50表明商业活动处于扩张状态。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkax0875103.d.html",
-        "time": "1785508521",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "《哪吒》背后的这家西安公司，获西高投千万级押注",
-        "intro": "每经记者|张文瑜每经编辑|贺娟娟 日前，一则投融资消息引发关注。 西安数字怪兽科技有限公司（简称“数字怪兽”）正式获得西安高新技术产业风险投资有限责任公司（简称“西高...",
-        "url": "https://finance.sina.cn/2026-07-31/detail-iniktkcc1159106.d.html",
-        "time": "1785508431",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国7月密歇根大学消费者信心指数终值为55.2 预估为54",
-        "intro": "美国7月密歇根大学消费者信心指数终值为55.2；预估为54 密歇根大学7月消费者信心指数终值为55.2，此前公布的初值为54.4；前月为49.5。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkcc1157738.d.html",
-        "time": "1785508412",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国股市高开低走 跌宕起伏的7月接近尾声",
-        "intro": " 美国股市周五高开后转为下跌。亚马逊股价大涨14%一度推动市场走高，其亮眼业绩也提振了一批受益于人工智能热潮的公司。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-07-31/detail-iniktkau9268653.d.html",
-        "time": "1785508345",
         "source": "新浪新闻"
       }
     ]
