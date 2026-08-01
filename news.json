@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T16:05:08.558Z",
+  "updated": "2026-08-01T18:03:10.251Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,48 @@
     ],
     "finance": [
       {
+        "title": "沃什沉默疗法让市场受惊 美股交易员准备迎接狂风暴雨",
+        "intro": " 今年以来，从战争到关税战，再到居高不下的通胀，一个接一个的不确定性给投资者带来了巨大挑战。如今，他们又不得不面对另一个风险：不愿透露政策走向的美联储。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-02/detail-inikvxrt0152087.d.html",
+        "time": "1785605687",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Codex与开源模型关注度攀升，Anthropic旗下Claude Code依旧占据主导",
+        "intro": " Anthropic正面临日趋激烈的市场竞争，客户也对其AI工具高昂的价格心存疑虑。但爆款产品Claude Code的领先地位依旧难以撼动。",
+        "url": "https://finance.sina.cn/7x24/2026-08-02/detail-inikvxrx5656216.d.html",
+        "time": "1785605542",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "土耳其与伊拉克签署原油运输协议",
+        "intro": "当地时间8月1日，土耳其能源和自然资源部宣布，土耳其国家石油管道公司（BOTAŞ）与伊拉克两家石油公司正式签署为期一年的原油运输协议。",
+        "url": "https://finance.sina.cn/2026-08-02/detail-inikvxrx0220149.d.html",
+        "time": "1785601360",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "土耳其与伊拉克签署原油运输协议 每日输送75万桶",
+        "intro": "当地时间8月1日，土耳其能源和自然资源部宣布，土耳其国家石油管道公司（BOTAŞ）与伊拉克两家石油公司正式签署为期一年的原油运输协议。",
+        "url": "https://finance.sina.cn/2026-08-02/detail-inikvxrx0219907.d.html",
+        "time": "1785601360",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美政府建议中东地区美国公民做好撤离准备",
+        "intro": " 当地时间8月1日，美国国务院向身处中东地区的美国公民发出广泛安全警告，建议他们“考虑离开当地，或做好在局势升级时迅速撤离的准备”。",
+        "url": "https://finance.sina.cn/2026-08-01/detail-inikvtiv0248630.d.html",
+        "time": "1785599516",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美军称已部署一架重型运输直升机至中东地区",
+        "intro": "当地时间8月1日，美国中央司令部表示，一架美国陆军CH-47“支奴干”运输直升机准备在中东地区降落。 据悉，CH-47“支奴干”是一款重型运输直升机...",
+        "url": "https://finance.sina.cn/2026-08-01/detail-inikvtiz5752599.d.html",
+        "time": "1785599037",
+        "source": "新浪新闻"
+      },
+      {
         "title": "特朗普社交帖文开启付费抢先服务，月费十万美元引法律争议",
         "intro": "美国总统特朗普在社交媒体发布的帖文将于周六开启付费服务。其旗下“真实社交”平台将向愿意支付费用的华尔街交易商提供帖文抢先阅览权限。",
         "url": "https://finance.sina.cn/7x24/2026-08-01/detail-inikvtis8634086.d.html",
@@ -539,48 +581,6 @@
         "intro": "华尔街见闻 7月美股指数表面稳如泰山，底层却遭遇惊心动魄的仓位大血洗。最拥挤的AI与动量交易惨遭去杠杆重锤，市场逻辑正从“狂热叙事”回归“真实回报”。",
         "url": "https://finance.sina.cn/2026-08-01/detail-inikvhtz0375685.d.html",
         "time": "1785580200",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "新势力车企7月销量分化加剧：10万、3万及其他",
-        "intro": "竞争格局加速分化。 8月1日，多家造车新势力相继交出7月成绩单，新势力市场的分化趋势进一步加剧。 7月是传统的销售淡季，但零跑汽车单月销量破10万辆...",
-        "url": "https://finance.sina.cn/2026-08-01/detail-inikvhtz0358605.d.html",
-        "time": "1785578147",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI新模型Astra传闻升温：长时程Agent或成AI资本市场新叙事",
-        "intro": "在GPT-5.6系列模型降价后，OpenAI又传出新一代模型动向。 据The Information报道，OpenAI正准备推出一个暂定名为“Astra”的新模型系列...",
-        "url": "https://finance.sina.cn/hkstock/gsxw/2026-08-01/detail-inikvhuc3709840.d.html",
-        "time": "1785577385",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "邮政通报快递送到你床上事件：已对涉事网点立案调查，将依法作处罚",
-        "intro": "8月1日下午消息，今日，“送到你床上涉事邮政快递点被查”相关话题登上热搜。据广东一女子发帖反映，其要求中国邮政快递员送货上门...",
-        "url": "https://finance.sina.cn/china/gncj/2026-08-01/detail-inikvani0605557.d.html",
-        "time": "1785575526",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "多次仰拍裙底？ 国民动画《喜羊羊》新作频繁“擦边”，网友称违背儿童IP基调，回应称将合理优化",
-        "intro": "文 丨 《BUG》栏目 周文猛 21年前爆火全网的国民动画《喜羊羊与灰太狼》，正因新作创作设定陷入空前的“擦边”争议中。 近日，《喜羊羊与灰太狼之破界山海诀》上线播出...",
-        "url": "https://finance.sina.cn/china/gncj/2026-08-01/detail-inikvani0583669.d.html",
-        "time": "1785572633",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "ChinaJoy“AI含量”拉满，但AI游戏爆款仍是悬念",
-        "intro": "界面新闻记者 | 程璐界面新闻编辑 | 文姝琪 一位独立开发者，5天时间，只花了十几块钱的API调用费，做出一款推理游戏。 这款名为《积案拂尘》的游戏拿下了BOOOMJam游戏创作...",
-        "url": "https://finance.sina.cn/2026-08-01/detail-inikvamy8835630.d.html",
-        "time": "1785572520",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "阿里巴巴集团主席蔡崇信离婚：无出售阿里股份计划，职务不受影响",
-        "intro": "（来源：澎湃新闻） 8月1日消息，据报道，现年62岁的阿里巴巴集团主席、NBA篮网队及WNBA自由人队老板蔡崇信（JoeTsai）与妻子吴明华（ClaraWuTsai）宣布结束长达近30年的婚...",
-        "url": "https://finance.sina.cn/stock/jdts/2026-08-01/detail-inikvanf3799483.d.html",
-        "time": "1785572186",
         "source": "新浪新闻"
       }
     ]
