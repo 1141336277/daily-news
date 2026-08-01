@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T14:37:06.344Z",
+  "updated": "2026-08-01T16:05:08.558Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,13 @@
     ],
     "finance": [
       {
+        "title": "特朗普社交帖文开启付费抢先服务，月费十万美元引法律争议",
+        "intro": "美国总统特朗普在社交媒体发布的帖文将于周六开启付费服务。其旗下“真实社交”平台将向愿意支付费用的华尔街交易商提供帖文抢先阅览权限。",
+        "url": "https://finance.sina.cn/7x24/2026-08-01/detail-inikvtis8634086.d.html",
+        "time": "1785598324",
+        "source": "新浪新闻"
+      },
+      {
         "title": "腾讯游戏\"AI全家桶\"亮相ChinaJoy 2026",
         "intro": "新浪科技讯 8月1日晚间消息，近日，ChinaJoy展会开幕。 今年腾讯游戏展台，分为“游戏IP特展”、“AI游戏展区”以及“AI产品展区”三大区域。",
         "url": "https://finance.sina.cn/chanjing/gsxw/2026-08-01/detail-inikvtiv0214627.d.html",
@@ -574,13 +581,6 @@
         "intro": "（来源：澎湃新闻） 8月1日消息，据报道，现年62岁的阿里巴巴集团主席、NBA篮网队及WNBA自由人队老板蔡崇信（JoeTsai）与妻子吴明华（ClaraWuTsai）宣布结束长达近30年的婚...",
         "url": "https://finance.sina.cn/stock/jdts/2026-08-01/detail-inikvanf3799483.d.html",
         "time": "1785572186",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "四大行陆续上架5年期大额存单，均为20万元起存",
-        "intro": "据央视财经消息，记者今天注意到，工商银行App显示已经上架两款5年期大额存单产品。该两款产品的起存点均为20万元起存，一款年利率为1.6%，另一款为1.55%...",
-        "url": "https://finance.sina.cn/2026-08-01/detail-inikvanc0432862.d.html",
-        "time": "1785571800",
         "source": "新浪新闻"
       }
     ]
