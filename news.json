@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T17:56:54.851Z",
+  "updated": "2026-08-03T19:48:12.870Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -27,7 +27,7 @@
         "source": "36氪"
       },
       {
-        "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+        "title": "德明利今��跌超9%，36氪企业全情报提前捕捉到这一市场信号",
         "intro": "图片1\n  &nbsp;\n  今日A股收盘数据\n  上证指数：3809.66&nbsp;点，-0.59%\n  深证成指：13448.29&nbsp;点，-0.96%\n  创业板指：3302.55",
         "url": "<![CDATA[https://36kr.com/p/3923603053686151?f=rss]]>",
         "time": "",
@@ -409,6 +409,153 @@
     ],
     "finance": [
       {
+        "title": "美国财政部将季度借款预估上调至7390亿美元",
+        "intro": "美国财政部上调对本季度联邦借款规模的预估，主要原因是净现金流预期调低。 财政部周一在声明中表示，目前预计7月至9月净借款规模为7390亿美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4308949.d.html",
+        "time": "1785786425",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Air Power USA与Cyber Enviro-Tech就控制权变更展开独家谈判",
+        "intro": "美东时间周一（2026年8月3日），美国环境技术公司Cyber Enviro-Tech， Inc．（OTCQB）宣布，已与Air Power USA进入独家谈判阶段，探讨一项可能导致Air Power",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascv5912287.d.html",
+        "time": "1785786383",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：美债维持涨势 特朗普暂缓对伊朗动武推动油价下跌",
+        "intro": "美国国债周一高开，并在交投清淡的美国交易时段基本维持涨势。大部分涨幅出现在亚洲交易时段，此前美国总统特朗普表示取消原定对伊朗发动的袭击计划，导致油价大幅下跌。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascv5911274.d.html",
+        "time": "1785786234",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "近月纽约商品交易所原油下跌5.11%，收于每桶80.34美元",
+        "intro": "近月纽约商品交易所原油9月合约今日下跌每桶4.33美元，跌幅5.11%，收于80.34美元。——创自2026年7月27日（周一）以来最大单日美元跌幅和百分比跌幅。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascz5647619.d.html",
+        "time": "1785786226",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗：美国必须先迈出第一步 改变其行为",
+        "intro": "“美国必须先迈出第一步，改变其行为。这可能是一个积极的开端，”伊朗最高领袖的顾问Mohsen Rezaee表示。 “如果美国遵守备忘录的条款，这可能表明其行为出现了变化...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascv5911156.d.html",
+        "time": "1785786210",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "近月ICE布伦特原油下跌4.73%，收于每桶83.77美元",
+        "intro": "近月ICE布伦特原油10月合约（新近月合约）今日下跌每桶4.16美元，跌幅4.73%，收于83.77美元。——创自2026年7月28日（周二）以来最大单日美元跌幅和百分比跌幅。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4307196.d.html",
+        "time": "1785786172",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "AI需求提振，法巴银行大幅上调希捷科技目标价",
+        "intro": "希捷科技（NASDAQ： STX）周一获得华尔街机构力挺。法国巴黎银行维持其“跑赢大盘”评级，并将目标价从此前的1050美元大幅上调至1275美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasec2419017.d.html",
+        "time": "1785786013",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Visa斥资24亿美元收购BioCatch，强化AI反欺诈能力",
+        "intro": "支付巨头Visa（NYSE： V）周一宣布，已达成最终协议，将以24亿美元现金从私募股权公司Permira及其他股东手中收购行为欺诈情报解决方案提供商BioCatch。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4305701.d.html",
+        "time": "1785785943",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "网络安全公司Gen推出\"无畏星球指数\"实时追踪全球数字威胁",
+        "intro": "网络安全公司Gen（纳斯达克代码：GEN）近日宣布推出“无畏星球指数”。该指数是一个持续更新的网络安全情报中心，旨在帮助公众实时了解全球范围内的诈骗...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascv5908898.d.html",
+        "time": "1785785863",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗称不会允许霍尔木兹海峡除伊朗航道以外的任何航道通行",
+        "intro": "“在任何情况下，我们都不会允许霍尔木兹海峡除伊朗航道之外的任何航道开放，”伊朗最高领袖的军事顾问雷扎伊表示。 “即使美国派军舰进入霍尔木兹海峡一条非法航道...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascz5645411.d.html",
+        "time": "1785785777",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "U-Haul为斯波坎山火受灾居民提供免费仓储援助",
+        "intro": " 美国华盛顿州的斯波坎复合火灾仍在肆虐，提供搬家与自助仓储服务的租赁公司U-Haul公司宣布启动灾害救助计划，为受灾居民提供30天免费自助仓储和U-Box便携式集装箱使用权。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4304282.d.html",
+        "time": "1785785724",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Hims & Hers Health面临投资者诉讼调查",
+        "intro": " 律师事务所Kessler Topaz Meltzer &amp; Check， LLP宣布对Hims &amp; Hers Health， Inc．（NYSE： HIMS）发起调查，代表投资者调查该",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascz5644442.d.html",
+        "time": "1785785581",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普抨击埃克森美孚和雪佛龙在伊朗战争期间利润飙升",
+        "intro": "美国总统唐纳德·特朗普批评埃克森美孚和雪佛龙利润飙升，因为油价在2月由他与以色列一道发动的伊朗战争期间大幅上涨。 特朗普周一表示，美国最大的石油公司“赚得太多了”...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasec2415958.d.html",
+        "time": "1785785416",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "AMD携两大强劲引擎驶入财报季",
+        "intro": "AMD一直受到强劲的服务器需求提振。如今，分析师正展望其全新机架级解决方案的上量前景。 Advanced Micro Devices近期在服务器芯片领域的势头意味着...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascz5643429.d.html",
+        "time": "1785785402",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国多州起诉特朗普政府，指控福利监管变更涉嫌侵犯隐私",
+        "intro": " 由24个州及华盛顿特区组成的团体正在起诉特朗普政府，理由是一项福利政策变更将使政府能够获取美国家庭的私人信息，该团体指控称。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascv5904205.d.html",
+        "time": "1785785197",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：日元延续涨势 美日持续释放支撑信号",
+        "intro": "日元兑美元有望连续第四日上涨，此前在美日联合干预帮助日元从40年低点反弹后，两国官员表示有决心继续捍卫日元。 彭博美元即期指数日内基本持平。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasec2409511.d.html",
+        "time": "1785784036",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美股周一尾盘继续上扬，大型科技股领涨",
+        "intro": "北京时间8月4日凌晨，美股周一尾盘继续上扬，大型科技股领涨，道指接近历史最高水平。主要股指在8月份首个交易日大幅上涨。在美国总统特朗普取消对伊朗的既定打击计划后...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasec2405574.d.html",
+        "time": "1785783344",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普：当前谈判是伊朗达成协议的最后机会",
+        "intro": "美国总统特朗普表示，当前的谈判是伊朗签署协议的“最后机会”。 特朗普在白宫椭圆形办公室的活动上表示：“很快就会见分晓”。 特朗普说：“我们在讨论海峡，开放海峡...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4284462.d.html",
+        "time": "1785782763",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美银称若美联储说不清如何抗通胀方案美国国债就会重拾跌势",
+        "intro": "美国银行的Mark Cabana认为，如果美联储不能更好地告诉大众它将如何实现2%的通胀目标，美国国债的跌势就会重新出现。 这位全球研究部的美国利率策略主管表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4284359.d.html",
+        "time": "1785782740",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "摩根大通因通胀前景而上调美国国债收益率预期 华尔街利率观点一览",
+        "intro": "摩根大通利率策略师上调今年年底美国10年期和30年期国债收益率预测，原因是预计通胀预期将上升，且期限溢价可能扩大。 这一调整在上周美联储决定不加息以及主席凯文·沃什随...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamvx6010617.d.html",
+        "time": "1785781658",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪”",
+        "intro": " 伊朗暗示，与阿曼之间有关让更多船只通过霍尔木兹海峡的谈判正在取得进展，但美国总统唐纳德·特朗普再次表达不满，他先前取消了他所称针对伊朗的一次大规模打击。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamwf2522980.d.html",
+        "time": "1785781050",
+        "source": "新浪新闻"
+      },
+      {
         "title": "AI热潮持续 新兴市场ETF单周吸金创2月以来新高",
         "intro": " 新兴市场股票交易所交易基金（ETF）上周吸引资金流入规模创2月以来新高，围绕亚洲人工智能（AI）概念股的投资热潮未见降温迹象。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamwf2515123.d.html",
@@ -434,153 +581,6 @@
         "intro": "作者：布莱恩・索齐 大型科技企业自由现金流前景承压，正是本轮股市牛市行情向其他板块扩散的核心诱因。 简要分析： 高盛策略师彼得・奥本海默在最新研报中指出，亚马逊...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamwc5730038.d.html",
         "time": "1785777030",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲股市试探新高 消费品和零售板块涨幅居前",
-        "intro": "随着美伊紧张局势出现缓和迹象并推动油价下跌，欧洲股市测试新高，消费品和零售股涨幅居前。 斯托克欧洲600指数上涨0.4%，至652.09点，距离7月3日创下的652...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamvx5978189.d.html",
-        "time": "1785776463",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "城堡证券预测：芯片领域将迎来5000亿美元大规模债务融资浪潮",
-        "intro": "信贷市场或许已经承受了海量数据中心融资发债需求，但科技企业的融资步伐并未停止。城堡证券（Citadel Securities）预测，截至 2028 年...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamvx5968512.d.html",
-        "time": "1785775005",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普说不管伊朗承不承认美伊都在讨论解决方案",
-        "intro": " 美国总统特朗普在Truth Social上发帖说：“不管伊朗要不要承认，我们事实上就是在讨论如何解决他们几十年来造成的问题。”",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimafqf5844412.d.html",
-        "time": "1785773852",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "西班牙称非法进入休达的移民“绝大多数”已返回",
-        "intro": " 西班牙外交大臣阿尔瓦雷斯表示，上周非法进入西班牙北非飞地休达的人员几乎都已离开，并承诺将“把每一个人”送回摩洛哥。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimafqf5843992.d.html",
-        "time": "1785773792",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普批评雪佛龙CEO未称颂政府的能源政策 并催促石油企业立即降价",
-        "intro": " 美国总统唐纳德·特朗普批评雪佛龙首席执行官Mike Wirth在接受采访时，没有提及特朗普政府支持化石燃料的政策，并要求石油公司让加油站油价“立刻降下来！”",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimafpx4485876.d.html",
-        "time": "1785773653",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根大通计划未来十年向住房领域投入7500亿美元",
-        "intro": " 摩根大通宣布，计划在未来十年向住房领域投放 7500 亿美元资金，规模较过去十年投入水平提升近 40%。这是首席执行官杰米・戴蒙推动加大对美国社区投资举措的组成部分。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimafpz6087866.d.html",
-        "time": "1785773423",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "估值信号显现：投资者正在重新审视科技股",
-        "intro": "SpaceX 即将首度披露财报：投资者重点关注方向 投资者终于意识到，股市中除大型科技企业外，还有更多标的可供布局。 依据何在？全球市值前五企业的估值水平就是最好的佐证...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimafqi2613363.d.html",
-        "time": "1785773282",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根士丹利：日元走势显示欧元可能成为主要套息交易融资货币",
-        "intro": "摩根士丹利表示，进一步的日元干预风险可能会令投资者不再使用日元作为套息交易的融资货币，转而选择欧元和瑞士法郎。 “如果干预风险在短期内继续令投资者更加谨慎...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimafpx4482038.d.html",
-        "time": "1785773141",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "网络安全初创企业Horizon3完成2.5亿美元E轮融资，估值升至20亿美元",
-        "intro": "网络安全初创公司 Horizon3 完成 2.5 亿美元 E 轮融资，投后估值达到 20 亿美元，14 个月内估值涨幅超两倍。这家总部位于旧金山的企业获得老股东 NightDragon 与 NEA..",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimafqf5839592.d.html",
-        "time": "1785773091",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：欧洲债券上涨 美伊和谈预期推动油价回落",
-        "intro": " 欧洲债券周一上涨，收益率曲线呈牛市陡峭化走势，受到布伦特原油价格跌破每桶85美元影响，因为市场乐观预期本周重启的美伊谈判可能达成协议并重开霍尔木兹海峡。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafqi2607958.d.html",
-        "time": "1785772583",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "报道：白宫周二将召集AI巨头评估监管框架",
-        "intro": " The Information援引知情人士报道，白宫已邀请包括OpenAI、谷歌和Anthropic在内的大型科技公司周二派员评估已完成的人工智能监管框架。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafqf5832600.d.html",
-        "time": "1785772062",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "亚马逊跻身3万亿美元市值精英俱乐部",
-        "intro": "亚马逊公司市值首次突破 3 万亿美元，成为史上第五家达成该里程碑的企业。 这家电商兼云计算巨头周一早盘股价最大涨幅达 5.3%，延续上周财报发布后的强势行情。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafqf5832121.d.html",
-        "time": "1785771993",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "复星国际旗下Frankfurter Leben据悉接近敲定Athora德国业务收购交易",
-        "intro": "知情人士透露，复星国际控制的寿险整合商Frankfurter Leben接近达成收购Athora Holding Ltd．德国业务的协议。 知情人士表示，这项出售Athora德国业务的交易最快可能于本",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafqf5830408.d.html",
-        "time": "1785771745",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "科技股投资者面临一万亿美元级难题，局面至少要到2028年才有望好转",
-        "intro": "期待 AI 资本开支降温的科技股投资者可能需要等到 2028 年，这项资产负债表科目带来的不确定性才会逐步消散。 简要分析：高盛策略师本・斯奈德最新研究显示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafqf5829350.d.html",
-        "time": "1785771595",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "游戏驿站股价跌至2024年8月以来最低水平",
-        "intro": "个股暂时无视债券收益率走高，但该局面难以长期维系 下跌诱因： 这家电玩零售企业宣布方案，计划通过非公开交易，将价值 14 亿美元可转换债券置换为普通股...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafpz6071500.d.html",
-        "time": "1785771309",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "报道：苹果公司就英国要求设置“后门”的命令提起新的法律挑战",
-        "intro": " 英国《金融时报》援引法院命令报道，苹果公司已针对英国政府要求设置“后门”以访问加密用户数据的计划提起新的法律诉讼。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafqf5826593.d.html",
-        "time": "1785771187",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国铜进口激增 交易员赶在特朗普关税决定前布局",
-        "intro": "铜正以至少12年来最快的速度涌入美国，交易员赶在美国总统唐纳德·特朗普就精炼铜进口关税作出决定前布局。 根据IHS Markit自2014年开始统计的运输数据...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafqi2598660.d.html",
-        "time": "1785771140",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "财报发布前夕，帕兰提尔股价走高",
-        "intro": "帕兰提尔（股票代码 PLTR）周一股价上涨近 2%。 随着大盘预计走高，这家数据分析软件企业股价小幅上行；公司将于盘后发布第二财季业绩。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafpz6069445.d.html",
-        "time": "1785771037",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX上市后股价持续暴跌，首份财报面临严峻考验",
-        "intro": "自6月12日上市以来，SpaceX（SPCX）市值已蒸发超过5000亿美元，对第一时间买入的散户投资者造成了沉重打击。该股已连续四周下跌，股价较盘中高点已跌去逾50%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafqi2591263.d.html",
-        "time": "1785769844",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "纸巾原料或将迎来颠覆性革新",
-        "intro": "金佰利宣布研发新型纤维，有望彻底变革纸类制品 内容速览 金佰利发现，一种适宜干旱气候生长的植物 —— 晚芦荟（Hesperaloe），可用于生产韧性更强、触感更柔软的纸制品。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafpz6060092.d.html",
-        "time": "1785769826",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "共和党参议员不再阻挠特朗普提名的司法部长人选",
-        "intro": "美国共和党参议员John Cornyn和Thom Tillis的办公室在新闻稿中宣布，两人将投票确认托德·布兰奇出任美国司法部长。 “我们期待尽快举行投票...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-03/detail-inimafqi2590692.d.html",
-        "time": "1785769732",
         "source": "新浪新闻"
       }
     ]
