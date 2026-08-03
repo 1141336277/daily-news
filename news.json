@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T19:48:12.870Z",
+  "updated": "2026-08-03T21:10:57.891Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -409,6 +409,69 @@
     ],
     "finance": [
       {
+        "title": "8月4日美股成交额前20：亚马逊创历史新高，市值突破3万亿美元",
+        "intro": "周一美股成交额第1名美光科技收高0.74%，成交341.86亿美元。该股周一开盘一度下跌近6%，此后反弹收高。 第2名微软收高4.93%，成交312.78亿美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4333060.d.html",
+        "time": "1785790072",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国多个州就特朗普最新关税提起诉讼",
+        "intro": " 美国多个州就总统特朗普上月生效的新一轮全球关税提起诉讼。此前，多家小企业也发起了类似诉讼，指控这些关税措施违法。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascv5934460.d.html",
+        "time": "1785789719",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "道明：干预势头可能短暂推动美元/日元跌至153",
+        "intro": " 道明证券认为，干预的推动力可能会使美元/日元跌至153，但除非日本央行采取更多行动或美国财政部做出全面承诺，否则就只会暂时如此。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4330026.d.html",
+        "time": "1785789607",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月4日热门中概股多数上涨，阿里巴巴涨4.11%，理想汽车跌3.74%",
+        "intro": "8月4日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高0.75%。 上涨个股（按市值从高到低）：台积电涨0.48%，阿里巴巴涨4.11%，拼多多涨1.80%，日月光半导体涨4...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascv5925202.d.html",
+        "time": "1785788334",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月4日收盘：美股收高科技股领涨，道指创收盘纪录新高",
+        "intro": " 北京时间8月4日凌晨，美股周一收高，大型科技股领涨，道指创历史最高收盘纪录。在美国总统特朗普取消对伊朗的既定打击计划后，油价下跌。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascv5920521.d.html",
+        "time": "1785787610",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：油价下挫 美伊谈判信号缓解供应担忧",
+        "intro": "油价下跌，因为美国和伊朗均示意在进行有关恢复霍尔木兹海峡航运的磋商，这提振了市场对中东原油供应增加的期望。 WTI下跌约5%，收于每桶80美元左右。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasec2425936.d.html",
+        "time": "1785787352",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国西南航空推出新商务旅行产品与预订选项",
+        "intro": " 美国西南航空公司（NYSE： LUV）宣布推出新的商务旅行服务“Business Priority”产品，并引入新分销能力（NDC）技术，旨在为企业客户提供更灵活的旅行选择和预订方式。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasec2424503.d.html",
+        "time": "1785787050",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "《蜘蛛侠：崭新之日》全球首映创CJ 4DPLEX票房纪录",
+        "intro": "CJ 4DPLEX公司宣布，索尼影业出品的《蜘蛛侠：崭新之日》在其SCREENX和4DX高端格式银幕上，全球首映周末票房合计突破3100万美元，创下该公司历史最高首映纪录。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimascz5651763.d.html",
+        "time": "1785786990",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "aze将出席Ai4 2026，探讨大规模多模态AI工作负载的存储策略",
+        "intro": "云存储平台Backblaze（纳斯达克代码：BLZE）宣布，将以白金赞助商身份出席北美最大的人工智能盛会Ai4 2026。会议将于8月4日至6日在拉斯维加斯威尼斯人酒店举行...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4311812.d.html",
+        "time": "1785786851",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美国财政部将季度借款预估上调至7390亿美元",
         "intro": "美国财政部上调对本季度联邦借款规模的预估，主要原因是净现金流预期调低。 财政部周一在声明中表示，目前预计7月至9月净借款规模为7390亿美元...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4308949.d.html",
@@ -518,69 +581,6 @@
         "intro": "日元兑美元有望连续第四日上涨，此前在美日联合干预帮助日元从40年低点反弹后，两国官员表示有决心继续捍卫日元。 彭博美元即期指数日内基本持平。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasec2409511.d.html",
         "time": "1785784036",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美股周一尾盘继续上扬，大型科技股领涨",
-        "intro": "北京时间8月4日凌晨，美股周一尾盘继续上扬，大型科技股领涨，道指接近历史最高水平。主要股指在8月份首个交易日大幅上涨。在美国总统特朗普取消对伊朗的既定打击计划后...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasec2405574.d.html",
-        "time": "1785783344",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普：当前谈判是伊朗达成协议的最后机会",
-        "intro": "美国总统特朗普表示，当前的谈判是伊朗签署协议的“最后机会”。 特朗普在白宫椭圆形办公室的活动上表示：“很快就会见分晓”。 特朗普说：“我们在讨论海峡，开放海峡...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4284462.d.html",
-        "time": "1785782763",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美银称若美联储说不清如何抗通胀方案美国国债就会重拾跌势",
-        "intro": "美国银行的Mark Cabana认为，如果美联储不能更好地告诉大众它将如何实现2%的通胀目标，美国国债的跌势就会重新出现。 这位全球研究部的美国利率策略主管表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimasct4284359.d.html",
-        "time": "1785782740",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根大通因通胀前景而上调美国国债收益率预期 华尔街利率观点一览",
-        "intro": "摩根大通利率策略师上调今年年底美国10年期和30年期国债收益率预测，原因是预计通胀预期将上升，且期限溢价可能扩大。 这一调整在上周美联储决定不加息以及主席凯文·沃什随...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamvx6010617.d.html",
-        "time": "1785781658",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪”",
-        "intro": " 伊朗暗示，与阿曼之间有关让更多船只通过霍尔木兹海峡的谈判正在取得进展，但美国总统唐纳德·特朗普再次表达不满，他先前取消了他所称针对伊朗的一次大规模打击。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamwf2522980.d.html",
-        "time": "1785781050",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AI热潮持续 新兴市场ETF单周吸金创2月以来新高",
-        "intro": " 新兴市场股票交易所交易基金（ETF）上周吸引资金流入规模创2月以来新高，围绕亚洲人工智能（AI）概念股的投资热潮未见降温迹象。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamwf2515123.d.html",
-        "time": "1785779715",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "报道：特朗普预计周五会见矿业高管",
-        "intro": "路透社援引两位知情人士的话报道，美国总统特朗普预计将于周五出席由美国国务院主办的矿业高管活动。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamwc5730729.d.html",
-        "time": "1785777207",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "报道：美国与伊朗之间没有安排进行新的谈判",
-        "intro": "CBS援引美国官员报道称，尽管特朗普此前发表相关言论，但美国与伊朗没有安排进行新的谈判。 报道称，史蒂夫·威特科夫、贾里德·库什纳及美国谈判团队与伊朗团队之间通过调解...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamwc5730607.d.html",
-        "time": "1785777182",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "牛市行情扩散，背后核心诱因只有一个",
-        "intro": "作者：布莱恩・索齐 大型科技企业自由现金流前景承压，正是本轮股市牛市行情向其他板块扩散的核心诱因。 简要分析： 高盛策略师彼得・奥本海默在最新研报中指出，亚马逊...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-04/detail-inimamwc5730038.d.html",
-        "time": "1785777030",
         "source": "新浪新闻"
       }
     ]
