@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T17:46:28.888Z",
+  "updated": "2026-08-05T19:44:12.553Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,76 @@
     ],
     "finance": [
       {
+        "title": "SpaceX股价下跌12%，AI支出激增令投资者不安，大规模股票解禁在即",
+        "intro": "SpaceX股价周三暴跌12%，此前人工智能支出的激增令投资者感到不安，并给本已超出预期的季度业绩蒙上阴影。 在周二SpaceX作为上市公司发布的首份财报中，这家太空公司表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieit4863976.d.html",
+        "time": "1785958148",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "谷歌AI大重组：首席科学家杰夫·迪恩离职，戴密斯·哈萨比斯卸任DeepMind CEO",
+        "intro": "谷歌于周三宣布，其AI部门将进行重组，首席科学家杰夫·迪恩在任职27年后将离开公司。 根据谷歌首席执行官桑达尔·皮查伊发布在谷歌博客上的一份备忘录...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieir3259668.d.html",
+        "time": "1785958008",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗总统：目前“很难”与最高领袖取得联系",
+        "intro": "伊朗总统马苏德·佩泽希齐扬在电视采访中表示，“目前很难”联系到伊朗最高领袖穆杰塔巴·哈梅内伊。 “他的存在是我们力量的源泉，”佩泽希齐扬称。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieit4862594.d.html",
+        "time": "1785957868",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Meta推出首款AI编程智能体，与Anthropic和OpenAI展开竞争",
+        "intro": "Meta正在推出其首款名为Muse Code的编程智能体，力图挑战领先的AI实验室Anthropic和OpenAI。 Muse Code是AI主管亚Alexandr Wang发布的最新重要产品...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieir3258326.d.html",
+        "time": "1785957769",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Meta推出首款AI编程智能体，向Anthropic和OpenAI发起挑战",
+        "intro": "Meta正推出其首款名为Muse Code的编程智能体，力图挑战领先的AI实验室Anthropic和OpenAI。 Muse Code是AI负责人亚历山大·王的最新重要发布...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieix4207073.d.html",
+        "time": "1785957348",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "微软的最新披露显示其AI业务收入主要来自OpenAI",
+        "intro": "微软最新披露的信息显示，其大部分人工智能（AI）业务收入来自OpenAI。 软件巨头微软上周在监管文件中表示，截至6月的一年里，该公司从OpenAI录得241亿美元收入。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieix4202238.d.html",
+        "time": "1785956224",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美股尾盘涨跌不一，英伟达推动道指上涨",
+        "intro": " 北京时间8月6日凌晨，美股周三午盘涨跌不一，道指涨幅收窄，纳指与标普500指数转跌。市场继续关注美股财报与伊朗局势。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieix4201081.d.html",
+        "time": "1785955966",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "富兰克林邓普顿任命Rene Buehlmann为亚太主管",
+        "intro": " 富兰克林邓普顿周三在声明中表示，继续扩充其全球客户集团（Global Client Group）管理层，以强化公司在全球产品、ETF和亚太市场的布局。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhxzz4318524.d.html",
+        "time": "1785953206",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "谷歌AI业务迎重大人事变动 Alphabet股价应声跌逾5%",
+        "intro": "Alphabet旗下谷歌正失去一些最知名的人工智能老将，这场重大人事调整引发外界对这一关键增长领域领导层的质疑，此时人工智能领域的竞争正日益激烈。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhyac1090767.d.html",
+        "time": "1785953172",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗称美国传话愿重新履约 惟德黑兰尚未决定是否进行第二阶段谈判",
+        "intro": " 伊朗副外长Kazem Gharibabadi对伊通社表示，从美国方面收到的信息表明华盛顿已做好重新履行承诺的充分准备，但德黑兰尚未决定是否迈向“第二阶段”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhxzt3359871.d.html",
+        "time": "1785953103",
+        "source": "新浪新闻"
+      },
+      {
         "title": "伊朗称与阿曼就霍尔木兹临时航道的谈判接近尾声",
         "intro": "伊朗副外长Kazem Gharibabadi对伊通社表示，该国和阿曼正在就霍尔木兹海峡一条为期“2到4个月”的“临时航道”进行谈判。 Gharibabadi称谈判“已接近最后阶段”。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhyac1084865.d.html",
@@ -476,76 +546,6 @@
         "intro": "明尼阿波利斯联储行长尼尔·卡什卡里表示，美联储应立即开始渐进式加息，以遏制仍然过高的通胀。 卡什卡利周三接受采访时表示：“随着我们获得更多数据...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhxzz4285504.d.html",
         "time": "1785946162",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "卡什卡里：美联储当下应当启动渐进加息",
-        "intro": "【核心要点】 明尼阿波利斯联储主席尼尔・卡什卡里周三接受采访表示，美联储应当 “开始渐进上调” 利率。 在上周政策会议上，共有三名委员投下反对票...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhttv3446554.d.html",
-        "time": "1785946012",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美股周三午盘涨跌不一，道指涨幅收窄，纳指与标普指数转跌",
-        "intro": " 北京时间8月6日凌晨，美股周三午盘涨跌不一，道指涨幅收窄，纳指与标普500指数转跌。市场继续关注美股财报与伊朗局势。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhtuf1187495.d.html",
-        "time": "1785945818",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美股两大巨头，暴跌",
-        "intro": "来源：中国证券报 北京时间8月5日晚，美股三大股指集体高开，道指、标普500指数续创历史新高。 SpaceX、AMD两大巨头股价重挫，尽管其交出的最新财报显示其业绩表现亮眼...",
-        "url": "https://finance.sina.cn/2026-08-05/detail-inimhttv3440515.d.html",
-        "time": "1785944606",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "EIA：美国原油库存上周增加247.9万桶 预估中值为减少150万桶",
-        "intro": "美国能源信息管理局（EIA）库存报告还显示上周有如下变动： 汽油库存减少164.3万桶，预估为减少145万桶； 馏分油库存减少347.3万桶，预估为增长41...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-05/detail-inimhttx5035285.d.html",
-        "time": "1785943859",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伊朗称已与阿曼就霍尔木兹海峡通航路线达成一致",
-        "intro": "伊朗外交部发言人Esmail Baghaei表示，伊朗与阿曼已就霍尔木兹海峡拟议航线的地理坐标达成一致。 他表示，两国联合声明正在审议中，并已进入最后起草阶段...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-05/detail-inimhtuf1177358.d.html",
-        "time": "1785943363",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "市场关注重开霍尔木兹海峡进展 金银价格齐涨",
-        "intro": " 随着有关达成临时协议、重开霍尔木兹海峡的预期升温，市场对通胀前景的担忧有所缓解，美联储加息的可能性下降，金价连续第三个交易日上涨。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-05/detail-inimhttx5031120.d.html",
-        "time": "1785943176",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国经济保持增长势头，但成本上升抑制新增招聘",
-        "intro": " 美国经济最大组成部分7月以稳健步伐增长，但关键物资供应零散短缺以及顽固的通胀推高了企业成本，企业对此的回应是控制招聘规模。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-05/detail-inimhtuf1172073.d.html",
-        "time": "1785942117",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "迪士尼考虑推出免费广告版流媒体 超级碗广告时段已全部售罄",
-        "intro": "【核心要点】 迪士尼首席执行官乔希・达马罗在投资者财报电话会议上透露，公司正在探索面向消费者推出免费带广告流媒体服务。 当下广告业务对于流媒体平台实现盈利...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-05/detail-inimhttv3419518.d.html",
-        "time": "1785942099",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "空头惨遭碾压，纳斯达克100指数创下近十年十大多头行情信号",
-        "intro": "周二美股开盘起，市场走势便清晰预示：一轮不同寻常的上涨行情即将上演。 芝加哥期权交易所（Cboe）场内交易氛围开盘瞬间彻底沸腾，高涨情绪一直延续至收盘。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-05/detail-inimhtuf1171303.d.html",
-        "time": "1785941917",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国7月服务业维持扩张态势 采购经理指数微升至54.1",
-        "intro": " 8月5日发布的数据显示，美国7月服务业采购经理指数（PMI）微升至54.1，表明该国服务业活动持续扩张，但整体增幅略低于市场预期。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-05/detail-inimhttx5020760.d.html",
-        "time": "1785941769",
         "source": "新浪新闻"
       }
     ]
