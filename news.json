@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T19:44:12.553Z",
+  "updated": "2026-08-05T21:18:15.044Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,97 @@
     ],
     "finance": [
       {
+        "title": "美国高级官员发出警告 全美计算机系统需加强网络防御以应对AI风险",
+        "intro": " 美国政府最高级别的信息安全官员警告，全国各地的计算机系统需要加强防御，以应对日益加剧的人工智能（AI）驱动型网络攻击威胁。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimikrx0875909.d.html",
+        "time": "1785963823",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储卡什卡利：“现在是开始缓慢上调”利率的时候了",
+        "intro": " 明尼阿波利斯联邦储备银行行长尼尔·卡什卡利周三表示，他认为现在需要提高利率以降低通胀，并避免日后更大幅度的加息。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimikrr4757446.d.html",
+        "time": "1785963303",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美银上调日元预估 料年底升至149",
+        "intro": "美国银行将第三季日元兑美元预估从154上调至153，并将年底目标从152提高至149。 “我们仍然看多日元 ，” 包括Shusuke Yamada、Izumi Devalier和Tomonobu...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimikrv4100320.d.html",
+        "time": "1785963149",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月6日美股成交额前20：马斯克称SpaceX未来AI基建只用英伟达芯片",
+        "intro": "周三美股成交额第1名英伟达收高3.43%，成交342.56亿美元。截止周三收盘，英伟达股价已经连续五个交易日上涨，股价创两个月来新高。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimikrv4099038.d.html",
+        "time": "1785962876",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储理事库克警告通胀固化风险 称必要时将支持加息",
+        "intro": " 美联储理事丽莎·库克重申，如果通胀不能放缓，她准备好支持加息，并警告称，决策者可能没有足够时间等待通胀回落至2%的目标。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieir3280788.d.html",
+        "time": "1785962455",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Salesforce提拔营收主管米格尔·米兰诺担任运营主管",
+        "intro": "Salesforce已任命米格尔·米兰诺担任运营主管，向首席执行官马克·贝尼奥夫汇报。 米兰诺曾任甲骨文高管，于2023年重新加入Salesforce担任首席营收官。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieiz0999098.d.html",
+        "time": "1785962102",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普政府退还1000亿美元“解放日”关税",
+        "intro": "特朗普政府表示，已退还约1000亿美元在特朗普的“解放日”关税被最高法院推翻之前征收的关税。 根据周二提交至美国国际贸易法院的一份文件...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieit4881617.d.html",
+        "time": "1785961800",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月6日热门中概股多数下跌 台积电跌0.81%，富途控股涨1.12%",
+        "intro": "8月6日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.09%。 上涨个股（按市值从高到低）：中华电信涨0.27%；富途控股涨1.12%；华住酒店集团涨0...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieiz0996248.d.html",
+        "time": "1785961345",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：美债基本持稳 短债小幅跑赢",
+        "intro": " 美国国债走势相对平稳，收益率变动基本在周二收盘水平的1个基点以内。受油价走低影响，短期国债略微跑赢。美国财政部公布季度再融资计划后，债券市场反应平淡。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieiz0995114.d.html",
+        "time": "1785961081",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "全球电商平台Etsy裁员12%，旨在精简业务并为增长布局",
+        "intro": " 全球电商平台Etsy周三表示将裁员约220人，约占其员工总数的12%。这家在线集市正寻求简化组织架构，并在竞争日益激烈的电商行业中加快创新步伐。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieiz0993805.d.html",
+        "time": "1785960761",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月6日收盘：美股涨跌不一，道指再创新高",
+        "intro": " 北京时间8月6日凌晨，美股周三收盘涨跌不一，道指再创历史新高。标普500指数结束此前连续四个交易日上涨的行情。市场继续关注美股财报与中东局势的发展。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieit4875519.d.html",
+        "time": "1785960513",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元延续本周跌势 日元回升",
+        "intro": "美元指数下跌，美元兑多数十国集团货币走弱；日元小幅走强。 美元指数下跌0.2%，报1203.01，本周延续跌势。 美国国债持平，此前美国财政部维持发债指引不变。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieix4218239.d.html",
+        "time": "1785960065",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：油价三连跌 市场关注霍尔木兹海峡协议进展",
+        "intro": " 油价连续第三个交易日下跌，因为有迹象显示美国与伊朗接近重开霍尔木兹海峡的协议，这可能恢复因数月冲突而中断的每日数百万桶原油供应。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieir3265815.d.html",
+        "time": "1785959240",
+        "source": "新浪新闻"
+      },
+      {
         "title": "SpaceX股价下跌12%，AI支出激增令投资者不安，大规模股票解禁在即",
         "intro": "SpaceX股价周三暴跌12%，此前人工智能支出的激增令投资者感到不安，并给本已超出预期的季度业绩蒙上阴影。 在周二SpaceX作为上市公司发布的首份财报中，这家太空公司表示...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimieit4863976.d.html",
@@ -455,97 +546,6 @@
         "intro": "欧洲股市在纪录高位附近持稳，汇丰控股和诺和诺德下跌抹去了早些时候的涨幅。 斯托克欧洲600指数收盘基本持平，此前一度上涨0.5%。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhyac1084732.d.html",
         "time": "1785951886",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "黑客瞄准华尔街 大型对冲基金和私募公司沦为网络攻击目标",
-        "intro": "知情人士透露，黑客近几日对华尔街发起了一波复杂的攻击，将目标对准了大型资金管理公司的信息系统。 其中一位不愿公开身份的知情人士透露...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhyac1084612.d.html",
-        "time": "1785951859",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：欧洲债券在油价下跌之际持稳",
-        "intro": "欧洲政府债券日内总体持平，市场正等待美国与伊朗和平谈判进展的消息，相关进展可能预示霍尔木兹海峡重新开放。 布伦特原油维持在每桶80美元以下。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhyac1075404.d.html",
-        "time": "1785949927",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普政府退还1000亿美元“解放日”关税税款",
-        "intro": "【核心要点】 特朗普政府宣布，已经退还约 1000 亿美元依靠 2025 年 “解放日” 关税政策征得的关税收入。 美国最高法院裁定这批依据《国际紧急经济权力法》（IEEPA）征收的...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhxzv4935444.d.html",
-        "time": "1785948499",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美银首席执行官：公司每年为员工支出2.5亿美元用于报销GLP-1减重药物",
-        "intro": "【核心要点】 美国银行首席执行官布莱恩・莫伊尼汉透露，公司每年投入超 2.5 亿美元，为员工报销 GLP-1 类减重药物。 莫伊尼汉表示，这笔开销在大约五年前尚为零...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhyac1066977.d.html",
-        "time": "1785948286",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "德国一机场暂停航班 此前发现武装无人机 并发生货机与不明物相撞事件",
-        "intro": " 德国重要的货运和军事装备运输枢纽莱比锡-哈雷机场一度暂停航班，隔夜发现一架武装无人机，同时一架货机在空中与一个身份不明的小型物体相撞。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhyac1066071.d.html",
-        "time": "1785948130",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AI股抛售冲击对冲基金 Balyasny和Verition上月双双亏损",
-        "intro": " 、多策略对冲基金Balyasny资产管理和Verition Fund Management上月均录得亏损，人工智能概念股抛售潮冲击市场，也令众多对冲基金受挫。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhyac1060837.d.html",
-        "time": "1785946877",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "值得追捧吗？稳定币即将迎来爆发 —— 为何普通人需要关注",
-        "intro": "撰稿人：瑞安・厄米 稳定币究竟是货币的未来，抑或只是又一轮加密货币热潮？ 如果你从未交易加密货币，大概率对稳定币并不熟悉。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhxzt3320723.d.html",
-        "time": "1785946792",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "打造DRAM存储爆款ETF的基金管理人再度出手，推出全新人工智能光科技主题产品",
-        "intro": "【核心要点】 Roundhill 投资公司旗下聚焦存储芯片赛道的 DRAM ETF 在 2026 年大获成功，自 4 月上市以来规模接近 250 亿美元。该机构如今押注：人工智能数据中心光网络创...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhxzv4923438.d.html",
-        "time": "1785946643",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美银：对冲基金Situational Awareness爆仓是高杠杆市场的预警信号",
-        "intro": "【核心要点】 美国银行首席执行官布莱恩・莫伊尼汉表示，对冲基金 Situational Awareness 濒临崩盘一事，给依靠杠杆运行的金融市场敲响警钟。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhxzz4286864.d.html",
-        "time": "1785946454",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "五角大楼从公开网站撤下25年的武器测试报告 担心对手借AI挖掘漏洞",
-        "intro": " 五角大楼已悄然从公开网站撤下数十年来发布的武器测试资料，称对手可能利用人工智能分析这些数据。批评者则表示，此举引发了对透明度的担忧。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhxzz4286531.d.html",
-        "time": "1785946379",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伊朗：已与阿曼就霍尔木兹海峡通航路线达成一致",
-        "intro": "伊朗表示，已与阿曼就霍尔木兹海峡拟议通航路线达成一致。这可能成为重启这条全球能源运输关键水道的重要一步。 根据平台上发布的消息...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhyac1058336.d.html",
-        "time": "1785946258",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "沃伦质询卢特尼克：阿联酋投资特朗普加密项目后，获准获取美国敏感技术引发争议",
-        "intro": "【核心要点】 马萨诸塞州民主党联邦参议员伊丽莎白・沃伦致信商务部部长霍华德・卢特尼克，要求美方解释政府放宽阿联酋获取部分美国敏感技术出口管制的决策。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhyac1058116.d.html",
-        "time": "1785946216",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储官员卡什卡利称通胀仍过高 呼吁立即开始渐进式加息",
-        "intro": "明尼阿波利斯联储行长尼尔·卡什卡里表示，美联储应立即开始渐进式加息，以遏制仍然过高的通胀。 卡什卡利周三接受采访时表示：“随着我们获得更多数据...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-06/detail-inimhxzz4285504.d.html",
-        "time": "1785946162",
         "source": "新浪新闻"
       }
     ]
