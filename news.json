@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T20:50:48.214Z",
+  "updated": "2026-08-10T21:49:08.202Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,62 @@
     ],
     "finance": [
       {
+        "title": "8月11日外盘头条：霍尔木兹协议希望渺茫 英伟达携手金融巨头超5000亿美元投资AI建设 特朗普淡化与沃什接触",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、霍尔木兹协议希望渺茫 特朗普提出赔偿反要求而伊朗提拔强硬派指挥官 2、美国政府文件显示美联储主席沃什已完成所承诺...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwuht0825205.d.html",
+        "time": "1786398513",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "大宗商品综述：油价大涨 铜价和金价走高",
+        "intro": "油价大涨，有关重开霍尔木兹海峡的协议仍未达成。铜价上涨，供应趋紧以及市场对美国加息的担忧缓解为价格提供支撑。金价升至接近每盎司4，400美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwuhy5977747.d.html",
+        "time": "1786397466",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：标普500指数高位盘整 市场静待CPI和芯片股财报",
+        "intro": "标普500指数收盘微跌，在经历业绩强劲的一周后，投资者继续权衡利率前景和伊朗战争带来的不确定性。财报季进入最后阶段，芯片制造商即将公布业绩...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwuht0818691.d.html",
+        "time": "1786397370",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相",
+        "intro": "OpenAI周一表示，其正在扩展Daybreak专属网络安全计划，以帮助参与者获取他们所需的“正确能力”来防御攻击者。 该公司于5月首次推出Daybreak...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwuht0817511.d.html",
+        "time": "1786397159",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "日元重挫1% 美日历史性干预带来的半数成果已灰飞烟灭",
+        "intro": "日元跌势加重，回吐了半数美国和日本历史性联手干预激发的涨幅。 该货币兑美元周一下挫多达1%，触及159.35，当天表现在十国集团中垫底。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyx7815359.d.html",
+        "time": "1786396157",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普淡化与沃什接触 美联储独立性再成焦点",
+        "intro": " 美国总统唐纳德·特朗普淡化了与美联储主席凯文·沃什交谈的频率和时长。此前两人的接触再次引发外界质疑，特朗普是否试图直接影响美联储。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyx7813426.d.html",
+        "time": "1786395747",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "无人机袭击摧毁利比亚扎维耶炼油厂一座燃料储罐",
+        "intro": "利比亚国家石油公司董事长Masoud Suleman向彭博表示，一架无人机击中扎维耶炼油厂一座装有燃料的储罐。 他表示，袭击引发火灾，储罐因高温而坍塌。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyz4584108.d.html",
+        "time": "1786395398",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月11日热门中概股多数上涨，阿里巴巴涨3%，慧荣科技跌9.96%",
+        "intro": "8月11日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高1.65%。 上涨个股（按市值从高到低）：阿里巴巴涨3.04%，拼多多涨1.35%，网易涨0.90%，日月光半导体涨0.53%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyz4583946.d.html",
+        "time": "1786395370",
+        "source": "新浪新闻"
+      },
+      {
         "title": "原油：油价继续走高 霍尔木兹海峡协议仍未达成",
         "intro": " 油价稳步走高，因伊朗与阿曼仍未就重开霍尔木兹海峡达成协议，同时在红海附近一家沙特炼油厂遭袭后，欧洲柴油价格飙升。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyx7806524.d.html",
@@ -389,7 +445,7 @@
       },
       {
         "title": "英伟达将与6家金融公司合作 筹集逾5000亿美元用于AI计算",
-        "intro": " 英伟达宣布与Apollo、贝莱德、黑石、博枫、高盛和KKR合作，设立独立的算力融资平台，为AI基础设施建设筹集逾5，000亿美元第三方资本。",
+        "intro": "英伟达正试图将其AI芯片打造为华尔街最新的资产类别，与六家大型资产管理公司合作推进一项5000亿美元的融资计划，旨在将计算基础设施视为类似商业房地产...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyx7805870.d.html",
         "time": "1786394218",
         "source": "新浪新闻"
@@ -490,62 +546,6 @@
         "intro": " 受美元走弱、美债收益率下行，以及就业数据意外收缩缓解市场对美联储激进加息的担忧影响，黄金上周大涨约 7%，创下今年 1 月以来最佳单周涨幅。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwcmc7991673.d.html",
         "time": "1786380005",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国海上封锁持续 伊朗石油码头似陷停滞",
-        "intro": "本月以来，伊朗的石油出口码头似乎大多处于闲置状态。美国继续实施封锁，试图借此向伊朗施压，迫使其达成和平协议。不过，由于外界对当地实际运营情况的掌握仍较为有限...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwcmf4762950.d.html",
-        "time": "1786379805",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "财报不及预期之际，巴里克与纽蒙特达成40亿美元交易，北美资产冲刺年底IPO",
-        "intro": "新浪财经讯，8月10日晚间消息，巴里克矿业（Barrick Mining Corp．）周一宣布与合资伙伴纽蒙特（Newmont Corp．）就内华达金矿（Nevada Gold Mines...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwcmf4762467.d.html",
-        "time": "1786379732",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "霍尔木兹海峡重开前景未明 欧洲天然气价格大涨",
-        "intro": " 欧洲天然气价格大幅上涨，伊朗与阿曼就重新开放霍尔木兹海峡展开磋商，但交易员并不相信协议能迅速恢复全球液化天然气运输。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwcmc7982893.d.html",
-        "time": "1786378565",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "食品安全隐患持续增多，美国卫生与公众服务部拟收紧食品原料监管",
-        "intro": "美国卫生与公众服务部（HHS）提出新规：企业认定某原料具备 “一般公认安全（GRAS）” 资质时，必须向美国食品药品监督管理局（FDA）报备。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwcmf4754134.d.html",
-        "time": "1786378390",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国战略石油储备跌破3亿桶，创1983年以来新低",
-        "intro": "受伊朗战争冲击、全球石油库存承压影响，美国战略石油储备原油库存跌破 3 亿桶，创下四十余年来新低。 美国能源部周一公布的数据显示，上周战略石油储备减少 610 万桶...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwcmc7980716.d.html",
-        "time": "1786378219",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伯克希尔业绩稳健、资金投放力度加大，股价上涨2%",
-        "intro": "受益于经营业绩向好、资本投放规模提升，伯克希尔・哈撒韦股价周一走高。 这家综合企业集团的 A 类股早盘上涨 2.3%。伯克希尔公布第二季度经营利润同比增长 16%；能源...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwcmf4752097.d.html",
-        "time": "1786378045",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "西格尔：生产率低迷正在损害劳动者利益",
-        "intro": " 沃顿商学院教授杰里米・西格尔表示，生产率增长不及预期，是许多美国人对经济现状感到不满的一大原因，薪资涨幅难以跟上通胀步伐。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwcmh6249964.d.html",
-        "time": "1786377935",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：德国国债和英国国债下跌 能源价格飙升推高加息预期",
-        "intro": " 德国国债和英国国债下跌，中期债券领跌，因为市场对短期内能否达成重开霍尔木兹海峡协议的疑虑加剧，推动能源价格飙升。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwcmc7978091.d.html",
-        "time": "1786377810",
         "source": "新浪新闻"
       }
     ]
