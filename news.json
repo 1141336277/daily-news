@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T17:57:35.131Z",
+  "updated": "2026-08-10T19:08:33.370Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,13 @@
     ],
     "finance": [
       {
+        "title": "白宫：布兰奇宣誓就任美国司法部长",
+        "intro": "白宫新闻秘书卡罗琳· 莱维特在社交平台发文称，托德·布兰奇已宣誓就任美国司法部长。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwite6188551.d.html",
+        "time": "1786388291",
+        "source": "新浪新闻"
+      },
+      {
         "title": "特朗普称伊朗应为邻国遭受的损失负责",
         "intro": "美国总统特朗普称，伊朗“应该对黎巴嫩、叙利亚、也门和加沙人民遭受的损失和死亡负责”。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwisx1007178.d.html",
@@ -539,13 +546,6 @@
         "intro": "核心要点 英特尔周一宣布拟增发 150 亿美元普通股，用以支撑客户激增的人工智能算力需求。 公司重点看好物理 AI、专用芯片、先进封装三大增长赛道。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwcmc7955739.d.html",
         "time": "1786374220",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国利率或将在更长时间维持高位，这对普通民众意味着什么",
-        "intro": "核心要点 非农就业数据不及预期之后，市场目光全部聚焦将于 8 月 12 日公布的消费者物价指数（CPI）。 美银全球研究 8 月 7 日研报指出，在 7 月通胀数据出炉前...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwckz1062519.d.html",
-        "time": "1786373933",
         "source": "新浪新闻"
       }
     ]
