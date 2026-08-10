@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T19:08:33.370Z",
+  "updated": "2026-08-10T20:50:48.214Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,62 @@
     ],
     "finance": [
       {
+        "title": "原油：油价继续走高 霍尔木兹海峡协议仍未达成",
+        "intro": " 油价稳步走高，因伊朗与阿曼仍未就重开霍尔木兹海峡达成协议，同时在红海附近一家沙特炼油厂遭袭后，欧洲柴油价格飙升。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyx7806524.d.html",
+        "time": "1786394348",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：国债下跌 油价上涨且企业债发行大增",
+        "intro": " 美国国债周一下跌，油价连续第三天上涨，同时企业债市场迎来19笔新发行，为1月以来单日最多。不过，由于缺乏基本面催化因素，期货成交量低于近期平均水平。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyx7806258.d.html",
+        "time": "1786394298",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英伟达将与6家金融公司合作 筹集逾5000亿美元用于AI计算",
+        "intro": " 英伟达宣布与Apollo、贝莱德、黑石、博枫、高盛和KKR合作，设立独立的算力融资平台，为AI基础设施建设筹集逾5，000亿美元第三方资本。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyx7805870.d.html",
+        "time": "1786394218",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月11日收盘：三大指数小幅收跌，油价因伊朗不确定性上涨，英特尔拖累芯片板块走低",
+        "intro": "标普500指数周一收盘略低于平盘线，市场对美伊冲突能否在短期内达成持久解决方案的疑虑升温。 道指跌60.949点，跌幅为0.11%，报53975.98点；纳指跌85.258点，跌幅为0.32%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyx7805060.d.html",
+        "time": "1786394057",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普称几天前曾与美联储主席沃什“简短”交谈",
+        "intro": "美国总统特朗普表示，他几天前曾与美联储主席凯文·沃什进行过一次“简短”交谈。 特朗普在椭圆形办公室发表讲话。 特朗普补充说，他对沃什“非常尊重”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyv0917398.d.html",
+        "time": "1786391505",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元上涨 日元回吐干预带来的一半涨幅",
+        "intro": "美元指数随油价上涨，伊朗与阿曼的协议仍未达成。日元回吐近期干预行动激发的一半涨幅，周一在十国集团中表现垫底。 彭博美元即期指数上涨0.2%；国债收益率也上升。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpza6070446.d.html",
+        "time": "1786390513",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "霍尔木兹协议希望渺茫 特朗普提出赔偿反要求而伊朗提拔强硬派指挥官",
+        "intro": " 美国总统唐纳德·特朗普周一强硬回击了伊朗获得战争赔偿的要求，事态的最新发展令迅速达成重新开放霍尔木兹海峡协议的希望降温并推高了油价。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyz4559924.d.html",
+        "time": "1786390471",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "日元兑美元下跌1% 创3月份以来最大跌幅",
+        "intro": "日元周一在纽约午后交易中下跌1%，报1美元兑159.35日元。 日元在G10货币中表现最差；彭博美元指数上涨0.2%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwpyx7783429.d.html",
+        "time": "1786389572",
+        "source": "新浪新闻"
+      },
+      {
         "title": "白宫：布兰奇宣誓就任美国司法部长",
         "intro": "白宫新闻秘书卡罗琳· 莱维特在社交平台发文称，托德·布兰奇已宣誓就任美国司法部长。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwite6188551.d.html",
@@ -490,62 +546,6 @@
         "intro": " 德国国债和英国国债下跌，中期债券领跌，因为市场对短期内能否达成重开霍尔木兹海峡协议的疑虑加剧，推动能源价格飙升。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwcmc7978091.d.html",
         "time": "1786377810",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "霍尔木兹海峡风险推高油轮租船成本 中东航线日费逼近50万美元",
-        "intro": " 随着伊朗战争持续令许多船东不愿驶入霍尔木兹海峡，在作为行业基准的中东至亚洲航线上，租用一艘超大型油轮运输原油的成本已逼近每天50万美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwcmh6246411.d.html",
-        "time": "1786377578",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "裕信银行与德国商业银行就监管控制变化举行首次正式磋商",
-        "intro": " 裕信银行和德国商业银行就如何应对后者预计将发生的监管控制变化举行了首次正式磋商。德国商业银行的立场正从试图阻止，转向为过渡提供便利。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwcmh6245665.d.html",
-        "time": "1786377447",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Radiant World贷款方包括苏黎世州银行和奥地利奥合国际银行",
-        "intro": "知情人士称，向铁矿石贸易商Radiant World提供信贷的银行包括奥地利奥合国际银行和苏黎世州银行。 知情人士透露，前者是一家在贸易融资领域业务规模较大的奥地利银行...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwcmc7974775.d.html",
-        "time": "1786377373",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英特尔将发行150亿美元普通股 趁AI热潮之际融资",
-        "intro": "英特尔公司寻求通过发行新股筹集150亿美元，这可能是该公司自1971年上市以来首次公开增发股票。随着人工智能数据中心热潮重新点燃投资者对英特尔业务前景的兴趣...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwcmc7968134.d.html",
-        "time": "1786376252",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "日元颓势加深 美日历史性干预带来的半数涨幅已消失殆尽",
-        "intro": "日元跌势扩大，美国和日本历史性联手干预激发的涨幅已半数回吐。 该货币兑美元周一下跌多达0.8%，触及159.06，在十国集团中表现垫底。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwcmh6231368.d.html",
-        "time": "1786375232",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国政府文件显示美联储主席沃什已完成所承诺的投资权益剥离",
-        "intro": "一项政府记录显示，美联储主席凯文·沃什表示，他已卖出了此前承诺剥离的全部金融持仓。 沃什签署了一份美国政府道德办公室的道德协议合规认证文件，日期标注为上周四。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwcmh6226975.d.html",
-        "time": "1786374633",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX股价反弹，逼近135美元IPO发行价",
-        "intro": "核心要点 埃隆・马斯克旗下 SpaceX 股价周一大涨，重回 135 美元 IPO 发行价附近。 上周，SpaceX 登陆纳斯达克后首度发布财报，营收数据超出市场预期。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwcmc7957262.d.html",
-        "time": "1786374434",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "人工智能需求持续爆发，英特尔计划增发150亿美元普通股",
-        "intro": "核心要点 英特尔周一宣布拟增发 150 亿美元普通股，用以支撑客户激增的人工智能算力需求。 公司重点看好物理 AI、专用芯片、先进封装三大增长赛道。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwcmc7955739.d.html",
-        "time": "1786374220",
         "source": "新浪新闻"
       }
     ]
