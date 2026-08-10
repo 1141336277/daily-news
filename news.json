@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T16:59:13.508Z",
+  "updated": "2026-08-10T17:57:35.131Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,34 @@
     ],
     "finance": [
       {
+        "title": "特朗普称伊朗应为邻国遭受的损失负责",
+        "intro": "美国总统特朗普称，伊朗“应该对黎巴嫩、叙利亚、也门和加沙人民遭受的损失和死亡负责”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwisx1007178.d.html",
+        "time": "1786384591",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英伟达联手华尔街巨头筹划5000亿美元AI基建融资",
+        "intro": "一批美国投资巨头正与英伟达合作，拟为人工智能基础设施项目提供5000亿美元资金。 阿波罗全球管理、黑石集团、贝莱德旗下Global Infrastructure Partners、博枫公司...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwitc4651224.d.html",
+        "time": "1786383158",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "高盛全球银行与市场业务联席主管：三大理由建议持续布局市场",
+        "intro": "核心要点 尽管近期多起事件引发市场担忧，高盛高管阿肖克・瓦拉丹仍建议投资者继续持有资产、留在市场。 这位高盛全球银行与市场业务联席主管提出三大利好支撑观点：利率前...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwitc4643215.d.html",
+        "time": "1786381706",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "预测市场预期：周三重磅CPI数据或将显示通胀进一步降温",
+        "intro": "核心要点 卡尔希预测市场交易员认为，7 月居民消费价格指数（CPI）同比高于 3.3% 的概率不足 55%，同比突破 3.4% 的概率仅 15%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwisx0986642.d.html",
+        "time": "1786381564",
+        "source": "新浪新闻"
+      },
+      {
         "title": "华尔街公司与英伟达就5000亿美元AI融资协议达成合作",
         "intro": "包括阿波罗全球管理、黑石集团、贝莱德旗下Global Infrastructure Partners、博枫资产管理、高盛和KKR在内的多家大型投资机构，正在与英伟达合作达成一项规模达5000亿美元..",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimwisx0980453.d.html",
@@ -518,34 +546,6 @@
         "intro": "核心要点 非农就业数据不及预期之后，市场目光全部聚焦将于 8 月 12 日公布的消费者物价指数（CPI）。 美银全球研究 8 月 7 日研报指出，在 7 月通胀数据出炉前...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwckz1062519.d.html",
         "time": "1786373933",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "传智谱ARR今年将达20亿美元，七月来新增200万API用户",
-        "intro": " 新浪科技讯 8月10日晚间消息，据报道，智谱MaaS开放平台注册用户（即API用户）已达约700万，较七月初新增约200万，对标Codex的开发者产品ZCode上线1个月用户已突破100万。",
-        "url": "https://finance.sina.cn/chanjing/gsxw/2026-08-10/detail-inimwcmh6217453.d.html",
-        "time": "1786373425",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "业绩“炸裂”！301308，净利猛增71528.66%，拟最高8亿元回购",
-        "intro": "来源：中国基金报 【导读】存储高景气度带动业绩大增，江波龙上半年净利润同比增长71528.66% 中国基金报记者 闻言 正在申报港股IPO的江波龙...",
-        "url": "https://finance.sina.cn/2026-08-10/detail-inimwcmf4724477.d.html",
-        "time": "1786373400",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "哥伦比亚发生7.4级强震 建筑和基础设施严重受损",
-        "intro": "哥伦比亚周一上午发生强烈地震，导致有人员被埋在废墟下，太平洋地区和安第斯山脉中部的建筑及基础设施遭到严重破坏。 据美国地质调查局，当地时间早上7点34分...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-10/detail-inimwckz1057170.d.html",
-        "time": "1786373253",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "营收大增22%，净利下滑18%！两轮车龙头也难逃“增收不增利”？现金流骤降46%藏隐忧",
-        "intro": "来源：上市之家 8月10日，九号有限公司（689009.SH）发布2026年半年度报告。报告显示，公司上半年实现营业收入143.58亿元，同比增长22...",
-        "url": "https://finance.sina.cn/stock/ssgs/2026-08-10/detail-inimwcmc7954811.d.html",
-        "time": "1786373075",
         "source": "新浪新闻"
       }
     ]
