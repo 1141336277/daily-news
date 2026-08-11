@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T21:55:25.862Z",
+  "updated": "2026-08-11T22:51:24.696Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,34 @@
     ],
     "finance": [
       {
+        "title": "CoreWeave营收随AI基础设施需求加速翻倍，股价盘后大涨12%",
+        "intro": "CoreWeave公告称，本季度营收同比大增112%。公司净亏损6.26亿美元，去年同期净亏损2.9亿美元，对应每股亏损0.60美元。 目前公司营收储备订单规模达1040亿美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimzcpz4124702.d.html",
+        "time": "1786488223",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月12日隔夜要闻：美股收跌 油价上涨 美军袭击一艘驶向伊朗港口商船 英伟达推出首款开源AI模型",
+        "intro": "市场 8月12日收盘：美股三大股指收盘普跌 投资者对美伊能否就冲突达成更全面解决方案仍心存疑虑 8月12日美股成交额前20：谷歌跌超3% CEO称Gemini月活超10亿 8月12日热门中...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimyxfv7119728.d.html",
+        "time": "1786487417",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "巴基斯坦称霍尔木兹协议“接近达成” 但美伊立场却似乎更趋强硬",
+        "intro": " 巴基斯坦国防部长说美国和伊朗就霍尔木兹海峡问题已“接近达成某种安排”，然而长期陷入僵局的当事双方似乎都摆出了更为强硬的态度。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimzcpw5387820.d.html",
+        "time": "1786486965",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "也门胡塞武装表示愿与沙特对话",
+        "intro": " 也门胡塞武装11日表示，愿与沙特阿拉伯保持对话，但同时称，除非有关要求得到满足，否则将继续对沙特相关船只以及沙特支持的军事目标发动袭击。",
+        "url": "https://finance.sina.cn/2026-08-12/detail-inimyxfv7111848.d.html",
+        "time": "1786484846",
+        "source": "新浪新闻"
+      },
+      {
         "title": "大宗商品综述：油价上涨 铜价基本持平 金价回落",
         "intro": " 原油价格上涨，因为达成霍尔木兹海峡协议的前景仍不明朗。受此影响，市场风险偏好减弱，铜价基本持平。金价从两个月高位回落，市场关注焦点转向美国通胀数据。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimyxhc4230650.d.html",
@@ -399,6 +427,13 @@
         "intro": "周二美股成交额第2名美光收高0.87%，成交251.55亿美元。 8月11日，在KeyBanc资本市场年度科技领袖论坛上，美光科技执行副总裁兼首席商务官苏米特·萨达纳表示...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimyxhc4223247.d.html",
         "time": "1786482891",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
+        "intro": "当地时间11日，美国一名联邦法官下令，禁止美国邮政总署依据美国总统特朗普的行政命令限制邮寄投票。 美国共和党籍总统特朗普3月31日颁布行政令...",
+        "url": "https://finance.sina.cn/2026-08-12/detail-inimyxfx3877263.d.html",
+        "time": "1786482419",
         "source": "新浪新闻"
       },
       {
@@ -479,6 +514,13 @@
         "source": "新浪新闻"
       },
       {
+        "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
+        "intro": "当地时间8月11日，美国中央司令部表示，美军当天在阿曼湾行动向一艘悬挂巴拿马国旗、名为“维拉·诺瓦”号（Vela Nova）的货轮开火。",
+        "url": "https://finance.sina.cn/2026-08-12/detail-inimysxz3969361.d.html",
+        "time": "1786474799",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美国银行：美元对CPI低于预期会更为敏感",
         "intro": "美国银行分析师认为，如果美国通货膨胀报告意外低于预期，美元可能会出现相对而言更强烈的反应，因为这将“基本排除”美联储9月份加息的可能性...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxx7191524.d.html",
@@ -500,52 +542,10 @@
         "source": "新浪新闻"
       },
       {
-        "title": "印度航空机长药检结果呈阳性 此前飞行途中客机骤降约300英尺",
-        "intro": "知情人士称，上周飞行途中猛然下降约300英尺的印度航空飞机的机长在第二轮筛查中被检出非法药物呈阳性。 这起8月4日的事故目前正由印度航空事故调查局调查。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysyf4291756.d.html",
-        "time": "1786471930",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "油价震荡走高 美伊协议前景仍存疑虑",
-        "intro": " 油价在震荡交投中小幅走高。尽管有官员宣称谈判取得进展，但交易员对于能否很快达成协议、恢复霍尔木兹海峡的能源运输仍持怀疑态度。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxz3945914.d.html",
-        "time": "1786471078",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
-        "intro": " 美国目前预计，美伊战争导致的日均约60万桶的石油供应受阻将持续到明年年底，因冲突继续阻碍石油经关键航道霍尔木兹海峡运输。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysyf4285764.d.html",
-        "time": "1786470991",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "谷歌称Gemini的月用户数已超过10亿",
-        "intro": "Alphabet首席执行官Sundar Pichai在社交媒体平台X上发帖称，目前每月有超过10亿人使用Gemini。 他说：“这是我们历来增长最快的产品...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysya5558142.d.html",
-        "time": "1786470958",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "经济研究称美国关键弹药储备已低至“危险”程度 补充需要耗时数年",
-        "intro": "彭博经济研究周二发布的一份报告称，美国在对伊朗战争中使用的关键弹药库存已降至“危险低位”。 彭博经济研究防务负责人Becca Wasser和Courtney McBride在分析中表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxz3945284.d.html",
-        "time": "1786470934",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国3年期国债拍卖获得强劲需求 中标收益率创2025年以来新高",
-        "intro": "美国财政部发行580亿美元3年期国债中标收益率4.291%，纽约时间下午1点投标截止时的发行前交易水平为4.296%，表明需求略微超过了预期。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxz3944896.d.html",
-        "time": "1786470865",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英伟达信用风险指标回落 CEO澄清5000亿美元融资计划",
-        "intro": "一项与英伟达相关的信用风险指标周二回落，此前该公司表示将限制自身在一项5000亿美元融资计划中的风险敞口。该计划旨在为人工智能投资提供融资...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxz3942626.d.html",
-        "time": "1786470405",
+        "title": "法国央行预计第三季度经济增长0.2%",
+        "intro": " 当地时间8月11日，法国央行发布最新经济调查报告，预计法国今年第三季度国内生产总值（GDP）环比增长0.2%，与第二季度增速持平。",
+        "url": "https://finance.sina.cn/2026-08-12/detail-inimyxfv7084934.d.html",
+        "time": "1786472976",
         "source": "新浪新闻"
       }
     ]
