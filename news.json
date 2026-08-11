@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T20:53:54.690Z",
+  "updated": "2026-08-11T21:55:25.862Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,48 @@
     ],
     "finance": [
       {
+        "title": "大宗商品综述：油价上涨 铜价基本持平 金价回落",
+        "intro": " 原油价格上涨，因为达成霍尔木兹海峡协议的前景仍不明朗。受此影响，市场风险偏好减弱，铜价基本持平。金价从两个月高位回落，市场关注焦点转向美国通胀数据。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimyxhc4230650.d.html",
+        "time": "1786484350",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月12日外盘头条：美军向违反封锁船只开火 苹果支付负责人退休 谷歌Gemini月活超10亿 超微电脑盘后股价大涨",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国中央司令部：向违反对伊朗封锁的船只开火 2、美国预计伊朗战争造成的石油供应受阻将持续到2027年底 3...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimyxfy5499155.d.html",
+        "time": "1786483857",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：美股在CPI公布前收跌 霍尔木兹海峡僵局推高油价",
+        "intro": "美国股市周二继续下跌，尽管巴基斯坦表示，美伊接近就霍尔木兹海峡问题达成协议，但双方谈判仍陷僵局，推动油价上涨。 标普500指数收跌0.3%，回吐盘中涨幅...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimyxfv7102054.d.html",
+        "time": "1786483207",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月12日美股成交额前20：谷歌跌超3% CEO称Gemini月活超10亿",
+        "intro": "周二美股成交额第2名美光收高0.87%，成交251.55亿美元。 8月11日，在KeyBanc资本市场年度科技领袖论坛上，美光科技执行副总裁兼首席商务官苏米特·萨达纳表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimyxhc4223247.d.html",
+        "time": "1786482891",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Eurizon料美日撑场能推高日元至125 劝说空头不要负隅顽抗",
+        "intro": " Eurizon SLJ Capital首席执行官Stephen Jen认为，美国和日本联手撑日元之举是“一个分水岭时刻”，将阻止它兑美元跌回四十年低点。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimyxhc4215736.d.html",
+        "time": "1786481732",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "超微电脑营收指引远超预期 盘后股价大涨",
+        "intro": "超微电脑给出的本季度销售预期超过分析师预估，显示人工智能热潮持续推动其服务器需求增长。 该公司周二在声明中表示，截至9月的季度营收预计为145亿至155亿美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimyxfx3866949.d.html",
+        "time": "1786481704",
+        "source": "新浪新闻"
+      },
+      {
         "title": "8月12日热门中概股多数下跌，阿里百度跌超3%，网易京东跌超4%",
         "intro": "8月12日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌2.94%。 上涨个股（按市值从高到低）：台积电涨0.86%，日月光半导体涨2.82%，联电涨0.80%，中华电信涨0.12%...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimyxfv7091460.d.html",
@@ -504,48 +546,6 @@
         "intro": "一项与英伟达相关的信用风险指标周二回落，此前该公司表示将限制自身在一项5000亿美元融资计划中的风险敞口。该计划旨在为人工智能投资提供融资...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxz3942626.d.html",
         "time": "1786470405",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "巴克莱：美债对价格敏感型买家的依赖显著上升 料使收益率维持高位",
-        "intro": " 巴克莱表示，美国国债买家结构正在转向更注重价值的共同基金、家庭和其他私人投资者，这一变化帮助推动30年期美债收益率升至数十年来高位。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimynsi4397838.d.html",
-        "time": "1786468051",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI高管Brad Lightcap将离职 开启“新项目”",
-        "intro": "OpenAI管理人士Brad Lightcap将离开这家人工智能公司，开启一个新项目。就在几个月前，他卸任首席运营官一职。 Lightcap在一份与OpenAI员工分享的内部通知中写道...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimynse5669621.d.html",
-        "time": "1786467936",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根大通重金布局 2028 年洛杉矶奥运会背后的考量",
-        "intro": "核心要点摩根大通投入九位数资金，成为奥运会史上首家全球银行业合作伙伴。此举是对国际奥委会顶级赞助计划 —— 奥林匹克全球合作伙伴计划（TOP）的强力背书...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimynrz7285172.d.html",
-        "time": "1786467869",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "趋势基金创纪录做空全球债券 美国CPI报告料成为盈亏关键",
-        "intro": "追逐趋势的投资者对全球债券的做空押注达到创纪录水平，本周美国将公布的通胀报告因此变得异常重要。 瑞银集团的数据显示，旨在从各类资产价格走势中获利的商品交易顾问（C...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimynsi4388353.d.html",
-        "time": "1786466843",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲股市收盘基本持平 投资者继续关注中东局势发展",
-        "intro": " 欧洲股市周二持稳，盘中窄幅波动。成交量低于平均水平表明投资者信心不强。交易员一边权衡企业财报，一边评估中东局势的最新进展。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimynrz7277423.d.html",
-        "time": "1786466714",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "芝加哥联储行长：通胀是美国经济面临的最大问题",
-        "intro": "芝加哥联储行长奥斯坦·古尔斯比表示，“我们经济目前面临的最大问题”是通胀。 指标显示“劳动力市场稳定，但谈不上好，”古尔斯比在Wired周二发布于YouTube的视频中表示。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimynrz7277157.d.html",
-        "time": "1786466671",
         "source": "新浪新闻"
       }
     ]
