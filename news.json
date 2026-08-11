@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T17:03:00.891Z",
+  "updated": "2026-08-11T19:10:13.988Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,97 @@
     ],
     "finance": [
       {
+        "title": "美国银行：美元对CPI低于预期会更为敏感",
+        "intro": "美国银行分析师认为，如果美国通货膨胀报告意外低于预期，美元可能会出现相对而言更强烈的反应，因为这将“基本排除”美联储9月份加息的可能性...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxx7191524.d.html",
+        "time": "1786474518",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "法国央行预计第三季度经济保持增长势头",
+        "intro": "法国央行表示，在重点行业增长和通胀降温支撑下，法国经济本季度有望保持增长势头。 法国央行周二援引月度企业调查称，预计第三季度GDP将增长0.2%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysya5577475.d.html",
+        "time": "1786474069",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "苹果再迎高层更替 支付和钱包服务负责人Bailey将退休",
+        "intro": " 苹果公司负责支付和钱包服务的长期负责人Jennifer Bailey在公司任职逾20年后将退休，成为这家iPhone制造商新一轮高层更替中的最新一员。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxz3961068.d.html",
+        "time": "1786473959",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "印度航空机长药检结果呈阳性 此前飞行途中客机骤降约300英尺",
+        "intro": "知情人士称，上周飞行途中猛然下降约300英尺的印度航空飞机的机长在第二轮筛查中被检出非法药物呈阳性。 这起8月4日的事故目前正由印度航空事故调查局调查。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysyf4291756.d.html",
+        "time": "1786471930",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "油价震荡走高 美伊协议前景仍存疑虑",
+        "intro": " 油价在震荡交投中小幅走高。尽管有官员宣称谈判取得进展，但交易员对于能否很快达成协议、恢复霍尔木兹海峡的能源运输仍持怀疑态度。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxz3945914.d.html",
+        "time": "1786471078",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
+        "intro": " 美国目前预计，美伊战争导致的日均约60万桶的石油供应受阻将持续到明年年底，因冲突继续阻碍石油经关键航道霍尔木兹海峡运输。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysyf4285764.d.html",
+        "time": "1786470991",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "谷歌称Gemini的月用户数已超过10亿",
+        "intro": "Alphabet首席执行官Sundar Pichai在社交媒体平台X上发帖称，目前每月有超过10亿人使用Gemini。 他说：“这是我们历来增长最快的产品...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysya5558142.d.html",
+        "time": "1786470958",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "经济研究称美国关键弹药储备已低至“危险”程度 补充需要耗时数年",
+        "intro": "彭博经济研究周二发布的一份报告称，美国在对伊朗战争中使用的关键弹药库存已降至“危险低位”。 彭博经济研究防务负责人Becca Wasser和Courtney McBride在分析中表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxz3945284.d.html",
+        "time": "1786470934",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国3年期国债拍卖获得强劲需求 中标收益率创2025年以来新高",
+        "intro": "美国财政部发行580亿美元3年期国债中标收益率4.291%，纽约时间下午1点投标截止时的发行前交易水平为4.296%，表明需求略微超过了预期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxz3944896.d.html",
+        "time": "1786470865",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英伟达信用风险指标回落 CEO澄清5000亿美元融资计划",
+        "intro": "一项与英伟达相关的信用风险指标周二回落，此前该公司表示将限制自身在一项5000亿美元融资计划中的风险敞口。该计划旨在为人工智能投资提供融资...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimysxz3942626.d.html",
+        "time": "1786470405",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "巴克莱：美债对价格敏感型买家的依赖显著上升 料使收益率维持高位",
+        "intro": " 巴克莱表示，美国国债买家结构正在转向更注重价值的共同基金、家庭和其他私人投资者，这一变化帮助推动30年期美债收益率升至数十年来高位。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimynsi4397838.d.html",
+        "time": "1786468051",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI高管Brad Lightcap将离职 开启“新项目”",
+        "intro": "OpenAI管理人士Brad Lightcap将离开这家人工智能公司，开启一个新项目。就在几个月前，他卸任首席运营官一职。 Lightcap在一份与OpenAI员工分享的内部通知中写道...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimynse5669621.d.html",
+        "time": "1786467936",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "摩根大通重金布局 2028 年洛杉矶奥运会背后的考量",
+        "intro": "核心要点摩根大通投入九位数资金，成为奥运会史上首家全球银行业合作伙伴。此举是对国际奥委会顶级赞助计划 —— 奥林匹克全球合作伙伴计划（TOP）的强力背书...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimynrz7285172.d.html",
+        "time": "1786467869",
+        "source": "新浪新闻"
+      },
+      {
         "title": "趋势基金创纪录做空全球债券 美国CPI报告料成为盈亏关键",
         "intro": "追逐趋势的投资者对全球债券的做空押注达到创纪录水平，本周美国将公布的通胀报告因此变得异常重要。 瑞银集团的数据显示，旨在从各类资产价格走势中获利的商品交易顾问（C...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-12/detail-inimynsi4388353.d.html",
@@ -455,97 +546,6 @@
         "intro": " 据伊朗国家电视台IRIB News报道，伊朗最高领袖顾问Mohammad Mokhber表示：“对侵略者的惩罚仍在继续，在伊朗的条件得到满足之前，霍尔木兹海峡不会重新开放。”",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimynrx0472935.d.html",
         "time": "1786463341",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "芝商所和Silicon Data计划10月5日推出算力期货",
-        "intro": "芝加哥商品交易所和Silicon Data周二在一份声明中表示，预计将于10月初推出两项算力期货合约。 在获得监管批准后，新合约将在芝商所上市，并受纽约商品交易所规则约束。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimynsc4027404.d.html",
-        "time": "1786463296",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美股在看空声中屡创新高 谨慎情绪或许意味着仍有上升空间",
-        "intro": " 美国市场正处于历史高位，但从地缘政治到通胀，再到美联储意见分歧，各种担忧都在抑制投资者的冒险热情。而这或许恰恰是这轮涨势得以延续所需要的因素。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimynrz7254751.d.html",
-        "time": "1786463254",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "头部量化扎堆获配宇树科技",
-        "intro": "2026.08．11本文字数：1717，阅读时长大约3分钟 作者 |第一财经 黄思瑜 8月11日晚间，宇树科技网上网下中签结果出炉，网上中签号码共有19414个...",
-        "url": "https://finance.sina.cn/2026-08-11/detail-inimynse5627920.d.html",
-        "time": "1786462646",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "哥伦比亚强震死亡人数超过180人 咖啡产区受灾",
-        "intro": " 哥伦比亚西部发生强烈地震后，搜救工作进入第二天。这场强震导致大量人员被埋废墟，并对该国太平洋沿岸地区和中部安第斯山区造成严重破坏。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimynse5626597.d.html",
-        "time": "1786462552",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英特尔股票发行交易据悉约三分之一认购者未获配股份",
-        "intro": "知情人士称，在英特尔200亿美元的股票发行中，约三分之一提交认购订单的投资者最终未获配股份。 知情人士表示，英特尔此次发行最终获得数倍超额认购...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimyhkf4151777.d.html",
-        "time": "1786462156",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "预测市场迎来秋季行情爆发预期，Polymarket密集内部整顿、蓄力备战",
-        "intro": "核心要点预测交易平台 Polymarket 近期完成多笔重磅高管招聘，重点补强其 5 月上线的美国本土交易所业务。知情人士透露，正值美国商品期货交易委员会（CFTC）调查平台运营...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimyhkc7376683.d.html",
-        "time": "1786461657",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英伟达推出首款开源AI模型",
-        "intro": "核心要点英伟达发布Nemotron 3.5 Lightning开源模型，官方称这款模型轻量化，可在笔记本或台式电脑单块 GPU 上运行。这是自上月 CEO 黄仁勋公开表态力挺开源路线后...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimyhiz0589744.d.html",
-        "time": "1786461170",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "婴童用品品牌Frida进军儿童个护赛道",
-        "intro": "核心要点 Frida透露，这家母婴用品企业即将推出面向儿童的个人护理产品线，包含沐浴露、止汗剂、电动冲牙器等产品。 本次新品上市将与沃尔玛合作。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimyhkh5746853.d.html",
-        "time": "1786460993",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英伟达推出Nemotron 3.5 Lightning 瞄准智能体AI提速",
-        "intro": " 英伟达将扩展Nemotron 3模型系列，推出Nemotron 3.5 Lightning。与同类其他模型相比，该模型的输出速度最高可提升4倍，智能体任务完成速度可提升30%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimyhkf4144368.d.html",
-        "time": "1786460877",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "酒店巨头：中产群体持续壮大提振住宿需求，中东市场受挫影响得到对冲",
-        "intro": "核心要点洲际酒店集团（IHG）利润上涨 10%，中产消费群体与世界杯赛事拉动酒店需求。首席执行官埃利・马卢夫表示，居民财富增长促使消费者更愿意为体验消费...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-11/detail-inimyhkf4144111.d.html",
-        "time": "1786460842",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "宇树上市，高管、核心员工获配超180万股",
-        "intro": "11日晚，宇树科技发布了首次公开发行股票并在科创板上市网下初步配售结果及网上中签结果公告。 公告称，本次发行战略配售的缴款及配售工作已结束...",
-        "url": "https://finance.sina.cn/2026-08-11/detail-inimyhiz0581996.d.html",
-        "time": "1786460182",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "存储巨头拟回购，用于减少注册资本",
-        "intro": "佰维存储（688525）8月11日晚间公告，公司拟以2亿元—2.5亿元回购股份，用于减少注册资本，回购价格不超过468.24元/股。佰维存储表示...",
-        "url": "https://finance.sina.cn/stock/ssgs/2026-08-11/detail-inimyhkf4137742.d.html",
-        "time": "1786459777",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "三川智慧（300066）：中标泰安市自来水有限公司采购项目，中标金额为449.94万元",
-        "intro": "同壁财经讯，企查查数据显示，根据《泰安市自来水有限公司泰安城市供水管网漏损治理工程-DN15旋翼式半液封水表采购项目中标结果公告》...",
-        "url": "https://finance.sina.cn/2026-08-11/detail-inimyhkf4134857.d.html",
-        "time": "1786459405",
         "source": "新浪新闻"
       }
     ]
