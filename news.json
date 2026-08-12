@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T20:52:38.717Z",
+  "updated": "2026-08-12T21:52:59.209Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,48 @@
     ],
     "finance": [
       {
+        "title": "多空在160大关附近鏖战 交易员密切关注日元会否再遭干预",
+        "intro": "日元兑美元周三进一步逼近160大关，令投资者密切关注当局是否会再次进场干预。当日纽约尾盘日元兑美元下跌0.1%至159.43。本月以来日元已贬值逾1%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininchnz3595290.d.html",
+        "time": "1786570943",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：标普500指数逼近纪录高位 温和通胀缓解加息担忧",
+        "intro": "标普500指数收盘接近历史高位，科技股领涨，此前温和的通胀数据缓解了市场对加息的担忧。 标普500指数收涨0.3%；纳斯达克100指数上涨0.7%，扭转本周早些时候的跌势。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininchpa3484717.d.html",
+        "time": "1786570332",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗：霍尔木兹海峡使用者必须“修复”海湾环境损害",
+        "intro": " 伊朗外交部发言人Esmail Baghaei在X平台发文称：“所有从霍尔木兹海峡商业航运中获益的各方，在法律和道义上都有义务修复对波斯湾和阿曼海造成的环境损害。”",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininchpa3484257.d.html",
+        "time": "1786570246",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "全球最大主权财富基金披露首度持有SpaceX股份，录得创纪录1840亿美元利润",
+        "intro": " 挪威2.3万亿美元的主权财富基金周三报告上半年利润超过1840亿美元，创历史纪录，亚洲科技股上涨推动该基金回报率达9.4%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininchnz3587116.d.html",
+        "time": "1786569622",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：WTI走势震荡 美国原油库存大增之际市场聚焦霍尔木兹海峡谈判",
+        "intro": " 原油盘中反复震荡，伊朗与美国围绕霍尔木兹海峡的谈判几乎未见突破迹象，与此同时，交易员研判多家主要能源预测机构发布的一系列数据。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-inincafe3606202.d.html",
+        "time": "1786568504",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美伊协议前景存疑，霍尔木兹海峡航运量接近三个月低点",
+        "intro": "随着美伊能否达成协议全面开放这条中东关键石油出口通道的不确定性加剧，霍尔木兹海峡的船舶通行量已接近三个月低点。 据媒体对贸易情报公司Kpler提供数据的分析...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-inincafh0376188.d.html",
+        "time": "1786568022",
+        "source": "新浪新闻"
+      },
+      {
         "title": "思科公布远超预期财测 将业绩归功于创纪录的“广泛”需求",
         "intro": " 思科系统公司给出了远远超过华尔街预估的当季营收展望，表明该公司在人工智能数据中心市场夺取更大网络设备份额的努力取得了成功。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-inincafh0375367.d.html",
@@ -504,48 +546,6 @@
         "intro": "核心要点 投资者警示：财报披露周期调整、美联储沟通策略变化，叠加特朗普媒体推出 Truth API 付费服务，普通散户交易者或将陷入不利处境。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininavwz3332671.d.html",
         "time": "1786554097",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "黑石考虑放弃30亿美元债务融资计划",
-        "intro": "知情人士称，黑石集团正在考虑放弃一项约30亿美元的债务融资计划，该计划原本有助于公司向投资者返还部分资金。 知情人士称，黑石数月来一直在为旗下一只较早设立的私募股...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininavxa5028222.d.html",
-        "time": "1786553613",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：德国国债和英国国债持稳 长端表现略逊",
-        "intro": "德国国债和英国国债回吐涨幅，由于围绕重新开放霍尔木兹海峡的谈判进展仍不明朗，油价收复早前跌幅。 交易员基本无视符合市场预期的美国7月通胀数据...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininavxa5024171.d.html",
-        "time": "1786552903",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "多空争夺160大关 交易员密切关注日元是否会再遭干预",
-        "intro": "日元兑美元周三持稳在160关口附近，令投资者密切关注当局是否会再次进场干预。 纽约时间上午11时左右，日元兑美元基本持平于159.23。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininavwz3326933.d.html",
-        "time": "1786552879",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普因出售Truth Social帖文优先访问权限遭到起诉",
-        "intro": "核心要点 美国总统特朗普因一项颇具争议的业务遭到起诉：该业务对外售卖其在 Truth Social 平台帖文的提前推送权限。 起诉书提交至纽约联邦法院...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininarrc3449132.d.html",
-        "time": "1786551234",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "传鲍勃・艾格、约书亚・库什纳收购洛杉矶湖人，球队估值1250亿美元",
-        "intro": "核心要点 公告显示，马克・沃尔特已将洛杉矶湖人队多数股权出售给约书亚・库什纳与鲍勃・艾格。 一位获准匿名透露交易条款的知情人士称...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininarrc3448462.d.html",
-        "time": "1786551109",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "谷歌发布Pixel 11，依托Gemini迎战苹果，打响AI手机竞赛",
-        "intro": "核心要点 谷歌设备业务负责人里克・奥斯特洛表示，随着谷歌发力布局安卓独占的 Gemini 功能，Pixel 与 iPhone 正走向 “截然不同的发展路线”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-13/detail-ininarrc3447258.d.html",
-        "time": "1786550904",
         "source": "新浪新闻"
       }
     ]
