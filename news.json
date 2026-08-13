@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T21:53:12.457Z",
+  "updated": "2026-08-13T22:50:37.604Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,55 @@
     ],
     "finance": [
       {
+        "title": "8月14日隔夜要闻：标普500指数收盘创历史新高 原油结束连涨走势 存储板块同步走强",
+        "intro": "市场 8月14日收盘：标普500指数收盘创历史新高 受通胀数据低于预期及油价下跌提振 8月14日美股成交额前20：闪迪收涨13.67% 存储板块同步走强 8月14日热门中概股多数下跌...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfrtu4243104.d.html",
+        "time": "1786659203",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "大宗商品综述：原油结束连涨走势 黄金和铝价走低",
+        "intro": "原油价格结束连续上涨，投资者正在研判目前究竟有多少原油通过霍尔木兹海峡。受美国通胀缓和的迹象影响，黄金价格走低并跌破每盎司4，400美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmnc9651193.d.html",
+        "time": "1786658257",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Reddit将被纳入标普500指数 盘后股价飙升",
+        "intro": "根据新闻稿，Reddit将于8月18日开盘前纳入标普500指数。该公司股价周四盘后一度大涨10%。 Reddit将取代AvalonBay Communities。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmmz3095223.d.html",
+        "time": "1786658183",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "库什纳预计下周赴开罗与埃及、卡塔尔和土耳其调解人会谈",
+        "intro": "一位知情人士称，美国总统特朗普的特使贾里德·库什纳预计下周前往开罗，与埃及、卡塔尔和土耳其的调解人举行会谈。 此前有报道称，库什纳还计划下周访问以色列...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmna2878207.d.html",
+        "time": "1786658151",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：WTI涨势停滞 霍尔木兹海峡僵局之际交易员聚焦石油运量",
+        "intro": " 原油结束近期连涨走势，旨在结束伊朗战争的协议进展有限之际，交易员正在研判目前究竟有多少原油通过霍尔木兹海峡运输。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmmw4367332.d.html",
+        "time": "1786658090",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国将对无人机及其零部件征收关税 最高税率100%",
+        "intro": "白宫发文称，美国总统特朗普签署公告，将对部分无人机及其零部件征收不同税率的关税。 措施包括，对大型无人机以及被认为构成特定国家安全风险的无人机征收100%的从价关税...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmmz3094520.d.html",
+        "time": "1786658052",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "惠誉确认美国AA+信用评级 警告称债务增加将令经济易受冲击",
+        "intro": "惠誉确认美国长期外币债务评级为AA+，并警告称随着债务水平持续上升，美国“容易受到未来经济冲击”。 惠誉表示，美国政府“尚未采取有实质意义的行动”来应对庞大的财政赤字...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmmz3094311.d.html",
+        "time": "1786658004",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美国股市：标普500指数创新高 通胀数据温和打压了加息预期",
         "intro": "周四美国股市上涨，国债收益率下跌，因为有更多证据显示通胀放缓，强化了投资者有关美联储下个月不会加息的预期。 经过连续两天上涨之后，标普500指数创下历史新高...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmmz3094156.d.html",
@@ -497,55 +546,6 @@
         "intro": " 欧洲股市周四表现平淡，夏季市场交投清淡，尽管又有一批企业公布亮眼业绩。荷兰支付公司Adyen NV上调营收展望后大涨16%。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywf3263326.d.html",
         "time": "1786640934",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI营收负责人丹尼斯・德雷瑟即将离职，数日之内第二位高管出走",
-        "intro": "核心要点OpenAI 首席营收官丹尼斯・德雷瑟入职仅 8 个月便将离职。在她离任消息曝出的几天前，资深高管布拉德・莱特卡普已经宣布离开。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywf3262940.d.html",
-        "time": "1786640855",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "债市正在释放股市前景堪忧的信号",
-        "intro": "杰富瑞（Jefferies）分析认为，债券市场传出一项信号，预示股市接下来可能面临困境。 投资者通常依靠10 年期美债收益率研判经济与市场走势，但杰富瑞提出...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywa4534911.d.html",
-        "time": "1786640749",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "《大空头》知名投资者艾斯曼：AI繁荣存在致命弱点",
-        "intro": "史蒂夫・艾斯曼发出警示：当前人工智能热潮，愈发高度依赖仅两家企业的发展前景 ——OpenAI 与 Anthropic。 这位因全球金融危机前夕押注做空楼市而声名大噪的投资者表示：微...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywf3261275.d.html",
-        "time": "1786640583",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "与特朗普存在关联的油气合资企业收到格陵兰政府警告，推迟钻探计划",
-        "intro": "核心要点格陵兰能源公司与 80 英里石油公司将勘探钻探目标时间调整至 2027 年冬季，作业区域为格陵兰东部詹姆森地盆地。80 英里石油旗下子公司白焰能源未经审批运送设备上...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywh3058009.d.html",
-        "time": "1786640433",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "曼哈顿一房难求 租金创新高 有人豪掷4,000美元只为抢看“隐藏房源”",
-        "intro": "曼哈顿租金7月飙升至纪录最高水平，可出租房源出现历史性萎缩，同时又恰逢夏季租房旺季，供需矛盾进一步加剧。 根据房地产评估机构Miller Samuel Inc．和The Real...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywh3055978.d.html",
-        "time": "1786640054",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "全球最知名电动汽车先驱马斯克，如今大力转向化石能源",
-        "intro": "SpaceX 计划在得州建设天然气电厂，为新建芯片工厂供电；田纳西州、密西西比州园区已投入燃气轮机供电xAI 坐落于田纳西州孟菲斯的 AI 训练超级计算机 “巨像”（Colossus）...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywi9828348.d.html",
-        "time": "1786640046",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "世界杯票务风波吞噬 StubHub 利润，股价大跌",
-        "intro": "这家二手票务平台营收大幅增长，但因处理客诉与退款导致开支同步激增去年 StubHub 于纽交所进行首次公开募股现场标识 内容概要 受季度费用大涨 37% 侵蚀盈利影响...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywi9826081.d.html",
-        "time": "1786639634",
         "source": "新浪新闻"
       }
     ]
