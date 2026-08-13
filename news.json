@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T20:50:35.286Z",
+  "updated": "2026-08-13T21:53:12.457Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,69 @@
     ],
     "finance": [
       {
+        "title": "美国股市：标普500指数创新高 通胀数据温和打压了加息预期",
+        "intro": "周四美国股市上涨，国债收益率下跌，因为有更多证据显示通胀放缓，强化了投资者有关美联储下个月不会加息的预期。 经过连续两天上涨之后，标普500指数创下历史新高...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmmz3094156.d.html",
+        "time": "1786657969",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月14日外盘头条:美国30年期国债中标收益率创25年新高 油价下跌且通胀接连报喜 AMD拟发行债券筹资50亿美元",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国30年期国债中标收益率创25年新高 高举债成本恐成棘手难题 2、油价下跌且通胀接连报喜...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmnc9648388.d.html",
+        "time": "1786657573",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月14日美股成交额前20：闪迪收涨13.67% 存储板块同步走强",
+        "intro": "周四美股成交额第一名美光收高4.23%，成交346.12亿美元。 来自核心人工智能基础设施合作伙伴的强劲积极信号，成为美光科技的重要催化剂。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmna2870697.d.html",
+        "time": "1786656409",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国副总统万斯：在对伊朗的战争中 第一目标是让美国人享有低油价",
+        "intro": "美国副总统JD·万斯在接受采访时表示，在与伊朗的战争中，第一目标是让美国人的石油和汽油价格保持低位。 万斯称，美国“有很多手段“可以用来迫使伊朗采取行动。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmmz3079643.d.html",
+        "time": "1786655051",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储未来一个月暂停出于准备金管理目的买入美国国库券",
+        "intro": " 美联储周四表示，未来一段时间不会出于准备金管理目的买入美国国库券，这表明决策者认为金融体系中的银行准备金处于合意水平。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmmz3078911.d.html",
+        "time": "1786654969",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "惠誉确认美国的AA+信用评级",
+        "intro": "惠誉确认美国的长期外币债务评级为AA+。 展望保持稳定。 标普对美国的长期外币债务评级：AA+u，展望稳定",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmna2864245.d.html",
+        "time": "1786654912",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：国债上涨 交易员下调加息押注并布局未来降息",
+        "intro": "美国国债上涨，此前美国7月生产者价格指数（PPI）表现偏软。随着交易员评估有关霍尔木兹海峡运输的说法，油价下跌助推债市涨势。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmna2864032.d.html",
+        "time": "1786654873",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：日元逼近160关口 彭博美元指数小幅走低",
+        "intro": "尽管有消息称日本首相高市早苗政府支持加息，但日元兑美元汇率仍距离160日元大关触手可及。彭博美元指数周四小幅走低，当天公布的生产者价格数据温和...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmmz3077766.d.html",
+        "time": "1786654827",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月14日热门中概股多数下跌，台积电涨0.31%，阿里巴巴跌2.44%",
+        "intro": "8月14日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.89%。 上涨个股（按市值从高到低）：台积电涨0.31%，日月光半导体涨0.92%，联电涨0.36%，腾讯音乐涨2.36%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmnc9634070.d.html",
+        "time": "1786654322",
+        "source": "新浪新闻"
+      },
+      {
         "title": "8月14日收盘：标普500指数收盘创历史新高 受通胀数据低于预期及油价下跌提振",
         "intro": "周四，随着油价下跌以及交易员消化更多通胀数据，标普500指数盘中一度创下历史新高。 道指涨69.71点，涨幅为0.13%，报53839.98点；标普500指数涨50.49点，涨幅为0.65%...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininfmmw4338336.d.html",
@@ -483,69 +546,6 @@
         "intro": "这家二手票务平台营收大幅增长，但因处理客诉与退款导致开支同步激增去年 StubHub 于纽交所进行首次公开募股现场标识 内容概要 受季度费用大涨 37% 侵蚀盈利影响...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywi9826081.d.html",
         "time": "1786639634",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AI对能源最大影响或不在数据中心，而在油气行业",
-        "intro": " AI 数据中心耗电量堪比整座城市，催生各类能源需求，持续给电网带来压力，也令民众担忧电费上涨。 然而，规模庞大的算力耗电只是次要影响。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywf3253976.d.html",
-        "time": "1786639494",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "宏观看客：美国债市“义警”料逼多头缴械 长期收益率恐继续上行",
-        "intro": "美国联邦政府每月公布的预算报告是否已经重要到足以与非农就业或CPI相提并论？目前还不至于，但也许正在朝那个方向发展。当然，美国政府财政体系错综复杂...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywi9824702.d.html",
-        "time": "1786639392",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：德债创逾一周最大涨幅 美国PPI数据低于预期",
-        "intro": " 德国国债在美国7月PPI数据低于预期后创逾一周最大涨幅，中期券种领涨。随着布伦特原油收复部分跌幅，债券涨幅在收盘前收窄。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywa4525065.d.html",
-        "time": "1786639299",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Accelerant将通过44亿美元交易被Thoma Bravo私有化",
-        "intro": "交易预计于 2027 年上半年完成纽交所交易大厅屏幕显示 Accelerant Holdings 上市信息 Accelerant 达成协议，将接受私募机构 Thoma Bravo 收购并退市私有化。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywa4524782.d.html",
-        "time": "1786639266",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Tapestry 投资者质疑：蔻驰强劲增长还能维持多久",
-        "intro": "第四财季营收增长 9%，达到 18.8 亿美元 内容概要 Tapestry 公布第四财季净利润 3.478 亿美元，营收增长 9%，达 18.8 亿美元。 旗下拥有蔻驰（Coach）与凯特丝蓓（Kat",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywa4523885.d.html",
-        "time": "1786639130",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "安托法加斯塔盈利大增，但智利暴雨冲击产能，下调产量指引",
-        "intro": "这家铜矿企业税前利润同比大增 72%积雪覆盖下的安托法加斯塔洛斯佩兰布雷斯矿区 安托法加斯塔旗下洛斯佩兰布雷斯矿山因暴雨、停电暂停生产。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywi9822466.d.html",
-        "time": "1786639005",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "报道：胡塞武装袭击沙特阿美位于吉赞的炼油厂",
-        "intro": " 据胡塞武装控制的也门萨巴通讯社援引一名未具名军方消息人士报道，胡塞武装的两架无人机袭击了沙特阿美位于吉赞的炼油厂。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywf3246394.d.html",
-        "time": "1786638407",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "私募信贷上演“抢盐大战”：“什么都行，就是别碰软件”",
-        "intro": "一份最近在业内流传的、带有调侃意味的私募信贷术语表中，通常代表资产支持证券（asset-backed securities）的缩写ABS，被戏称为“Anything But Software” —— ",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywh3046663.d.html",
-        "time": "1786638377",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "全文|京东高管解读Q2财报：外卖总投入实现同比减亏超50%的显著改善",
-        "intro": " 京东集团发布了2026年二季度及半年业绩。2026年二季度，京东集团收入3，464亿元（511亿美元），归属于本公司普通股股东的净利润为71亿元，上年同期为62亿元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-inineywf3244365.d.html",
-        "time": "1786638132",
         "source": "新浪新闻"
       }
     ]
