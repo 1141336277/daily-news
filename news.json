@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T20:36:05.163Z",
+  "updated": "2026-08-14T21:30:16.645Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,69 @@
     ],
     "finance": [
       {
+        "title": "美国股市：标普500指数从纪录高位回落 美国消费出现降温迹象",
+        "intro": "标普500指数从纪录高位回落，美国经济的主要引擎显现降温迹象，盖过市场预计美联储9月将按兵不动的乐观情绪。 消费者信心和零售销售下滑虽然缓解了市场对美联储即将加息的...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiusu3740746.d.html",
+        "time": "1786742570",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伯克希尔披露Q2持仓：Alphabet跻身前三，增持达美航空和住宅建筑商",
+        "intro": " 伯克希尔哈撒韦在第二季度大幅增持了Alphabet的股份，使这家谷歌母公司跻身其三大股票持仓之列。此外还增持了达美航空和多家住宅建筑商的投资。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiusy2162597.d.html",
+        "time": "1786742509",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月15日热门中概股多数上涨，阿里巴巴涨1.35%，慧荣科技涨7.94%",
+        "intro": "8月15日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.61%。 上涨个股（按市值从高到低）：阿里巴巴涨1.35%，拼多多涨0.74%，网易涨2.01%，中华电信涨0.71%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiusx2465628.d.html",
+        "time": "1786741897",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英伟达披露持有210亿美元的SpaceX股份",
+        "intro": "根据申报文件，英伟达披露持有价值209.7亿美元的SpaceX股份。 英伟达还披露持有价值约300亿美元的英特尔股份。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiusx2461874.d.html",
+        "time": "1786741109",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "哈佛披露持有价值22亿美元的SpaceX股份",
+        "intro": "哈佛在13F申报文件中披露，持有价值22.1亿美元的SpaceX股份。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiusu3733916.d.html",
+        "time": "1786741036",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普：永远不会因为战争导致美国汽油价格上涨而道歉",
+        "intro": "美国总统特朗普表示，他不会因为伊朗战争导致美国人承担更高汽油价格而道歉。 特朗普在长岛的一场活动上作出上述表态。 特朗普还表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiusy2156431.d.html",
+        "time": "1786741016",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月15日收盘：美股三大指数周五收跌，标普500周线三连阳",
+        "intro": "标普500指数在周四创下历史新高后周五回落，但该指数仍录得连续第三周上涨。 道指跌107.57点，跌幅为0.2%，报53732.41点；标普500指数跌13.23点，跌幅为0.17%，报7785...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiqkw3862105.d.html",
+        "time": "1786740617",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元因美国零售销售疲软而下跌 日元小幅走强",
+        "intro": " 彭博美元指数触及5月份以来最低，此前美国零售销售数据出人意料地表现疲软，令市场对美国加息的预期降温。日元小幅上涨。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiqmc9054812.d.html",
+        "time": "1786739972",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "大宗商品综述：油价上涨 铜价走高 金价反弹",
+        "intro": " 原油价格小幅走高，交易员权衡美国拟加大对伊朗经济压力的威胁。铜价上涨，有迹象显示铜供应进一步趋紧。金价回升，最新通胀数据削弱对美联储加息的预期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiqma2282143.d.html",
+        "time": "1786739919",
+        "source": "新浪新闻"
+      },
+      {
         "title": "报道：特朗普称将重创伊朗经济",
         "intro": "福克斯新闻一名记者在节目中援引对美国总统特朗普的采访称，美国将重创伊朗经济。 这名记者称，特朗普在被问及伊朗时表示，他并不在意这件事是不是在中期选举前发生。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiqkz2578419.d.html",
@@ -483,69 +546,6 @@
         "intro": " 澳大利亚首富吉娜・莱因哈特在今年第二季度购入埃隆・马斯克旗下太空探索技术公司（SpaceX）800 万股股票，同时又追加数亿美元布局美股市场。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininicvi9239147.d.html",
         "time": "1786724143",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "白宫副国家安全顾问Baker据悉将离职 曾参与伊朗谈判",
-        "intro": "据一位知情人士透露，白宫副国家安全顾问Andy Baker计划在未来几周离职，这将使特朗普政府失去一位外交政策决策者。 Baker还曾担任副总统JD·万斯的国家安全顾问。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininicvh2465396.d.html",
-        "time": "1786723932",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "密歇根大学调查：通胀忧虑持续萦绕，美国消费者对经济看法转悲观",
-        "intro": "美国人愈发谨慎，消费者信心指数跌至 51.0 密歇根大学消费者信心初值数据显示，受冲突局势、美债收益率走高以及地缘政治不确定性影响，8 月美国民众对经济前景愈发悲观...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininicvi9227298.d.html",
-        "time": "1786722088",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特斯拉最快本月展示具“飞行”能力的Roadster跑车",
-        "intro": "据报道，特斯拉计划最快本月发布一款新的Roadster设计，其中将包括“飞行”能力。 报道称，发布活动将安排一场精心设计的特技演示，展示Roadster限量版车型的飞行能力。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininicvh2454405.d.html",
-        "time": "1786722024",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "人工智能基建扩张面临一道难题：一万亿美元现金也无力解决",
-        "intro": "为何三分之二人工智能数据中心的电力需求或许永远无法落地 财报季已接近尾声，市场再度出炉规模更大的预测，测算各大云厂商今年将投入多少资金扩建人工智能数据中心。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininicvi9225392.d.html",
-        "time": "1786721775",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Momenta破发背后：锚定地平线估值 “物理AI”故事未兑现 市场为何不买单？",
-        "intro": "出品：新浪财经上市公司研究院/港市多维镜 作者：喜乐 2026年7月8日，Momenta以295.6港元发行价登陆港交所，发行市值约696亿港元。",
-        "url": "https://finance.sina.cn/stock/ssgs/2026-08-14/detail-ininicvh2449481.d.html",
-        "time": "1786721197",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "多只大涨牛股，被交易所重点监控",
-        "intro": "8月14日，据“上交所发布”消息，上交所本周对98起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对爱丽家居、百花医药等严重异常波动股票以及财通福鑫LOF等溢价...",
-        "url": "https://finance.sina.cn/2026-08-14/detail-ininicvf2735945.d.html",
-        "time": "1786720623",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "法国宪法委员会否决青少年社交媒体禁令 马克龙改革议程受挫",
-        "intro": "法国最高宪法权力机构否决了议会上月通过的禁止15岁以下儿童使用社交媒体的法律，令力推该法案的总统马克龙遭遇挫折。 法国宪法委员会周五裁定，该禁令违宪...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininicvf2731370.d.html",
-        "time": "1786720304",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "沃伦致函 要求贝森特说明干预日元的依据",
-        "intro": " 美国参议员伊丽莎白·沃伦要求财政部长斯科特·贝森特解释特朗普政府干预日元的依据，延续了这位资深民主党人对特朗普政府外汇政策进行审查的一贯做法。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininicva4003641.d.html",
-        "time": "1786720256",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国8月密歇根大学消费者信心指数初值为51.0，预估为55",
-        "intro": "密歇根大学8月消费者信心指数初值为51.0，前月为55.2。 预估中值为55，41位经济学家的预测区间为51.0至57.2； 当前经济状况指数为51.8；前月为54.8； 预期指数为50.6...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininicva4003260.d.html",
-        "time": "1786720199",
         "source": "新浪新闻"
       }
     ]
