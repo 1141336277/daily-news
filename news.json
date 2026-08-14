@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:01:53.151Z",
+  "updated": "2026-08-14T20:36:05.163Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,34 @@
     ],
     "finance": [
       {
+        "title": "报道：特朗普称将重创伊朗经济",
+        "intro": "福克斯新闻一名记者在节目中援引对美国总统特朗普的采访称，美国将重创伊朗经济。 这名记者称，特朗普在被问及伊朗时表示，他并不在意这件事是不是在中期选举前发生。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiqkz2578419.d.html",
+        "time": "1786738524",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "报道：Coinbase、a16z和Kalshi高管将出席白宫会议 特朗普也将与会",
+        "intro": " Semafor记者在X平台发文称，Coinbase、Andreessen Horowitz（a16z）、Kalshi、Ripple和Chainlink的高管预计将于周三出席在白宫举行的会议。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiqkw3850860.d.html",
+        "time": "1786738491",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：国债收益率曲线熊陡 英债遭抛售波及美债",
+        "intro": " 美国国债在周五上午承压，追随欧债在伦敦收盘前的跌势，英国国债卖压尤其明显。纽约午后交易时段美债跌幅大体维持，收益率曲线全天呈现熊陡。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiqmc9048196.d.html",
+        "time": "1786738450",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压",
+        "intro": " 据知情人士透露，特朗普政府对古巴的策略正日益侧重于加大制裁和经济压力，而非动用军事力量来瓦解这个岛国的共产党政权。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiqkz2577803.d.html",
+        "time": "1786738409",
+        "source": "新浪新闻"
+      },
+      {
         "title": "加拿大与美国贸易谈判涉及关键矿产和国防问题",
         "intro": " 了解谈判情况的三名加方消息人士和一名美方消息人士称，加拿大和美国在持续进行的贸易谈判中讨论了关键矿产和国防问题。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-15/detail-ininiqma2249253.d.html",
@@ -518,34 +546,6 @@
         "intro": "密歇根大学8月消费者信心指数初值为51.0，前月为55.2。 预估中值为55，41位经济学家的预测区间为51.0至57.2； 当前经济状况指数为51.8；前月为54.8； 预期指数为50.6...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininicva4003260.d.html",
         "time": "1786720199",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "丸红乐见日元走强，以便充分落实120亿美元投资计划",
-        "intro": "这家获得伯克希尔・哈撒韦投资的日本综合商社认为，日元升值将为海外并购提供更强购买力 作者：成冈耕作丸红株式会社社长大本真幸在亚太经合组织工商领导人峰会上发言。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininicvf2722611.d.html",
-        "time": "1786719029",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "企业重金布局量子计算",
-        "intro": "大量企业投入数百万资金搭建量子计算项目，谋求竞争优势，并为未来加密技术面临的威胁提前备战 作者：伊莎贝尔・布斯凯特纽约约克敦海茨 IBM 托马斯・J・沃森研究中心内的...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininicva3993822.d.html",
-        "time": "1786718872",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "多点数智中报利润大增66% 却站在港股通剔除悬崖边",
-        "intro": "2026年8月12日，多点数智（02586.HK）交出2026年中期答卷：上半年收入11.55亿元，同比增长7.1%；期内利润1.03亿元，同比大幅提升66.2%；经调整净利润1.18亿元，同比增长5",
-        "url": "https://finance.sina.cn/2026-08-14/detail-ininicva3991511.d.html",
-        "time": "1786718572",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AI重塑营销搜索格局之际，Reddit竭力维持自身本色",
-        "intro": "此外，Flock 公司出台新规，试图平息车牌扫描设备引发的舆论抗议 作者：纳特・艾夫斯 领导力研究院记者凯蒂・迪顿报道：各大品牌争相入驻 Reddit...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-14/detail-ininicva3991282.d.html",
-        "time": "1786718545",
         "source": "新浪新闻"
       }
     ]
