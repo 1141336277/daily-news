@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T16:34:30.987Z",
+  "updated": "2026-08-17T17:32:18.951Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,48 @@
     ],
     "finance": [
       {
+        "title": "优步将Zipline无人机接入外卖配送网络",
+        "intro": " 优步将对无人机配送企业 Zipline 进行投资并达成合作，目标到 2029 年底，借助这家初创公司的无人机实现每日 100 万单配送。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininsfpx9848263.d.html",
+        "time": "1786986608",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX主要投资者终于浮出水面，海量股份即将解禁",
+        "intro": "SpaceX（SPCX）股东名单终于揭开面纱，周一该股大涨超 5%。 共有 1500 余名投资者披露持股，但仅 23 家机构就占到披露股份总量的 80% 以上。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininsfpz6620256.d.html",
+        "time": "1786986499",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "塞勒旗下Strategy公司抛售普通股，用于回购优先股",
+        "intro": "迈克尔・塞勒正在反向运转他那套比特币积累飞轮模式。 Strategy 公司披露，过去一周出售价值 3.337 亿美元的普通股，所得资金用于回购优先股以及扩充现金储备...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzhi7711548.d.html",
+        "time": "1786986325",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美伊和平前景渺茫 据报特朗普称不急于结束战争",
+        "intro": "中东和平前景再遭挫折。黎巴嫩再度紧张，据报美国总统特朗普表示，他并不急于结束与伊朗的战争。 特朗普在接受福克斯新闻电话采访时表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzhi7704699.d.html",
+        "time": "1786985405",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲债市：超长期国债延续跌势 财政风险担忧挥之不去",
+        "intro": "欧洲超长期国债下跌，延续上周跌势，触及近20年来最低水平，财政风险担忧挥之不去，30年期国债明显承压。 法国30年期国债收益率一度上涨2个基点，至4.86%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzhc6745941.d.html",
+        "time": "1786985319",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "全美商超在售冰淇淋品牌Rebel Creamery申请破产",
+        "intro": "作者：盖布・豪阿里 Rebel Creamery 冰淇淋在沃尔玛、克罗格等全美多家商超均有销售。因与竞品 Van Leeuwen 发生商品包装装潢侵权纠纷...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzhe8969285.d.html",
+        "time": "1786984521",
+        "source": "新浪新闻"
+      },
+      {
         "title": "白银价格预测：未来十年投资者可以期待什么？",
         "intro": "作者：卡特・特雷蒂纳 相较于黄金，白银常常被人们忽视。虽然白银每盎司单价远不及黄金，但它依然可以是不错的投资品种。白银价格更低，普通投资者更容易参与...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzhe8967573.d.html",
@@ -504,48 +546,6 @@
         "intro": "由于市场持续担忧财政风险，超长期债券再次遭遇抛售，法国30年期国债收益率重新升至近20年来最高水平。 法国30年期国债收益率上升1个基点，至4.86%...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-17/detail-ininruye0059525.d.html",
         "time": "1786977844",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AI相关股票集体走强：Anthropic营收14倍增长报告提振市场情绪",
-        "intro": "周一美股开盘后，尽管主要指数表现平淡，但AI产业链个股显著走强。催化剂来自上周五的报道：Anthropic第二季度初步营收超过115亿美元，同比激增至少14倍（去年同期约7...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-17/detail-ininruym7766440.d.html",
-        "time": "1786977666",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Meta面临联邦审判：多州指控其故意设计社交媒体成瘾功能伤害青少年",
-        "intro": "美国加州奥克兰联邦法院本周正式启动针对Meta的重大审判。加州、科罗拉多州、肯塔基州和新泽西州四州总检察长指控Meta故意设计Facebook和Instagram功能，使青少年上瘾...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-17/detail-ininruyh9036564.d.html",
-        "time": "1786977469",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "千亿芯片巨头业绩曝光！688521 上半年亏损超去年全年",
-        "intro": "來源：中国基金报 【导读】芯原股份2026年上半年亏损额超去年全年 “中国半导体IP第一股”“AI ASIC龙头”芯原股份8月17日晚发布的半年报显示，2026年上半年...",
-        "url": "https://finance.sina.cn/2026-08-17/detail-ininruyf6833051.d.html",
-        "time": "1786977300",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "加拿大7月通胀率升至3%：汽油价格加速上涨成主因，核心通胀仍贴近目标",
-        "intro": "拿大统计局8月17日公布的数据显示，7月消费者价格指数（CPI）同比上涨3.0%，高于6月的2.8%，略超市场预期的2.9%。这一升幅主要受汽油价格加速上涨以及旅行相关成本推动。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-17/detail-ininruyh9034208.d.html",
-        "time": "1786977266",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "高盛警示：退税红利消退，美国消费支出或将降温",
-        "intro": "尽管汽油与食品价格居高不下，美国消费者今年展现出极强的韧性。但高盛经济学家警告，这份韧性很快将迎来考验。 高盛经济学家扬・哈祖斯在最新研报中指出：面向消费者的企...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-17/detail-ininruym7757849.d.html",
-        "time": "1786976938",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "日丰股份，拟投资7亿元切入光纤赛道",
-        "intro": "8月17日晚间，日丰股份公告，公司拟投资约7亿元建设年产300吨光纤预制棒、1000万芯公里光纤项目（以下简称“光纤项目”），项目的基建实施主体为广东日丰新材料有限公司（以...",
-        "url": "https://finance.sina.cn/2026-08-17/detail-ininruye0056257.d.html",
-        "time": "1786976880",
         "source": "新浪新闻"
       }
     ]
