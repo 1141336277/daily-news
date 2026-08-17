@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T18:48:30.001Z",
+  "updated": "2026-08-17T19:32:48.257Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,13 @@
     ],
     "finance": [
       {
+        "title": "原油：油价上涨 中东局势再趋紧张",
+        "intro": " 油价攀升，因为有迹象显示中东冲突短期内仍难以平息，削弱了市场对霍尔木兹海峡石油运输量将很快恢复至战前水平的乐观期望。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininsmvy8784109.d.html",
+        "time": "1786995099",
+        "source": "新浪新闻"
+      },
+      {
         "title": "纽约汇市：美元跌至三个月低点 加元在CPI公布后持稳",
         "intro": " 近期一系列疲软的美国经济数据促使交易员下调对美联储加息的预期，彭博美元指数跌至5月以来最低水平。加拿大7月通胀率升至3%的报告公布后，加元一度走强。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininsfpz6645618.d.html",
@@ -539,13 +546,6 @@
         "intro": "根据一份财务文件，英伟达同意投入最高1050亿美元支持俄亥俄州一座大型新数据中心园区。该园区未来将由OpenAI租用，此举标志着推动人工智能热潮的两大主导力量正在进一步深...",
         "url": "https://finance.sina.cn/china/gjcj/2026-08-17/detail-ininrzhc6712729.d.html",
         "time": "1786979787",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "看多SpaceX的投资者务必记住一件事",
-        "intro": "作者：布莱恩・索齐 看多 SpaceX（SPCX）的投资者，未来一年左右应当密切关注该公司的现金流量表，多项开支项目即将大幅飙升。 核心判断 KeyBanc...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-17/detail-ininrzhe8922082.d.html",
-        "time": "1786979035",
         "source": "新浪新闻"
       }
     ]
