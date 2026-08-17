@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T21:30:49.531Z",
+  "updated": "2026-08-17T22:30:19.852Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,34 @@
     ],
     "finance": [
       {
+        "title": "英伟达为俄亥俄州OpenAI数据中心提供1050亿美元融资支持",
+        "intro": "周一披露的一份证券文件显示，英伟达将为OpenAI在俄亥俄州的一座新人工智能数据中心提供高达1050亿美元的融资。 该信贷将支持初始4.25吉瓦（GW）的计算能力...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininssee3544530.d.html",
+        "time": "1787005731",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "派拉蒙寻求州总检察长提供18.8亿美元保证金，以覆盖华纳兄弟探索合并延迟带来的成本",
+        "intro": " 派拉蒙将在其反垄断案件中，根据周一提交的一份新文件，寻求迫使那些阻碍其与华纳兄弟探索合并的州支付与延迟相关的费用和成本。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininsseh0316523.d.html",
+        "time": "1787005619",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月18日热门中概股涨跌不一 小鹏涨超4% 华住酒店涨超11%",
+        "intro": "8月18日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.37%。 上涨个股（按市值从高到低）：台积电涨1.08%，阿里巴巴涨0.73%，拼多多涨0.74%，日月光半导体涨0...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininssee3533769.d.html",
+        "time": "1787003026",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月18日外盘头条：特朗普称不寻求延长与伊朗的谅解备忘录 Anthropic年化营收有望突破650亿美元",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普称不寻求延长与伊朗的谅解备忘录 2、英伟达将向OpenAI俄亥俄数据中心投资至多1050亿美元 3...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininsmvy8832147.d.html",
+        "time": "1787002241",
+        "source": "新浪新闻"
+      },
+      {
         "title": "外国6月抛售美国国债 日本减持量最大",
         "intro": " 美国财政部周一公布的数据显示，外国持有的该国国债6月出现大幅下降，其中日本减持得最多，而加拿大、新加坡和印度则加仓。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininsmwh3658837.d.html",
@@ -493,6 +521,13 @@
         "source": "新浪新闻"
       },
       {
+        "title": "一艘阿联酋油轮在霍尔木兹海峡被拦截",
+        "intro": " 总台记者当地时间17日获悉，海事数据显示，一艘属于阿联酋公司的油轮在穿越霍尔木兹海峡时，在格什姆岛附近被拦截。（总台记者 张卓雅）",
+        "url": "https://finance.sina.cn/2026-08-18/detail-ininsfqa8882635.d.html",
+        "time": "1786989507",
+        "source": "新浪新闻"
+      },
+      {
         "title": "优步将Zipline无人机接入外卖配送网络",
         "intro": " 优步将对无人机配送企业 Zipline 进行投资并达成合作，目标到 2029 年底，借助这家初创公司的无人机实现每日 100 万单配送。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininsfpx9848263.d.html",
@@ -511,41 +546,6 @@
         "intro": "迈克尔・塞勒正在反向运转他那套比特币积累飞轮模式。 Strategy 公司披露，过去一周出售价值 3.337 亿美元的普通股，所得资金用于回购优先股以及扩充现金储备...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzhi7711548.d.html",
         "time": "1786986325",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美伊和平前景渺茫 据报特朗普称不急于结束战争",
-        "intro": "中东和平前景再遭挫折。黎巴嫩再度紧张，据报美国总统特朗普表示，他并不急于结束与伊朗的战争。 特朗普在接受福克斯新闻电话采访时表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzhi7704699.d.html",
-        "time": "1786985405",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：超长期国债延续跌势 财政风险担忧挥之不去",
-        "intro": "欧洲超长期国债下跌，延续上周跌势，触及近20年来最低水平，财政风险担忧挥之不去，30年期国债明显承压。 法国30年期国债收益率一度上涨2个基点，至4.86%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzhc6745941.d.html",
-        "time": "1786985319",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "全美商超在售冰淇淋品牌Rebel Creamery申请破产",
-        "intro": "作者：盖布・豪阿里 Rebel Creamery 冰淇淋在沃尔玛、克罗格等全美多家商超均有销售。因与竞品 Van Leeuwen 发生商品包装装潢侵权纠纷...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzhe8969285.d.html",
-        "time": "1786984521",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "白银价格预测：未来十年投资者可以期待什么？",
-        "intro": "作者：卡特・特雷蒂纳 相较于黄金，白银常常被人们忽视。虽然白银每盎司单价远不及黄金，但它依然可以是不错的投资品种。白银价格更低，普通投资者更容易参与...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzhe8967573.d.html",
-        "time": "1786984336",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "马斯克将投入28亿美元，押注他曾称作“史上最愚蠢实验”的项目",
-        "intro": "作者：AJ 蒂尔斯密斯 速览要点 SpaceX 的 IPO 申报文件披露，计划投入 28 亿美元采购天然气燃气轮机；特斯拉向同属 xAI 的算力项目供应价值 2...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-18/detail-ininrzfz9967234.d.html",
-        "time": "1786984083",
         "source": "新浪新闻"
       }
     ]
