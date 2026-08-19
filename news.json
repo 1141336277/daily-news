@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T17:31:15.182Z",
+  "updated": "2026-08-19T18:42:41.277Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,34 @@
     ],
     "finance": [
       {
+        "title": "花旗建议买入20年期美国国债 称增加回购预示着收益率见顶",
+        "intro": " 花旗集团建议客户买入长期美国国债，此前美国财政部宣布计划将较长期债券的回购规模“至少”翻一番。花旗表示，此举可能意味着收益率见顶。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtty8181818.d.html",
+        "time": "1787163749",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Marvell因AI芯片交易大涨8%，谷歌可购买至多122亿美元股份",
+        "intro": " Marvell Technology股价上涨8%，此前根据一份证券申报文件，该公司达成了一项允许谷歌购买至多122亿美元公司股份的交易。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtui9147693.d.html",
+        "time": "1787162822",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国20年期国债中标收益率5.204% 高于发行前交易水平",
+        "intro": " 美国财政部发行160亿美元20年期新债中标收益率5.204%，比投标截止时的发行前交易水平高0.5个基点。投标结果公布后收益率曲线长端反应平淡。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuc6883967.d.html",
+        "time": "1787161004",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美国财政部宣布增加长债回购后美元跌至三个月低点",
+        "intro": " 美元在纽约汇市创出三周最大跌幅，跌至5月中旬以来最低水平，之前在美国财政部宣布增加长期国债回购之后，债券市场上涨。日元跃升多达1%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuh2363913.d.html",
+        "time": "1787160859",
+        "source": "新浪新闻"
+      },
+      {
         "title": "资金流向显示亿万富豪Ken Fisher旗下机构以40亿美元逆势抄底长期美债",
         "intro": " 亿万富豪Ken Fisher旗下同名公司似乎正在押注期限最长的美国国债将会上涨，以逆势操作寻求从收益率接近20年高位所带来的机会中获利。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuc6879937.d.html",
@@ -518,34 +546,6 @@
         "intro": "8月19日晚，*ST卓然（688121）公告称，公司于2025年12月因涉嫌信息披露违法违规等事项被中国证监会立案调查。根据监管调查进展，现已初步查明公司披露的部分年度财务信息涉...",
         "url": "https://finance.sina.cn/stock/ssgs/2026-08-19/detail-ininwiei7030939.d.html",
         "time": "1787149765",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Moderna股价飙升150%，与默沙东合作的黑色素瘤疫苗在大规模试验中取得成功",
-        "intro": " Moderna公司与默沙东公司的免疫治疗药物Keytruda联合使用的mRNA疫苗，在针对皮肤癌的后期临床试验中取得成功，两家公司于周三宣布了这一消息。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-19/detail-ininwien2544301.d.html",
-        "time": "1787149752",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "港交所，业绩创新高！陈翊庭发声，信息量满满",
-        "intro": "8月19日，香港交易所（简称“港交所”）交出了一份创历年半年度新高的业绩“成绩单”。 具体来看，2026年上半年收入及其他收益为167.02亿港元...",
-        "url": "https://finance.sina.cn/stock/ggyj/2026-08-19/detail-ininwiee8299486.d.html",
-        "time": "1787149520",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国财政部将债务回购规模提高一倍，贝森特着手稳定债券市场",
-        "intro": "美国财政部周三表示，将把政府债务回购规模提高一倍以上，在市场面临巨大压力之际，此举推动收益率大幅走低。 随着固定收益市场承压，收益率飙升至近20年来未见的水平...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-19/detail-ininwiei7023457.d.html",
-        "time": "1787149354",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "湖南裕能披露2026年半年报 归母净利润同比增长853.51%",
-        "intro": "8月19日，湖南裕能（301358.SZ）发布2026年半年度报告，期内实现营业收入348.77亿元，同比增长142.92%；归属于上市公司股东的净利润29.1亿元，同比增长853.51%。",
-        "url": "https://finance.sina.cn/2026-08-19/detail-ininwiee8301471.d.html",
-        "time": "1787149140",
         "source": "新浪新闻"
       }
     ]
