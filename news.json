@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T19:30:54.554Z",
+  "updated": "2026-08-19T20:34:46.259Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,76 @@
     ],
     "finance": [
       {
+        "title": "美国债市：收益率曲线扭曲趋平 美财政部宣布扩大回购规模",
+        "intro": "美国国债收益率曲线周三大幅扭曲趋平，长债跑赢，此前美国财政部宣布将把10年至30年期国债的流动性支持回购操作规模至少提高一倍。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwyae2285902.d.html",
+        "time": "1787170663",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月20日美股收盘：三大股指普涨 美国财政部扩大国债回购",
+        "intro": "周三，在美国财政部宣布扩大国债回购操作之后，美债收益率回落，主要股指收盘普涨。 道指涨0.22%，标普500指数涨0.16%，纳指涨0.21%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwxzz6835597.d.html",
+        "time": "1787170469",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国财政部加码长期美债回购 令人联想到美联储“扭转操作”",
+        "intro": " 特朗普政府出人意料地扩大长期美国国债回购规模，令人联想到美联储的“扭转操作”（Operation Twist）。美联储上次启用这一策略是在2011年，旨在压低长期利率。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwxzw8101326.d.html",
+        "time": "1787169697",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI首席财务官：公司或将在2027年上市，甚至更早",
+        "intro": " 据两位知情人士透露，OpenAI首席财务官弗莱尔在周三的全员会议上向员工表示，公司将在 2027 年上市；倘若业务持续高速增长，也有可能更早登陆公开市场。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwyae2277597.d.html",
+        "time": "1787168879",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗尚未有任何被冻结资金获得返还",
+        "intro": " 伊朗央行行长Abdolnaser Hemmati在电视采访中表示：“到目前为止，没有任何伊朗被冻结资金根据（与美国签署的）谅解备忘录获得返还。”",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwyaf9049969.d.html",
+        "time": "1787168843",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Marvell因AI芯片交易协议大涨8%，该协议允许谷歌购买至多122亿美元股份",
+        "intro": "根据一份证券文件，Marvell Technology股价因一项允许谷歌购买这家芯片公司至多122亿美元股份的交易而上涨8%。 该交易是谷歌与Marvell定制芯片合作的一部分...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwyaf9047724.d.html",
+        "time": "1787168430",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI首席财务官：公司“将在2027年上市”或更早",
+        "intro": " OpenAI首席财务官莎拉·弗莱尔周三在全体员工大会上告诉员工，这家人工智能实验室“将在2027年上市”，但“如果业务持续向好”，也可能更早公开发行。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwyaf9046051.d.html",
+        "time": "1787168165",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业",
+        "intro": " 皮尤研究中心的一项调查显示，美国劳动力市场中最年轻的一批人对人工智能的疑虑日益增加，担心这项技术的进步会导致大规模失业。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwxzz6816809.d.html",
+        "time": "1787168137",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "报道：美国开展行动通过霍尔木兹海峡运输石油",
+        "intro": " 两名美国官员向Axios透露，美军已在霍尔木兹海峡悄悄搭建起进出海峡的航运通道，每日可运输数百万桶石油。尽管大范围战事仍处于僵持状态，但该行动已取得显著成效。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwyae2272456.d.html",
+        "time": "1787167980",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美股华盛顿杜勒斯机场获批199亿美元改造计划",
+        "intro": " 负责监管华盛顿杜勒斯机场的董事会周三投票批准了一项199亿美元的改造计划，其中包括37.5亿美元用于修建新的地下隧道，并更换在停机坪上运送乘客的慢速车辆。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwyaf9044940.d.html",
+        "time": "1787167971",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美股司法部引用科米的小说，敦促法官勿撤销其对特朗普“86 47”贝壳威胁案",
         "intro": "美国司法部引用詹姆斯·科米所写的小说，敦促联邦法官不要撤销针对这位前联邦调查局局长的刑事指控。科米被指控在北卡罗来纳州海滩上发布了一张贝壳排列成数字“86...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwxzz6813050.d.html",
@@ -476,76 +546,6 @@
         "intro": " 美国财政部发行160亿美元20年期新债中标收益率5.204%，比投标截止时的发行前交易水平高0.5个基点。投标结果公布后收益率曲线长端反应平淡。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuc6883967.d.html",
         "time": "1787161004",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "纽约汇市：美国财政部宣布增加长债回购后美元跌至三个月低点",
-        "intro": " 美元在纽约汇市创出三周最大跌幅，跌至5月中旬以来最低水平，之前在美国财政部宣布增加长期国债回购之后，债券市场上涨。日元跃升多达1%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuh2363913.d.html",
-        "time": "1787160859",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "资金流向显示亿万富豪Ken Fisher旗下机构以40亿美元逆势抄底长期美债",
-        "intro": " 亿万富豪Ken Fisher旗下同名公司似乎正在押注期限最长的美国国债将会上涨，以逆势操作寻求从收益率接近20年高位所带来的机会中获利。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuc6879937.d.html",
-        "time": "1787160585",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲股市变化不大 矿业股走高",
-        "intro": "欧洲股市周三变化不大，在夏季交投清淡的背景下，大部分时间维持窄幅波动，成交量较平均水平低约20%。 斯托克欧洲600指数盘中一度上涨0.4%，但尾盘回吐涨幅...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuc6875120.d.html",
-        "time": "1787160001",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "阿联酋中断贸易往来，伊朗面临失去关键经济命脉的风险",
-        "intro": " 阿联酋决定切断与伊朗的经济联系，很可能给这个伊斯兰共和国带来更多痛苦，在与美国紧张局势升级之际，伊朗正面临失去一条重要贸易通道的风险。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtty8146280.d.html",
-        "time": "1787159887",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "克拉默评美财政部购债：市场极度想要保住股市这轮上涨行情",
-        "intro": " 名嘴吉姆・克拉默周三表示，财政部扩大国债回购虽能暂时缓解市场压力，但这项非常规干预举措，恰恰凸显出国债市场已经承压。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuh2352956.d.html",
-        "time": "1787158980",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "QuickBooks竞品初创企业估值纷纷达到10亿美元",
-        "intro": "AI 初创企业 Mercor、Replit 等高速发展，也带动一批帮这些公司打理账务的 SaaS 初创企业身价水涨船高。 主打 AI 会计软件的 B 端企业 Rillet 于周二宣布完成 1...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtui9122504.d.html",
-        "time": "1787158561",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI抬高安全标准对标Anthropic Anthropic进一步拉开营收领先优势",
-        "intro": "在 Anthropic 与 OpenAI 的这场 AI 竞速中，如今体量明显更小的 OpenAI 正设法牵制势头强劲的对手，手段包括下调自家模型报价、争夺 OpenRouter 平台客户...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwpnf6982223.d.html",
-        "time": "1787157571",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "调查：美国10年期国债收益率今年将突破5%",
-        "intro": "近期美国国债遭到抛售，推动30年期收益率升至数十年来高位，而这一轮跌势可能即将创下另一个里程碑：最新Markets Pulse调查的大多数受访者预计...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwpna8247449.d.html",
-        "time": "1787156970",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普 ：我们已经与加拿大达成协议 美国农民无需承担关税",
-        "intro": "特朗普表示，加拿大方面“昨天打来电话，并给出了我们必须得到的那些条件”，目前贸易协议只待相关文件最终敲定。 特朗普在白宫对记者表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwpnk2467190.d.html",
-        "time": "1787156551",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：欧洲国债追随美债上涨 德债止住连跌",
-        "intro": "欧洲超长期债券价格周三上涨，受益于长期美国国债大幅走高并终结了德国国债连续三天的下跌趋势。 10年期德国国债债收益率一度下跌2个基点至3.24%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwpnk2459550.d.html",
-        "time": "1787155551",
         "source": "新浪新闻"
       }
     ]
