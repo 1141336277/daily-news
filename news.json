@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:42:41.277Z",
+  "updated": "2026-08-19T19:30:54.554Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,76 @@
     ],
     "finance": [
       {
+        "title": "美股司法部引用科米的小说，敦促法官勿撤销其对特朗普“86 47”贝壳威胁案",
+        "intro": "美国司法部引用詹姆斯·科米所写的小说，敦促联邦法官不要撤销针对这位前联邦调查局局长的刑事指控。科米被指控在北卡罗来纳州海滩上发布了一张贝壳排列成数字“86...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwxzz6813050.d.html",
+        "time": "1787167674",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储会议纪要显示：若通胀不降温，美联储官员认为需加息",
+        "intro": " 周三公布的会议纪要显示，美联储官员在上次会议上表示，除非在降低通胀方面取得更多进展，否则他们将需要尽快提高利率。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwyae2270543.d.html",
+        "time": "1787167522",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Two Sigma曾因联合创始人之间纠纷失去一位“重要投资人”",
+        "intro": " 量化对冲基金Two Sigma Investments的亿万富豪联合创始人John Overdeck表示，他与另一位联合创始人David Siegel的长期争执曾导致公司失去一名“重要投资人”。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwyaf9041027.d.html",
+        "time": "1787167032",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国据悉拟在贸易协议中将加拿大钢和铝的关税减半",
+        "intro": "据知情人士透露，美国与加拿大的初步贸易协议将把部分加拿大钢和铝产品的关税降至25%。 知情人士表示，细节尚未最终敲定，预计不会适用于所有产品。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuh2396875.d.html",
+        "time": "1787166525",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国财政部回购长期国债可能上不封顶 国库券发行规模面临更多变数",
+        "intro": " 美国财政部扩大长期国债回购的决定使包括国库券在内的短期证券发行前景变得更加复杂，因为市场预计财政部将通过发行短期国债为这项计划融资。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtty8201535.d.html",
+        "time": "1787165857",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Stripe同意收购人工智能公司OpenRouter",
+        "intro": "支付巨头Stripe Inc．已同意收购OpenRouter Inc．，将这个增长最快的人工智能模型入口平台之一纳入旗下，从而进一 此前报道称，Stripe已敲定以超过70亿美元收购初创公司Ope..",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuh2392107.d.html",
+        "time": "1787165773",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "头号贸易伙伴实施禁运 伊朗一条经济命脉恐遭切断",
+        "intro": " 在德黑兰与美国紧张局势不断升温的同时，阿拉伯联合酋长国切断与伊朗经济联系的决定可能会让这个伊斯兰共和国的形势雪上加霜。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtuc6927372.d.html",
+        "time": "1787165610",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储会议纪要显示 与会者强调联邦基金利率是关键政策工具",
+        "intro": " 上一次联邦公开市场委员会（FOMC）会议的纪要显示，许多美联储决策者重申，调整货币政策立场的主要手段应当是调整联邦基金利率目标区间。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtui9163122.d.html",
+        "time": "1787165482",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "会议纪要显示美联储多位官员倾向加息 称如通胀居高不下需采取行动",
+        "intro": "美联储最新会议纪要显示，多位官员上月倾向加息，许多决策者表示如果通胀不能下降，有必要收紧货币政策。 不过，在7月28日至29日的会议上...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtty8194497.d.html",
+        "time": "1787165089",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "芯片企业Fractile与Anthropic达成交易后寻求65亿美元估值",
+        "intro": "知情人士称，Fractile正就一轮融资进入深度谈判，投前估值65亿美元，本轮计划募资约6亿美元。三个月前该公司完成2.2亿美元融资，由Accel...",
+        "url": "https://finance.sina.cn/7x24/2026-08-20/detail-ininwtuc6915440.d.html",
+        "time": "1787164382",
+        "source": "新浪新闻"
+      },
+      {
         "title": "花旗建议买入20年期美国国债 称增加回购预示着收益率见顶",
         "intro": " 花旗集团建议客户买入长期美国国债，此前美国财政部宣布计划将较长期债券的回购规模“至少”翻一番。花旗表示，此举可能意味着收益率见顶。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtty8181818.d.html",
@@ -381,10 +451,24 @@
         "source": "新浪新闻"
       },
       {
+        "title": "美联储会议纪要：7月会议释放鹰派信号",
+        "intro": "美联储7月会议纪要显示，多数美联储官员支持维持利率不变，但数位官员倾向加息25个基点。许多与会人员表示，如果通胀不能持续回落，可能需要进一步加息。",
+        "url": "https://finance.sina.cn/7x24/2026-08-20/detail-ininwtuc6904596.d.html",
+        "time": "1787163196",
+        "source": "新浪新闻"
+      },
+      {
         "title": "Marvell因AI芯片交易大涨8%，谷歌可购买至多122亿美元股份",
         "intro": " Marvell Technology股价上涨8%，此前根据一份证券申报文件，该公司达成了一项允许谷歌购买至多122亿美元公司股份的交易。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwtui9147693.d.html",
         "time": "1787162822",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储会议纪要：多数支持维持利率不变，部分官员主张必要时加息",
+        "intro": "美联储会议纪要显示，美联储7月28‑29日会议上，大多数与会者支持维持利率不变，但有数位与会者倾向加息；许多与会者评估，若通胀未能回落，则可能需要进一步加息...",
+        "url": "https://finance.sina.cn/7x24/2026-08-20/detail-ininwtuc6901029.d.html",
+        "time": "1787162819",
         "source": "新浪新闻"
       },
       {
@@ -462,90 +546,6 @@
         "intro": "欧洲超长期债券价格周三上涨，受益于长期美国国债大幅走高并终结了德国国债连续三天的下跌趋势。 10年期德国国债债收益率一度下跌2个基点至3.24%...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwpnk2459550.d.html",
         "time": "1787155551",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "彭博美元指数创三周来最大跌幅 国债回购计划引发债券市场反弹",
-        "intro": " 彭博美元指数跌至5月中旬以来最低水平，创三周来最大跌幅，此前债市由于美国财政部意外宣布增加长期国债回购规模而出现反弹。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininwpnf6958005.d.html",
-        "time": "1787155436",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AI企业仍存诸多疑问：白宫大模型测试计划细节不明",
-        "intro": " 8 月初，白宫召集 OpenAI、Anthropic、谷歌等科技企业，介绍全新 AI 监管框架。该框架鼓励各大实验室在最先进的新模型面向公众发布前，自愿提交给政府。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-19/detail-ininwpna8217734.d.html",
-        "time": "1787154218",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根士丹利上调霍尼韦尔航空航天评级",
-        "intro": "摩根士丹利表示，霍尼韦尔航空航天（HONA）当前估值已经极具吸引力，现在是买入该股的好时机。 这家投行将这家航空企业的评级从与大盘持平（Equal‑Weight）上调至增持（Ove...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-19/detail-ininwpnm9212820.d.html",
-        "time": "1787152951",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根大通将克拉纳评级下调至中性",
-        "intro": "摩根大通将克拉纳（KLAR）的股票评级从增持（Overweight）下调至中性（Neutral），目标价由 22 美元下调至 18 美元。 该行分析师康纳・艾伦在研报中表示：“自克拉纳去年...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-19/detail-ininwpnm9208271.d.html",
-        "time": "1787152298",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "财报季|赛力斯半年营收超570亿，问界高端价值向上突围怎么看？",
-        "intro": "赛力斯2026年半年报的数据落地，在当前复杂的产业环境下显得尤为厚重。上半年营收574.93亿元，这一成绩单不仅是量的积累，更是质的突围。我们该如何看待这份成绩单呢？",
-        "url": "https://finance.sina.cn/2026-08-19/detail-ininwpnf6916024.d.html",
-        "time": "1787151088",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "聚焦高潜力优势赛道、以长线精品构建经营底盘,祖龙娱乐(09990.HK)中期业绩表现稳健",
-        "intro": "8月19日,祖龙娱乐(HK9990)发布2026年中期业绩公告。业绩公告显示,公司上半年业绩表现稳健,实现营业收入6.09亿元,其中,综合游戏发行及运营5.63亿元,贡献总营收超90%...",
-        "url": "https://finance.sina.cn/stock/relnews/hk/2026-08-19/detail-ininwpnk2428185.d.html",
-        "time": "1787150576",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "卡瓦纳股价本周承压：针对马克・沃尔特的联邦调查引发投资者恐慌",
-        "intro": " 受针对亿万富豪马克・沃尔特的联邦调查影响，市场将目光投向他所持这家线上二手车零售商的少数股权，卡瓦纳（CVNA）本周股价或将录得双位数跌幅。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-19/detail-ininwiei7032547.d.html",
-        "time": "1787150143",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "暴涨460%!宇树科技登陆A股,多家券商斩获浮盈,5家错失盛宴",
-        "intro": "谁吃到“肉签”?8月19日宇树科技在资本市场亮相,首日报收845元/股,收涨460.34%,换手率85%,市值突破3000亿元。十余家券商通过早期股权投资布局,若按上市首日收盘价计算...",
-        "url": "https://finance.sina.cn/2026-08-19/detail-ininwiee8307004.d.html",
-        "time": "1787150108",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "光大证券连续3年年中分红,上市以来年中分红共4次",
-        "intro": "8月19日,光大证券(601788.SH)发布2026年半年度报告,并同步披露2026年中期利润分配方案。公司拟向全体股东每股派发现金红利0.17元(含税),合计拟派发现金红利约7.84亿元。",
-        "url": "https://finance.sina.cn/stock/relnews/hk/2026-08-19/detail-ininwpnf6914631.d.html",
-        "time": "1787150010",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "全球资本加码中国科技资产 超200家外资机构调研A股公司",
-        "intro": "人民财讯8月19日电，国产存储龙头长鑫科技完成上市，折射出外资对我国半导体、AI基础设施等硬科技板块的高度关注。进入8月，相关行业升温的背后...",
-        "url": "https://finance.sina.cn/2026-08-19/detail-ininwien2545769.d.html",
-        "time": "1787149920",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "公积金制度大修落定，10万亿沉淀资金如何激活？",
-        "intro": " 《住房公积金管理条例》进行近20年来最大幅度修订，9月20日起施行。提取情形从六类扩至九类，10万亿级公积金池有望被激活，惠及1.76亿缴存人",
-        "url": "https://finance.sina.cn/2026-08-19/detail-ininwpnk2421024.d.html",
-        "time": "1787149779",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "688121，或触及重大违法强制退市",
-        "intro": "8月19日晚，*ST卓然（688121）公告称，公司于2025年12月因涉嫌信息披露违法违规等事项被中国证监会立案调查。根据监管调查进展，现已初步查明公司披露的部分年度财务信息涉...",
-        "url": "https://finance.sina.cn/stock/ssgs/2026-08-19/detail-ininwiei7030939.d.html",
-        "time": "1787149765",
         "source": "新浪新闻"
       }
     ]
