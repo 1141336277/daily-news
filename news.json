@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T17:35:32.288Z",
+  "updated": "2026-08-20T18:49:14.197Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,27 @@
     ],
     "finance": [
       {
+        "title": "Anthropic首次公开募股规模料追平甚至赶超SpaceX创下的纪录",
+        "intro": "知情人士称，Anthropic PBC预计其IPO规模将至少达到SpaceX创下的纪录水平，甚至可能更高。 消息人士透露，这家Claude开发商正在测算相关数据...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-ininzazf8475275.d.html",
+        "time": "1787251436",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国住房负担能力指数自2023年以来首次恶化",
+        "intro": " 美国一项衡量住房负担能力的关键指标接近三年来首次恶化，因为借贷成本上升导致新购房者不得不将更大一部分收入用于供房。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-ininzayz6543428.d.html",
+        "time": "1787250923",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普政府推进加密货币新规，关键法案在国会受阻",
+        "intro": "随着全面的监管立法在参议院陷入僵局，特朗普政府正积极通过行政行动推进加密货币行业的发展。 在周三与加密行业高管的白宫会议上...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-ininzazi1685352.d.html",
+        "time": "1787249442",
+        "source": "新浪新闻"
+      },
+      {
         "title": "欧洲债市：德国国债回吐涨幅 英国国债与美国国债同步下跌",
         "intro": " 欧洲政府债券整体变动不大，回吐此前涨幅；此前美国财政部长斯科特·贝森特提供长债回购计划细节后，债市一度上涨。油价小幅回落对较短期限债券形成支撑。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-ininywti8577178.d.html",
@@ -525,27 +546,6 @@
         "intro": "美国财政部紧急宣布“救市”仅过了约24小时，美债市场再度“变脸”。 北京时间8月20日晚间，美债收益率上扬，长期美债收益率重返高位。",
         "url": "https://finance.sina.cn/2026-08-20/detail-ininysmf6666880.d.html",
         "time": "1787236494",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储7月纪要：三人已投票加息，多人警告“通胀若不降就要收紧”",
-        "intro": "美联储周三公布7月28–29日议息会议纪要。委员会以9比3维持联邦基金利率3.50%–3.75%不变，但克利夫兰联储主席哈马克、明尼阿波利斯联储主席卡什卡里...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininysmm8635259.d.html",
-        "time": "1787236354",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "沃尔玛早盘大跌8% 创下六年多来最低销售增速",
-        "intro": "电商、会员业务与广告业务成为该零售商增长驱动力沃尔玛称整体市场份额持续提升，尤其在高收入家庭群体当中。 内容摘要 沃尔玛美国同店销售额增长 2.6%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininysmf6657600.d.html",
-        "time": "1787236302",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "住房市场持续承压，Hovnanian转亏",
-        "intro": "这家住宅建筑商第三季度总营收下滑 12%，降至 7.057 亿美元 作者：康纳・哈特Hovnanian第三季度由盈转亏 内容摘要 Hovnanian企业公布第三季度亏损 180 万美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininysmm8632291.d.html",
-        "time": "1787236026",
         "source": "新浪新闻"
       }
     ]
