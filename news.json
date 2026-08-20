@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T18:49:14.197Z",
+  "updated": "2026-08-20T19:35:43.370Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,13 @@
     ],
     "finance": [
       {
+        "title": "欧洲股市小幅收低 延续2023年以来最长连跌走势",
+        "intro": "欧洲股市小幅下跌，延续2023年9月以来最长连跌走势，有关美国介入债市的言论令债券收益率剧烈波动。 斯托克欧洲600指数周四收跌0.1%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-ininzazi1713271.d.html",
+        "time": "1787251842",
+        "source": "新浪新闻"
+      },
+      {
         "title": "Anthropic首次公开募股规模料追平甚至赶超SpaceX创下的纪录",
         "intro": "知情人士称，Anthropic PBC预计其IPO规模将至少达到SpaceX创下的纪录水平，甚至可能更高。 消息人士透露，这家Claude开发商正在测算相关数据...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-ininzazf8475275.d.html",
@@ -539,13 +546,6 @@
         "intro": "堪萨斯城联储主办的杰克逊霍尔经济政策研讨会将于8月27–29日在怀俄明杰克逊湖 Lodge 举行。官方主题是“金融创新：对支付与政策的含义”，约120人受邀与会。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-20/detail-ininysmf6660572.d.html",
         "time": "1787236560",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国“救市”次日，美债又“崩”了",
-        "intro": "美国财政部紧急宣布“救市”仅过了约24小时，美债市场再度“变脸”。 北京时间8月20日晚间，美债收益率上扬，长期美债收益率重返高位。",
-        "url": "https://finance.sina.cn/2026-08-20/detail-ininysmf6666880.d.html",
-        "time": "1787236494",
         "source": "新浪新闻"
       }
     ]
