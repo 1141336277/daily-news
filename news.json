@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:29:35.179Z",
+  "updated": "2026-08-21T20:31:44.660Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,41 @@
     ],
     "finance": [
       {
+        "title": "苹果裁减Siri和Vision Pro团队岗位 资源重心转向AI与新设备",
+        "intro": "苹果公司将裁减负责Siri数字助理和Vision Pro头显团队的员工，此举旨在聚焦新设备和人工智能。 据知情人士透露，苹果还在裁减智能系统体验团队员工。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnhf1472032.d.html",
+        "time": "1787343702",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工",
+        "intro": " 知情人士称，英伟达已同意支付60亿美元，以获得Poolside人工智能（AI）模型的使用许可，并将向100多名员工发出聘用邀请。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnhc7844714.d.html",
+        "time": "1787343590",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：中东局势以及亚洲需求推动油价录得周涨幅",
+        "intro": " 原油价格录得周涨幅，交易员正在等待美国公布旨在孤立伊朗经济的相关行动的细节。到目前为止，这场导致中东石油出口大幅下降的冲突仍看不到结束的迹象。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnha1071956.d.html",
+        "time": "1787343543",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：美债全线下跌 短债收益率升幅领先",
+        "intro": "美国国债周五下跌，短债收益率领涨。此前公布的数据显示，美国企业活动扩张步伐创2022年以来最快。 纽约时间下午3点刚过，短债收益率上涨约4个基点...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnha1066361.d.html",
+        "time": "1787342472",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普推出新关税宽减措施 旨在压低牛绞肉价格",
+        "intro": " 美国总统唐纳德·特朗普表示，他将对部分牛绞肉进口给予关税宽减，以降低美国消费者的购买价，而物价问题正是11月中期选举前的一大关切。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnfx6301186.d.html",
+        "time": "1787342386",
+        "source": "新浪新闻"
+      },
+      {
         "title": "纽约汇市：美元跌至三个月低点，美债回购计划引发结构性看空情绪",
         "intro": "受美国财政部宣布扩大美债回购规模影响，市场对美元的看空情绪持续升温。纽约汇市周五，美元延续本周跌势，彭博美元即期指数下跌0.2%至1191.20，触及5月以来的最低水平...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnhc7821218.d.html",
@@ -511,41 +546,6 @@
         "intro": "受美国财政部为遏制借贷成本大幅上升而采取大胆干预行动的影响，市场对美国财政负担的担忧再度升温，推动黄金价格升至三个月高位。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-inipazsc6414567.d.html",
         "time": "1787327597",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "巴拿马运河因厄尔尼诺干旱下调通航配额，9月起日均由约36艘降至34艘再至32艘",
-        "intro": "巴拿马运河管理局20日宣布，因流域降雨与入库水量明显低于常年，将自9月起分两阶段压缩每日通航配额。针对9月4日起的预约，新巴拿马型船闸每日9个泊位、巴拿马型船闸25个...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-inipazsm1570022.d.html",
-        "time": "1787327327",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "摩根大通：建议买入沃尔玛",
-        "intro": "摩根大通表示，沃尔玛（WMT）刚刚经历四年以来表现最差的一个交易日，这创造了逢低吸纳该股的机会。 该投行给予这家零售企业增持（Overweight）评级；不过将目标价从 137...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-inipazsc6406689.d.html",
-        "time": "1787326769",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "CBCX:金银分化观察资金轮动",
-        "intro": "8月21日，先从相对表现切入。黄金在高位附近整理，白银涨幅更明显，债券市场压力同时影响股票表现。行情完成第一轮调整后，CBCX表示...",
-        "url": "https://finance.sina.cn/futuremarket/qszx/2026-08-21/detail-inipazsi8007269.d.html",
-        "time": "1787326348",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "CPT Markets:链上经济区聚合流动性",
-        "intro": "8月21日，市场出现一项新的长期判断：一个链上社区通过经济区方案，希望加强与以太坊生态之间的资本和应用联系。面对跨度较大的预测，CPT Markets提到...",
-        "url": "https://finance.sina.cn/futuremarket/qszx/2026-08-21/detail-inipazsh1234151.d.html",
-        "time": "1787326249",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "EasyMarkets易信:金价回踩检验突破质量",
-        "intro": "8月21日，最新进展提供了一个业务样本。黄金在突破后回测每盎司四千四百五十美元附近，劳动力数据让利率预期保持弹性。消息进入市场后，EasyMarkets易信表示...",
-        "url": "https://finance.sina.cn/futuremarket/qszx/2026-08-21/detail-inipazsh1233538.d.html",
-        "time": "1787326145",
         "source": "新浪新闻"
       }
     ]
