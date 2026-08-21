@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T20:31:44.660Z",
+  "updated": "2026-08-21T21:30:25.855Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,62 @@
     ],
     "finance": [
       {
+        "title": "特朗普称他没有指示贝森特干预债市",
+        "intro": "美国总统唐纳德·特朗普被问及是否他本人下令干预债券市场时说，是财政部长斯科特·贝森特“想这么做”。 特朗普在登上“空军一号”前回答了记者提问。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcspy0959138.d.html",
+        "time": "1787347768",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：纳斯达克100指数止步五连跌 企业活动强劲提振市场",
+        "intro": " 美国股市周五上涨，为本周画上相对积极的句号。纳斯达克100指数结束连续五个交易日跌势，强劲的美国企业活动数据提振了市场情绪。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcspy0958982.d.html",
+        "time": "1787347712",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普称美国正与墨西哥开启“新协议”",
+        "intro": "美国总统特朗普在登上“空军一号”前对在场记者说，该国“正在与墨西哥开启一项新的协议，好得多的协议”。 他还说，与加拿大的协议正在推进中。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcsqc1369995.d.html",
+        "time": "1787347557",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "比特币本周大涨22%，空头被血洗27亿美元",
+        "intro": "周五，比特币以22%的周涨幅收盘，此前全球最大加密货币迎来了一系列积极进展。 比特币当日上涨6%，收于76，943.90美元，较本周初约62，800美元大幅上涨。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcspz7730270.d.html",
+        "time": "1787347328",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月22日热门中概股多数上涨，网易涨6.98%，阿里巴巴跌8.57%",
+        "intro": "8月22日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）涨0.40%。 上涨个股（按市值从高到低）：台积电涨0.71%，网易涨6.98%，联电涨1.89%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnhf1494062.d.html",
+        "time": "1787346510",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备",
+        "intro": "Anthropic PBC已聘请谷歌定制芯片项目创始人Amir Salek，为这家AI实验室进军自研半导体领域做准备。 这家Claude平台开发商周五表示，Salek将加入Anthropic的算力团队",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnhf1486624.d.html",
+        "time": "1787345614",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "大宗商品综述：油价录得周涨幅 锌价走高 金价大涨",
+        "intro": "中东局势以及亚洲需求推动油价录得周涨幅。锌价升至逾四年来最高水平，因为市场出现供应趋紧迹象。黄金升至三个月高位，美国财政部为遏制借贷成本大幅上升而采取的大胆干预...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnhf1485530.d.html",
+        "time": "1787345504",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "8月22日收盘：道指飙升500点 长端美债收益率持续走高 三大指数周线均录得下跌",
+        "intro": "周五美股三大指数集体收涨，投资者在由国债收益率上升引发的剧烈抛售后试图寻找支撑。 道指涨517.80点，涨幅为0.98%，报53277.01点；标普500指数涨33.21点，涨幅为0.43%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnfx6326280.d.html",
+        "time": "1787344182",
+        "source": "新浪新闻"
+      },
+      {
         "title": "苹果裁减Siri和Vision Pro团队岗位 资源重心转向AI与新设备",
         "intro": "苹果公司将裁减负责Siri数字助理和Vision Pro头显团队的员工，此举旨在聚焦新设备和人工智能。 据知情人士透露，苹果还在裁减智能系统体验团队员工。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnhf1472032.d.html",
@@ -490,62 +546,6 @@
         "intro": "零售股在这场备受关注的财报周即将收官，整体录得下跌。 标普零售 ETF（XRT）周五跟随大盘展开反弹，午盘时段涨幅接近 1%。但该 ETF 全周跌幅依旧超过 1%。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfye1137184.d.html",
         "time": "1787331356",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英国7月公共部门借款18亿英镑，高于预算责任办公室预期",
-        "intro": "英国国家统计局21日公布，2026年7月公共部门净借款为18亿英镑，较上年同期增加7亿英镑，并高出预算责任办公室（OBR）预测约23亿英镑。OBR原先预计当月出现5亿英镑盈余。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfxz6322253.d.html",
-        "time": "1787331160",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市企稳跑赢美债，收益率曲线小幅“牛陡”显现",
-        "intro": "在经历了一周的剧烈动荡后，欧洲政府债券于本周末企稳，并在表现上跑赢美国国债。本周市场情绪主要受美国政府计划扩大国债回购规模消息的影响...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfyf7905437.d.html",
-        "time": "1787330766",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普提议尽快与巴西重启贸易谈判",
-        "intro": " 巴西政府今日发布官方声明证实，美国总统特朗普与巴西总统卢拉于当日进行了电话会谈。双方在通话中一致同意，将继续保持两国之间稳固的经贸联系。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipazsc6445472.d.html",
-        "time": "1787330543",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "零售股财报周收官在即，整体表现仍录得跌幅",
-        "intro": "零售股即将结束其标志性的财报周，但整体表现仍录得跌幅。尽管State Street SPDR S&amp;P Retail ETF（XRT）在周五午盘交易中跟随大盘反弹，上涨近1%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipazsm1595082.d.html",
-        "time": "1787329629",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "高盛：黄金看涨期权需求激增，或放大金价双向波动",
-        "intro": "高盛分析师在最新报告中指出，黄金看涨期权需求的激增，正在加大金价出现剧烈波动的风险。 高盛分析师Lina Thomas等人在报告中写道，黄金看涨期权交易量的增加...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipazsc6436832.d.html",
-        "time": "1787329612",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲股市创月初以来最大涨幅，市场稍作休整等待新催化剂",
-        "intro": "受商业活动数据强于预期利好，欧洲股市周五上涨。斯托克欧洲600指数收盘上涨0.6%，创下8月4日以来的最大单日涨幅。数据显示，欧元区8月私营部门活动意外改善...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipazsm1593207.d.html",
-        "time": "1787329414",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "城堡投资：已出售逾40亿美元购自Situational Awareness的持仓，化解80%以上风险",
-        "intro": " 肯·格里芬旗下城堡投资（Citadel）已出售逾40亿美元的持仓，这些持仓来自该公司此前从陷入困境的AI对冲基金Situational Awareness收购的股票投资组合。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipazsi8027126.d.html",
-        "time": "1787329220",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "黄金升至三个月高位，去年令金价飙升的“贬值交易”全面回潮",
-        "intro": "受美国财政部为遏制借贷成本大幅上升而采取大胆干预行动的影响，市场对美国财政负担的担忧再度升温，推动黄金价格升至三个月高位。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-inipazsc6414567.d.html",
-        "time": "1787327597",
         "source": "新浪新闻"
       }
     ]
