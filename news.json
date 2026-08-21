@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T18:45:19.588Z",
+  "updated": "2026-08-21T19:29:35.179Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,27 @@
     ],
     "finance": [
       {
+        "title": "纽约汇市：美元跌至三个月低点，美债回购计划引发结构性看空情绪",
+        "intro": "受美国财政部宣布扩大美债回购规模影响，市场对美元的看空情绪持续升温。纽约汇市周五，美元延续本周跌势，彭博美元即期指数下跌0.2%至1191.20，触及5月以来的最低水平...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnhc7821218.d.html",
+        "time": "1787338809",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "比特币单周飙升逾22%创三年最大涨幅，政策利好与逼空行情共振",
+        "intro": "随着美国财政部扩大长期国债回购规模以及政策层面的积极信号释放，比特币有望创下逾三年来的最大单周涨幅。纽约交易时段，比特币一度上涨9.4%至约77，000美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcnha1048550.d.html",
+        "time": "1787338770",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险",
+        "intro": " Allspring Global Investments股票投资主管Ann Miletti近日表示，尽管英伟达的财报备受瞩目，但下周举行的杰克逊霍尔经济研讨会才是华尔街目前面临的最大短期风险。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfye1178512.d.html",
+        "time": "1787338621",
+        "source": "新浪新闻"
+      },
+      {
         "title": "桥水基金创始人的债务周期警告：美债面临“三年之痒”，硬通货成避险首选",
         "intro": "在长期国债收益率飙升与海外债权人减持的双重压力下，桥水基金创始人瑞·达利欧再次拉响了美国债务危机的警报。他明确建议投资者降低债券仓位...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfyi1532519.d.html",
@@ -525,27 +546,6 @@
         "intro": "8月21日，最新进展提供了一个业务样本。黄金在突破后回测每盎司四千四百五十美元附近，劳动力数据让利率预期保持弹性。消息进入市场后，EasyMarkets易信表示...",
         "url": "https://finance.sina.cn/futuremarket/qszx/2026-08-21/detail-inipazsh1233538.d.html",
         "time": "1787326145",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "GO Markets:实际利率趋稳改善金市",
-        "intro": "8月21日，最新进展提供了一个业务样本。一家研究机构上调黄金评价，理由包括实际利率趋稳、美元走弱和持续配置需求。消息进入市场后，GO Markets表示...",
-        "url": "https://finance.sina.cn/futuremarket/qszx/2026-08-21/detail-inipazsh1232771.d.html",
-        "time": "1787326045",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "M4Markets:流动宽松重塑黄金角色",
-        "intro": "8月21日，结构变化先于方向结论。长久期债券回购扩张被市场解读为流动性环境转松，黄金的资产配置作用再受讨论。平台认为，这项线索改善了部分定价条件...",
-        "url": "https://finance.sina.cn/futuremarket/qszx/2026-08-21/detail-inipazsi8004222.d.html",
-        "time": "1787325922",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Mega安汇:生态基金调整代币用途",
-        "intro": "8月21日，结构变化先于方向结论。一个扩容网络把约五点四六九亿枚代币从未来空投安排转入生态增长基金。Mega安汇认为，这项线索改善了部分定价条件...",
-        "url": "https://finance.sina.cn/futuremarket/qszx/2026-08-21/detail-inipazsi8003009.d.html",
-        "time": "1787325789",
         "source": "新浪新闻"
       }
     ]
