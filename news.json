@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:40:38.344Z",
+  "updated": "2026-08-21T17:34:30.194Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,55 @@
     ],
     "finance": [
       {
+        "title": "特朗普宣布90天内对最多30万吨绞肉用牛肉免征配额外关税，并称将按低于市价25%销售，活牛期货下跌",
+        "intro": "美国总统特朗普21日在社交平台宣布，未来90天内允许最多30万吨用于制作绞肉的牛肉进口，免征配额外关税，并称已获得“按低于当前市价25%销售”的承诺。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfxz6343761.d.html",
+        "time": "1787333386",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "能源板块迎来关注：对冲基金重点布局标的一览",
+        "intro": "作者：布莱恩・沙利文 核心要点对冲基金青睐的能源股，其中一只机构预测上行空间可达 65%欧洲正遭遇能源危机，诱因包括不当能源政策...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfxz6332177.d.html",
+        "time": "1787331998",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "消息人士：博通债务交易规模预计最高可达700亿美元",
+        "intro": "核心要点博通正在谈判，计划为一项芯片融资交易筹集 700‑800 亿美元债务资金。这笔资金将为包括 Anthropic 在内的多家人工智能企业提供支持。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfyf7910964.d.html",
+        "time": "1787331550",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "财报密集周，零售股整体收跌",
+        "intro": "零售股在这场备受关注的财报周即将收官，整体录得下跌。 标普零售 ETF（XRT）周五跟随大盘展开反弹，午盘时段涨幅接近 1%。但该 ETF 全周跌幅依旧超过 1%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfye1137184.d.html",
+        "time": "1787331356",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英国7月公共部门借款18亿英镑，高于预算责任办公室预期",
+        "intro": "英国国家统计局21日公布，2026年7月公共部门净借款为18亿英镑，较上年同期增加7亿英镑，并高出预算责任办公室（OBR）预测约23亿英镑。OBR原先预计当月出现5亿英镑盈余。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfxz6322253.d.html",
+        "time": "1787331160",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲债市企稳跑赢美债，收益率曲线小幅“牛陡”显现",
+        "intro": "在经历了一周的剧烈动荡后，欧洲政府债券于本周末企稳，并在表现上跑赢美国国债。本周市场情绪主要受美国政府计划扩大国债回购规模消息的影响...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipcfyf7905437.d.html",
+        "time": "1787330766",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普提议尽快与巴西重启贸易谈判",
+        "intro": " 巴西政府今日发布官方声明证实，美国总统特朗普与巴西总统卢拉于当日进行了电话会谈。双方在通话中一致同意，将继续保持两国之间稳固的经贸联系。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipazsc6445472.d.html",
+        "time": "1787330543",
+        "source": "新浪新闻"
+      },
+      {
         "title": "零售股财报周收官在即，整体表现仍录得跌幅",
         "intro": "零售股即将结束其标志性的财报周，但整体表现仍录得跌幅。尽管State Street SPDR S&amp;P Retail ETF（XRT）在周五午盘交易中跟随大盘反弹，上涨近1%...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-22/detail-inipazsm1595082.d.html",
@@ -497,55 +546,6 @@
         "intro": "8月21日，ATFX汇评：日本统计局今日发布七月份消费者物价指数报告，其中七月全国CPI年率升高0.3个百分点至1.9%，七月核心CPI年率升高0.2个百分点至1.8%。",
         "url": "https://finance.sina.cn/forex/hsxw/2026-08-21/detail-inipazsh1222563.d.html",
         "time": "1787324841",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "城堡集团已解除超80%来自Situational Awareness投资组合的相关风险",
-        "intro": " 城堡集团的肯・格里芬于周五致信客户，谈及公司收购利奥波德・阿申布伦纳旗下对冲基金 Situational Awareness 资产一事。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-inipazsi7995006.d.html",
-        "time": "1787324827",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "城堡投资：7月买入Situational Awareness部分头寸，多策略基金月涨5.94%",
-        "intro": " 城堡投资（Citadel）创始人肯·格里芬在给投资者的信函中披露，公司7月买入了陷入困境的对冲基金Situational Awareness投资组合中相当一部分股票和衍生品头寸。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-inipazsi7994299.d.html",
-        "time": "1787324717",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "中天期货:商品指数商品继续上行 白银再度上行",
-        "intro": "热点品种分析 一、商品指数 二、股指 中国上证综指 8 月 21 日（周五）收盘上涨 1.48 点，涨幅 0.04%，报 3905.20 点； 中国深证成指 8 月 21 日（周五）收盘上涨 121.",
-        "url": "https://finance.sina.cn/futuremarket/qsyw/2026-08-21/detail-inipazsm1540271.d.html",
-        "time": "1787324689",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英伟达与华尔街六家机构筹建超5000亿美元AI算力融资平台，8月26日财报将成检验节点",
-        "intro": "英伟达8月10日宣布，已与阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛和KKR签署谅解备忘录，分别设立独立的算力融资平台，计划在未来动员超过5000亿美元第三方资本...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-inipazsm1539840.d.html",
-        "time": "1787324653",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "硅谷企业如何抓住英超博彩广告管控带来的机遇",
-        "intro": "核心要点根据全联赛自愿性限制新规，英超各俱乐部新赛季球衣胸前位置不再出现博彩公司广告。八支上赛季留在英超的球队不得不更换球衣胸前赞助商...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-inipazsc6381434.d.html",
-        "time": "1787324635",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "比特币逼近7.8万美元、黄金走强，市场将此与美国财政部干预及美元走弱相联系",
-        "intro": "美国财政部本周宣布至少将10年至30年期国债流动性支持回购规模翻倍后，比特币与黄金同步上涨。截至21日，比特币一度升至约7.8万美元附近，为本周以来最高水平之一...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-inipazsi7990959.d.html",
-        "time": "1787324274",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "工时与开票软件Harvest大幅调价，部分企业账单涨幅达约1500%",
-        "intro": "工时统计与开票软件Harvest的用户近日集中反映，续费账单出现大幅上调。英国广播公司报道，英国咨询公司Salentis负责人理查德·哈尔登比称...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-21/detail-inipazsi7988448.d.html",
-        "time": "1787323938",
         "source": "新浪新闻"
       }
     ]
