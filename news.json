@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T19:36:29.983Z",
+  "updated": "2026-08-25T20:35:39.799Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,20 @@
     ],
     "finance": [
       {
+        "title": "8月26日美股收盘：三大股指普涨 英伟达涨超2%",
+        "intro": " 周二，美股三大股指收盘普涨，美债收益率延续前一日跌势。芯片板块同步上行。一批民主党议员致信美联储主席凯文·沃什，对央行年度政策会议日程的拟议变更表示关切。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqnsh2274083.d.html",
+        "time": "1787689275",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国民主党议员对沃什推动减少议息会议次数表示关切",
+        "intro": "一批民主党议员致信美联储主席凯文·沃什，对央行年度政策会议日程的拟议变更表示关切。 美联储7月政策会议纪要显示，沃什提出了将委员会年度政策会议次数从8次减少到6次的...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqnsh2270356.d.html",
+        "time": "1787688911",
+        "source": "新浪新闻"
+      },
+      {
         "title": "IMF总裁呼吁各国应对财政风险 央行继续专注抗通胀",
         "intro": " 国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃表示，在全球经济面临日益增大的压力之际，各国政府应着手应对不断加剧的财政挑战，央行则应继续致力于降低通胀。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqnsh2232524.d.html",
@@ -385,6 +399,13 @@
         "intro": " 据伊朗外长阿拉格齐的官方频道发帖，阿拉格齐周二与卡塔尔首相兼外交大臣Sheikh Mohammed Bin Abdulrahman Al Thani通话讨论地区局势发展。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqnse5452247.d.html",
         "time": "1787684426",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "质疑之声不消反涨 贝森特加码长债回购招致市场五大批评",
+        "intro": "美国财政部上周意外宣布将把长期国债回购操作规模扩大至少一倍时，部长斯科特·贝森特宣称此举是为了提供“更强的流动性支持”。但金融界并不买账...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqnsh2256809.d.html",
+        "time": "1787684416",
         "source": "新浪新闻"
       },
       {
@@ -525,27 +546,6 @@
         "intro": "美国消费者信心8月降至年初以来最低水平，原因是对商业环境和劳动力市场前景的看法恶化。 世界大型企业联合会周二公布的数据显示，消费者信心指数下降0.8点至89.4...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaak5541478.d.html",
         "time": "1787671503",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普称美国正在密切关注伊朗的“镐山”",
-        "intro": " 美国总统特朗普在Truth Social发帖称，美国正通过太空军“监视霍尔木兹海峡的每一寸区域”，同时也在监视镐山（Pickaxe Mountain）以及另外三个“已经被摧毁”的核设施。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaan2313123.d.html",
-        "time": "1787671454",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "乐高上半年营收419亿丹麦克朗创新高，营业利润升22%",
-        "intro": "丹麦乐高集团周二公布2026年上半年业绩。营收419亿丹麦克朗，约合65.4亿美元，同比增加21%，公司称为半年度纪录。按固定汇率计算，营收增长26%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaan2286248.d.html",
-        "time": "1787669682",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "搭载华为乾崑智驾与专属越野底盘 北京越野泰钽700售价24.98万元起",
-        "intro": "新浪数码讯8月25日晚间消息，“从容自信 何须霸道”北京越野泰钽700全球上市发布会在北京国家会议中心举行。新车定位为全场景豪华智能越野SUV，共推出三款配置车型...",
-        "url": "https://finance.sina.cn/tech/2026-08-25/detail-inipqaan2276128.d.html",
-        "time": "1787669057",
         "source": "新浪新闻"
       }
     ]
