@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T15:49:48.688Z",
+  "updated": "2026-08-25T16:44:16.737Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,76 @@
     ],
     "finance": [
       {
+        "title": "Anthropic或将向投资者披露，潜在市场收入规模超30万亿美元",
+        "intro": "这家 AI 初创公司的预估潜在市场规模，或将超过 SpaceX 那组令人瞠目的测算数字 作者：科里・德里布施Anthropic 联合创始人丹妮拉・阿莫代伊...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqhkk2252724.d.html",
+        "time": "1787676167",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国中情局局长John Ratcliffe据悉突然造访莫斯科",
+        "intro": "知情人士称，美国中央情报局（CIA）局长John Ratcliffe前往俄罗斯参加会议。 CIA拒绝置评。美国国务院和白宫暂未回应置评请求。 塔斯社援引在线航班追踪系统报道称...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqhke1383943.d.html",
+        "time": "1787675896",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲债市：多个期限的欧债收益率跌至逾一周低位 受油价下跌影响",
+        "intro": "随着布伦特原油价格下跌逾3%至每桶90美元以下，欧洲债券延续涨势，多个期限的收益率降至逾一周最低水平。 意大利和法国国债表现略优，收益率曲线中段领涨。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqhke1383771.d.html",
+        "time": "1787675864",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "加拿大报复清单：覆盖逾700种美国商品 关税从15%到50%",
+        "intro": "加拿大将自9月8日起对700多种美国商品征收15%、25%和50%的反制关税。 将被征收50%关税的美国商品包括钢材、铝、家具、高尔夫球杆、服装和服饰。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqhkm6539996.d.html",
+        "time": "1787675576",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI称自研AI芯片测试表现超越英伟达GB300",
+        "intro": "OpenAI表示，其全新Jalapeno芯片在测试中的表现优于英伟达的现有产品线，凸显该公司在自主研发AI处理器方面取得进展。 在测试中，Jalapeno处理器在两个指标上领先：单位功...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqhkh5465961.d.html",
+        "time": "1787675159",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "《富爸爸穷爸爸》作者警告持有这类“虚假资产”的人将会变穷",
+        "intro": " 《富爸爸穷爸爸》作者罗伯特・清崎一向毫不避讳地发布严峻的财经预警。而在美国国债达到惊人全新里程碑之际，他进一步拉高了警报等级。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqaak5587150.d.html",
+        "time": "1787674623",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "拜登任内国家债务增加8万亿美元，位列第三大支出型总统，第一名你或许猜得到",
+        "intro": "作者：AJ Tiarsmith 速览摘要 在近代历任美国总统当中，特朗普累计新增债务 12 万亿美元居首位，奥巴马 9 万亿美元排第二，拜登 8 万亿美元位列第三。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqaan2352976.d.html",
+        "time": "1787674219",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "摩根士丹利：五大云巨头与英伟达等AI相关表外承诺超过3.1万亿美元",
+        "intro": " 摩根士丹利表示，五家超大规模云服务商以及芯片公司英伟达和博通通过担保、租赁及其他形式的财务支持，合计承诺超过3.1万亿美元，以帮助其他企业推进AI基础设施支出。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqaah1501649.d.html",
+        "time": "1787674112",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "波士顿联储行长称维持利率不变取决于通胀改善",
+        "intro": "波士顿联储行长苏珊·柯林斯表示，她支持暂时维持利率不变，但前提是看到更多证据表明通胀朝着美联储2%的目标回落。 “维持当前联邦基金利率目标区间...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqaap6658646.d.html",
+        "time": "1787673970",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "卡尼等额反击特朗普 加拿大将对美国家具和钢铝征收50%的关税",
+        "intro": " 加拿大总理马克·卡尼对美国总统唐纳德·特朗普周末宣布的新关税实施等额反击，并将对受贸易战加剧影响的本国企业提供支持。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqaan2347290.d.html",
+        "time": "1787673868",
+        "source": "新浪新闻"
+      },
+      {
         "title": "马斯克称SpaceX轨道数据中心发射时间提前至2027年",
         "intro": "埃隆・马斯克一如既往选择加快项目时间进度。 SpaceX（SPCX）首席执行官在 X 平台发帖，更新了这家火箭企业首批 AI 算力卫星的发射时间表。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaan2320470.d.html",
@@ -476,76 +546,6 @@
         "intro": "美国消费者信心8月下降，原因是对商业环境和劳动力市场前景的看法恶化。 世界大型企业联合会周二公布的数据显示，消费者信心指数下降0.8点至89.4，前月数据被下修。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaah1458210.d.html",
         "time": "1787667567",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "恒生电子半年报披露蚂蚁基金上半年营收129.8亿元 净利增178%",
-        "intro": "观点网讯：8月25日，恒生电子发布2026年半年报，同步披露其参股公司蚂蚁基金上半年业绩。数据显示，2026年上半年，蚂蚁基金营业收入为129.8亿元，同比增长40%；净利润为12...",
-        "url": "https://finance.sina.cn/stock/estate/2026-08-25/detail-inipqaah1462557.d.html",
-        "time": "1787667540",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "FDA核准罗氏与礼来pTau217血液检测，同一阈值同时用于纳入和排除淀粉样病理",
-        "intro": "美国食品药品管理局周一（8月24日）核准罗氏与礼来合作开发的Elecsys Phospho-Tau（217P）血浆检测（pTau217）。该检测面向55岁及以上、已出现认知下降体征...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaan2250115.d.html",
-        "time": "1787667494",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "扣非净利降逾六成，铂力特为何豪掷31亿元扩产？",
-        "intro": "21世纪经济报道记者 凌晨 一边是利润下滑，一边是重金扩产。 8月24日晚，金属增材制造龙头铂力特（688333.SH）披露2026年半年报。",
-        "url": "https://finance.sina.cn/2026-08-25/detail-inipqaak5477581.d.html",
-        "time": "1787667356",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "马丁马里埃塔完成对Lhoist北美业务交割，成为美国领先石灰石产品生产商",
-        "intro": "马丁马里埃塔材料公司（Martin Marietta Materials，纽交所代码：MLM）周一（8月24日）宣布，已于8月21日完成此前公布的与Lhoist North America（LNA）的",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaak5474464.d.html",
-        "time": "1787667326",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "苹果发布升级版Mac mini和Mac Studio 为新款iPhone预热",
-        "intro": "苹果公司宣布推出升级版Mac mini和Mac Studio台式电脑，为这两款颇受欢迎的产品升级处理器。 Mac mini目前起售价为899美元，将搭载苹果新款M6芯片或M5 Pro芯片；Mac...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaak5471222.d.html",
-        "time": "1787667137",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "泸州银行：上半年实现归母净利润10.01亿元 同比增加10.96%",
-        "intro": "8月25日金融一线消息，泸州银行今日发布中期业绩。数据显示，集团取得利息净收入24.39亿元，同比增加28.57%；营业收入28.04亿元，同比增加15.74%；归属于本行股东净利润10...",
-        "url": "https://finance.sina.cn/2026-08-25/detail-inippvuk1578661.d.html",
-        "time": "1787666249",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "钟睒睒，投了梁文锋",
-        "intro": "来源：格隆汇 “人类正处于AGI的前夜。加入DeepSeek，可亲历AGI的发展进程，坐在时代前排，见证一个新纪元的诞生。”DeepSeek招聘启事中这样写道。",
-        "url": "https://finance.sina.cn/2026-08-25/detail-inipqaan2233334.d.html",
-        "time": "1787666042",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国各期限国债收益率走低 油价下跌缓解通胀忧虑",
-        "intro": "美国国债上涨，原油价格下跌缓解了通胀担忧，也暂且减轻了美国财政部长斯科特·贝森特面临的压力。贝森特一直试图遏制持续数月的美债抛售...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inippvuh9626179.d.html",
-        "time": "1787665985",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "中国光大控股预计上半年亏损约20.6亿港元",
-        "intro": "8月25日，中国光大控股（00165）发布公告，公司预计2026年上半年归母净亏损约20.6亿港元，主要受法律诉讼事项导致的调整及财务风险敞口影响。",
-        "url": "https://finance.sina.cn/2026-08-25/detail-inipqaae9501217.d.html",
-        "time": "1787665969",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "蚂蚁基金上半年营收利润双增：行情带动增长，引导分散配置，AI降本增效",
-        "intro": "8月25日晚间，恒生电子发布2026年半年报，同步披露其参股公司蚂蚁基金上半年业绩。数据显示，2026年上半年，蚂蚁基金营业收入为129.8亿元，同比增长40%，净利润为12...",
-        "url": "https://finance.sina.cn/2026-08-25/detail-inippvun5582095.d.html",
-        "time": "1787665934",
         "source": "新浪新闻"
       }
     ]
