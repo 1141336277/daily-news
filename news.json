@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:47:41.305Z",
+  "updated": "2026-08-25T19:36:29.983Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,27 @@
     ],
     "finance": [
       {
+        "title": "IMF总裁呼吁各国应对财政风险 央行继续专注抗通胀",
+        "intro": " 国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃表示，在全球经济面临日益增大的压力之际，各国政府应着手应对不断加剧的财政挑战，央行则应继续致力于降低通胀。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqnsh2232524.d.html",
+        "time": "1787685249",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗与卡塔尔外长通话 商讨防止地区局势升级",
+        "intro": " 据伊朗外长阿拉格齐的官方频道发帖，阿拉格齐周二与卡塔尔首相兼外交大臣Sheikh Mohammed Bin Abdulrahman Al Thani通话讨论地区局势发展。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqnse5452247.d.html",
+        "time": "1787684426",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英伟达周三将发布业绩 分析师料营收增速继续领先大多数同行",
+        "intro": " 英伟达将于周三盘后公布季度业绩，将向投资者披露AI行业大规模扩建数据中心的最新状况，以及公司为维持自身在这轮热潮中的领先地位所作出的努力。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqnse5451960.d.html",
+        "time": "1787684395",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美国2年期国债拍卖结果连续第四个月表现出色 中标收益率4.204%",
         "intro": "美国财政部690亿美元2年期国债拍卖中标收益率为4.204%，低于纽约时间下午1点投标截止时约4.208%的发行前交易收益率，显示需求略强于预期。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-08-26/detail-inipqhke1417754.d.html",
@@ -525,27 +546,6 @@
         "intro": "新浪数码讯8月25日晚间消息，“从容自信 何须霸道”北京越野泰钽700全球上市发布会在北京国家会议中心举行。新车定位为全场景豪华智能越野SUV，共推出三款配置车型...",
         "url": "https://finance.sina.cn/tech/2026-08-25/detail-inipqaan2276128.d.html",
         "time": "1787669057",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "软件板块相对芯片板块走出创纪录强势行情",
-        "intro": "软件股逼近历史高位。芯片板块仍处在熊市之中 —— 不过英伟达算是个例外，它并未真正陷入熊市。 板块行情切换几乎就在同一天发生。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaan2268591.d.html",
-        "time": "1787668592",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联航宣布史上最大国际扩张：2027年新开10城，纽瓦克担主场",
-        "intro": "美国联合航空周二在纽瓦克自由国际机场宣布，将于2027年新增10个国际城市，并加开多条已有目的地航线，自称公司历史上最大一次国际网络扩张。机票即日起在官网和App开售。...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaak5494399.d.html",
-        "time": "1787668496",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国7月新屋销售降至六个月低点 抵押贷款利率高企抑制需求",
-        "intro": "美国7月新屋销售降至六个月低点，表明尽管开发商降价并提供优惠，但抵押贷款利率高企仍在抑制购房需求。 美国政府周二公布的数据显示，7月新建单户型住宅销售下降10.5%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-08-25/detail-inipqaah1465524.d.html",
-        "time": "1787668495",
         "source": "新浪新闻"
       }
     ]
