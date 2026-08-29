@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T18:16:39.230Z",
+  "updated": "2026-08-29T21:36:05.162Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,13 @@
     ],
     "finance": [
       {
+        "title": "美联储杰克逊霍尔年度会议核心要点",
+        "intro": "堪萨斯城联储于怀俄明州杰克逊霍尔举办的年度经济研讨会于周六落幕，本次是凯文·沃什以美联储主席身份首次发表演讲。 以下为会议核心要点：  沃什释放政策信号...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-08-30/detail-inipzpai8746852.d.html",
+        "time": "1788028860",
+        "source": "新浪新闻"
+      },
+      {
         "title": "Anthropic考虑允许股东在IPO中出售股份，摒弃SpaceX模式",
         "intro": "Anthropic正拟定方案，计划在其重磅IPO中允许现有股东出售部分股票，同时考虑上市后执行比常规更久的股份锁定期。 在IPO中安排老股二次出售...",
         "url": "https://finance.sina.cn/7x24/2026-08-30/detail-inipzhuf8535131.d.html",
@@ -539,13 +546,6 @@
         "intro": " 8月28日，百花医药盘中触及跌停。Wind数据显示，截至8月28日收盘，公司股价报15.44元/股，收盘跌幅为7.43%。不过，8月以来公司累计涨幅仍达到119.63%。",
         "url": "https://finance.sina.cn/2026-08-29/detail-inipyfhx9285135.d.html",
         "time": "1787981640",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "重磅！长鑫科技LPDDR6内存正式量产",
-        "intro": " 8月29日，长鑫存储官方微博发布新消息，长鑫LPDDR6（第六代低功耗双倍数据速率内存标准）内存芯片正式量产。小米18 Fold首发搭载，将于9月面世。",
-        "url": "https://finance.sina.cn/2026-08-29/detail-inipyfhv5493634.d.html",
-        "time": "1787978220",
         "source": "新浪新闻"
       }
     ]
