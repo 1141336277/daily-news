@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T18:26:37.913Z",
+  "updated": "2026-09-03T21:36:26.881Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,97 @@
     ],
     "finance": [
       {
+        "title": "9月4日热门中概股涨跌不一，禾赛科技涨超11%，携程跌超5%",
+        "intro": "9月4日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.81%。 上涨个股（按市值从高到低）：台积电涨0.36%，阿里巴巴收平，日月光半导体涨0.94%，中华电信涨0.64%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqwte4178324.d.html",
+        "time": "1788469225",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国副总统万斯淡化伊朗冲突规模 称不会称其为战争",
+        "intro": " 美国副总统JD·万斯淡化了伊朗冲突规模，称他不会将其描述为“一场战争”。眼下美伊冲突已进入第七个月，而中东地区的军事打击在过去几天升级。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqwte4165732.d.html",
+        "time": "1788467655",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月4日美股收盘：三大指数全线上涨，沃勒“鸽派”表态提振市场",
+        "intro": "美股三大指数集体收涨超1%，国债收益率回落，投资者对美联储本月可能维持利率不变持乐观态度。 道指涨624.16点，涨幅为1.18%，报53686.10点；标普500指数涨81.11点...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqwtk1725959.d.html",
+        "time": "1788467489",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：WTI小幅上涨 伊朗声称打击地区美军基地",
+        "intro": "在伊朗宣称对美军基地发起最新打击后，WTI小幅上涨。 WTI在涨跌之间反复波动，最终收于每桶91美元附近。 布伦特小幅下跌，收于每桶95.50美元附近...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqwte4159563.d.html",
+        "time": "1788466718",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：国债上涨 美联储理事沃勒的讲话打压了加息预期",
+        "intro": "美国国债收益率曲线在周四美国上午交易时段呈现大幅牛市陡化走势，此前美联储理事沃勒表示，如果通胀持续回落，他倾向于支持维持利率不变。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqwth0931767.d.html",
+        "time": "1788466671",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储理事沃勒称如果通胀形势改善 倾向于维持利率不变",
+        "intro": "美联储理事克里斯托弗·沃勒表示，他的下一次利率决定将受到下周公布的8月通胀数据的“重大影响”。 沃勒在一场活动准备的讲稿中，暗示其接近于支持加息...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqwth0919739.d.html",
+        "time": "1788465102",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Crusoe据悉与Jane Street签署价值约130亿美元的AI云协议",
+        "intro": "据知情人士透露，数据中心初创公司Crusoe与量化交易公司Jane Street Group签署了一份价值约130亿美元的云计算协议。Crusoe此前已与Meta Platforms和甲骨文等公司签约",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqwtk6537034.d.html",
+        "time": "1788464068",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI推出GPT-6 Astra 称其为迈向通用人工智能的重要里程碑",
+        "intro": "OpenAI正在发布新一代技术GPT-6，并将其定位为公司十年来推动通用人工智能（AGI）发展取得的一个关键里程碑。 OpenAI周四表示，已向Daybreak项目中的企业用户推出GPT-6...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqwtk6535966.d.html",
+        "time": "1788463744",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "大众汽车拟再裁员5万人 大幅精简产品线",
+        "intro": "大众汽车计划进一步裁减5万个工作岗位并精简产品线，以推进这家陷入困境的汽车制造商的全面改革。 大众汽车周四表示，公司监事会一致批准一项全面重组计划...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqwtk6535839.d.html",
+        "time": "1788463699",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧盟迎来冬季，天然气库存创下历史最低水平",
+        "intro": " 欧洲即将迎来冬季，天然气库存处于有记录以来最低水平。当前天然气价格大幅上涨，若出现超预期严寒，欧洲将失去缓冲空间。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqsmh4243436.d.html",
+        "time": "1788460496",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国副总统万斯：伊朗若不停止袭击商船 华盛顿政府不会与其谈判",
+        "intro": "美国副总统万斯在新闻发布会上表示，除非伊朗停止袭击商船，否则美国不会与伊朗展开谈判。 万斯表示，对于“不履行承诺、对商船又不住手”的伊朗...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqsmn1825076.d.html",
+        "time": "1788460362",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI称其最新AI模型已经实现对Anthropic的反超",
+        "intro": " OpenAI于周四发布其最新AI模型，称该模型为“全球智能水平最高”的模型。这家ChatGPT开发商计划上市，希望借此从主要对手Anthropic手中重新夺回领先地位。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqsmk1011982.d.html",
+        "time": "1788460027",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储理事沃勒释放支持按兵不动的信号 美债市场“松了口气”",
+        "intro": "美联储理事克里斯托弗·沃勒表示，只要通胀继续放缓，他将倾向于维持利率不变。受此推动，美国国债上涨。 周四的涨势推动各期限美债收益率下降...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqwth0914264.d.html",
+        "time": "1788458409",
+        "source": "新浪新闻"
+      },
+      {
         "title": "欧洲债市：欧债从跌势中反弹 英国国债领涨",
         "intro": "欧洲政府债券从本周的大跌中反弹，尽管油价和天然气价格仍处于高位。 全球债市收益率曲线短端普遍表现较好。 美国短期国债受到美联储理事沃勒言论提振。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqsmn1805437.d.html",
@@ -455,97 +546,6 @@
         "intro": "美国商务部长霍华德·卢特尼克表示，他此前误称伊朗战争期间没有美国军人死亡，并承认自己说错了。 卢特尼克周三接受采访时表示，“总统现在处理伊朗问题的方式，对吧...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqncn1068584.d.html",
         "time": "1788451592",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "马斯克中期选举百万级政治资金开始落地，参议院重点竞选目标浮出水面",
-        "intro": "核心要点埃隆・马斯克旗下美国超级政治行动委员会（America PAC）已在 2026 年多场关键参众两院选举中投入逾 80 万美元，资金最大手笔投向得克萨斯州与缅因州。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqqncn1064181.d.html",
-        "time": "1788451201",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "遭遇约16%赎回申请 Cliffwater私募信贷基金再次设限",
-        "intro": "Cliffwater LLC的旗舰私募信贷基金在第三季度再次将赎回上限设定为5%，此前约16%份额的遭投资者申请赎回。 信函显示，规模310亿美元的Cliffwater Corporate Lendi",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqncq6729032.d.html",
-        "time": "1788450686",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI、Anthropic、SpaceXAI的人工智能模型出现服务中断",
-        "intro": "根据用户报告和公司状态页面，美国三大领先人工智能模型开发商OpenAI、Anthropic PBC和SpaceXAI周四遭遇服务中断。 数万名用户通过故障追踪服务Downdetector报告了Open",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqncn1059551.d.html",
-        "time": "1788450664",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美德裂痕在G20凸显 美国不满德国公开批评汇市干预并与俄财长交锋",
-        "intro": " 据知情人士透露，在德国官员在本周的二十国集团（G20）会议期间公开批评美国干预汇市，并在俄罗斯问题上采取强硬立场后，美国官员向柏林方面提出了交涉。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqncn1052993.d.html",
-        "time": "1788450172",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "芝商所：美元兑日元逼近大量期权所在的155日元",
-        "intro": " 芝商所（CME）表示，随着卖出美元的期权被触发，日元涨势加快，而如果突破155，可能引发更多美元卖盘，原因是全天以来市场对执行价在155日元的期权需求不断增加。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqncq1895884.d.html",
-        "time": "1788450009",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美联储理事沃勒表示，将支持9月议息会议维持利率不变",
-        "intro": "核心要点沃勒此番表态，似乎与美联储主席凯文・沃什上周的言论形成反差，他对当前通胀走势表达了信心。他承认通胀仍 “大幅高于” 美联储 2% 的目标...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqncq6721136.d.html",
-        "time": "1788449825",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "亿万富豪家族办公室8月押注医疗与生物技术初创企业",
-        "intro": "核心要点私人财富情报平台 Fintrx 数据显示，8 月家族办公室对非上市公司完成 52 笔直接投资。当月约 20% 的投资流向生物技术初创公司...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqnck4273827.d.html",
-        "time": "1788449631",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普：美国将把新式军火留给自己 不会出售",
-        "intro": "特朗普表示，美国正在囤积其所生产的弹药。 特朗普在Truth Social上发帖。 他写道：“我们正在囤积弹药，为可能发生的任何突发状况做准备。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqncq6716059.d.html",
-        "time": "1788449115",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧盟拟放宽市场支配企业限制 助力提升供应链韧性",
-        "intro": " 欧盟委员会公布计划，拟给予占据市场支配地位的企业更大操作空间，前提是这些企业有助于增强欧盟的“韧性”。目前，欧洲供应链正面临来自海外威胁的更大压力。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqncq1885353.d.html",
-        "time": "1788448560",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI、Anthropic等多家AI公司正遭遇服务中断",
-        "intro": "据Downdetector上的用户报告以及各公司状态页面显示，多家AI公司正遭遇服务中断。 OpenAI表示，其ChatGPT和Codex目前正出现问题。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqnck4263131.d.html",
-        "time": "1788448491",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英伟达斥资约130亿美元收购人工智能平台Hugging Face",
-        "intro": "英伟达同意以约130亿美元收购人工智能初创公司Hugging Face。 交易价格中包括一项最高10亿美元的股权留任计划，用于留住加入英伟达的Hugging Face员工。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqnck4262718.d.html",
-        "time": "1788448462",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "长江存储，IPO审核有新进展",
-        "intro": "9月3日晚，长江存储控股股份有限公司首次公开发行股票并在科创板上市的IPO审核状态变更为“已问询”。 长江存储招股说明书显示，自2024年扭亏后盈利水平快速提升...",
-        "url": "https://finance.sina.cn/2026-09-03/detail-iniqqncn1034941.d.html",
-        "time": "1788448123",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "比特币突破8万美元，市场重新审视加息预期",
-        "intro": "比特币（BTC）在美国早盘交易时段涨幅扩大至4%以上，升至80，400美元。 关键催化因素似乎是市场对加息担忧的重新评估，此前美联储理事克里斯·沃勒表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-03/detail-iniqqncq6702344.d.html",
-        "time": "1788447391",
         "source": "新浪新闻"
       }
     ]
