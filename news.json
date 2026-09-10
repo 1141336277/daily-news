@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T18:15:26.030Z",
+  "updated": "2026-09-10T21:30:53.103Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,132 @@
     ],
     "finance": [
       {
+        "title": "美国股市：标普500指数连续第四天下跌 投资者的加息预期增强",
+        "intro": " 美国股市周四连续第四个交易日下跌，创下6月以来最长连跌，因为油价持续攀升以及通胀顽固的最新迹象推高了美国国债收益率，也增强了投资者对美联储加息的预期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkywm2145345.d.html",
+        "time": "1789075700",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美债收益率升至多年高位 吸引买家参与30年期国债拍卖",
+        "intro": "随着油价飙升强化美联储最快下周加息的理由，美国国债收益率刷新多年高点，吸引投资者参与30年期国债拍卖。 各期限美国国债收益率上涨7至15个基点...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkywi5372571.d.html",
+        "time": "1789075637",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月11日美股成交额前20：苹果收涨3.56%，在周四发布会上发布了新品iPhone Duo",
+        "intro": "周四美股成交额第3名苹果收涨3.56%，成交225.51亿美元。 苹果在总部举办的周三主题演讲上，发布了旗下最受期待、野心最大的新品：iPhone Duo 折叠屏手机。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkywm2144976.d.html",
+        "time": "1789075592",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月11日热门中概股多数下跌，阿里巴巴跌0.77%，百度跌1.56%",
+        "intro": " 上涨个股（按市值从高到低）：京东涨0.07%，中华电信涨0.25%，中通涨0.63%，腾讯音乐涨0.13%，boss直聘涨2.12%，唯品会涨0.56%，欢聚涨1.52%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkuqh7270765.d.html",
+        "time": "1789073663",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "阿联酋计划在德国投资460亿美元 涵盖AI和能源等领域",
+        "intro": " 阿拉伯联合酋长国计划在德国投资400亿欧元（460亿美元），涉及从人工智能到能源和国防等多个领域。目前阿联酋正寻求深化与欧洲各国的战略伙伴关系。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkuqm5480799.d.html",
+        "time": "1789072007",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月11日收盘：美股三大指数收跌 美债收益率创新高 油价持续上涨",
+        "intro": "周四，由于人们越来越担心中东旷日持久的战争会导致通货膨胀加剧，美国油价突破每桶100美元，股市应声下跌。 道指跌316.559点，跌幅为0.60%，报52064...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkuqm5480568.d.html",
+        "time": "1789071970",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：布伦特升逾每桶107美元 中东冲突加剧供应担忧",
+        "intro": "随着中东局势恶化加剧全球供应担忧，布伦特原油突破每桶107美元，创近四个月最高。 这一全球基准油价周四收盘涨逾6%，盘中一度突破每桶108美元，随后回吐部分涨幅。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkuqp2244198.d.html",
+        "time": "1789070688",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国扩大对沙特打击胡塞武装的支持",
+        "intro": "据报道，100多名美国军事顾问驻扎在沙特阿拉伯，为该国针对也门胡塞武装的军事行动提供情报和目标锁定方面的支持。 据一名美国官员表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkuqh2428290.d.html",
+        "time": "1789070646",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：国债大跌 油价上涨以及回购结果带来沉重压力",
+        "intro": "周四，美国国债承压下跌，因为随着中东紧张局势加剧，引发对全球供应的担忧，油价再度大幅走高，布伦特原油飙升至每桶107美元。PPI数据进一步强化了市场对美联储将在下周政...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkuqp2241429.d.html",
+        "time": "1789070291",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普豪言凸显共和党选举困境 5000美元发钱承诺落地希望渺茫",
+        "intro": "过去几个月来，特朗普一直声称所谓的生活成本负担问题是场“骗局”，美国经济在他的领导下一派欣欣向荣。 但民调数字显示美国人对他的政绩并不买账。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkuqh7255322.d.html",
+        "time": "1789069397",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伊朗和沙特外长通话讨论不断升级的紧张局势",
+        "intro": "伊朗外交部长阿巴斯·阿拉格齐在他的官方社交媒体上表示，他与沙特外交大臣费萨尔·本·法尔汉强调，将“继续开展合作与外交努力，以防止地区紧张局势蔓延...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkuqh7254619.d.html",
+        "time": "1789069253",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：油价和收益率攀升 美元走强而日元回落",
+        "intro": " 美元周四延续涨势，油价和美债收益率大幅攀升，同时生产者价格数据进一步强化美联储即将加息的理由；日元则在连续三个交易日上涨后回落。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkuqh2422089.d.html",
+        "time": "1789069152",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "博索纳罗民调支持率飙升追平卢拉 最高法院危机令选情趋紧",
+        "intro": "巴西最高法院内部的一场危机正在给该国左翼领导人、现任总统路易斯·伊纳西奥·卢拉·达席尔瓦竞选连任造成不利影响，一项最新民调显示，弗拉维奥·博索纳罗的支持率大幅攀升...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkuqm5453480.d.html",
+        "time": "1789067873",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "英伟达CEO黄仁勋称网络安全将成AI下一个重大市场",
+        "intro": " 英伟达联合创始人兼首席执行官黄仁勋表示，网络安全将成为人工智能（AI）的下一个重大市场，AI技术的发展势将颠覆这个以保护计算机系统为主要任务的行业。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkqhk2544208.d.html",
+        "time": "1789066275",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国财政部长债实际回购规模低于上限 10年期收益率进一步走高",
+        "intro": "美国财政部周四对10年至20年期国债的回购规模低于计划上限，导致国债收益率进一步走高。 财政部周四仅回购51.9亿美元债券，未及周三宣布的60亿美元上限。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkqhk2541058.d.html",
+        "time": "1789065648",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "像分析师一样做研究 OpenAI推出专为金融业者打造的人工智能工具",
+        "intro": "OpenAI推出面向投资银行家和股票研究员的新工具ChatGPT for Financial Services。 该公司周四在一篇博客文章中写到，这款产品将把Daloopa...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkqhk2540899.d.html",
+        "time": "1789065618",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国30年期国债标售认购需求强劲 中标收益率创2001年以来新高",
+        "intro": "美国财政部周四标售220亿美元30年期国债，中标收益率5.308%，创2001年以来最高，但低于纽约时间下午1点投标截止时5.335%的发行前交易收益率，显示需求强于预期。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkqhk7371792.d.html",
+        "time": "1789065274",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲天然气价格飙升至2022年以来最高水平 连续五天上涨",
+        "intro": " 随着中东紧张局势加剧，引发市场对供应长期遭受干扰以及冬季燃料库存水平的担忧，欧洲天然气价格周四升至2022年末以来最高水平。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkqhk2539644.d.html",
+        "time": "1789065239",
+        "source": "新浪新闻"
+      },
+      {
         "title": "高盛精英俱乐部再少一员 长期力挺美国优势的Mossavar-Rahmani将退休",
         "intro": "高盛昔日那批最具声望的老合伙人中，又将有一人离开该公司。 首席执行官苏德巍周四告诉员工，Sharmin Mossavar-Rahmani将于今年晚些时候退休。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkqhr2306120.d.html",
@@ -420,132 +546,6 @@
         "intro": "这家连锁百货上调全年业绩预期，高管表示部分动力来自商品提价旗下各品牌全线实现增长后，梅西百货今年第二次上调业绩指引 内容摘要 各品牌业务普遍增长...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkqhk2517070.d.html",
         "time": "1789059574",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "捷蓝航空因恶劣天气与燃油成本上调，下调运力增长预期",
-        "intro": "受夏季恶劣天气以及其他运营扰动影响，捷蓝航空把第三季度运力增长指引几乎下调一半。 这家航司周四表示，衡量客运运力的指标可用座位英里数（ASM）本季度预计增长 1.5%‑3...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkqhk2516271.d.html",
-        "time": "1789059424",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国周四抵押贷款利率突破 7% 最新房贷与再融资利率",
-        "intro": "受油价上涨、批发端通胀居高不下，叠加特朗普总统表态：如果共和党 11 月保住国会控制权，将向每位成年人发放 5000 美元现金，多重因素助推债券市场持续抛售...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkiyn7476604.d.html",
-        "time": "1789058975",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "SpaceX股价走高：数据中心建设模式大调整，英国潜在国防订单引市场关注",
-        "intro": "周四 SpaceX 股价出现波动，投资者正在梳理这家火箭卫星企业的多条重要新闻。 其中影响最大的消息来自《The Information》的报道：SpaceX...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkiyn2643427.d.html",
-        "time": "1789058733",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "iPhone Duo双机型发布会，苹果把AI战略推到舞台中央",
-        "intro": " 苹果在总部举办的周三主题演讲上，发布了旗下最受期待、野心最大的新品：iPhone Duo 折叠屏手机。但这场发布会同时也是苹果 AI 能力的集中展示场。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkiyt2416250.d.html",
-        "time": "1789058555",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "拥有49年历史的人气披萨餐饮连锁悄然关闭多家门店",
-        "intro": "过去两年，披萨餐饮行业有数百家门店陆续关停，各大连锁品牌都在通过关闭低效门店推进业务重组。 必胜客母公司百胜集团表示，作为 “Hut Forward” 改革计划的一部分...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkiyn2641137.d.html",
-        "time": "1789058253",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "富国银行：SpaceX无线业务将冲击传统运营商，而铁塔房地产投资信托基金将“悄然”获利",
-        "intro": "速览要点 卡哈尔将 SpaceX 视作行业颠覆者，而皇冠城堡（CCI）是隐形赢家，该公司铁塔租金收益率达 5.5%；其中 T‑Mobile 面临的竞争威胁最大。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkiyn7472560.d.html",
-        "time": "1789058076",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：德国国债收益率升至17年高点 欧洲央行加息押注加码",
-        "intro": "欧洲短期政府债券下跌，而德国10年期国债收益率升至17年高点，此前欧洲央行上调通胀预测后，交易员加大了对欧洲央行进一步加息的押注。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-11/detail-inirkiyr5635994.d.html",
-        "time": "1789057339",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "法国极左翼提议注销央行所持债务 欧洲央行行长称金融层面很危险",
-        "intro": " 欧洲央行行长克里斯蒂娜·拉加德表示，极左翼有关通过注销央行所持债务来削减法国巨额政府债务的方案并不合理，而且在金融层面很危险。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyr5622885.d.html",
-        "time": "1789055681",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "如果回到二十多岁，我会买入这只巴菲特推荐的先锋ETF并永久持有",
-        "intro": "作者：安东尼・迪・皮齐奥|愚人网 沃伦・巴菲特是全球最具标志性的投资大师。1965‑2025 年，他担任伯克希尔‑哈撒韦集团首席执行官，将其打造为市值万亿级别综合企业集团...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyn2630842.d.html",
-        "time": "1789055381",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "德国央行行长对右翼崛起感到不安 忧心会导致外国投资者望而却步",
-        "intro": " 德国央行行长Joachim Nagel表示，他担心极右翼德国选择党最近在一场州选举中获胜，可能会令外国投资者对欧洲最大经济体望而却步。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyn7462795.d.html",
-        "time": "1789055365",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "拉加德称欧洲央行此次加息“顺理成章” 市场预计还有更多紧缩行动",
-        "intro": "欧洲央行周四宣布加息，这是2月伊朗战争爆发以来第二次上调利率，油价的回升促使投资者提高对进一步加息的押注。 欧洲央行将存款利率上调25个基点至2.5%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyn7460906.d.html",
-        "time": "1789054968",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "抵押贷款利率升至一年多以来高点，美国上月房屋销量下滑",
-        "intro": "8 月抵押贷款利率攀升至一年多以来最高水平，打击潜在购房者意愿，房屋销量随之走低。 美国全国房地产经纪人协会（NAR）周四公布数据：8 月成屋销售环比 7 月下降 2%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyn7460271.d.html",
-        "time": "1789054854",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美债市场出现大额期权交易 押注10年期收益率升破5%",
-        "intro": "周四美债市场出现了一宗大额期权交易，押注国债抛售势头将推动10年期收益率升破5%。 油价上涨可能进一步刺激本就高企的通胀，上述期权交易是投资者加紧对冲债市风险的最新...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyt2388103.d.html",
-        "time": "1789054816",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲央行官员据悉倾向进一步收紧政策 最快10月份再次加息",
-        "intro": "知情人士称，欧洲央行官员预计将进一步加息，下一次行动最快可能就在10月。 消息人士透露，虽然政策制定者的看法仍将取决于未来公布的经济数据...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyn7457025.d.html",
-        "time": "1789054110",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美参议院多数党领袖回避是否支持特朗普派钱计划的问题 称到时候再说",
-        "intro": " 美国参议院多数党领袖约翰·图恩拒绝回答由共和党控制的参议院是否会通过总统唐纳德·特朗普提出的向每名美国成年人发放5000美元的计划。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyt2383131.d.html",
-        "time": "1789054049",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "OpenAI向美国政府机构提供模型五折优惠，终止每年1美元试点协议",
-        "intro": "美国总务管理局（GSA）发布声明：OpenAI 将结束政府机构每年仅需 1 美元即可调用其大模型的试点项目，改为按实际用量计费；联邦公职人员使用 OpenAI 模型...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyn2623697.d.html",
-        "time": "1789053707",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "高盛首席经济学家扬・哈祖斯警示：AI投资热潮不会永久持续",
-        "intro": "图表上没有什么赛道可以永远单边上行，人工智能领域的投入同样如此。 在高盛传播与科技大会上，高盛首席经济学家扬・哈祖斯谈及如火如荼的 AI...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyn7452923.d.html",
-        "time": "1789052870",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AT&T首席执行官为何认为其与马斯克的星链存在“互补关系”",
-        "intro": "如果你认为 SpaceX 旗下星链会碾压 AT&amp;T、T‑Mobile 以及威瑞森这些根基稳固的无线运营商，那还为时过早。 在高盛传播与科技大会上...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-10/detail-inirkiyt2373017.d.html",
-        "time": "1789052604",
         "source": "新浪新闻"
       }
     ]
