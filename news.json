@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T18:15:25.825Z",
+  "updated": "2026-09-18T21:33:35.638Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,153 @@
     ],
     "finance": [
       {
+        "title": "原油：布伦特震荡下跌 沙特出口前景喜忧参半",
+        "intro": " 随着市场对中东石油供应的担忧发生变化，油价连续第三个交易日下跌。沙特阿拉伯暂停对欧洲的部分原油销售，但交易员和分析师表示，目前供应缓冲仍然存在。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishzsp0031839.d.html",
+        "time": "1789766972",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月19日热门中概股多数上涨，阿里巴巴涨超4%，台积电涨超1%",
+        "intro": "9月19日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.76%。 上涨个股（按市值从高到低）：台积电涨1.02%，阿里巴巴涨4.33%，拼多多涨1.51%，日月光半导体涨4...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishzsq7981020.d.html",
+        "time": "1789766482",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SpaceX再获NASA 9.5亿美元合同，新增三次载人龙飞船任务",
+        "intro": " SpaceX扩大了与NASA的合同，将在2030年前额外执行三次载人龙飞船飞往国际空间站的任务，完成后将为埃隆·马斯克的公司带来最多9.46亿美元的收入。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishzsi2814366.d.html",
+        "time": "1789765567",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普称将禁止CNN、MS NOW、Politico进入白宫",
+        "intro": "美国总统特朗普表示，将禁止有线新闻媒体CNN、MS NOW以及网络媒体Politico进入白宫。 特朗普周五在社交媒体发文称，这些媒体对其政府进行了负面报道...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishzsq7974872.d.html",
+        "time": "1789764506",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Scope将法国信用评级从AA-下调至A+",
+        "intro": "法国遭Scope Ratings下调评级，意味着在明年将举行总统大选之际，有关该国公共财政状况的警告进一步升级。 Scope将这个欧元区第二大经济体的信用评级从AA-下调至A+...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishzsi2811480.d.html",
+        "time": "1789764418",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "最新审查报告发现美联储未能妥善应对硅谷银行反复出现的问题",
+        "intro": " 美联储负责监管事务的副主席米歇尔·鲍曼以及其他知情人士表示，一份新的报告草案发现，硅谷银行2023年倒闭前，美联储官员未能妥善应对有关该行财务状况恶化的多次预警。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishzsq7974583.d.html",
+        "time": "1789764383",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月19日收盘：美股涨跌不一 芯片股反弹 费城半导体指数涨超2% 油价回落至100美元下方",
+        "intro": "周五，美国股市涨跌互现，投资者继续消化美联储三年来首次加息以及人工智能引发的担忧。道指与标普500周线收跌，纳指小幅收涨，10年期美债收益率徘徊在5%附近...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishzsi2810028.d.html",
+        "time": "1789763936",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Anthropic推进上市筹备，年化营收料超1000亿美元",
+        "intro": "Anthropic首席执行官达里奥·阿莫代伊最近呼吁对人工智能开发速度施加更多护栏，这在华尔街和硅谷引发震动。 但即便阿莫代伊博士卷入了激烈的AI安全争论...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvkr0136721.d.html",
+        "time": "1789762878",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：美债追随欧洲债市下跌 收益率曲线走平",
+        "intro": "美国国债周五跟随全球债券市场下跌，收益率曲线呈熊市趋平走势，短端和中段收益率当天上涨约7个基点，尾盘接近日内高点。在欧洲，法国国债领跌...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvks8093161.d.html",
+        "time": "1789761206",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元持平 日元在汇率摸底报道后收窄跌幅",
+        "intro": "彭博美元指数周五基本抹去涨幅。此前有报道称日本央行向市场参与者进行汇率摸底，日元随之收窄跌幅。 彭博美元即期指数持平在1，203.15。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvkm2929849.d.html",
+        "time": "1789761174",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "没人喜欢被指手画脚 日本央行行长却同时面对两个“指挥者”",
+        "intro": " 没有人喜欢被坐在后排的人指挥怎么开车。日本央行行长植田和男现在却有两个这样的“后座司机”，而且两人还希望他以不同速度前进。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvks8086786.d.html",
+        "time": "1789759603",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "日本央行据报进行汇率摸底",
+        "intro": "日元周五收窄跌幅，此前报道称，日本央行向市场参与者询问汇率水平，这一举动通常被视为官方干预的前兆。 日元在早些时候一度大幅走低，因为日本央行如期宣布加息...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvkr0110516.d.html",
+        "time": "1789759464",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "交易员对日元的看涨情绪略有增强 此前日本央行据报进行汇率摸底",
+        "intro": "在有关日本央行进行汇率摸底的报道传出后，交易员对未来一周日元的看涨情绪略有增强。不过，与7月底东京干预汇市时以及9月初美国财政部长贝森特公开施压日本央行加息时相比...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvks8080745.d.html",
+        "time": "1789758570",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Anthropic据报计划年底拥有约5吉瓦可用算力 明年再翻番",
+        "intro": " 报道称，Anthropic已告知投资者，公司计划到今年底拥有约5吉瓦的可用算力，此举表明在这家人工智能公司筹备首次公开募股（IPO）之际，其正在加快扩张计划。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvkr0101174.d.html",
+        "time": "1789758501",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "指剔除能源的通胀“也过热” 堪萨斯城联储行长支持加息",
+        "intro": " 堪萨斯城联邦储备银行行长杰夫·施密德表示自己支持了本周的加息，认为这是抑制高通胀的必要措施，因为背后的驱动因素不仅仅是油价上涨。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvkm2916287.d.html",
+        "time": "1789758367",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "伦敦海事保险市场扩大黑海高风险区域，船舶战争险面临重新定价",
+        "intro": "伦敦海事保险市场联合战争委员会发布JWLA-035通告，将战争险申报范围扩大至黑海大部分水域。进入新增列名水域的船舶需通知承保人，保险公司可重新评估航次风险和附加保费...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvks8077790.d.html",
+        "time": "1789757936",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储外部审查重估硅谷银行倒闭：监管人员早已发现风险却迟迟未行动",
+        "intro": "美联储负责监管事务的副主席米歇尔·鲍曼公布硅谷银行倒闭独立审查的初步结论。审查认为，该行同时面临证券账面损失超过资本、大量未保险存款集中于科技企业...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvkr0093455.d.html",
+        "time": "1789757424",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美墨贸易谈判取得阶段性进展，辛鲍姆称已达成部分共识",
+        "intro": "墨西哥总统辛鲍姆9月18日确认，她本周三与美国总统特朗普通话，双方围绕贸易问题达成部分共识，但在整体方案敲定前不会公布具体内容。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvkm2911673.d.html",
+        "time": "1789757128",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美联储拟完成大型银行压力测试改革，模型与计算公式将公开",
+        "intro": "美联储负责监管事务的副主席米歇尔·鲍曼表示，理事会将在未来数周审议大型银行压力测试框架的最终修订。改革拟公开模型方程、变量、系数及压力情景设计方法...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvkp3313860.d.html",
+        "time": "1789756603",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "全球跨境商业地产投资上半年增长56%，欧洲吸收逾半资金",
+        "intro": "研究数据显示，2026年上半年全球跨境商业地产投资额同比增长56%至718亿美元，明显高于去年同期约460亿美元的水平。其中，流入欧洲的资金达到399亿美元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvkr0083736.d.html",
+        "time": "1789756202",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Anthropic设立实体生物实验室，推动Claude参与机器人实验",
+        "intro": "Anthropic已在旧金山湾区建立一处生物“湿实验室”，将人工智能在生命科学领域的应用从文献、数据和计算分析延伸至实体实验。公司计划让Claude协助指导实验机器人...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishvkp3306289.d.html",
+        "time": "1789755454",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美银预测美联储加息至5%以上 建议客户为2年期收益率上行布仓",
         "intro": "美国银行策略师认为，投资者应该开始为美联储将基准利率上调至5%以上的风险做准备。 包括Mark Cabana、Meghan Swiber在内的策略师团队表示...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrat0198359.d.html",
@@ -399,153 +546,6 @@
         "intro": "通用汽车将在第四季度推出重新设计的2027款雪佛兰Silverado 1500和GMC Sierra 1500。两款车型将继续提供3.0升Duramax直列六缸柴油发动机，并可选装容量更大的34加仑油",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrau8184244.d.html",
         "time": "1789752422",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普表示：美国正在与胡塞武装对话",
-        "intro": "美国总统特朗普表示，美国正在与胡塞武装进行对话。 NewsNation记者在发帖，援引对特朗普的电话采访． 该记者称，特朗普表示，“我们也在与胡塞武装对话...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrau8181610.d.html",
-        "time": "1789751994",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：法国国债全线重挫 较德国国债利差扩大至105个基点",
-        "intro": "法国国债全线重挫，该国政治不确定性持续，市场对赤字的担忧加剧。 法国国债的下跌推动10年期法国国债较同期德国国债的利差扩大8个基点，至105个基点...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrap3017322.d.html",
-        "time": "1789751845",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲股市扩大跌幅 大众汽车下调预期拖累汽车板块",
-        "intro": "欧洲股市扩大跌幅，大众汽车下调利润预期后，汽车股走低拖累大盘。 斯托克欧洲600指数收盘下跌1%，本周累计跌0.6%，并创下连续第三周下跌。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrap3017058.d.html",
-        "time": "1789751799",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "纽森发布行政令 推动加州建立AI“紧急关停”等安全措施",
-        "intro": "加利福尼亚州州长加文·纽森周五发布一项行政令，推动处于人工智能技术热潮中心的加州为该技术建立防护措施。 根据州长办公室周五发布的一份声明...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrat0178832.d.html",
-        "time": "1789751773",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "迪士尼新设首席技术官岗位，加码科技战略布局",
-        "intro": "Character.AI 负责人卡兰迪普・阿南德将直接向迪士尼首席执行官乔希・达马罗汇报，后者把科技发展列为工作重点 内容摘要 迪士尼已聘任人工智能企业 Character...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrat0167316.d.html",
-        "time": "1789750685",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "汉堡连锁加盟商关闭60家门店，申请第十一章破产保护",
-        "intro": "2026 年，多家陷入财务困境的快餐加盟商陆续申请破产保护，希望借此完成业务重组与债务重整。 法庭文件显示，总部位于凤凰城的哈迪斯（Hardee‘s）加盟商 Superior Star...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrar3391407.d.html",
-        "time": "1789750323",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "熊市终将到来，只是我们不知何时降临，历史经验告诉你，如何安然度过熊市",
-        "intro": "作者：达娜・乔治，愚人网 平均来看，美国每三年半就会迎来一轮熊市。2022 年熊市结束至今，到 10 月就满四年，当时标普 500 指数大约下跌 25%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrat0160600.d.html",
-        "time": "1789749909",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "巴菲特过半持仓集中在这三只股票，当下哪只最值得买入？",
-        "intro": "作者：杰弗里・塞勒（愚人网） 尽管巴菲特已于去年年底卸任伯克希尔哈撒韦首席执行官，但他的财富与投资组合依然深度绑定这家综合企业集团及其股票持仓。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrar3378625.d.html",
-        "time": "1789748630",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "日元跌幅收窄 日本央行据报进行汇率摸底",
-        "intro": " 日元收窄了因日本央行未能就进一步加息计划提供更明确指引而引发的跌幅，此前有报道称，日本央行在外汇市场进行了“汇率摸底”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrap2998732.d.html",
-        "time": "1789748116",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "大众汽车下调营业利润率预期",
-        "intro": "大众汽车下调营业利润率预期.该公司还提到，其所持保时捷股份价值减记60亿欧元(69亿美元)。这家德国汽车制造商周五表示，目前预计营业利润率不超过1%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrap2997971.d.html",
-        "time": "1789747984",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "比特币升逾8万美元 投资者消化美国加密货币法案受挫及美联储加息",
-        "intro": "加密货币周五上涨，市场风险偏好上升，投资者消化了美国加密货币法案未获通过以及美联储三年多来首次加息的影响。 最大的加密货币比特币一度上涨5.2%，报约80，443美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrar3371457.d.html",
-        "time": "1789747846",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "高盛分析师斯奈德：有关美国存在盈利泡沫的担忧并无依据",
-        "intro": " 高盛集团策略师表示，美国企业亮眼的盈利表现背后，是向好的经济前景与人工智能发展热潮，这意味着市场对于 “盈利泡沫” 的担忧言过其实。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrau8159480.d.html",
-        "time": "1789747688",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "俄罗斯接管雀巢、欧尚等外资企业在俄业务",
-        "intro": "多家食品、零售和物流企业同时被接管 此次被纳入临时管理的资产包括雀巢俄罗斯公司、欧尚在俄业务、经营家居建材连锁品牌Lemana Pro的Le Monlid公司...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrap2995682.d.html",
-        "time": "1789747561",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Joby宣布完成首次全美全程自主飞行",
-        "intro": "这家航空企业表示，本次飞行航程 3199 英里，机载安全飞行员全程未进行任何操控输入该飞行器完成自主滑行、起飞、巡航与降落，全程由远端监控...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrap2994449.d.html",
-        "time": "1789747356",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "日本央行向市场参与者进行汇率摸底",
-        "intro": "消息报道称，日本央行在外汇市场进行了“汇率摸底”，向市场参与者询问汇率水平。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-19/detail-inishrat0138432.d.html",
-        "time": "1789747227",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "霍华德・巴菲特是谁？伯克希尔‑哈撒韦新任董事长",
-        "intro": "沃伦・巴菲特之子并不具备大型综合集团董事长的传统履历内布拉斯加州奥马哈市，伯克希尔‑哈撒韦总部的霍华德・巴菲特。 内容速览...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-18/detail-inishkur3124159.d.html",
-        "time": "1789747075",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "玩具反斗城将在美国新增120家门店，假日季独立门店增至160家",
-        "intro": "玩具反斗城（Toys“R”Us）宣布与零售运营商Go! Retail Group合作，计划在2026年假日购物季开设120家美国独立门店。完成扩张后，其美国独立门店总数将由目前约40家增至160家..",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-18/detail-inishkuv0264836.d.html",
-        "time": "1789746655",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "巴菲特卸任伯克希尔董事长 其次子霍华德即刻接任该职务",
-        "intro": "依据此前既定继任方案，传奇投资人之子霍华德即刻接任该职务沃伦・巴菲特此前已经卸任伯克希尔‑哈撒韦首席执行官 沃伦・巴菲特宣布卸任伯克希尔‑哈撒韦（BRK.B）董事长...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-18/detail-inishkut3482284.d.html",
-        "time": "1789745634",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国8月份制造业产值出人意料出现今年以来首次萎缩",
-        "intro": "由于制造商面临投入成本上升，以及企业设备生产降温，美国8月份制造业产值意外下降。 美联储周五公布的数据显示，8月份制造业产值下降0.3%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-18/detail-inishkut3481212.d.html",
-        "time": "1789745497",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "全文|巴菲特致信伯克希尔股东：现在正是完成交接的时机",
-        "intro": "9月18日，伯克希尔·哈撒韦前董事长沃伦·巴菲特致信伯克希尔股东，表示公司已完成领导层进一步交接：他本人转任名誉董事长并继续担任董事，霍华德·巴菲特接任董事长...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-18/detail-inishkuw8278873.d.html",
-        "time": "1789745406",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "AI风险引发市场恐慌过后，Crowdstrike 、Palo Alto等网络安全股有望录得周度大幅上涨",
-        "intro": "对人类而言充满风险隐忧的一周，却成为网络安全投资者的获利周。 在 AI 行业头部企业接连发出风险警示的背景下，奥克塔、Crowdstrike...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-18/detail-inishkuv0251000.d.html",
-        "time": "1789745131",
         "source": "新浪新闻"
       }
     ]
