@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T18:41:17.888Z",
+  "updated": "2026-09-22T21:55:51.909Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,104 @@
     ],
     "finance": [
       {
+        "title": "燃料价格高企 特朗普称已推动禁止美国柴油出口",
+        "intro": "美国总统特朗普表示，他已敦促顾问支持禁止美国柴油出口。发生在伊朗和乌克兰的战争正推动柴油价格升至纪录高位。 距离11月中期选举仅剩数周之际...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inisuaam6450465.d.html",
+        "time": "1790113118",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：AI热潮推动纳斯达克100指数创新高 金融股遭抛售",
+        "intro": " 新一轮人工智能（AI）投资热潮推动纳斯达克100指数创下6月以来首个收盘纪录，交易员同时撤出被认为可能受到AI技术冲击的股票。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inisuaam6449726.d.html",
+        "time": "1790112807",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月23日外盘头条：特朗普证实美伊在联大罕见直接接触 Anthropic和OpenAI推出成本更低的新模型",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普证实美伊在联大罕见直接接触 三小时会谈进行得“非常好” 2、苹果开发无屏版健康追踪器 瞄准Whoop等竞争对手 3...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inisuaar5415708.d.html",
+        "time": "1790112621",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月23日美股成交额前20：SpaceX收高1.89% 正逐步淘汰使用最频繁的猎鹰9号火箭 转而专注于新型星舰飞船",
+        "intro": "周三美股成交额第1名美光收高5.00%，成交308.72亿美元。 第4名闪迪收高6.82%，成交238.51亿美元。 第5名英伟达收高0.66%，成交212.6亿美元。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inisuaat1606378.d.html",
+        "time": "1790110550",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国特使威特科夫和库什纳将与乌克兰会谈 讨论对俄协议",
+        "intro": " 美国特使贾里德·库什纳和史蒂夫·威特科夫今晚将与乌克兰谈判团队会谈，讨论基辅提出的与俄罗斯达成缓和局势协议的提议。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inisuaat1604357.d.html",
+        "time": "1790109637",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普：库什纳和威特科夫与斡旋方就伊朗问题进行了会谈",
+        "intro": "美国总统特朗普表示，顾问史蒂夫·威特科夫和贾里德·库什纳今天就伊朗问题与斡旋方举行了会谈。 特朗普在其“美洲之盾”联盟会议上发表讲话。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inisuaar5407063.d.html",
+        "time": "1790109467",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：布伦特下跌 沙特推进关键管道重启 霍尔木兹海峡重开前景受关注",
+        "intro": " 原油下跌，因沙特阿拉伯寻求恢复一条关键输油管道的运输，同时交易员研判美伊战争走向以及重开霍尔木兹海峡方面的进展。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inisuaap8634186.d.html",
+        "time": "1790109431",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月23日热门中概股多数上涨 小马智行涨超5% 满帮涨超3%",
+        "intro": "9月23日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.32%。 上涨个股（按市值从高到低）：台积电涨1.54%，阿里巴巴涨0.48%，拼多多涨1.33%，网易涨1.10%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inisuaat1602924.d.html",
+        "time": "1790109199",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月23日美股收盘：纳指四连涨 盘中创历史新高 标普平收 道指跌180点",
+        "intro": " 周二美股三大股指收盘涨跌不一。纳斯达克综合指数周二升至新的盘中历史新高，标普500指数基本持平，交易员继续关注美国与伊朗之间的进展。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inisuaap8624265.d.html",
+        "time": "1790108016",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：国债收低 早盘涨幅随油价跌幅收窄而消退",
+        "intro": "随着油价从日内低点回升，美国国债早盘的买盘支撑从上午晚些时候至下午交易时段逐步消退，同时2年期美国国债拍卖以及密集的美元债发行日程也给美债带来下行压力。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistvur8748897.d.html",
+        "time": "1790106941",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "海湾国家据悉将敦促特朗普避免与伊朗冲突升级",
+        "intro": "据多位知情人士透露，海湾阿拉伯国家准备在周二与特朗普的会晤中敦促其避免升级和伊朗的敌对行动。 知情人士称，由沙特、阿联酋、卡塔尔等六国组成的海湾阿拉伯国家合作委...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistvur8748599.d.html",
+        "time": "1790106880",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国财政部长：特朗普政府正在研究禁止柴油出口是否可行",
+        "intro": "美国财政部长贝森特周二表示，特朗普政府正在研究禁止柴油出口是否有助于缓解这种关键燃料创纪录的高价。 “我们正在评估，从整体炼油产能来看这是否可行...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistvuv1718086.d.html",
+        "time": "1790104881",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Anthropic和OpenAI在呼吁放缓开发之后推出成本更低的新模型",
+        "intro": " Anthropic和OpenAI周二各自宣布推出新的、成本更低的人工智能模型，因为两家前沿实验室继续面临来自更便宜的开放权重竞争对手的激烈竞争。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistvut5511401.d.html",
+        "time": "1790104785",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧洲股市上涨 油价因霍尔木兹海峡重开希望而回落 科技股走强",
+        "intro": "欧洲股市连续第二个交易日上涨，市场憧憬霍尔木兹海峡可能恢复通行，同时Meta Platforms Inc．的个人人工智能（AI）助手受到欢迎，也提振了科技股。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistvur8737149.d.html",
+        "time": "1790104536",
+        "source": "新浪新闻"
+      },
+      {
         "title": "OpenAI将让第三方机构更早介入AI模型安全评估",
         "intro": " OpenAI计划让第三方机构在人工智能（AI）模型开发周期的更早阶段评估安全风险，此举旨在继续努力应对围绕AI潜在危害的担忧。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistvut5498947.d.html",
@@ -389,7 +487,7 @@
       },
       {
         "title": "特朗普证实美伊在联大罕见直接接触 三小时会谈进行得“非常好”",
-        "intro": "美国总统特朗普表示，美方官员与伊朗代表举行了一场“非常好”的会谈。 这次美伊双方罕见的直接接触为重启和平谈判带来了新的机会。",
+        "intro": "美国总统特朗普表示，美方官员与伊朗代表举行了一场“非常好”的会谈。 几小时前，特朗普刚刚在联大演讲中威胁要摧毁伊朗，而这次美伊双方罕见的直接接触重新点燃了和平谈判...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistvuv1710063.d.html",
         "time": "1790102277",
         "source": "新浪新闻"
@@ -413,6 +511,13 @@
         "intro": "里士满联储行长汤姆·巴尔金警告称，通胀冲击可能需要一段时间才能消退，持续高企的价格压力存在变得根深蒂固的风险。 巴尔金在阐述最新经济和货币政策展望时表示...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistvur8712526.d.html",
         "time": "1790100810",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向",
+        "intro": "美国总统特朗普在联合国年度领导人大会上公开威胁称，如果伊朗不达成结束战争的协议，美国将“摧毁”伊朗。 演讲中他预测古巴政府将垮台...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistvup6558348.d.html",
+        "time": "1790100056",
         "source": "新浪新闻"
       },
       {
@@ -441,111 +546,6 @@
         "intro": "苹果正在开发一款类似Whoop腕戴设备的无屏健康和健身追踪器。 知情人士称，苹果已经探索这一产品类别数月，目前正在开发原型。该项目得到公司高层支持...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnt8826184.d.html",
         "time": "1790098309",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：德国国债持稳 欧洲央行加息押注保持稳定",
-        "intro": "随着布伦特原油价格震荡，德国国债持稳，法国国债表现落后，交易员关注结束美伊战争的外交努力。 法国与德国国债利差扩大3个基点...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnv5598344.d.html",
-        "time": "1790098237",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伊朗据报拟暂扣未经授权通过霍尔木兹海峡的船只 罚款相当于货值20%",
-        "intro": " 伊朗半官方的法尔斯通讯社援引议会国家安全委员会发言人报道，伊朗计划暂时扣押未经授权通过霍尔木兹海峡的船只，直至它们缴纳相当于所载货物价值20%的罚款。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnv5597988.d.html",
-        "time": "1790098195",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国2年期国债中标收益率创2024年以来最高 需求略低于预期",
-        "intro": " 美国财政部690亿美元2年期国债拍卖中标收益率为4.787%，为2024年5月以来的最高水平，高于纽约时间下午1点投标截止时4.785%的发行前交易水平，表明需求略低于预期。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnx1821096.d.html",
-        "time": "1790098153",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "中秋买月饼前先看看，节前这些消费坑别踩",
-        "intro": "临近中秋，月饼销售又进入了一年中最热闹的时节。今年不少消费者发现，各大商超和电商平台的月饼促销来得格外早，折扣力度也比往年更明显。",
-        "url": "https://finance.sina.cn/consume/shxf/2026-09-23/detail-inissyqx6839086.d.html",
-        "time": "1790098152",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欢创科技宣布启动IPO招股 小幅集资6.82亿港元 潜在客户比亚迪及上游供应商中润光学入局基石",
-        "intro": "文/新浪财经香港站赵岚 王柳潞 内地扫地机器人空间感知技术供应商欢创科技（6802.HK）在港举行IPO发布会并宣布启动招股，计划集资约6.82亿港元，9月30日挂牌...",
-        "url": "https://finance.sina.cn/hkstock/gggd/2026-09-23/detail-inistrnt8819923.d.html",
-        "time": "1790097196",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "贝森特的副手称国库券供应量的激增获得了市场非常良好的承接",
-        "intro": " 美国财政部长斯科特·贝森特新近获确认的副手Francis Brooke表示，过去几个月，美国国库券（期限不超一年）发行量显著增加，但投资者对新增供给的承接情况非常良好。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnt8815770.d.html",
-        "time": "1790096715",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "企业娱乐预订初创公司Ande获光速创投、红点创投5200万美元融资",
-        "intro": "Instinct、Muse 这类个人 AI 智能体已经承诺，帮人们省去抢热门餐厅座位、百老汇演出票以及体育赛事门票的麻烦。如今，一家初创公司结束隐身运营模式...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnt8814000.d.html",
-        "time": "1790096488",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "特朗普坚定拒绝制定管控AI的国际协议 淡化前沿模型失控风险",
-        "intro": "美国总统特朗普拒绝有关制定国际协议、为AI发展设置安全护栏的呼吁，其淡化了前沿模型失控可能带来的风险。 尽管联合国秘书长安东尼奥·古特雷斯、英国...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnr6649238.d.html",
-        "time": "1790096093",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "软件企业AI产品降价，留住客户以防转投Anthropic、OpenAI",
-        "intro": " 亚马逊、微软、Figma、Workday 等软件厂商与云服务商，正在面向客户及咨询合作伙伴推出 AI 产品新优惠折扣。客户受 AI 定价频繁变动困扰，已经感到疲惫。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnr6648314.d.html",
-        "time": "1790095873",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "花旗调查：家族办公室将通胀视为头号担忧 青睐股票和黄金",
-        "intro": "家族办公室目前将通胀视为头号担忧，显示商品和服务价格上涨即便对最富有的投资者也构成困扰。 根据花旗集团发布的全球家族办公室年度报告，通胀取代贸易战和关税...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnt8808974.d.html",
-        "time": "1790095685",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Anthropic发布Opus 5.5，系CEO阿莫代伊呼吁放缓AI发展之后推出的首款大模型",
-        "intro": "Anthropic（非上市公司，股票代码 ANTH.PVT）于周二推出全新高性能大模型 Opus 5.5，这是 Claude 5.5 产品系列的首款模型；同时也是公司首席执行官达里奥・阿莫代伊公开呼.",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnx1809893.d.html",
-        "time": "1790095547",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "游戏驿站CEO斥资2600万美元增持股票，游戏驿站股价上涨约4%",
-        "intro": "周二，游戏驿站（GME）股价上涨约 4%。这家游戏零售巨头向美国证券交易委员会提交 Form‑4 文件披露，公司首席执行官瑞安・科恩斥资约 2600 万美元...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnv5579093.d.html",
-        "time": "1790095345",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Nscale即将IPO，华尔街将再度接受高度集中化AI投资的考验",
-        "intro": "当英国新型云服务商 Nscale 完成上市，将考验公众投资者对一家收入高度依赖两大客户的企业的接受度。 该公司两年前从澳大利亚加密货币挖矿企业 Arkon Energy 分拆独立。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnv5574889.d.html",
-        "time": "1790094871",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伦敦AI大会现场，她突然问了一个很多人都不敢问的问题。当AI越来越快地改变我们的生活，谁在替我们决定未来",
-        "intro": "",
-        "url": "https://finance.sina.cn/china/gjcj/2026-09-23/detail-inistrnv5572386.d.html",
-        "time": "1790094540",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "肥胖药赛道，礼来与诺和诺德迎来挑战者？",
-        "intro": "Viking Therapeutics周二早盘股价大涨 31%。该公司公布旗下糖尿病及肥胖候选药物 VK2735 的最新研究主要终点阳性结果。用药 21 周后，受试者体重下降幅度达到 16%‑19%.",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-23/detail-inistrnt8779440.d.html",
-        "time": "1790093060",
         "source": "新浪新闻"
       }
     ]
