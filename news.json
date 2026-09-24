@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:57:23.518Z",
+  "updated": "2026-09-24T22:13:20.150Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,132 @@
     ],
     "finance": [
       {
+        "title": "法国将派遣军队保卫沙特石油港口 胡塞组织称对沙特发动新的袭击",
+        "intro": " 法国总统马克龙表示，法国将派遣军队保卫沙特阿拉伯的一座石油工厂。与此同时，伊朗支持的胡塞武装声称对沙特发动了新的袭击。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhm7995468.d.html",
+        "time": "1790287593",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月25日外盘头条：美伊据悉讨论分阶段协议 30年期美债收益率升至2004年来最高 百事可乐将涨价",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美伊据悉讨论分阶段协议 涉及开放霍尔木兹海峡和解除对伊封锁 2、全球债市遭遇抛售...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhp4756819.d.html",
+        "time": "1790286053",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "马斯克：若保持强劲加速度 SpaceXAI约6个月后就能领跑",
+        "intro": "马斯克对网友表示，“我持谨慎乐观态度，SpaceX将在两到三个月内推出达到Fable/GPT‑6水准的模型。” 有网友对此表示怀疑，回复称“SpaceXAI大势已去。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhm7978206.d.html",
+        "time": "1790284980",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "对冲基金Situational Awareness今年成为高盛最大客户",
+        "intro": "对冲基金Situational Awareness今年成为高盛规模最大的主经纪商客户。这家机构此前名不见经传，却在遭遇数百亿美元巨额亏损之后，依然拥有如此惊人的业务体量...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhp4742994.d.html",
+        "time": "1790284163",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "百事可乐将再次涨价 预计将于年底或2027年初生效",
+        "intro": "百事公司在承诺让零食价格更亲民仅几个月后，便再次上调了部分薯片、汽水和蘸酱的价格。 据知情人士透露，公司预计将上调超市售卖的薯片包装（包括多力多滋 Doritos 和...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhq9937812.d.html",
+        "time": "1790284145",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "花旗：日元兑美元跌破159将增加日本当局采取行动的风险",
+        "intro": " 花旗集团策略师Daniel Tobon表示，日元兑美元汇率跌破159，将增加日本当局采取行动的风险，形式可能是利率核查或外汇市场干预。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhi4777982.d.html",
+        "time": "1790284044",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "阿波罗将软银净资产贷款增至92亿美元 支持其人工智能投资",
+        "intro": "据知情人士透露，阿波罗全球管理公司已将提供给软银集团的贷款规模扩大至92亿美元。 此举为这家日本投资巨头提供了更多资金，以支持其加大对ChatGPT开发商OpenAI的投资。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhp4739712.d.html",
+        "time": "1790283871",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美债攀升 全球债券平均收益率为2007年以来的最高水平",
+        "intro": " 美国最长期限国债的收益率攀升至逾二十年来的最高水平，这是受通胀担忧及政府债务负担压力驱动的全球抛售潮中的最新里程碑。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhm7964779.d.html",
+        "time": "1790283652",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：布伦特上涨 供应紧张削弱对霍尔木兹海峡协议的乐观情绪",
+        "intro": "原油上涨，多项关键市场指标显示供应紧张，盖过了推动霍尔木兹海峡重开的外交努力取得进展的迹象。 布伦特原油期货结算价接近每桶107美元，盘中一度上涨5%。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhm7962095.d.html",
+        "time": "1790283278",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元五连涨 美国长期国债收益率升至数十年高点",
+        "intro": " 美国财政部一项国债回购操作的规模低于市场预期后，美国长期国债收益率升至数十年高点，推动美元连续第五个交易日上涨。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhp4721117.d.html",
+        "time": "1790281595",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月25日收盘：道指连续三日收跌 油价、美债收益率维持高位",
+        "intro": " 北京时间周五凌晨，道琼斯工业平均指数连续第三个交易日收跌。处于数十年高位的美债收益率持续压制市场中周期属性最强的板块。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhi4765190.d.html",
+        "time": "1790281276",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：长期国债延续抛售势头 收益率曲线大幅陡化",
+        "intro": "美国国债收益率曲线周四出现大幅陡化走势，长端收益率继续飙升，而短端2年期收益率当天收盘仅小幅走高。7年期国债标售表现稳健，中标收益率较发行前交易收益率高不到1个基...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhp4713646.d.html",
+        "time": "1790280663",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI、Anthropic被要求在完成白宫测试前不能向英国分享新模型",
+        "intro": "据知情人士和一位获准匿名描述该请求的美国政府高级官员透露，白宫已要求 OpenAI 和 Anthropic 在美国政府完成测试之前，不要与英国政府的测试机构分享其最新的人工智能模...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhp4710108.d.html",
+        "time": "1790280276",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "以色列官员：恢复对伊朗的打击只是时间问题",
+        "intro": "据Al Hadath报道，以色列官员认为，恢复对伊朗的打击只是时间问题。 该官员向媒体透露，以色列情报部门已察觉到伊朗正在试图恢复并重启其核计划，以应对可能遭受的打击。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhm7936962.d.html",
+        "time": "1790280218",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "微软CEO安排Brad Smith负责通讯部门",
+        "intro": "一份内部备忘录显示，微软CEO萨提亚·纳德拉（Satya Nadella）对公司公共事务的负责人有了新的安排。 微软总裁Brad Smith将接管公司的通讯部门。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhm7936671.d.html",
+        "time": "1790280191",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美伊据悉讨论分阶段协议 涉及开放霍尔木兹海峡和解除对伊封锁",
+        "intro": " 知情人士称，美国和伊朗谈判代表正在探讨一项分阶段协议，包括伊朗重新开放霍尔木兹海峡，美国解除对伊港口的经济封锁。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyqhp4709058.d.html",
+        "time": "1790280169",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国财政部长债回购再次未达上限 总计购入40.8亿美元国债",
+        "intro": "美国财政部周四在长期国债回购操作中回购了40.8亿美元债券。 回购规模低于财政部周三宣布的60亿美元最高额度。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyiyt0039207.d.html",
+        "time": "1790277589",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普政府称被禁媒体获准重返白宫",
+        "intro": "特朗普政府在提交给法院的文件中表示，已暂时恢复三家媒体进入白宫的权限。此前，特朗普上周禁止这些媒体进入白宫。 在联邦法院下令暂停执行相关禁令后...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisyiyp8050828.d.html",
+        "time": "1790276414",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美国7年期国债中标收益率创2009年以来最高",
         "intro": "美国财政部发行440亿美元7年期国债的中标收益率为5.085%，创下自2009年该期限债券重新发行以来的最高纪录，截至纽约时间下午1点投标截止时的发行前交易水平为5.078%...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisycsv0141069.d.html",
@@ -420,132 +546,6 @@
         "intro": " 丹麦外交大臣拉斯·勒克·拉斯穆森表示，美国将为在格陵兰建设新军事基地承担费用，这与美国总统特朗普此前称新安全协议不会让华盛顿花一分钱的说法相左。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisycst4900019.d.html",
         "time": "1790269396",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：德国国债势创7月份以来最大两日跌幅",
-        "intro": " 德国10年期国债收益率势将录得两个月来最大两日升幅，累计上涨14个基点，因石油和天然气价格延续涨势，推动期限溢价大幅上升。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisycsv0135399.d.html",
-        "time": "1790269236",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲股市连续第二天下跌 受到全球债券抛售和油价上涨影响",
-        "intro": "欧洲市场连续第二天下跌，因为油价飙升之际全球债券遭到抛售，平均收益率升至近20年来未见的水平。 伦敦收盘时，斯托克欧洲600指数下跌0.5%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisycsr8121262.d.html",
-        "time": "1790268551",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美债收益率攀升或将推高车贷利率，购车者需要了解这些信息",
-        "intro": "核心要点专家称，大量车贷利率与 5 年期、10 年期美债收益率挂钩，而当前美债收益率大幅飙升，购车者的贷款成本或将上升。5 年期、10 年期...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-inisycsr8112731.d.html",
-        "time": "1790267374",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "全球债市遭遇抛售 30年期美债收益率升至2004年来最高",
-        "intro": " 美国期限最长国债的收益率升至逾20年来最高水平，在通胀和政府债务负担担忧推动全球债市持续抛售之际，这是美债收益率创下的又一个里程碑。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisycsv0115078.d.html",
-        "time": "1790265081",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "底特律车企混动产品供给不足，现代汽车预计三季度美国销量超过福特",
-        "intro": "核心要点考克斯汽车（Cox Automotive）最新预测：现代汽车有望史上首次在第三季度美国市场销量超过福特。考克斯分析师表示，受油价高涨推动，美国混动车型市场持续扩张...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisycsr8090764.d.html",
-        "time": "1790265052",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "报道：谷歌、OpenAI和Anthropic拟组建前沿AI标准机构",
-        "intro": " The Information援引知情人士报道，谷歌、OpenAI和Anthropic正在推进一项成立人工智能（AI）安全标准机构的计划，该机构将不受政府监督。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisycsr8079970.d.html",
-        "time": "1790263903",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "沙特一度警告麦加、延布和吉达等地面临潜在危险",
-        "intro": " 沙特阿拉伯民防部门在社交媒体平台X上发布多则消息称，麦加市、红海港口城市吉达和延布，以及塔伊夫和塔布克地区面临潜在危险。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisycst4851527.d.html",
-        "time": "1790263743",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "前任CEO查佩克仍对被迪士尼解雇一事耿耿于怀",
-        "intro": "鲍勃・查佩克称，自己从一开始就没有机会。 这是他 2022 年末被免去迪士尼首席执行官一职后的首次正式采访。在历经动荡的 33 个月 CEO 任期之后，他表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisycst4851443.d.html",
-        "time": "1790263726",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "甲骨文就数据中心项目发出“不可抗力”通知，股价大跌5%",
-        "intro": "核心要点甲骨文向其新墨西哥州数据中心项目的开发商发送了一份 “不可抗力” 通知。如果该项目无法在 2028 年如期投用，甲骨文打算推迟付款。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisxxkt8207287.d.html",
-        "time": "1790263254",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "费城联储行长保尔森称或需进一步小幅加息",
-        "intro": "费城联邦储备银行行长安娜·保尔森表示可能需要进一步提高利率，以确保通胀率回到央行2%的目标水平。 “展望未来，如果情况按照我的预期发展...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisxxkv4976863.d.html",
-        "time": "1790262816",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "证监会出手，两家券商被处理，暂停新开证券账户3个月",
-        "intro": "9月24日，国盛证券公告，公司此前于2026年7月31日收到中国证监会立案告知书，因涉嫌违反账户实名制等规定被立案。2026年9月24日，公司及相关当事人收到江西证监局《行政处...",
-        "url": "https://finance.sina.cn/2026-09-24/detail-inisxxkx0237296.d.html",
-        "time": "1790262731",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "全球债券抛售潮加剧，推高世界各地借贷成本",
-        "intro": " 周四早盘，美国 30 年期美债收益率一度冲高至 5.45%，创下 2004 年以来新高，本轮抛售持续发酵，全球各国债券收益率同步走高。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisxxkr5075988.d.html",
-        "time": "1790262692",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "诺顿杀毒软件母公司向GoDaddy发出收购要约",
-        "intro": "诺顿360杀毒软件的母公司已向网站域名服务商GoDaddy提出收购要约，希望借此将业务范围扩展至网络安全和隐私技术之外。 据知情人士透露...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisxxkr5067988.d.html",
-        "time": "1790261033",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲央行管委Radev：必须给之前的加息行动足够的时间发挥作用",
-        "intro": " 欧洲央行管理委员会委员Dimitar Radev表示，在判断此前加息是否正在有效遏制通胀之前，决策者不应急于采取进一步行动。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisxxkv4956815.d.html",
-        "time": "1790260522",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Meta押注Muse智能AI助手，密集推出多款全新硬件产品",
-        "intro": " 随着 AI 安全方面的担忧持续升温，Meta 仍在持续推出全新 AI 设备与智能体，该公司相信这类产品终将成为人们日常生活的必需品。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisxxkt8183568.d.html",
-        "time": "1790260457",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "科技巨头，引爆“大雷”！",
-        "intro": "甲骨文的变数又来！ 最新消息显示，甲骨文就新墨西哥州数据中心发出不可抗力通知。该公司正采取措施，以避免在新墨西哥州建设的大型数据中心产生巨额支出...",
-        "url": "https://finance.sina.cn/stock/ssgs/2026-09-24/detail-inisxxkt8187017.d.html",
-        "time": "1790260218",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "甲骨文股价下跌6.1%，公司采取行动规避争议数据中心项目带来的成本风险",
-        "intro": "事件概况： 周四甲骨文（ORCL）股价下跌6.1%。 下跌背后原因： 新墨西哥州一座大型数据中心项目遭遇公众反对，同时面临监管障碍。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-24/detail-inisxxkt8180355.d.html",
-        "time": "1790260173",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "视频 | 拾光纪·欢迎仪式现场，特朗普夫妇热情迎接习近平主席",
-        "intro": "",
-        "url": "https://finance.sina.cn/china/gncj/2026-09-24/detail-inisxxkv4964550.d.html",
-        "time": "1790260170",
         "source": "新浪新闻"
       }
     ]
