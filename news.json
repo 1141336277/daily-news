@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T18:25:07.663Z",
+  "updated": "2026-09-25T22:09:06.557Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,118 @@
     ],
     "finance": [
       {
+        "title": "欧洲央行副行长Vujcic：能源价格将长期维持高位",
+        "intro": " 欧洲央行副行长Boris Vujcic表示，中东战争持续意味着能源价格将在较长时间内维持高位，并可能进一步传导至更广泛的通胀。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initaxpm4058027.d.html",
+        "time": "1790373892",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月26日外盘头条：霍尔木兹海峡有望重开 白宫试图降低柴油价格 Anthropic投入至少400亿美元租赁算力",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、白宫考虑一系列方案以降低高企的柴油价格 包括暂停征税 2、美官员：就重开霍尔木兹海峡协议开展谈判...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initaxpm4055069.d.html",
+        "time": "1790373494",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "白宫考虑一系列方案以降低高企的柴油价格 包括暂停征税",
+        "intro": " 特朗普政府官员已提出多项措施，以遏制柴油价格飙升，从暂停对柴油征税，到取消针对通常仅限非公路使用的红色染色柴油的销售限制。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initaxpf3768448.d.html",
+        "time": "1790373069",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：主要股指普涨 霍尔木兹海峡重开希望推动油价回落",
+        "intro": "美国股市周五上涨，油价回落盖过了消费者信心下降的影响。 标普500指数上涨0.5%，以科技股为主的纳斯达克100指数上涨0.4%。 周五大部分涨幅出现在报道称伊朗向美国提出重开...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initaxpi7275068.d.html",
+        "time": "1790372269",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "沙特原油出口创伊朗战争以来新高，管道停运难阻出口激增",
+        "intro": "根据贸易情报公司Kpler的数据，尽管与武装战斗急剧升级，沙特阿拉伯本月原油出口仍大幅飙升。 利雅得9月出口量为每日600万桶，为约七个月前伊朗战争爆发以来最高水平。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initaxpm4046939.d.html",
+        "time": "1790372121",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "OpenAI通知包括政府部门在内的数十家机构 称其网站或遭AI干扰",
+        "intro": " OpenAI表示，该公司已通知包括政府部门和大学在内的“数十家”机构，它们的网站可能因OpenAI在评估技术期间人工智能模型的访问而受到影响。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initaxpi7266546.d.html",
+        "time": "1790370668",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：WTI下跌 交易员权衡美伊霍尔木兹海峡谈判进展",
+        "intro": "原油下跌，因有初步迹象显示，美伊围绕重开全球最重要能源运输通道的谈判正在取得进展。 WTI期货下跌约2.3%，结算价接近每桶92美元，录得8月底以来首次单周下跌...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initaxpi7263134.d.html",
+        "time": "1790370257",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元指数回落 日元势创近三周最佳表现",
+        "intro": "美元兑多数G10货币下跌，此前公布的一项消费者信心指标高于经济学家的预期后，长期美债延续跌势。日元有望创接近三周最大涨幅，此前日本官员在与美国官员会晤时讨论了日元...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initatfi3887718.d.html",
+        "time": "1790369470",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：短端获油价下跌支撑 收益率曲线陡化延续",
+        "intro": "美国国债收益率曲线短端和中段品种周五大幅反弹，本周跌幅有所收窄，收益率升至多年高点之际，债券逢低买盘进场。长端收益率日内则小幅走高，30年期收益率突破5.5%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initatfp4161731.d.html",
+        "time": "1790369420",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "9月26日收盘：美股三大指数收涨且周线齐涨 市场无视债券抛售 苹果再创新高",
+        "intro": "美股三大指数集体收涨，并均录得周线涨幅。尽管债市抛售推动10年期美债收益率升至金融危机以来最高水平，市场仍展现出韧性。与此同时...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initatfp4160592.d.html",
+        "time": "1790369248",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Anthropic正谈判租赁最高1吉瓦算力 投入至少400亿美元",
+        "intro": " Anthropic正开展初步谈判，拟从阿波罗全球管理控股的数据中心开发商手中租赁最高1吉瓦的算力容量。这是这家AI企业降低对云服务商依赖的重大举措。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initatfm7386833.d.html",
+        "time": "1790369032",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "摩根士丹利：甲骨文数据中心事件引发合同风险担",
+        "intro": "摩根士丹利称，甲骨文公司向新墨西哥州大型数据中心开发商发出不可抗力通知，令相关贷款与租赁文件再度受到审视，也让计划通过债务市场融资建设AI基础设施的企业面临更多挑...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initatfm7383265.d.html",
+        "time": "1790368344",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约联储博客：美联储采用“证券主导型”准备金管理方式",
+        "intro": " 纽约联储“Teller Window”博客文章称，在全球央行如何管理银行体系准备金方面，美联储与英国央行、欧洲央行采取的方式存在明显差异。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initatfm7377029.d.html",
+        "time": "1790367072",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "通用汽车研发低成本锰基电池 计划28年落地平价电动车",
+        "intro": "过去一年，美国密歇根州沃伦市通用汽车一座大型实验室的研究人员，调试出18款新型电池化学体系方案，目标是降低电池成本——电池高昂成本正是制约美国消费者购买电动车的最大...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initatfm7367898.d.html",
+        "time": "1790365579",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "黑石私募股权策略主管Joe Baratta据悉洽谈离职",
+        "intro": "知情人士称，黑石集团私募股权策略主管Joe Baratta正在洽谈于年底前离职，从而结束其在该公司28年的任职生涯。Baratta是黑石重要的交易撮合者...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initatfm7364041.d.html",
+        "time": "1790364852",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "SEC拟投票放宽私募市场准入 扩大合格投资者范围",
+        "intro": "美国证券交易委员会（SEC）正审议多项提案，计划于下周举行委员会投票，放宽限制，让散户投资者更多参与私募市场。 其中一项监管举措旨在扩大可投资私募项目的资质认定范围...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initatfm7362036.d.html",
+        "time": "1790364331",
+        "source": "新浪新闻"
+      },
+      {
         "title": "美军：过去两天在霍尔木兹海峡迫使7艘商船改航",
         "intro": "美军中央司令部在X平台发布消息称，过去两天，美国针对霍尔木兹海峡实施的封锁行动，已迫使7艘商船更改航线。 这项针对进出伊朗港口船舶的封锁于7月14日重启。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initanxp7472033.d.html",
@@ -434,118 +546,6 @@
         "intro": "近几个月，特斯拉 Optimus 人形机器人产量提升约十倍，但公司依旧难以实现稳定规模化生产。据熟悉该项目的知情人士透露，生产线正面临机器人精密手部...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initanxp7441378.d.html",
         "time": "1790355608",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：德国30年期国债收益率攀升至2011年以来最高",
-        "intro": " 德国长期国债与大多数欧元区国家长期国债一道大幅下跌，受到美国国债走低的带动，此前密歇根大学9月份消费者信心指数终值被上修。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initanxs9130107.d.html",
-        "time": "1790355531",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "Seaport对英伟达、博通持“谨慎”观点",
-        "intro": "Seaport 认为，受产能约束与行业竞争加剧影响，GPU 龙头英伟达股价上行空间有限。 Seaport 分析师杰伊・戈德堡在周四研报中写道：“我们对 NVDA 维持谨慎态度。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initanxm3970152.d.html",
-        "time": "1790355335",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "阿波罗首席经济学家：美联储可能忽视了柴油价格飙升带来的通胀威胁",
-        "intro": " 阿波罗全球管理首席经济学家Torsten Slok警告称，创纪录的柴油价格带来的通胀威胁可能比美联储所意识到的更大，因为相关燃料成本会传导至核心消费者价格指数（CPI）。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initanxm3970057.d.html",
-        "time": "1790355304",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "凯茜・伍德称全球实际GDP增速有望突破 7%",
-        "intro": " 方舟投资（ARK Invest）首席执行官凯茜・伍德周五做客节目《Squawk Box》时表示，未来数年，技术进步或将推动全球实际国内生产总值实现远高于以往的增速。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initanxm3969728.d.html",
-        "time": "1790355174",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "通胀预期抬升，9月消费者信心大幅下挫",
-        "intro": "9 月消费者信心显著走弱，不过密歇根大学最新调查的月末最终读数略好于市场预期。 密歇根大学消费者信心指数最终报48.1 点，较 8 月下滑...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initanxr4206882.d.html",
-        "time": "1790354214",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国上诉法院维持五角大楼将Anthropic列入黑名单的裁定",
-        "intro": "核心要点华盛顿特区联邦上诉法院维持五角大楼将 Anthropic 列入黑名单的裁定。美国国防部于今年 3 月将 Anthropic 认定为供应链风险，Anthropic 随即起诉特朗普政府...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initanxr4206304.d.html",
-        "time": "1790354085",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "油价回落，市场持续关注美伊外交动向与地区紧张局势",
-        "intro": "市场正在重新评估中东原油供应中断的风随着霍尔木兹海峡存在重新开放可能性，市场重新评估中东原油供应风险 内容速览 周五油价走低。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initanxm3966348.d.html",
-        "time": "1790353861",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲股市四周来首次单周上涨 油价回落",
-        "intro": "欧洲股市周五上涨，本周亦录得一个月来首次上涨，因市场憧憬有关重开霍尔木兹海峡的努力取得进展，推动油价回落。 斯托克欧洲600指数收盘上涨0.3%。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initahrp4095091.d.html",
-        "time": "1790353123",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "伯克希尔3天斥资2.12亿美元抄底这只暴跌个股，本季度持仓已大增81%",
-        "intro": "作者：亚当・莱维，《傻瓜投资网》（The Motley Fool） 今年早些时候，沃伦・巴菲特将伯克希尔‑哈撒韦（BRK‑A、BRK‑B）首席执行官一职交接给格雷格・阿贝尔。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initahrp4094961.d.html",
-        "time": "1790353099",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "报道：美伊谈判进入技术磋商阶段 伊朗提出七日方案",
-        "intro": " 半岛电视台驻德黑兰分社社长Nourddine Dgheir周五报道，在纽约举行的美伊谈判已从初步外交接触，进入更细致的技术磋商阶段；德黑兰方面消息人士称，谈判氛围日趋积极。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-26/detail-initahrt4330285.d.html",
-        "time": "1790352858",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "堪萨斯城联储行长：通胀问题尚未得到解决",
-        "intro": "堪萨斯城联储行长杰弗里·施密德表示，通胀率仍高于美联储2%的目标，决策者尚未彻底解决通胀问题。 “我们仍未解决通胀问题，”施密德周五在堪萨斯城参加一场讨论时表示。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-initahrr7549065.d.html",
-        "time": "1790351688",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "高盛给AI概念股投资者泼了一盆现实的冷水",
-        "intro": "大型科技企业在 AI 领域的投资，需要数年时间才能产生回报。而在此之前，企业还要先实现盈亏平衡 —— 这同样需要数年。 高盛策略师瑞安・哈蒙德测算得出：亚马逊（AMZN）...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-initahrr7542434.d.html",
-        "time": "1790350733",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "耐克与麦当劳成为道指今年表现最差成分股 10月可以买入这一只",
-        "intro": "作者：杰里米・鲍曼，《傻瓜投资网》（The Motley Fool） 道琼斯工业平均指数里的消费股今年日子并不好过。 截至 9 月 24 日，该蓝筹指数今年整体上涨 7%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-initahru9243540.d.html",
-        "time": "1790350395",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "比尔·盖茨称人工智能已强大到足以造成“10亿人死亡”",
-        "intro": "微软联合创始人比尔·盖茨警告称，人工智能（AI）的能力已经“强大到足以”帮助造成相当大一部分人类死亡。他由此加入越来越多科技行业领袖和从业者的行列...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-initahrr7539429.d.html",
-        "time": "1790349988",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "沃什推动美联储制度变革向前推进，但遭遇阻力",
-        "intro": "核心要点美联储主席凯文・沃什迅速改革央行沟通机制，摒弃传统的前瞻指引。相比历任美联储主席，他的新框架更加重视广义金融条件。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-initahru9242100.d.html",
-        "time": "1790349831",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "贝森特：与日本财务大臣讨论了对强势日元的期许",
-        "intro": " 美国财政部长斯科特·贝森特表示，他周五在与日本财务大臣片山皋月通话时讨论了“对能够反映日本强劲经济基本面的强势日元的期许”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-09-25/detail-initahru9239872.d.html",
-        "time": "1790349012",
         "source": "新浪新闻"
       }
     ]
