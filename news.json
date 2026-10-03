@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T15:05:48.947Z",
+  "updated": "2026-10-03T19:07:45.634Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,41 @@
     ],
     "finance": [
       {
+        "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
+        "intro": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做得还不够。 此前负责OpenAI安全团队透明度工作的David...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-04/detail-inityptx6040261.d.html",
+        "time": "1791044995",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告",
+        "intro": " 据知情人士透露，美国总统特朗普亲自指示预算局局长动用纳税人资金投放电视广告，宣传他本人及其执政成果，由此敲定一份价值 2000 万美元的合同，资金取自国土安全部。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-04/detail-inityptv4434728.d.html",
+        "time": "1791044834",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "台积电探讨与马斯克 Terafab 项目开展合作",
+        "intro": "半导体巨头台积电正考虑与埃隆・马斯克的 Terafab 项目开展合作，在美国建立先进的端到端半导体制造产能。据通讯刊物 Culpium 的独家报道...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-04/detail-inityptv4427769.d.html",
+        "time": "1791043804",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升",
+        "intro": " 苹果公司表示，计划为Mac用户推出新的隐私控制措施，并警告称，向包括AI智能体在内的第三方软件授予广泛的数据访问权限所带来的风险正在上升。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-04/detail-inityptr3684201.d.html",
+        "time": "1791043606",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "贝森特称国债收益率上升符合全球趋势 不必感到惊恐",
+        "intro": " 尽管通胀担忧已推动一些基准收益率升至20多年来最高水平，但美国财长斯科特·贝森特表示，近期美国国债收益率上升符合全球趋势，不必对此感到惊恐。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-04/detail-inityptv4425599.d.html",
+        "time": "1791043435",
+        "source": "新浪新闻"
+      },
+      {
         "title": "OpenAI安全部门员工辞职 呼吁对AI采取核电级别的防护措施",
         "intro": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做得还不够。 此前负责OpenAI安全团队透明度工作的大卫·罗宾森（David...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-10-03/detail-inityimx4523185.d.html",
@@ -510,41 +545,6 @@
         "title": "对氯苯甲腈商品报价动态（2026-10-03）",
         "intro": "生意社10月03日讯交易商品牌/产地交货地最新报价对氯苯甲腈 纯度99%以上山东艾特化工有限公司国产山东省22000元/吨 （文章来源：生意社）",
         "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-10-03/detail-initxsqc0729853.d.html",
-        "time": "1791014460",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "3-甲基丁醇商品报价动态（2026-10-03）",
-        "intro": "生意社10月03日讯交易商品牌/产地交货地最新报价3-甲基丁醇 纯度99%以上山东艾特化工有限公司国产山东省12000元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-10-03/detail-initxsqc0729717.d.html",
-        "time": "1791014460",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "3,5-二氯-4-氟硝基苯商品报价动态（2026-10-03）",
-        "intro": "生意社10月03日讯交易商品牌/产地交货地最新报价3，5-二氯-4-氟硝基苯 纯度99%以上山东艾特化工有限公司国产山东省12000元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-10-03/detail-initxspz3957277.d.html",
-        "time": "1791014460",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "双氟磺酰亚胺锂商品报价动态（2026-10-03）",
-        "intro": "生意社10月03日讯交易商品牌/产地交货地最新报价双氟磺酰亚胺锂 纯度99.9以上山东艾特化工有限公司国产山东省35000元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-10-03/detail-initxsqc0729705.d.html",
-        "time": "1791014460",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "邻二氟苯商品报价动态（2026-10-03）",
-        "intro": "生意社10月03日讯交易商品牌/产地交货地最新报价邻二氟苯 纯度99%以上山东艾特化工有限公司国产山东省18000元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-10-03/detail-initxsqf4805057.d.html",
-        "time": "1791014460",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "2,4-二氯-3-氟硝基苯商品报价动态（2026-10-03）",
-        "intro": "生意社10月03日讯交易商品牌/产地交货地最新报价2，4-二氯-3-氟硝基苯 纯度99%以上山东艾特化工有限公司国产山东省15000元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-10-03/detail-initxspz3957207.d.html",
         "time": "1791014460",
         "source": "新浪新闻"
       }
