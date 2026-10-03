@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T19:07:45.634Z",
+  "updated": "2026-10-03T22:47:10.493Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,20 @@
     ],
     "finance": [
       {
+        "title": "贝森特批评AI风险警告是危言耸听",
+        "intro": "美国财长斯科特·贝森特批评人工智能领域一些知名人士就这项技术带来的人类存亡风险发出警告，称这些言论是在危言耸听，没有助益，并呼吁该行业进行自我监管并拿出解决方案...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-04/detail-initytzr0408702.d.html",
+        "time": "1791056061",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "工资涨不过物价 美国人想尽各种办法维持消费",
+        "intro": "过去五个月里，美国物价上涨速度一直快于工资增速，这种现象本该促使消费者削减开支。但实际上，他们仍在继续消费。 8月份美国消费增速达到一年多来最快水平...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-04/detail-initytzv5949378.d.html",
+        "time": "1791055842",
+        "source": "新浪新闻"
+      },
+      {
         "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
         "intro": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做得还不够。 此前负责OpenAI安全团队透明度工作的David...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-10-04/detail-inityptx6040261.d.html",
@@ -531,20 +545,6 @@
         "title": "磷酸三乙酯商品报价动态（2026-10-03）",
         "intro": "生意社10月03日讯交易商品牌/产地交货地最新报价磷酸三乙酯 纯度99.8%以上山东艾特化工有限公司国产山东省15000元/吨 （文章来源：生意社）",
         "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-10-03/detail-initxsqi6410027.d.html",
-        "time": "1791014460",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "对氨基苯乙醚商品报价动态（2026-10-03）",
-        "intro": "生意社10月03日讯交易商品牌/产地交货地最新报价对氨基苯乙醚 纯度99%以上山东艾特化工有限公司国产山东省21000元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-10-03/detail-initxsqf4804971.d.html",
-        "time": "1791014460",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "对氯苯甲腈商品报价动态（2026-10-03）",
-        "intro": "生意社10月03日讯交易商品牌/产地交货地最新报价对氯苯甲腈 纯度99%以上山东艾特化工有限公司国产山东省22000元/吨 （文章来源：生意社）",
-        "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-10-03/detail-initxsqc0729853.d.html",
         "time": "1791014460",
         "source": "新浪新闻"
       }
