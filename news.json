@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T18:08:53.345Z",
+  "updated": "2026-10-15T22:04:05.685Z",
   "categories": {
     "hot": {
       "name": "热点",
@@ -374,6 +374,146 @@
     ],
     "finance": [
       {
+        "title": "美联储哈马克：接二连三的供应冲击可能引发通胀思维",
+        "intro": " 克利夫兰联邦储备银行行长贝丝·哈马克表示，她担心接二连三的供应冲击可能会导致企业形成通胀思维，从而加大政策制定者遏制价格压力的难度。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivkfvr7109492.d.html",
+        "time": "1792101796",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国国务卿鲁比奥与内塔尼亚胡通话",
+        "intro": "Axios记者在X发文援引美国国务院一名官员称，美国国务卿马尔科·鲁比奥与以色列总理本杰明·内塔尼亚胡通话。 Axios称，这名官员拒绝透露通话内容。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivkfvz8238030.d.html",
+        "time": "1792101760",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纽约汇市：美元创逾一个月最大跌幅 AI担忧推动避险资金涌入美债",
+        "intro": "美元创逾一个月最大跌幅，抹去了通胀数据高于预期所带来的涨幅。 彭博美元指数周四下跌0.3%，创9月3日以来最大跌幅。 与人工智能（AI）相关的担忧推动美债上涨...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivkfvt7825652.d.html",
+        "time": "1792100524",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "MSCI就重新划分印尼市场地位的提议征求意见",
+        "intro": " MSCI就一项提议启动征求意见，拟将MSCI印尼指数的市场分类从新兴市场调整为独立市场地位，预计最迟于2027年6月30日作出最终决定。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivkfvz8214676.d.html",
+        "time": "1792100423",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "原油：IEA释放石油的消息推动布伦特原油小幅走低 与WTI走势分化",
+        "intro": "布伦特原油周四走势震荡，有关释放紧急石油储备的新消息，帮助抵消了从霍尔木兹海峡到黑海供应风险不断上升的影响。 作为全球基准的布伦特原油小幅下跌0.1%...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivkfvt7824164.d.html",
+        "time": "1792100375",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "MSCI：冻结涉及土耳其股票的部分指数相关调整",
+        "intro": "MSCI表示，即日起对涉及土耳其股票的部分指数相关调整实施冻结措施。 MSCI提及对土耳其市场协同交易行为的担忧。 MSCI表示，机构投资者需要看到针对协同交易采取可信且持续...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivkfvt7823605.d.html",
+        "time": "1792100330",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国股市：标普500指数结束三连跌 逢低买盘盖过AI和通胀担忧",
+        "intro": " 标普500指数周四在剧烈震荡后反弹收高，逢低买盘推动该指数结束三连跌。此前，对AI交易和顽固通胀的担忧持续令市场承压。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivkfvy1439798.d.html",
+        "time": "1792100291",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "10月16日外盘头条：杠杆ETF吸引创纪录资金流入 Meta推出“最强”开源大模型 布伦特原油沦为“情绪合约”",
+        "intro": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、芯片股暴跌蒸发万亿美元 杠杆ETF却吸引创纪录资金流入 2、美国抵押贷款利率维持在7.4%不变 房地产市场举步维艰 3...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivkfvt7818344.d.html",
+        "time": "1792099838",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Anthropic向外开放近似员工权限 评估大模型安全风险",
+        "intro": "Anthropic已向外部评估人员开放近似内部员工级别的访问权限，用于评估其大模型风险。此举兑现了该公司的承诺——针对外界担忧AI技术可能出现灾难性失控...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivkfvr7079730.d.html",
+        "time": "1792099162",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "Meta推出“最强”开源权重大模型 可在苹果电脑本地运行",
+        "intro": " Meta在美国推出了其宣称“性能最强”的开源权重大模型。该模型名为Muse Spark Open，一大特色是专为适配苹果Mac电脑打造。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivkfvz8190626.d.html",
+        "time": "1792099018",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "纳斯达克称数据馈送中断问题现已解决",
+        "intro": "纳斯达克表示，此前部分数据馈送出现的问题现已解决。该公司早些时候曾向客户发出中断警告。 该公司在当地时间周四下午2：25发布的通知中表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivizpy4722844.d.html",
+        "time": "1792095531",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "10月16日收盘：耐克涨超5% 科技以外板块拉动大盘收涨",
+        "intro": "北京时间周五凌晨，美股三大股指收盘上涨。市场担忧科技企业在人工智能领域投入过高，投资者开始撤出AI交易板块，转向其他价值标的。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivizqa1490685.d.html",
+        "time": "1792095163",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "欧盟据悉拟快速审批欧洲卫星合资项目 打造SpaceX竞争对手",
+        "intro": " 据知情人士透露，欧盟寻求对一项被视为欧洲版SpaceX的卫星合资项目进行快速反垄断审批，此前欧盟与项目合作方Leonardo SpA、空中客车和泰雷兹进行了密集磋商。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivizpy4701633.d.html",
+        "time": "1792094103",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美国债市：国债大涨 长端表现领先 美国时段避险买盘延续",
+        "intro": "美国国债在美国交易时段维持大幅牛平走势，尽管美股小幅走高，但早些时候的避险买盘基本延续。美国上午时段，期货市场的大笔大宗交易为债市涨势提供支撑，同时...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivizpy4701513.d.html",
+        "time": "1792094094",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "华尔街资深人士称布伦特原油沦为“情绪合约” 已与现实世界脱节",
+        "intro": " 华尔街资深人士Jeff Currie表示，全球最重要的石油基准期货如今几乎已经沦为一种“情绪合约”，削弱了其作为价格波动管理工具的实用性。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivizpv7874576.d.html",
+        "time": "1792092739",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "裕信银行增持德国商业银行获欧洲央行批准 为取得控制权铺平道路",
+        "intro": "裕信银行对德国商业银行的增持获得欧洲央行批准，为首席执行官Andrea Orcel取得这家德国银行的控制权铺平道路。 该行周四在声明中表示...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivizqa1438328.d.html",
+        "time": "1792091272",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "特朗普：美国很快将推出更多应对阿片类药物过量的“Narcan类”产品",
+        "intro": "美国总统特朗普表示，美国很快将推出更多“Narcan类”产品。 特朗普在白宫活动上发表讲话。 特朗普没有对这些产品做进一步说明。 注：Narcan是一种用于应对阿片类药物过量的...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivizpv7860207.d.html",
+        "time": "1792091229",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "法新社：法国和德国达成协议以保护欧盟汽车产业",
+        "intro": " 法新社援引在布鲁塞尔举行的欧盟领导人峰会期间的外交消息人士报道称，法国和德国已达成协议，以维护欧洲汽车产业的未来。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivizpy4664499.d.html",
+        "time": "1792091164",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "美军证实在霍尔木兹海峡沉没的集装箱船曾遭伊朗投射物击中",
+        "intro": "美国军方称，本周在霍尔木兹海峡沉没的一艘集装箱船是被伊朗投射物击中。 美国中央司令部在社交媒体发文称，悬挂新加坡旗的“GFS Pride”号遭伊朗伊斯兰革命卫队的投射物击中...",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivizpt7127732.d.html",
+        "time": "1792091122",
+        "source": "新浪新闻"
+      },
+      {
+        "title": "谷歌宣布突破量子计算核心资源瓶颈 Willow计算误差降低40倍",
+        "intro": "谷歌宣布，谷歌量子人工智能团队成功打通量子计算的一项关键瓶颈：已在Willow处理器上实证“魔态培育”方案可行，相比不采用该技术，误差降低约40倍。",
+        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivfx7969875.d.html",
+        "time": "1792089097",
+        "source": "新浪新闻"
+      },
+      {
         "title": "印度多家头部资管公司周四限制黄金ETF及相关母基金申购",
         "intro": "印度部分头部资产管理公司于周四宣布，对黄金交易所交易基金以及相关的基金中基金产品实施申购限制。 塔塔共同基金、ICICI保诚资管、HDFC共同基金...",
         "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivhe1503177.d.html",
@@ -406,146 +546,6 @@
         "intro": "美国能源信息管理局公布的报告还显示上周其他变动如下： 汽油库存增加351.8万桶，市场预期减少91.1万桶。 馏分油库存减少252.7万桶，市场预期减少172万桶。",
         "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivfx7919854.d.html",
         "time": "1792084358",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "黄仁勋称CoreWeave财务实力改善 英伟达无需为其提供兜底支持",
-        "intro": "英伟达首席执行官黄仁勋表示，CoreWeave Inc．的财务状况正在改善。这家数据中心运营商采购英伟达的计算设备。 黄仁勋在斯德哥尔摩出席活动时表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivhe1479857.d.html",
-        "time": "1792084321",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "DA戴维森分析师：Anthropic公布的营收数据令人失望",
-        "intro": "DA 戴维森分析师吉尔・卢里亚表示，Anthropic 第三季度的营收表现 “不及所有人的预期”。 这家 AI 巨头第三季度营收攀升至 168 亿美元，高于第二季度的 116 亿美元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivhe1479280.d.html",
-        "time": "1792084277",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "花旗策略师预计科技股将贡献2027年全球绝大部分的盈利增长",
-        "intro": " 花旗集团策略师表示，科技股明年料将贡献全球近70%的盈利增长，因此如果人工智能热潮开始降温，股市涨势可能因此面临风险。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivha4706458.d.html",
-        "time": "1792084252",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "贝尔德：美国银行股价走弱是买入良机",
-        "intro": " 华尔街机构贝尔德周四将美国银行（BAC）的股票评级由中性上调至跑赢大盘，同时维持 62 美元的目标价。对比该股周三 51 美元的收盘价，目标价意味着尚有 21% 的上涨空间。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivfv7186952.d.html",
-        "time": "1792084198",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "国际能源署将尽快释放超2000万桶柴油储备",
-        "intro": "核心要点国际能源署（IEA）成员国释放的柴油供应量，不足全球一天的柴油需求量，大约仅够美国消费五天。美国中期选举前夕，燃油价格飙升...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivha4704590.d.html",
-        "time": "1792084104",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "拉加德是否提前离任悬而未决 欧洲央行官员据悉渐失耐心",
-        "intro": "据知情人士透露，欧洲央行政策制定者对于行长克里斯蒂娜·拉加德拒绝明确说明其未来安排日益失去耐心。 知情人士表示，数月来的猜测不断累积...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivhe1476589.d.html",
-        "time": "1792084060",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国抵押贷款利率维持在7.4%不变 房地产市场举步维艰",
-        "intro": "美国抵押贷款利率过去一周维持不变，对于因借贷成本重返7%而遭受打击的住房市场来说，几乎没有带来任何缓解。 房地美周四在一份声明中表示...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivhe1474905.d.html",
-        "time": "1792083927",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲债市：避险需求推动欧洲政府债券上涨 长债领涨",
-        "intro": "欧洲政府债券上涨，对AI投资热潮相关风险的担忧刺激投资者买入更安全的主权债券。 长期债券领涨。尾盘德国10年期国债收益率下跌7个基点至3.40%...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivhe1473723.d.html",
-        "time": "1792083841",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "报道：德国政府拟与英伟达合作推进AI项目",
-        "intro": "据《商报》援引知情人士报道，德国政府计划与英伟达展开合作，以推动人工智能在工业领域的应用。 《商报》报道称，德国政府据悉将为该项目投入数亿欧元。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivha4690548.d.html",
-        "time": "1792083169",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "CNN与谷歌达成多年合作 探索生成式AI提升新闻内容触达",
-        "intro": "CNN与谷歌签订一项多年合作协议，研究谷歌生成式AI产品如何提升其新闻报道的用户参与度。 这项合作尚处于早期阶段，双方尚未披露CNN将具体如何借助谷歌AI产品把流量导向自...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivhe1459690.d.html",
-        "time": "1792082932",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "捷蓝航空全新国内头等舱BlueFirst现已开放订票",
-        "intro": "核心要点BlueFirst 舱位自 12 月 8 日起在部分航线投入使用，首条航线为佛罗里达州劳德代尔堡往返波士顿。该全新头等舱是航司客舱体系大规模改革的一环...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivhe1459057.d.html",
-        "time": "1792082886",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "经济学家：PPI数据火热，表明美联储的抗通胀工作尚未结束",
-        "intro": "核心要点美联储重点关注的通胀指标 —— 个人消费支出物价指数（PCE），预计本月晚些时候将再度走高。周四超出预期的 PPI 数据会传导至 PCE。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivha4684527.d.html",
-        "time": "1792082746",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "欧洲股市上涨 在全球科技股抛售加剧之际显现韧性",
-        "intro": "欧洲多地股市周四上涨，随着全球科技股抛售加剧，投资者转向防御性板块。 英国富时100指数收盘上涨1%，瑞士和法国基准股指也走高。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivhe1457020.d.html",
-        "time": "1792082742",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "西南航空全面改革常旅客计划",
-        "intro": "核心要点西南航空将原有的两档精英常旅客等级，替换为银卡、金卡、白金卡三档，模式对标其他航司。航司将于 1 月 1 日正式废除现行 A‑List 与 A‑List Preferred...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-inivivfv7168346.d.html",
-        "time": "1792082446",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "英国财政大臣希利拟提高银行税 应对中东战争冲击",
-        "intro": "据报道，约翰·希利准备在10月28日发布的预算案中向英国银行业征税，以此弥补中东战争对公共财政带来的损失。 这位财政大臣目前正在曼谷出席会议。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-iniviqxx7290712.d.html",
-        "time": "1792081736",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国财政部驳斥IMF债务警告，称其预测“漏洞百出”",
-        "intro": "核心要点美国财政部顾问戴维・泽沃斯接受采访表示，IMF 在批评美国财政政策之前，应当先审视自身过往的预测记录。IMF 总裁克里斯塔利娜・格奥尔基耶娃称...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-iniviqxx7288478.d.html",
-        "time": "1792081543",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "CoreWeave暴跌超百亿美元市值 德意志银行：存在买入机会",
-        "intro": "本周CoreWeave股票遭遇惨烈抛售，受信贷状况恶化影响，四个交易日内市值蒸发超100亿美元。 但德意志银行认为，对投资者而言这是一次“买入机会”。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-iniviqye4794652.d.html",
-        "time": "1792081534",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "美国9月批发物价同比大涨6.3%，创2022年以来最大涨幅",
-        "intro": "核心要点生产者物价指数（PPI）同比上涨 6.3%，为 2022 年以来最大同比增幅。能源成本推高该指数，同时已有迹象显示涨价效应外溢至其他品类。",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-iniviqyh1550234.d.html",
-        "time": "1792080442",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "台积电芯片产能成AI客户“激烈争夺”的战场，公司交出创纪录季度业绩",
-        "intro": "核心要点全球绝大多数最先进芯片均由台积电生产，AI 需求暴涨，引发各家企业对晶圆制造产能的激烈争夺。各家芯片企业纷纷在台湾维系人脉关系...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-16/detail-iniviqyh1548991.d.html",
-        "time": "1792080350",
-        "source": "新浪新闻"
-      },
-      {
-        "title": "贝尔德分析师：华尔街已经“厌倦英伟达银行、AMD银行与博通银行”",
-        "intro": "贝尔德科技策略师泰德・莫滕森表示，本轮 AI 相关股票抛售潮，核心越来越聚焦企业融资需求以及对应的融资成本。 莫滕森在接受雅虎财经资深记者布鲁克・迪帕尔马采访时谈到...",
-        "url": "https://finance.sina.cn/usstock/mggd/2026-10-15/detail-iniviqxx7260824.d.html",
-        "time": "1792078984",
         "source": "新浪新闻"
       }
     ]
